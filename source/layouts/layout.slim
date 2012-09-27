@@ -1,0 +1,109 @@
+doctype html
+== "\n"
+/[if lt IE 7]
+  | <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="#{data.site.lang}">
+== "\n"
+/[if IE 7]
+  | <html class="no-js lt-ie9 lt-ie8" lang="#{data.site.lang}">
+== "\n"
+/[if IE 8]
+  | <html class="no-js lt-ie9" lang="#{data.site.lang}">
+== "\n"
+| <!--[if gt IE 8]<!-->
+html.no-js lang="#{data.site.lang}"
+  | <!--<![endif]-->
+  == "\n"
+  head
+    meta charset="UTF-8"
+    == "\n"
+    == "\n"
+    title= yield_content(:title).blank? ? data.site.title : yield_content(:title) + " - " + data.site.title
+    == "\n"
+    == "\n"
+    meta name="description" content="#{yield_content(:description).blank? ? data.site.description : yield_content(:description)}"
+    meta name="keywords" content="#{yield_content(:keywords).blank? ? data.site.keywords.join(', ') : yield_content(:keywords).join(', ')}"
+    meta name="author" content="#{data.site.author}"
+    == "\n"
+    meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"
+    meta name="viewport" content="width=device-width"
+
+    / Selectivizr - CSS3 pseudo-class and attribute selectors for IE 6-8.
+    /[if (lt IE 9) & (!IEMobile)]
+      == javascript_include_tag 'vendor/selectivizr-1.0.2.min'
+    == "\n"
+
+    / IE9.js - JavaScript library to make MSIE behave like a standards-compliant browser.
+    / == javascript_include_tag '//ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js'
+    / == "\n"
+
+    == javascript_include_tag 'application'
+    == "\n"
+
+    == stylesheet_link_tag 'application'
+    == "\n"
+
+    == yield_content :head
+    == "\n"
+
+    / /! For iPhone 4
+    / link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/h/apple-touch-icon.png"
+    / /! For iPad 1
+    / link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/m/apple-touch-icon.png"
+    / /! For the new iPad
+    / link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/h/apple-touch-icon-144x144-precomposed.png"
+    / /! For iPhone 3G, iPod Touch and Android
+    / link rel="apple-touch-icon-precomposed" href="img/l/apple-touch-icon-precomposed.png"
+    / /! For Nokia
+    / link rel="shortcut icon" href="img/l/apple-touch-icon.png"
+    / /! For everything else
+    / link rel="shortcut icon" href="/favicon.ico"
+
+    / /! iOS
+    / meta name="apple-mobile-web-app-capable" content="yes"
+    / meta name="apple-mobile-web-app-status-bar-style" content="black"
+    / link rel="apple-touch-startup-image" href="img/splash.png"
+
+    meta http-equiv="cleartype" content="on"
+    == "\n"
+
+  body class=(page_classes)
+
+    .navbar.navbar-inverse.navbar-fixed-top
+      .navbar-inner
+        .container
+          a.btn.btn-navbar data-tiggle="collapse" data-target=".nav=collapse"
+            span.icon-bar
+            span.icon-bar
+            span.icon-bar
+          a.brand href="#" #{data.site.title}
+          .nav-collapse.collapse
+            ul.nav
+              li: a href="#about" About
+              li: a href="#contact" Contact
+              li.dropdown
+                a.dropdown-toggle href="#" data-toggle="dropdown"
+                  | Dropdown
+                  == " "
+                  b.caret
+                ul.dropdown-menu
+                  li: a href="#" Action
+                  li: a href="#" Another action
+                  li: a href="#" Something else here
+                  li.divider
+                  li.nav-header Nav header
+                  li: a href="#" Separated link
+                  li: a href="#" One more separated link
+            form.navbar-form.pull-right
+              input.span2 type="text" placeholder="Email"
+              == "\n"
+              input.span2 type="password" placeholder="Password"
+              == "\n"
+              button.btn type="submit" Sign in
+
+    .container
+      == yield
+
+      hr
+
+      footer
+        p &copy; #{data.site.title} #{Time.now.year}
