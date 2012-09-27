@@ -6,3 +6,5 @@ gem 'jquery-sprockets', :git =>   'git://github.com/ent-io/jquery-sprockets.git'
 gem 'bootstrap-sass'
 
 gem 'slim'
+
+gem "heroku"

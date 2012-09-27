@@ -2,6 +2,10 @@
 
 ## A simple Middleman starting point
 
+demo:
+
+[http://middleman-bootstrap.herokuapp.com/](http://middleman-bootstrap.herokuapp.com/)
+
 supports:
 
 * [Slim](http://slim-lang.com/)
