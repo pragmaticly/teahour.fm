@@ -7,6 +7,7 @@ gem "rack-contrib"
 gem "middleman", "~>3.0.5"
 gem "middleman-livereload"
 gem "middleman-smusher"
+gem "middleman-favicon-maker", :git => "git://github.com/follmann/middleman-favicon-maker.git"
 
 gem "jquery-sprockets", :git => "git://github.com/ent-io/jquery-sprockets.git", :branch =>"dev"
 gem "bootstrap-sass"

@@ -45,23 +45,18 @@ html.no-js lang="#{data.site.lang}"
     == yield_content :head
     == "\n"
 
-    / /! For iPhone 4
-    / link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/h/apple-touch-icon.png"
-    / /! For iPad 1
-    / link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/m/apple-touch-icon.png"
-    / /! For the new iPad
-    / link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/h/apple-touch-icon-144x144-precomposed.png"
-    / /! For iPhone 3G, iPod Touch and Android
-    / link rel="apple-touch-icon-precomposed" href="img/l/apple-touch-icon-precomposed.png"
-    / /! For Nokia
-    / link rel="shortcut icon" href="img/l/apple-touch-icon.png"
-    / /! For everything else
-    / link rel="shortcut icon" href="/favicon.ico"
+    / icon & favicon
+    link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57-precomposed.png"
+    link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png"
+    link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png"
+    link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png"
+    link rel="shortcut icon" href="/apple-touch-icon.png"
+    link rel="shortcut icon" href="/favicon.ico"
 
     / /! iOS
     / meta name="apple-mobile-web-app-capable" content="yes"
     / meta name="apple-mobile-web-app-status-bar-style" content="black"
-    / link rel="apple-touch-startup-image" href="img/splash.png"
+    / link rel="apple-touch-startup-image" href="images/splash.png"
 
     meta http-equiv="cleartype" content="on"
     == "\n"
