@@ -67,15 +67,16 @@ html.no-js lang="#{data.site.lang}"
     .navbar.navbar-inverse.navbar-fixed-top
       .navbar-inner
         .container
-          a.btn.btn-navbar data-tiggle="collapse" data-target=".nav=collapse"
+          a.btn.btn-navbar data-toggle="collapse" data-target=".nav-collapse"
             span.icon-bar
             span.icon-bar
             span.icon-bar
           a.brand href="#" #{data.site.title}
           .nav-collapse.collapse
             ul.nav
-              li: a href="#about" About
-              li: a href="#contact" Contact
+              li.active: a href="#" Home
+              li: a href="#" About
+              li: a href="#" Contact
               li.dropdown
                 a.dropdown-toggle href="#" data-toggle="dropdown"
                   | Dropdown
