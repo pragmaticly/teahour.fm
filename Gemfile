@@ -5,8 +5,8 @@ source :rubygems
 gem "thin"
 gem "rack-contrib"
 gem "middleman", "~>3.0.5"
-gem "middleman-livereload"
-gem "middleman-smusher"
+gem "middleman-livereload", :git => "git://github.com/middleman/middleman-livereload.git"
+gem "middleman-smusher", :git  => "git://github.com/middleman/middleman-smusher.git"
 gem "middleman-favicon-maker", :git => "git://github.com/follmann/middleman-favicon-maker.git"
 
 gem "jquery-sprockets", :git => "git://github.com/ent-io/jquery-sprockets.git", :branch =>"dev"
