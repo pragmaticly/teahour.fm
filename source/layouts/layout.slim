@@ -27,22 +27,10 @@ html.no-js lang="#{data.site.lang}"
     meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"
     meta name="viewport" content="width=device-width"
 
-    / Selectivizr - CSS3 pseudo-class and attribute selectors for IE 6-8.
-    /[if (lt IE 9) & (!IEMobile)]
-      == javascript_include_tag 'vendor/selectivizr-1.0.2.min'
     == "\n"
-
-    / IE9.js - JavaScript library to make MSIE behave like a standards-compliant browser.
-    / == javascript_include_tag '//ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js'
-    / == "\n"
-
-    == javascript_include_tag 'application'
+    == javascript_include_tag 'vendor/modernizr-2.6.2.min.js'
     == "\n"
-
     == stylesheet_link_tag 'application'
-    == "\n"
-
-    == yield_content :head
     == "\n"
 
     / icon & favicon
@@ -54,7 +42,7 @@ html.no-js lang="#{data.site.lang}"
     link rel="icon" type="image/png" href="/favicon.png"
     link rel="shortcut icon" href="/favicon.ico"
 
-    / /! iOS
+    / iOS
     / meta name="apple-mobile-web-app-capable" content="yes"
     / meta name="apple-mobile-web-app-status-bar-style" content="black"
     / link rel="apple-touch-startup-image" href="images/splash.png"
@@ -92,9 +80,9 @@ html.no-js lang="#{data.site.lang}"
                   li: a href="#" One more separated link
             form.navbar-form.pull-right
               input.span2 type="text" placeholder="Email"
-              == "\n"
+              = "\n"
               input.span2 type="password" placeholder="Password"
-              == "\n"
+              = "\n"
               button.btn type="submit" Sign in
 
     .container
@@ -104,3 +92,32 @@ html.no-js lang="#{data.site.lang}"
 
       footer
         p &copy; #{data.site.title} #{Time.now.year}
+
+
+
+    == "\n"
+    == javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+    == "\n"
+    javascript:
+      window.jQuery || document.write("<script src='#{asset_path(:js, "vendor/jquery-1.8.3.min.js")}'><\/script>")
+    == "\n"
+
+    /[if (gte IE 6)&(lte IE 8)]
+      == "\n"
+      == javascript_include_tag 'vendor/selectivizr-1.0.2.min'
+      == "\n"
+    == "\n"
+    /[if lt IE 8]
+      == "\n"
+      == javascript_include_tag "vendor/plugin/jquery.belatedPNG.min.js"
+      == "\n"
+      javascript:
+        (function($){$(function(){$("img, .png_bg").fixPng();});})(jQuery);
+      == "\n"
+    == "\n"
+
+    == javascript_include_tag 'application'
+
+    == yield_content :footer
+
+

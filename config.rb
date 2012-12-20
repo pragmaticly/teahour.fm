@@ -5,6 +5,7 @@
 # Susy grids in Compass
 # First: gem install susy --pre
 # require 'susy'
+require 'sassy-buttons'
 
 # Change Compass configuration
 # compass_config do |config|
@@ -38,7 +39,7 @@
 ###
 
 # Automatic image dimensions on image_tag helper
-# activate :automatic_image_sizes
+activate :automatic_image_sizes
 
 # Methods defined in the helpers block are available in templates
 # helpers do
@@ -61,8 +62,18 @@ set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
+
+# Livereload
+# use: https://github.com/middleman/middleman-livereload
+activate :livereload
+
+
+
 # Build-specific configuration
 configure :build do
+
+  # Or use a different image path
+  # set :http_path, "/Content/images/"
 
   # Make favicons
   # use: https://github.com/follmann/middleman-favicon-maker
@@ -84,14 +95,10 @@ configure :build do
   # use: https://github.com/middleman/middleman-smusher
   activate :smusher
 
-  # Or use a different image path
-  # set :http_path, "/Content/images/"
+  # Gzip HTML, CSS, and JavaScript
+  # see: https://github.com/middleman/middleman-guides/blob/master/source/advanced/file-size-optimization.html.markdown#gzip-text-files
+  activate :gzip
+
 end
 
-# Livereload
-# use: https://github.com/middleman/middleman-livereload
-activate :livereload
 
-# Gzip HTML, CSS, and JavaScript
-# see: https://github.com/middleman/middleman-guides/blob/master/source/advanced/file-size-optimization.html.markdown#gzip-text-files
-activate :gzip
