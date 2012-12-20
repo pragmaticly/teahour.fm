@@ -167,6 +167,7 @@ GEM
     temple (0.5.5)
     therubyracer (0.11.0)
       ref
+    therubyracer-heroku (0.8.1.pre3)
     thin (1.5.0)
       daemons (>= 1.0.9)
       eventmachine (>= 0.12.6)
@@ -195,4 +196,5 @@ DEPENDENCIES
   sassy-buttons
   slim
   therubyracer
+  therubyracer-heroku
   thin
