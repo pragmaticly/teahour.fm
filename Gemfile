@@ -15,10 +15,14 @@ gem "bootstrap-sass"
 gem "sassy-buttons"
 gem "slim"
 
-gem 'therubyracer' # faster ExecJS
-gem 'oj'
-
 group :development do
   gem 'heroku'
   gem 'foreman'
+  gem 'therubyracer'
+  gem 'oj'
+end
+
+group :production do
+  gem 'therubyracer-heroku'
+  gem 'oj'
 end
