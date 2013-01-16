@@ -29,4 +29,9 @@ $ bower install
 
 deploy:
 
-
+```
+heroku create middleman-bootstrap --stack cedar
+git add .
+git commit -m "first commit"
+git push heroku master
+```
