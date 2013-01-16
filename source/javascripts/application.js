@@ -1,7 +1,7 @@
 /* from /vendor/javascripts dir */
 
 //= require modernizr/modernizr
-//= require jqery
+//= require jquery/jquery
 
 /* from  bootstrap-sass gem */
 
