@@ -21,7 +21,7 @@ install:
 
 
 ```
-git clone git://github.com/fujimogn/middleman-bootstrap.git #{APP_DIR} && cd #{APP_DIR}
+$ git clone git://github.com/fujimogn/middleman-bootstrap.git #{APP_DIR} && cd #{APP_DIR}
 ( $ gem install bundle --pre )
 $ bundle install --without production
 $ bower install
@@ -30,8 +30,8 @@ $ bower install
 deploy:
 
 ```
-heroku create middleman-bootstrap --stack cedar
-git add .
-git commit -m "first commit"
-git push heroku master
+$ heroku create middleman-bootstrap --stack cedar
+$ git add .
+$ git commit -m "first commit"
+$ git push heroku master
 ```
