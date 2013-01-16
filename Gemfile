@@ -5,7 +5,7 @@ source :rubygems
 gem "thin"
 gem "rack-contrib"
 
-gem "middleman", '3.0.7'
+gem "middleman"
 gem "middleman-livereload", :git => "git://github.com/middleman/middleman-livereload.git"
 gem "middleman-smusher", :git  => "git://github.com/middleman/middleman-smusher.git"
 gem "middleman-favicon-maker", :git => "git://github.com/follmann/middleman-favicon-maker.git"

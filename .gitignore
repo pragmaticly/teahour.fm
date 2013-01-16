@@ -18,4 +18,10 @@
 
 .DS_Store
 
-/vendor/javascripts
+
+/vendor/javascripts/*/*
+!/vendor/javascripts/*/*component.json
+!/vendor/javascripts/*/*composer.json
+
+!/vendor/javascripts/jquery/*
+!/vendor/javascripts/modernizr/modernizr.js
