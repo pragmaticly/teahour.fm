@@ -1,16 +1,20 @@
+@charset "utf-8";
+
+// Variables
+@import "partials/variables";
+
+// CSS Library
 @import 'bootstrap';
-
-body {
-  padding-top: 60px;
-  padding-bottom: 40px;
-}
-
 @import 'bootstrap-responsive';
 
-@import "partials/variables";
-@import "partials/font";
+@import "rgbapng";
 @import "partials/fontawsome";
 @import "partials/sassybuttons";
 
+// Partial
+@import "partials/font";
+@import "partials/layouts";
+
+// Page Style
 @import "pages/index";
 

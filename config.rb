@@ -6,6 +6,7 @@
 # First: gem install susy --pre
 # require 'susy'
 require 'sassy-buttons'
+require 'rgbapng'
 
 # Change Compass configuration
 # compass_config do |config|

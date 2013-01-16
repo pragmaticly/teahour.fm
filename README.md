@@ -1,4 +1,4 @@
-# [Middleman](http://middlemanapp.com/) & [Twitter Bootstrap][1]
+# [Middleman](http://middlemanapp.com/) & [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 
 ## A simple Middleman starting point
 
@@ -12,11 +12,21 @@ supports:
 * [CoffeeScript](http://coffeescript.org/)
 * [Sass](http://sass-lang.com/)
 * [Compass](http://compass-style.org/)
-* [TwitterBootstrap][1]
+* [TwitterBootstrap](http://twitter.github.com/bootstrap/)
 * [jQuery](http://jquery.com/)
 * [Modernizr](http://modernizr.com/)
-* [Selectivizr](http://selectivizr.com/)
-* [IE9.js](http://code.google.com/p/ie7-js/)
 * [FontAwesome](http://fortawesome.github.com/Font-Awesome/)
 
-[1]: http://twitter.github.com/bootstrap/
+install:
+
+
+```
+git clone git://github.com/fujimogn/middleman-bootstrap.git #{APP_DIR} && cd #{APP_DIR}
+( $ gem install bundle --pre )
+$ bundle install --without production
+$ bower install
+```
+
+deploy:
+
+

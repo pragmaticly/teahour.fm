@@ -1,0 +1,19 @@
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+}
+
+body  {
+  -webkit-text-size-adjust: none;
+}
+
+body * {
+  -webkit-backface-visibility: hidden;
+}
+
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+

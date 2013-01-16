@@ -13,4 +13,9 @@
 # Ignore Sass' cache
 /.sass-cache
 
+/.bowser
+
+
 .DS_Store
+
+/vendor/javascripts/*
