@@ -17,8 +17,8 @@ activate :blog do |blog|
   # blog.day_link = ":year/:month/:day.html"
   # blog.default_extension = ".markdown"
 
-  blog.tag_template = "tag.html"
-  blog.calendar_template = "calendar.html"
+  # blog.tag_template = "tag.html"
+  # blog.calendar_template = "calendar.html"
 
   # blog.paginate = true
   # blog.per_page = 10
@@ -128,5 +128,9 @@ configure :build do
   # Gzip HTML, CSS, and JavaScript
   # see: https://github.com/middleman/middleman-guides/blob/master/source/advanced/file-size-optimization.html.markdown#gzip-text-files
   activate :gzip
+end
 
+activate :deploy do |deploy|
+  deploy.method = :git
+  deploy.branch = "master"
 end
