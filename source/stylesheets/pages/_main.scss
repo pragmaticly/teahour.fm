@@ -1,0 +1,127 @@
+.main.container {
+  h1, h2, h3, h4 {
+    font-family: "Museo Slab";
+  }
+
+  article {
+    padding-bottom: 80px;
+
+    .controls {
+      width: 64px;
+      margin-top: 10px;
+      text-align: center;
+
+      ul {
+        margin: 0;
+        list-style-type: none;
+      }
+
+      .post-date-wrapper {
+        background-color: #9B7A74;
+        color: #ffffff;
+        height: 64px;
+        @include border-radius(32px);
+        position: relative;
+
+        .post-date {
+          position: absolute;
+          width: 50%;
+          height: 70%;
+          left: 0;
+          right: 0;
+          top: 0;
+          bottom: 0;
+          margin: auto;
+
+          .month {
+            font-size: 0.9em;
+          }
+
+          .day {
+            font-size: 1.8em;
+          }
+        }
+      }
+
+      .download, .share {
+        margin-top: 10px;
+      }
+
+      .share {
+        i img {
+          width: 0px;
+          height: 0px;
+        }
+      }
+    }
+
+    .content {
+      margin-left: 80px;
+
+      .tag-list {
+        margin: 0 0 10px 0;
+        li {
+          padding: 2px 8px;
+          display: inline-block;
+          font-size: 90%;
+          list-style-type: none;
+          @include border-radius(8px);
+          background-color: #F4F4F4;
+        }
+      }
+
+      audio {
+        width: 100%;
+      }
+    }
+  }
+
+  #disqus_thread {
+    margin-top: 40px;
+  }
+}
+
+@media print, screen and (max-width: 720px) {
+  .index .container {
+    article {
+      .controls {
+        float: none;
+        width: 95%;
+
+        ul {
+          text-align: left;
+
+          li {
+            display: inline-block;
+
+            &.post-date-wrapper {
+              background-color: #ffffff;
+              color: #000000;
+              height: auto;
+
+              .post-date {
+                position: relative;
+                width: 100%;
+                height: 100%;
+
+                .month, .day {
+                  display: inline;
+                  font-size: 1.4em;
+                }
+              }
+            }
+
+            &.download, &.share {
+              margin-top: 0px;
+              margin-left: 10px;
+            }
+          }
+        }
+      }
+
+      .content {
+        margin-left: 0px;
+      }
+    }
+  }
+}

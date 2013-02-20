@@ -1,4 +1,33 @@
 ###
+# Blog settings
+###
+
+Time.zone = "Beijing"
+
+activate :blog do |blog|
+  # blog.prefix = "blog"
+  # blog.permalink = ":year/:month/:day/:title.html"
+  # blog.sources = ":year-:month-:day-:title.html"
+  # blog.taglink = "tags/:tag.html"
+  blog.layout = "layouts/podcast"
+  # blog.summary_separator = /(READMORE)/
+  # blog.summary_length = 250
+  # blog.year_link = ":year.html"
+  # blog.month_link = ":year/:month.html"
+  # blog.day_link = ":year/:month/:day.html"
+  # blog.default_extension = ".markdown"
+
+  blog.tag_template = "tag.html"
+  blog.calendar_template = "calendar.html"
+
+  # blog.paginate = true
+  # blog.per_page = 10
+  # blog.page_link = "page/:num"
+end
+
+page "/feed.xml", :layout => false
+
+###
 # Compass
 ###
 
@@ -49,26 +78,26 @@ activate :automatic_image_sizes
 #   end
 # end
 
-# Slim configuration
-set :slim, {
-  :format  => :html5,
-  :attr_wrapper => '"',
-  :indent => '    ',
-  :pretty => true,
-  :sort_attrs => false
-}
+#activate :syntax
+
+# Methods defined in the helpers block are available in templates
+helpers do
+  def disqus_identifier(podcast)
+    podcast.data["disqus_identifier"] || podcast.title.parameterize
+  end
+end
 
 # Assets PATH
 set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
+set :markdown_engine, :kramdown
+#set :markdown, fenced_code_blocks: true, autolink: true, smartypants: true
 
 # Livereload
 # use: https://github.com/middleman/middleman-livereload
 activate :livereload
-
-
 
 # Build-specific configuration
 configure :build do
@@ -101,5 +130,3 @@ configure :build do
   activate :gzip
 
 end
-
-

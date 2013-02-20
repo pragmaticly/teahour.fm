@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="<%= data.site.lang %>"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="<%= data.site.lang %>"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="<%= data.site.lang %>"><![endif]-->
+<!--[if gt IE 8]<!-->
+<html class="no-js" lang="zh">
+  <!--<![endif]-->
+  <head>
+    <meta charset="UTF-8">
+
+    <title>
+      <%= yield_content(:title).blank? ? data.site.title :  yield_content(:title) + " - " + data.site.title %>
+    </title>
+
+    <meta name="description" content="<%= yield_content(:description).blank? ? data.site.description : yield_content(:description)  %>">
+    <meta name="keywords" content="<%= yield_content(:keywords).blank? ? data.site.keywords.join(',') : yield_content(:keywords) %>">
+    <meta name="author" content="<%= data.site.author %>">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="cleartype" content="on">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="57x57" href="/apple-touch-icon-57x57-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" type="image/png" href="/apple-touch-icon-precomposed.png">
+    <link rel="apple-touch-icon" type="image/png" href="/apple-touch-icon.png">
+
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon.png">
+    <link rel="shortcut icon" sizes="16x16" href="/favicon.ico">
+
+    <%= stylesheet_link_tag 'application' %>
+    <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
+    <%=  javascript_include_tag 'application' %>
+    <script type="text/javascript">var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', '<%= data.site.google_analytics_id %>']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();</script>
+  </head>
+
+  <body class="<%= page_classes %>">
+
+    <div class="container">
+      <header class="masthead">
+        <hgroup>
+          <h1>网聊程序员人生</h1>
+          <h4>
+            <span class="tag">Web</span>,
+            <span class="tag">Mobile</span>,
+            <span class="tag">Programming</span>,
+            <span class="tag">Entreprenurship</span>,
+            <span class="tag">Geeky</span>
+          </h4>
+        </hgroup>
+        <h3>
+          <span class="hosted_by">Hosted by:</span>
+          <span class="host">
+            <img src="http://www.gravatar.com/avatar/83c8cca11558f32207645ca270ae8475.jpg?s=48"/>
+          </span>
+          <span class="host">
+            <img src="http://www.gravatar.com/avatar/85a64fb3375926c0be5c75eccf40e853.jpg?s=48"/>
+          </span>
+          <span class="host">
+            <img src="http://www.gravatar.com/avatar/b338e877fffff7a61d90a799c081c85b.jpg?s=48"/>
+          </span>
+          <span class="host">
+            <img src="http://www.gravatar.com/avatar/84f0fa09738624f4d4b6eaf97f00ddbd.jpg?s=48"/>
+          </span>
+        </h3>
+      </header>
+    </div>
+
+    <hr/>
+
+    <nav class="container">
+      <ul class="nav nav-pills">
+        <li>
+          <a href="#">About</a>
+        </li>
+        <li>
+          <a href="#">iTunes</a>
+        </li>
+        <li>
+          <a href="/feed.xml">RSS</a>
+        </li>
+        <li>
+          <a href="#">Search</a>
+        </li>
+      </ul>
+    </nav>
+
+    <hr/>
+
+    <div class="container main">
+      <%= yield %>
+
+      <hr/>
+
+      <footer>
+        <p>
+          &copy; <%= data.site.title %> <%= Time.now.year %>
+        </p>
+      </footer>
+    </div>
+
+    <%= javascript_include_tag 'main' %>
+    <%= yield_content :footer %>
+  </body>
+</html>

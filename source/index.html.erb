@@ -1,0 +1,96 @@
+---
+pageable: true
+per_page: 10
+---
+
+<% if paginate %>
+  <p>Page <%= page_number %> of <%= num_pages %></p>
+
+  <% if prev_page %>
+    <p><%= link_to 'Previous page', prev_page %></p>
+  <% end %>
+<% end %>
+
+<% page_articles.each_with_index do |article, i| %>
+  <article class="clearfix">
+    <div class="pull-left controls">
+      <ul>
+        <li class="post-date-wrapper">
+          <div class="post-date">
+            <div class="month">
+              <%= article.date.strftime('%^b') %>
+            </div>
+            <div class="day">
+              <%= article.date.strftime('%d') %>
+            </div>
+          </div>
+        </li>
+        <li class="download">
+          <a href="<%= article.data["mp3_link"] %>">
+            <i class="icon-cloud-download icon-2x"></i>
+          </a>
+        </li>
+        <li class="share">
+          <!-- AddThis Button BEGIN -->
+          <i class="icon-share icon-2x addthis_button_compact" data-url="<%= article.url %>" data-title="<%= article.title %>"></i>
+        </li>
+      </ul>
+      <!-- <div class="comments"> -->
+      <!--   <i class="icon-comments icon-large"></i> -->
+      <!--   <a href="#">20</a> -->
+      <!--   <a href="<%= article.url %>#disqus_thread" data-disqus-identifier="<%= disqus_identifier(article) %>"></a> -->
+      <!-- </div> -->
+    </div>
+    <div class="content">
+      <h3>
+        <%= link_to article.title, article %>
+      </h3>
+      <ul class="tag-list">
+        <% article.tags.each do |tag| %>
+          <li><%= tag %></li>
+        <% end %>
+      </ul>
+      <div>
+        <%= article.body %>
+        <audio controls name="media">
+          <source src="<%= article.data["mp3_link"] %>" type="audio/mpeg">
+        </audio>
+      </div>
+    </div>
+  </article>
+<% end %>
+
+<% if paginate %>
+  <% if next_page %>
+    <p><%= link_to 'Next page', next_page %></p>
+  <% end %>
+<% end %>
+
+<script type="text/javascript">
+  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+  var disqus_shortname = 'teahourfm'; // required: replace example with your forum shortname
+
+  /* * * DON'T EDIT BELOW THIS LINE * * */
+  (function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+  }());
+</script>
+
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true, services_compact:'weibo,twitter,facebook,linkedin,email'};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5123d9651f2e6f1f"></script>
+<script type="text/javascript">
+  $(".icon-share").each(function(idx, elem) {
+    addthis.button(elem, addthis_config, { url: window.location.protocol + "//" + window.location.host + $(elem).data('url'), title: "[Teahour.fm] " + $(elem).data('title') } );
+  });
+</script>
+<script>
+  $(".notes").css('display', 'none');
+  $(".toggle-notes").click(function() {
+    $(this).parent().siblings(".notes").toggle();
+    return false;
+  });
+</script>
+<!-- AddThis Button END -->

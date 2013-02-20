@@ -12,8 +12,48 @@ body * {
 }
 
 body {
-  padding-top: 60px;
+  max-width: 1280px;
+  margin: 0 auto;
+
   padding-bottom: 40px;
+
+  .masthead {
+    text-align: center;
+    padding: 40px 0;
+
+    img {
+      @include border-radius(24px);
+    }
+  }
+
+  nav.container {
+    text-align: center;
+    width: auto;
+
+    ul {
+      margin-bottom: 0px;
+      font-size: 1.4em;
+      width: 320px;
+      margin: 0 auto;
+    }
+  }
+
+  .main {
+    width: 700px;
+    margin: 0 auto;
+  }
 }
 
+@media print, screen and (max-width: 720px) {
+  body {
+    .main {
+      width: 95%;
+    }
+  }
+}
 
+@media print, screen and (max-width: 480px) {
+  .hosted_by {
+    display: none;
+  }
+}

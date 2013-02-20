@@ -34,4 +34,3 @@ run lambda{ |env|
     [ 404, { 'Content-Type'  => 'text/html' }, ['File not found!'] ]
   end
 }
-
