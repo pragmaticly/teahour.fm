@@ -46,69 +46,59 @@
 
   <body class="<%= page_classes %>">
 
-    <div class="container">
-      <header class="masthead">
-        <hgroup>
-          <h1>网聊程序员人生</h1>
-          <h4>
-            <span class="tag">Web</span>,
-            <span class="tag">Mobile</span>,
-            <span class="tag">Programming</span>,
-            <span class="tag">Entreprenurship</span>,
-            <span class="tag">Geeky</span>
-          </h4>
-        </hgroup>
-        <h3>
-          <span class="hosted_by">Hosted by:</span>
-          <span class="host">
-            <img src="http://www.gravatar.com/avatar/83c8cca11558f32207645ca270ae8475.jpg?s=48"/>
-          </span>
-          <span class="host">
-            <img src="http://www.gravatar.com/avatar/85a64fb3375926c0be5c75eccf40e853.jpg?s=48"/>
-          </span>
-          <span class="host">
-            <img src="http://www.gravatar.com/avatar/b338e877fffff7a61d90a799c081c85b.jpg?s=48"/>
-          </span>
-          <span class="host">
-            <img src="http://www.gravatar.com/avatar/84f0fa09738624f4d4b6eaf97f00ddbd.jpg?s=48"/>
-          </span>
-        </h3>
-      </header>
-    </div>
+    <header class="masthead">
+      <hgroup>
+        <h1>Teahour.fm</h1>
+        <h2 class="tagline">Tea hour for geek's mind.</h2>
+      </hgroup>
+      <ul class="antipates">
+        <li class="guest clock7"><a href="#"><img src="/images/yedingding.jpg"/></a></li><!-- http://www.gravatar.com/avatar/83c8cca11558f32207645ca270ae8475.jpg?s=80 -->
+        <li class="host clock6"><a href="#"><img src="/images/terry.jpg"/></a></li><!-- http://www.gravatar.com/avatar/85a64fb3375926c0be5c75eccf40e853.jpg?s=80 -->
+        <li class="guest clock5"><a href="#"><img src="/images/daniel.jpg"/></a></li><!-- http://www.gravatar.com/avatar/b338e877fffff7a61d90a799c081c85b.jpg?s=80 -->
+        <li class="guest clock4"><a href="#"><img src="/images/kevin.jpg"/></a></li><!-- http://www.gravatar.com/avatar/84f0fa09738624f4d4b6eaf97f00ddbd.jpg?s=80 -->
+      </ul>
+    </header>
 
-    <hr/>
-
-    <nav class="container">
-      <ul class="nav nav-pills">
+    <section class="main">
+      
+    </section>
+    
+    <footer class="global-nav">
+      <ul class="social-connect">
+        <li><a href="/feed.xml"><i class="icons-podcast"></i></a></li>
+        <li><a href="/rss.xml"><i class="icons-rss"></i></a></li>
+        <li><a href="#"><i class="icons-twitter"></i></a></li>
+        <li><a href="#"><i class="icons-weibo"></i></a></li>
+      </ul>
+      
+      <ul class="nav">
+        <li>
+          <a href="#">Episodes</a>
+        </li>
+        <li>
+          <a href="#">Category</a>
+        </li>
         <li>
           <a href="#">About</a>
-        </li>
-        <li>
-          <a href="#">iTunes</a>
-        </li>
-        <li>
-          <a href="/feed.xml">RSS</a>
         </li>
         <li>
           <a href="#">Search</a>
         </li>
       </ul>
-    </nav>
-
-    <hr/>
-
-    <div class="container main">
-      <%= yield %>
-
-      <hr/>
-
-      <footer>
-        <p>
-          &copy; <%= data.site.title %> <%= Time.now.year %>
-        </p>
-      </footer>
-    </div>
-
+      
+      <span class="copyright">
+        &copy; <%= Time.now.year %> <%= data.site.title %> CC BY 3.0
+      </span>
+    </footer>
+    
+    <!-- topics
+      <span class="tag">Web</span>,
+      <span class="tag">Mobile</span>,
+      <span class="tag">Programming</span>,
+      <span class="tag">Entreprenurship</span>,
+      <span class="tag">Geeky</span>
+     -->
+    
     <%= javascript_include_tag 'main' %>
     <%= yield_content :footer %>
   </body>

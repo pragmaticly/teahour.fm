@@ -12,37 +12,111 @@ body * {
 }
 
 body {
-  max-width: 1280px;
-  margin: 0 auto;
+  color: #fff;
+  background: transparent url('/images/bg.png');
+}
 
-  padding-bottom: 40px;
-
-  .masthead {
-    text-align: center;
-    padding: 40px 0;
-
+.masthead {
+  position: relative;
+  left: -100px;
+  top: -100px;
+  background: rgba(0,0,0,.1);
+  width: 600px;
+  height: 600px;
+  padding: 0;
+  border-radius: 50%;
+  text-align: center;
+  
+  .tagline {
+    text-indent: -999em;
+    background: transparent url("/images/cup-of-tea.png") no-repeat;
+    position: absolute;
+    top: 140px;
+    left: 160px;
+    width: 320px;
+    height: 250px;
+  }
+  
+  .antipates {
+    list-style: none;
+    li { 
+      position: absolute;
+      display: inline-block;
+      background-color: rgba(0,0,0,.1);
+      @include border-radius(50%);
+      
+      &.host:before {
+        content: '';
+        position: absolute;
+        top: -5px;
+        right: -15px;
+        width: 40px;
+        height: 40px;
+        background-image: url("/images/sprites.png");
+        background-position: 0 0;
+        background-repeat: no-repeat;
+      }
+    }
+    .clock7 { left: 135px; top: 440px; }
+    .clock6 { left: 260px; top: 470px; }
+    .clock5 { left: 385px; top: 425px; }
+    .clock4 { left: 455px; top: 320px; }
     img {
-      @include border-radius(24px);
+      @include border-radius(50%);
+      border: 2px solid $paleGreen;
+      margin: 8px;
+      //@include box-shadow(0 0 15px rgba(200,200,200,.5));
     }
-  }
-
-  nav.container {
-    text-align: center;
-    width: auto;
-
-    ul {
-      margin-bottom: 0px;
-      font-size: 1.4em;
-      width: 320px;
-      margin: 0 auto;
+    a:hover img {
+      margin-top: 7px;
+      @include box-shadow(0 0 10px rgba(0,215,55,.7));
     }
-  }
-
-  .main {
-    width: 700px;
-    margin: 0 auto;
   }
 }
+
+.global-nav {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #68b77e;
+  background-color: rgba(255,255,255,.2);
+  ul { 
+    list-style: none;
+    float: left;
+    margin: 0;
+    li {
+      display: inline-block;
+      a {
+        color: $darkGreen;
+        display: inline-block;
+        padding: 0 20px;
+        font-size: 18px;
+        font-weight: bold;
+        height: $footerHeight;
+        line-height: $footerHeight;
+        &:hover {
+          background-color: #c1dfc9;
+          background-color: rgba(255,255,255,.4);
+        }
+      }
+    }
+  }
+  
+  .social-connect {
+    li a:hover { background: none; }
+    a i { vertical-align: middle; }
+  }
+  
+  .copyright {
+    float: right;
+    margin-right: 40px;
+    font-size: 12px;
+    line-height: $footerHeight;
+    color: #9bf7b3;
+  }
+}
+
+
 
 @media print, screen and (max-width: 720px) {
   body {
