@@ -6,69 +6,73 @@
   <%= current_article.tags %>
 <% end %>
 
+<% content_for :participants do %>
+  <li class="guest clock7">
+    <a href="<%= author(current_article.data["guests"].first).link %>">
+      <img src="/images/<%= author(current_article.data["guests"].first).avatar %>"/>
+    </a>
+  </li>
+  <li class="host clock6">
+    <a href="<%= author(current_article.data["host"]).link %>">
+      <img src="/images/<%= author(current_article.data["host"]).avatar %>"/>
+    </a>
+  </li>
+  <% current_article.data["guests"][1..-1].each_with_index do |guest, i| %>
+  <li class="guest clock<%= 5 - i %>">
+    <a href="<%= author(guest).link %>">
+      <img src="/images/<%= author(guest).avatar %>"/>
+    </a>
+  </li>
+  <% end %>
+<% end %>
+
+<% content_for :nav do %>
+  <ul class="page-nav">
+    <li><%= prev_nav(current_article.previous_article) %></li>
+    <li><%= next_nav(current_article.next_article) %></li>
+  </ul>
+<% end %>
+
 <% wrap_layout :layout do %>
-    <article class="clearfix">
-    <div class="pull-left controls">
-      <ul>
-        <li class="post-date-wrapper">
-          <div class="post-date">
-            <div class="month">
-              <%= current_article.date.strftime('%^b') %>
-            </div>
-            <div class="day">
-              <%= current_article.date.strftime('%d') %>
-            </div>
-          </div>
-        </li>
-        <li class="download">
-          <a href="<%= current_article.data["mp3_link"] %>">
-            <i class="icon-cloud-download icon-2x"></i>
-          </a>
-        </li>
-        <li class="share">
-          <!-- AddThis Button BEGIN -->
-          <i class="icon-share icon-2x addthis_button_compact"></i>
-        </li>
-      </ul>
-    </div>
-    <div class="content">
-      <h3>
-        <%= current_article.title %>
-      </h3>
-      <ul class="tag-list">
-        <% current_article.tags.each do |tag| %>
-          <li><%= tag %></li>
-        <% end %>
-      </ul>
-      <div>
-        <%= yield %>
-        <audio controls name="media">
-          <source src="<%= current_article.data["mp3_link"] %>" type="audio/mpeg">
-        </audio>
-      </div>
+  <article class="post">
+    <audio controls name="media" class="player">
+      <source src="<%= current_article.data["mp3_link"] %>" type="audio/mpeg">
+    </audio>
+
+    <h2 class="title"><%= current_article.title %></h2>
+
+    <dl>
+      <dt>Host:</dt><dd> <%= current_article.data["host"] %></dd>
+      <dt>Guests:</dt><dd> <%= current_article.data["guests"].join(", ") %></dd>
+      <dt>Topic:</dt><dd> <%= current_article.tags.join(", ") %></dd>
+    </dl>
+
+    <h4>Show Notes:</h4>
+    <div>
+      <%= yield %>
     </div>
 
     <div id="disqus_thread"></div>
-      <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'teahourfm'; // required: replace example with your forum shortname
-        var disqus_identifier = '<%= disqus_identifier(current_article) %>';
+    <!-- <script type="text/javascript"> -->
+    <!--     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */ -->
+    <!--     var disqus_shortname = 'teahourfm'; // required: replace example with your forum shortname -->
+    <!--     var disqus_identifier = '<%= disqus_identifier(current_article) %>'; -->
 
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
+    <!--     /* * * DON'T EDIT BELOW THIS LINE * * */ -->
+    <!--     (function() { -->
+    <!--         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; -->
+    <!--         dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js'; -->
+    <!--         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); -->
+    <!--     })(); -->
+    <!-- </script> -->
 
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    <!-- <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> -->
+    <!-- <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a> -->
 
-    <script type="text/javascript">var addthis_config = {"data_track_addressbar":true, services_compact:'weibo,twitter,facebook,linkedin,email'};</script>
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5123d9651f2e6f1f"></script>
-    <script type="text/javascript">
-      addthis.button(".icon-share", addthis_config);
-    </script>
+    <!-- <script type="text/javascript">var addthis_config = {"data_track_addressbar":true, services_compact:'weibo,twitter,facebook,linkedin,email'};</script> -->
+    <!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5123d9651f2e6f1f"></script> -->
+    <!-- <script type="text/javascript"> -->
+    <!--   addthis.button(".icon-share", addthis_config); -->
+    <!-- </script> -->
   </article>
 <% end %>

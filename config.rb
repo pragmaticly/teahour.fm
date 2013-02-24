@@ -85,6 +85,26 @@ helpers do
   def disqus_identifier(podcast)
     podcast.data["disqus_identifier"] || podcast.title.parameterize
   end
+
+  def author(ident)
+    data.author[ident]
+  end
+
+  def prev_nav(article)
+    if article
+      %Q!<a href="#{article.url}" class="prev"><i class="icon-angle-left"></i></a>!
+    else
+      %Q!<a href="#" class="prev disabled"><i class="icon-angle-left"></i></a>!
+    end
+  end
+
+  def next_nav(article)
+    if article
+      %Q!<a href="#{article.url}" class="next"><i class="icon-angle-right"></i></a>!
+    else
+      %Q!<a href="#" class="next disabled"><i class="icon-angle-right"></i></a>!
+    end
+  end
 end
 
 # Assets PATH

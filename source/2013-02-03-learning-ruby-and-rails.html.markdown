@@ -3,14 +3,18 @@ title: "How to Learning Ruby and Rails"
 date: 2013-02-03 22:00 +08:00
 tags: ruby, rails, book, education
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_2.mp3"
-host: Daniel Lv
+host: daniel
+guests:
+  - kevin
+  - terry
+  - dingding
 duration: 1:50:32
 ---
 
 本期由 [Daneil Lv](http://lvguoning.com) 主持，参与嘉宾有 [Terry Tai](http://terrytai.com)，[Dingding Ye](http://yedingding.com) 和 [Kevin Wang](http://knwang.com)。四位 Teahour.fm 的主持全部到位，一期讨论了 Ruby 与 Rails 的学习经历和对初学者的学习建议。Kevin Wang 是 Rails 在线教育 [GoTeaLeaf](http://gotealeaf.com/) 的创始人之一，他介绍了一下这个课程安排的考虑以及目前 Rails 在线教学的几种不同模式。
 
 <h6>
-  <a href="#" class="toggle-notes">Show Notes</a>
+  <a href="#" class="toggle-notes">More Resources</a>
 </h6>
 
 <section class="notes" markdown="1">

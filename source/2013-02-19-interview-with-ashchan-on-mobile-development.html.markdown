@@ -3,7 +3,10 @@ title: "Interview with ashchan on app development"
 date: 2013-02-19 21:00 +08:00
 tags: osx, mobile, iOS, Android, RubyMotion, MacRuby, HTML5
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_4.mp3"
-host: Dingding Ye
+host: dingding
+guests:
+  - ash
+  - terry
 duration: 1:32:28
 ---
 
@@ -23,7 +26,7 @@ duration: 1:32:28
   * [jQuery Mobile](http://jquerymobile.com/): A unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation.
 
 <h6>
-  <a href="#" class="toggle-notes">Show Notes</a>
+  <a href="#" class="toggle-notes">More Resources</a>
 </h6>
 
 <section class="notes" markdown="1">

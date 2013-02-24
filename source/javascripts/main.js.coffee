@@ -16,6 +16,12 @@ do ->
 window.location_pathname = ->
   location.pathname.replace(/index.\w+$/, '')
 
+$ ->
+  $(".notes").css('display', 'none');
+  $(".toggle-notes").click (e) ->
+    e.preventDefault()
+    e.stopPropagation()
+    $(this).parent().siblings(".notes").toggle()
 
 # Modernizr.load [
   # {

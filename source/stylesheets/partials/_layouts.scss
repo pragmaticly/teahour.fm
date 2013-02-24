@@ -35,7 +35,7 @@ a {
   padding: 0;
   border-radius: 50%;
   text-align: center;
-  
+
   .tagline {
     text-indent: -999em;
     background: transparent url("/images/cup-of-tea.png") no-repeat;
@@ -45,15 +45,15 @@ a {
     width: 320px;
     height: 250px;
   }
-  
-  .antipates {
+
+  .participants {
     list-style: none;
-    li { 
+    li {
       position: absolute;
       display: inline-block;
       background-color: rgba(0,0,0,.1);
       @include border-radius(50%);
-      
+
       &.host:before {
         content: '';
         position: absolute;
@@ -96,7 +96,7 @@ a {
   width: 100%;
   background-color: #68b77e;
   background-color: rgba(0,0,0,.45);
-  ul { 
+  ul {
     list-style: none;
     float: left;
     margin: 0;
@@ -117,12 +117,12 @@ a {
       }
     }
   }
-  
+
   .social-connect {
     li a:hover { background: none; }
     a i { vertical-align: middle; }
   }
-  
+
   .copyright {
     float: right;
     margin-right: 40px;
@@ -148,6 +148,9 @@ a {
   .next {
     left: inherit;
     right: 50px;
+  }
+  .prev.disabled, .next.disabled {
+    opacity: 0.5;
   }
 }
 

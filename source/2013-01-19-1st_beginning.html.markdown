@@ -4,13 +4,16 @@ date: 2013-01-19 23:00 +08:00
 tags: ruby, ruby community, railscasts china, ruby china, javascript mvc
 mp3_link: http://screencasts.b0.upaiyun.com/podcasts/nil_podcast_1.m4a
 duration: 1:59:27
-host: Terry Tai
+host: terry
+guests:
+  - daniel
+  - dingding
 ---
 
 迈出了第一步，由 [Terry Tai](http://terrytai.com) 主持，参与嘉宾有 [Daneil Lv](http://lvguoning.com) 和 [Dingding Ye](http://yedingding.com)。三位 Teahour.fm 的主持人讨论了自己经常听的 podcasts 和国内 Ruby/Rails 社区的现状和发展，包括 [Ruby China](http://ruby-china.org) 和 [RailsCasts China](http://railscasts-china.org)。之后是技术话题，讨论了自己使用过的各种 Javascript 框架。
 
 <h6>
-  <a href="#" class="toggle-notes">Show Notes</a>
+  <a href="#" class="toggle-notes">More Resources</a>
 </h6>
 
 <section class="notes" markdown="1">
