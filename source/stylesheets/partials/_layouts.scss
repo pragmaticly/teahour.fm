@@ -11,13 +11,22 @@ body * {
   -webkit-backface-visibility: hidden;
 }
 
+html, body { height: 100%; }
+
 body {
   color: #fff;
   background: transparent url('/images/bg.png');
+  background-attachment:fixed;
+}
+
+a {
+  color: $linkColor;
+  &:hover { color: #fff; }
 }
 
 .masthead {
-  position: relative;
+  //float: left;
+  position: fixed;
   left: -100px;
   top: -100px;
   background: rgba(0,0,0,.1);
@@ -74,12 +83,19 @@ body {
   }
 }
 
+.main {
+  position: relative;
+  margin-left: 600px;
+  max-width: 680px;
+  max-height: 50%;
+}
+
 .global-nav {
   position: fixed;
   bottom: 0;
   width: 100%;
   background-color: #68b77e;
-  background-color: rgba(255,255,255,.2);
+  background-color: rgba(0,0,0,.45);
   ul { 
     list-style: none;
     float: left;
@@ -87,7 +103,7 @@ body {
     li {
       display: inline-block;
       a {
-        color: $darkGreen;
+        //color: $darkGreen;
         display: inline-block;
         padding: 0 20px;
         font-size: 18px;
@@ -96,7 +112,7 @@ body {
         line-height: $footerHeight;
         &:hover {
           background-color: #c1dfc9;
-          background-color: rgba(255,255,255,.4);
+          background-color: rgba(0,0,0,.6);
         }
       }
     }
@@ -116,6 +132,24 @@ body {
   }
 }
 
+.page-nav {
+  list-style: none;
+  a {
+    position: fixed;
+    bottom: 100px;
+    left: 50px;
+    display: inline-block;
+    color: #fff;
+    i { font-size: 80px; }
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  .next {
+    left: inherit;
+    right: 50px;
+  }
+}
 
 
 @media print, screen and (max-width: 720px) {

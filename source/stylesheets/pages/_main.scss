@@ -1,3 +1,14 @@
+.post {
+  padding: 40px 40px 80px;
+  font-size: 14px;
+  color: $textColor;
+  background: rgba(0,0,0,.2);
+  .player { width: 100%; }
+  .title {
+    font-size: 24px;
+    border-bottom: 1px solid #9bf7b3;
+  }
+}
 
 
 .main.container {

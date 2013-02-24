@@ -14,8 +14,10 @@ $altFontFamily:         $serifFontFamily !default;
 
 $headingsFontFamily:    inherit !default; // empty to use BS default, $baseFontFamily
 $headingsFontWeight:    bold !default;    // instead of browser default, bold
-$headingsColor:         inherit !default; // empty to use BS default, $textColor
+$headingsColor:         inherit !default; // empty to use BS default, 
 
+$textColor:             #a7dbb7;
+$linkColor:             #9ccb62;
 $paleGreen:             #a0c7aa;
 $darkGreen:             #1a562a;
 
