@@ -68,13 +68,38 @@
     <footer class="global-nav">
       <ul class="social-connect">
         <li><a href="/feed.xml"><i class="icons-podcast"></i></a></li>
-        <li><a href="#"><i class="icons-email"></i></a></li>
+        <li class="dropdown dropup" id="newsletter">
+          <a href="#newsletter" class="dropdown-toggle" data-toggle="dropdown"><i class="icons-email"></i></a>
+          <ul class="dropdown-menu" role="menu" aria-labelledby="Newsletter">
+            <li style="width: 800px;color:black;">
+              <form action="http://pragmatic.us5.list-manage1.com/subscribe/post?u=73dd7c7fe45b53ba8e6ca952d&amp;id=2bcf4ff1fe" method="post" class="validate form-inline" target="_blank" novalidate style="margin-bottom:0">
+                Subscribe to get the notification when new episode released.
+                <input type="email" value="" name="EMAIL" class="email input-large" placeholder="Email" required>
+                <input type="submit" value="Subscribe" name="subscribe" class="btn btn-small btn-success">
+              </form>
+            </li>
+           </ul>
+        </li>
         <li><a href="//twitter.com/teahourfm" target="_blank"><i class="icons-twitter"></i></a></li>
       </ul>
 
       <ul class="nav">
-        <li>
-          <a href="#">Episodes</a>
+        <li class="dropdown dropup" id="episodes">
+          <a href="#episodes" class="dropdown-toggle" data-toggle="dropdown">Episodes</a>
+          <ul class="dropdown-menu" role="menu" aria-labelledby="Episodes">
+            <% selected_article = current_article || page_articles[0] %>
+            <% page_articles.each_with_index do |article, i| %>
+              <% if selected_article == article %>
+              <li>
+                <a href="#">#<%= page_articles.count - i %>: <%= article.title %></a>
+              </li>
+              <% else %>
+              <li class="selected">
+                <a href="<%= article.url %>">#<%= page_articles.count - i %>: <%= article.title %></a>
+              </li>
+              <% end %>
+            <% end %>
+          </ul>
         </li>
         <li>
           <a href="#">Category</a>
@@ -90,7 +115,7 @@
       <p class="copyright">
         &copy; <%= Time.now.year %> <%= data.site.title %> <a href="//creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a>
         <br />
-        Site <a href="//Pragmatic.ly" target="_blank" class="vendor">Build by Pragmatic.ly</a>, 
+        Site <a href="//Pragmatic.ly" target="_blank" class="vendor">Build by Pragmatic.ly</a>,
         <a href="//" target="_blank" class="vendor">Logo by Alaia Liu</a>
       </p>
     </footer>
