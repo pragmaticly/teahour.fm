@@ -17,10 +17,6 @@ duration: 1:32:28
 2. Mobile Development including iOS and Android
 3. HTML based solution such as WebView, PhoneGap, Titanium and etc.
 
-<h6>
-  <a href="#" class="toggle-notes">More Resources »</a>
-</h6>
-
 <section class="notes" markdown="1">
 * [乐库科技 Rakuraku](http://www.rakutec.com/)
 * [gmail-notifr](http://ashchan.com/projects/gmail-notifr)
