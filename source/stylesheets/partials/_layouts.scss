@@ -5,6 +5,7 @@ html {
 
 body  {
   -webkit-text-size-adjust: none;
+  min-width: 480px;
 }
 
 body * {
@@ -36,7 +37,7 @@ a {
   padding: 0;
   border-radius: 50%;
   text-align: center;
-
+  h1 { text-indent: -999em; }
   .tagline {
     text-indent: -999em;
     background: transparent url("/images/cup-of-tea.png") no-repeat;
@@ -90,66 +91,67 @@ a {
   max-width: 680px;
 }
 
-.global-nav {
+.footer {
   position: fixed;
   bottom: 0;
   width: 100%;
   background-color: #68b77e;
   background-color: rgba(255,255,255,.2);
-  > ul {
-    list-style: none;
-    float: left;
-    margin: 0;
-    > li {
-      display: inline-block;
-      > a {
-        color: $darkGreen;
+  .global-nav {
+    > ul {
+      list-style: none;
+      float: left;
+      margin: 0;
+      > li {
         display: inline-block;
-        padding: 0 20px;
-        font-size: 18px;
-        font-weight: bold;
-        height: $footerHeight;
-        line-height: $footerHeight;
-      }
-      &.open > a, > a:hover {
-        color: #4C725E;
-        background-color: rgba(255,255,255,.6);
+        > a {
+          color: $darkGreen;
+          display: inline-block;
+          padding: 0 20px;
+          font-size: 18px;
+          font-weight: bold;
+          height: $footerHeight;
+          line-height: $footerHeight;
+        }
+        &.open > a, > a:hover {
+          color: #4C725E;
+          background-color: rgba(255,255,255,.6);
+        }
       }
     }
-  }
   
-  .dropdown-menu {
-    min-width: 320px;
-    margin: 0 0 0 -50px;
-    padding: 20px;
-    border: none;
-    background-color: rgba(255,255,255,.6);
-    @include box-shadow(none);
-    @include border-radius(0);
-    > li > a, > li.active > a {
-      font-size: 14px;
-      color: #4C725E;
-      background: none;
-      &:hover {
-        color: #fff;
-        background-color: rgba(0,0,0,.3);
-        @include border-radius(15px);
-      }
-    }
-    form {
-      label {
-        display: block;
-        color: #4C725E;
+    .dropdown-menu {
+      min-width: 320px;
+      margin: 0 0 0 -50px;
+      padding: 20px;
+      border: none;
+      background-color: rgba(255,255,255,.6);
+      @include box-shadow(none);
+      @include border-radius(0);
+      > li > a, > li.active > a {
         font-size: 14px;
+        color: #4C725E;
+        background: none;
+        &:hover {
+          color: #fff;
+          background-color: rgba(0,0,0,.3);
+          @include border-radius(15px);
+        }
+      }
+      form {
+        label {
+          display: block;
+          color: #4C725E;
+          font-size: 14px;
+        }
       }
     }
-  }
 
-  .social-connect {
-    li.open > a, li > a:hover { background: none; }
-    a i { vertical-align: middle; }
+    .social-connect {
+      li.open > a, li > a:hover { background: none; }
+      a i { vertical-align: middle; }
+    }
   }
-
   .copyright {
     float: right;
     margin: 10px 40px 0 0;
@@ -197,16 +199,52 @@ a {
 }
 
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 1280px) {
   body {
     .main {
-      width: 95%;
+      margin-left: 500px;
     }
   }
 }
 
-@media print, screen and (max-width: 480px) {
-  .hosted_by {
-    display: none;
+@media print, screen and (max-width: 1024px) {
+  body {
+    .masthead { 
+      position: relative; 
+      float: left;
+      left: 50%;
+      margin-left: -300px;
+      top: -50px;
+    }
+    .main {
+      float: left;
+      margin: 0 50px 40px;
+      max-width: inherit;
+      .post { margin: 0 5%; }
+    }
+    .footer { 
+      position: static;
+      .copyright { padding-bottom: 20px; }
+    }
+    .global-nav { 
+      position: fixed;
+      top: 0;
+      left: 0;
+      > ul > li > a { 
+        background-color: rgba(255,255,255,.4);
+        &:hover { background-color: rgba(255,255,255,.6); }
+      }
+      .social-connect { 
+        margin: 0 3px 3px 0;
+        float: none;
+        > li.open > a, > li > a:hover { background-color: rgba(255,255,255,.6) !important; }
+      }
+      .dropup .dropdown-menu {
+        bottom: auto;
+        top: 100%;
+        margin: 0;
+        background-color: rgba(255,255,255,.8);
+      }
+    }
   }
 }
