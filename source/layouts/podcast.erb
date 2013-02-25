@@ -6,59 +6,10 @@
   <%= current_article.tags %>
 <% end %>
 
-<% content_for :participants do %>
-  <li class="guest clock7">
-    <a href="<%= author(current_article.data["guests"].first).link %>">
-      <img src="/images/<%= author(current_article.data["guests"].first).avatar %>"/>
-    </a>
-  </li>
-  <li class="host clock6">
-    <a href="<%= author(current_article.data["host"]).link %>">
-      <img src="/images/<%= author(current_article.data["host"]).avatar %>"/>
-    </a>
-  </li>
-  <% current_article.data["guests"][1..-1].each_with_index do |guest, i| %>
-  <li class="guest clock<%= 5 - i %>">
-    <a href="<%= author(guest).link %>">
-      <img src="/images/<%= author(guest).avatar %>"/>
-    </a>
-  </li>
-  <% end %>
-<% end %>
-
-<% content_for :nav do %>
-  <ul class="page-nav">
-    <li><%= prev_nav(current_article.previous_article) %></li>
-    <li><%= next_nav(current_article.next_article) %></li>
-  </ul>
-<% end %>
-
 <% wrap_layout :layout do %>
   <article class="post">
-    
-    <div class="player">
-      <audio controls name="media">
-        <source src="<%= current_article.data["mp3_link"] %>" type="audio/mpeg">
-      </audio>
-    
-      <ul class="actions">
-        <li><a href="<%= current_article.data["mp3_link"] %>"><i class="icons-download"></i></a></li>
-        <li><a href=""><i class="icons-share"></i></a></li>
-      </ul>
-    </div>
-    
-    <h2 class="title"><small>#<%= current_article.data['idx'] %> released on 2/14/2013</small> <%= current_article.title %></h2>
 
-    <dl>
-      <dt>Host:</dt><dd> <%= author(current_article.data["host"]).name %></dd>
-      <dt>Guests:</dt><dd> <%= current_article.data["guests"].map { |guest| author(guest).name }.join(", ") %></dd>
-      <dt>Topic:</dt><dd> <%= current_article.tags.join(", ") %></dd>
-    </dl>
-
-    <h4>Show Notes:</h4>
-    <div>
-      <%= yield %>
-    </div>
+    <%= partial 'shared/post', locals: { article: current_article } %>
 
     <div id="disqus_thread"></div>
     <!-- <script type="text/javascript"> -->
@@ -77,10 +28,5 @@
     <!-- <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> -->
     <!-- <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a> -->
 
-    <script type="text/javascript">var addthis_config = {"data_track_addressbar":true, services_compact:'sinaweibo,twitter,facebook,linkedin,email'};</script>
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5123d9651f2e6f1f"></script>
-    <script type="text/javascript">
-      addthis.button(".icons-share", addthis_config);
-    </script>
   </article>
 <% end %>

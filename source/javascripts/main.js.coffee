@@ -21,13 +21,25 @@ audioPlayer = ->
     audio = $("audio")
     audio.replaceWith("""<embed src="#{audio.find('source').attr('src')}" autostart=false width='100%' height=20 enablejavascript="true" >""")
 
+shareToSocial = ->
+  addthis_config = {"data_track_addressbar":true, services_compact:'sinaweibo,twitter,facebook,linkedin,email'}
+  $(".icons-share").each (idx, elem) ->
+    addthis.button(elem, addthis_config, { url: window.location.protocol + "//" + window.location.host + $(elem).data('url'), title: "[Teahour.fm] " + $(elem).data('title') } )
+
 $ ->
   audioPlayer()
-  $(".notes").css('display', 'none');
+  shareToSocial()
   $(".toggle-notes").click (e) ->
     e.preventDefault()
     e.stopPropagation()
-    $(this).parent().siblings(".notes").toggle()
+    notes = $(this).parent().siblings(".notes")
+    if ( notes.css('display') is 'none')
+      notes.show()
+      $(this).siblings('p').remove()
+    else
+      notes.hide()
+      $(this).parent().prepend("<p>...</p>")
+  $(".toggle-notes").click()
 
 # Modernizr.load [
   # {

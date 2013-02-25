@@ -86,6 +86,11 @@ helpers do
     podcast.data["disqus_identifier"] || podcast.title.parameterize
   end
 
+  def author_tag(ident)
+    author = author(ident)
+    %Q!<a href="#{author.link}" target="_blank"><img src="/images/#{author.avatar}"/></a>!
+  end
+
   def author(ident)
     data.author[ident]
   end
