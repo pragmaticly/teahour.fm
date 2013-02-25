@@ -125,10 +125,11 @@ a {
       margin: 0 0 0 -50px;
       padding: 20px;
       border: none;
+      color: #4C725E;
       background-color: rgba(255,255,255,.6);
       @include box-shadow(none);
       @include border-radius(0);
-      > li > a, > li.active > a {
+      li a, li.active a {
         font-size: 14px;
         color: #4C725E;
         background: none;
@@ -136,6 +137,14 @@ a {
           color: #fff;
           background-color: rgba(0,0,0,.3);
           @include border-radius(15px);
+        }
+      }
+      .social-buttons { 
+        list-style: none;
+        margin: 0;
+        a { 
+          padding: 3px 10px; 
+          i { vertical-align: middle;}
         }
       }
       form {
