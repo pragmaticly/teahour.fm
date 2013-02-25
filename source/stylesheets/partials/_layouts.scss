@@ -87,7 +87,6 @@ a {
   position: relative;
   margin-left: 600px;
   max-width: 680px;
-  max-height: 50%;
 }
 
 .global-nav {
@@ -95,7 +94,7 @@ a {
   bottom: 0;
   width: 100%;
   background-color: #68b77e;
-  background-color: rgba(0,0,0,.45);
+  background-color: rgba(255,255,255,.2);
   ul {
     list-style: none;
     float: left;
@@ -103,7 +102,7 @@ a {
     li {
       display: inline-block;
       a {
-        //color: $darkGreen;
+        color: $darkGreen;
         display: inline-block;
         padding: 0 20px;
         font-size: 18px;
@@ -111,8 +110,8 @@ a {
         height: $footerHeight;
         line-height: $footerHeight;
         &:hover {
-          background-color: #c1dfc9;
-          background-color: rgba(0,0,0,.6);
+          color: $darkGreen;
+          background-color: rgba(255,255,255,.6);
         }
       }
     }
@@ -125,10 +124,16 @@ a {
 
   .copyright {
     float: right;
-    margin-right: 40px;
-    font-size: 12px;
-    line-height: $footerHeight;
+    margin: 10px 40px 0 0;
+    font-size: 11px;
+    line-height: 20px;
+    text-align: right;
     color: #9bf7b3;
+    a {
+      color: #9bf7b3;
+      &:hover { color: #fff; text-decoration: none; }
+    }
+    .vender {}
   }
 }
 

@@ -1,12 +1,14 @@
 .post {
-  padding: 40px 40px 80px;
+  margin: 5%;
+  padding: 5%;
   font-size: 14px;
   color: $textColor;
   background: rgba(0,0,0,.2);
+  @include border-radius(10px);
   .player { width: 100%; }
   .title {
     font-size: 24px;
-    border-bottom: 1px solid #9bf7b3;
+    border-bottom: 1px solid #5F9B6F;
   }
 }
 

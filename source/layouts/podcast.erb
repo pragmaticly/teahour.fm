@@ -38,7 +38,12 @@
     <audio controls name="media" class="player">
       <source src="<%= current_article.data["mp3_link"] %>" type="audio/mpeg">
     </audio>
-
+    
+    <ul class="actions">
+      <li><a href="<%= current_article.data["mp3_link"] %>"><i class="icon-download"></i></a></li>
+      <li><a href=""><i class="icon-share"></i></a></li>
+    </ul>
+    
     <h2 class="title"><%= current_article.title %></h2>
 
     <dl>
