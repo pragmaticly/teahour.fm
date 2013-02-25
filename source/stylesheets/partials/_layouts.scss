@@ -165,7 +165,7 @@ a {
     i {  margin: -5px 0 0 -35px;  }
   }
   .prev.disabled, .next.disabled {
-    opacity: 0.5;
+    display: none;
   }
 }
 
