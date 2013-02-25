@@ -41,10 +41,10 @@ a {
     text-indent: -999em;
     background: transparent url("/images/cup-of-tea.png") no-repeat;
     position: absolute;
-    top: 140px;
-    left: 160px;
-    width: 320px;
-    height: 250px;
+    top: 115px;
+    left: 130px;
+    width: 416px;
+    height: 289px;
   }
 
   .participants {
@@ -110,16 +110,43 @@ a {
         font-weight: bold;
         height: $footerHeight;
         line-height: $footerHeight;
-        &:hover {
-          color: $darkGreen;
-          background-color: rgba(255,255,255,.6);
-        }
+      }
+      &.open > a, > a:hover {
+        color: #4C725E;
+        background-color: rgba(255,255,255,.6);
+      }
+    }
+  }
+  
+  .dropdown-menu {
+    min-width: 320px;
+    margin: 0 0 0 -50px;
+    padding: 20px;
+    border: none;
+    background-color: rgba(255,255,255,.6);
+    @include box-shadow(none);
+    @include border-radius(0);
+    > li > a, > li.active > a {
+      font-size: 14px;
+      color: #4C725E;
+      background: none;
+      &:hover {
+        color: #fff;
+        background-color: rgba(0,0,0,.3);
+        @include border-radius(15px);
+      }
+    }
+    form {
+      label {
+        display: block;
+        color: #4C725E;
+        font-size: 14px;
       }
     }
   }
 
   .social-connect {
-    li a:hover { background: none; }
+    li.open > a, li > a:hover { background: none; }
     a i { vertical-align: middle; }
   }
 

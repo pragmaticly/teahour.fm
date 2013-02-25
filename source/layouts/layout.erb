@@ -72,10 +72,10 @@
         <li class="dropdown dropup" id="newsletter">
           <a href="#newsletter" class="dropdown-toggle" data-toggle="dropdown"><i class="icons-email"></i></a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="Newsletter">
-            <li style="width: 800px;color:black;">
+            <li>
               <form action="http://pragmatic.us5.list-manage1.com/subscribe/post?u=73dd7c7fe45b53ba8e6ca952d&amp;id=2bcf4ff1fe" method="post" class="validate form-inline" target="_blank" novalidate style="margin-bottom:0">
-                Subscribe to get the notification when new episode released.
-                <input type="email" value="" name="EMAIL" class="email input-large" placeholder="Email" required>
+                <label for="email">Subscribe to our new releases</label>
+                <input type="email" value="" name="EMAIL" class="email input-large" placeholder="Email" id="email" required>
                 <input type="submit" value="Subscribe" name="subscribe" class="btn btn-small btn-success">
               </form>
             </li>
@@ -90,11 +90,11 @@
             <% selected_article = current_article || page_articles[0] %>
             <% page_articles.each do |article| %>
               <% if selected_article == article %>
-              <li>
+              <li class="active">
                 <a href="#">#<%= article.data['idx'] %> <%= article.title %></a>
               </li>
               <% else %>
-              <li class="selected">
+              <li>
                 <a href="<%= article.url %>">#<%= article.data['idx'] %> <%= article.title %></a>
               </li>
               <% end %>
