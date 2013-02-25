@@ -21,6 +21,7 @@ body {
 
 a {
   color: $linkColor;
+  @include transition(all 0.1s linear);
   &:hover { color: #fff; }
 }
 
@@ -142,17 +143,26 @@ a {
   a {
     position: fixed;
     bottom: 100px;
-    left: 50px;
+    left: -50px;
+    height: 120px;
+    width: 120px;
+    line-height: 120px;
+    text-align: center;
     display: inline-block;
-    color: #fff;
-    i { font-size: 80px; }
+    color: #a0c7aa;
+    background-color: rgba(0,0,0,.1);
+    @include border-radius(50%);
+    i { font-size: 80px; margin: -5px 0 0 30px; vertical-align: middle; }
     &:hover {
       text-decoration: none;
+      color: $darkGreen;
+      background-color: rgba(255,255,255,.4);
     }
   }
   .next {
     left: inherit;
-    right: 50px;
+    right: -50px;
+    i {  margin: -5px 0 0 -35px;  }
   }
   .prev.disabled, .next.disabled {
     opacity: 0.5;

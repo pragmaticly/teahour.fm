@@ -15,13 +15,13 @@
 .icons-mic                { background-position: 0      0; width: 40px; height: 40px; }
 .icons-podcast            { background-position: -40px  0; width: 40px; height: 40px; }
 .icons-email              { background-position: -80px  0; width: 40px; height: 40px; }
-.icons-twitter            { background-position: -120px 0; width: 50px; height: 40px; }
-.icons-download           { background-position: 0 -80px; width: 50px; height: 40px; }
-.icons-share              { background-position: -40px -80px; width: 50px; height: 40px; }
+.icons-rss                { background-position: -120px 0; width: 40px; height: 40px; }
+.icons-download           { background-position: 0 -90px; width: 40px; height: 30px;}
+.icons-share              { background-position: -40px -90px; width: 40px; height: 30px; }
 
 a:hover {
   .icons-mic                { background-position: 0      -40px; }
   .icons-podcast            { background-position: -40px  -40px; }
   .icons-email              { background-position: -80px  -40px; }
-  .icons-twitter            { background-position: -120px -40px; }
+  .icons-rss                { background-position: -120px -40px; }
 }

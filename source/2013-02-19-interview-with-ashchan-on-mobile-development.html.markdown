@@ -18,7 +18,8 @@ duration: 1:32:28
 3. HTML based solution such as WebView, PhoneGap, Titanium and etc.
 
 <h6>
-  <a href="#" class="toggle-notes">More Resources</a>
+  <p>...</p>
+  <a href="#" class="toggle-notes">More Resources »</a>
 </h6>
 
 <section class="notes" markdown="1">

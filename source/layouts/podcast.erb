@@ -29,16 +29,20 @@
 
 <% wrap_layout :layout do %>
   <article class="post">
-    <audio controls name="media" class="player">
-      <source src="<%= current_article.data["mp3_link"] %>" type="audio/mpeg">
-    </audio>
-
-    <ul class="actions">
-      <li><a href="<%= current_article.data["mp3_link"] %>"><i class="icon-download"></i></a></li>
-      <li><a href=""><i class="icon-share"></i></a></li>
-    </ul>
-
-    <h2 class="title">#<%= current_article.data['idx'] %> <%= current_article.title %></h2>
+<<<<<<< HEAD
+    
+    <div class="player">
+      <audio controls name="media">
+        <source src="<%= current_article.data["mp3_link"] %>" type="audio/mpeg">
+      </audio>
+    
+      <ul class="actions">
+        <li><a href="<%= current_article.data["mp3_link"] %>"><i class="icons-download"></i></a></li>
+        <li><a href=""><i class="icons-share"></i></a></li>
+      </ul>
+    </div>
+    
+    <h2 class="title"><small>#<%= current_article.data['idx'] %> released on 2/14/2013</small> <%= current_article.title %></h2>
 
     <dl>
       <dt>Host:</dt><dd> <%= author(current_article.data["host"]).name %></dd>
