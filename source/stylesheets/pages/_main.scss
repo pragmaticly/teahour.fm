@@ -1,15 +1,51 @@
 .post {
-  margin: 5%;
+  position: relative;
+  margin: 40px 5%;
   padding: 5%;
   font-size: 14px;
   color: $textColor;
   background: rgba(0,0,0,.2);
   @include border-radius(10px);
-  .player { width: 100%; }
+  .player {
+    position: relative;
+    width: 100%;
+    background: rgba(0,0,0,.8);
+    vertical-align: middle;
+    line-height: 10px;
+    @include border-radius(5px);
+    audio { width: 80%; }
+    .actions {
+      position: absolute;
+      right: 0;
+      top: 0;
+      list-style: none;
+      margin: 0;
+      line-height: 14px;
+      li { 
+        display: inline-block;
+        i { 
+          margin: 0; 
+          vertical-align: middle;
+          img { visibility: hidden; }
+        }
+      }
+    }
+  }
   .title {
     font-size: 24px;
     border-bottom: 1px solid #5F9B6F;
+    small {
+      display: block;
+      margin: 0 5px -10px 0;
+      color: #5F9B6F;
+      font-size: 12px;
+    }
   }
+  h4 { font-size: 14px; }
+  .toggle-notes {
+    /**/
+  }
+  .notes { margin-bottom: 40px; }
 }
 
 

@@ -35,16 +35,19 @@
 
 <% wrap_layout :layout do %>
   <article class="post">
-    <audio controls name="media" class="player">
-      <source src="<%= current_article.data["mp3_link"] %>" type="audio/mpeg">
-    </audio>
     
-    <ul class="actions">
-      <li><a href="<%= current_article.data["mp3_link"] %>"><i class="icon-download"></i></a></li>
-      <li><a href=""><i class="icon-share"></i></a></li>
-    </ul>
+    <div class="player">
+      <audio controls name="media">
+        <source src="<%= current_article.data["mp3_link"] %>" type="audio/mpeg">
+      </audio>
     
-    <h2 class="title"><%= current_article.title %></h2>
+      <ul class="actions">
+        <li><a href="<%= current_article.data["mp3_link"] %>"><i class="icons-download"></i></a></li>
+        <li><a href=""><i class="icons-share"></i></a></li>
+      </ul>
+    </div>
+    
+    <h2 class="title"><small>#4 released on 2/14/2013</small> <%= current_article.title %></h2>
 
     <dl>
       <dt>Host:</dt><dd> <%= current_article.data["host"] %></dd>
@@ -74,10 +77,10 @@
     <!-- <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> -->
     <!-- <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a> -->
 
-    <!-- <script type="text/javascript">var addthis_config = {"data_track_addressbar":true, services_compact:'weibo,twitter,facebook,linkedin,email'};</script> -->
-    <!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5123d9651f2e6f1f"></script> -->
-    <!-- <script type="text/javascript"> -->
-    <!--   addthis.button(".icon-share", addthis_config); -->
-    <!-- </script> -->
+    <script type="text/javascript">var addthis_config = {"data_track_addressbar":true, services_compact:'weibo,twitter,facebook,linkedin,email'};</script>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5123d9651f2e6f1f"></script>
+    <script type="text/javascript">
+      addthis.button(".icons-share", addthis_config);
+    </script>
   </article>
 <% end %>
