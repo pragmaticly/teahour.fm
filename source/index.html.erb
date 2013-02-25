@@ -5,50 +5,9 @@ per_page: 10
 
 <% article = page_articles.first %>
 
-<% content_for :participants do %>
-  <li class="guest clock7">
-    <%= author_tag article.data["guests"].first %>
-  </li>
-  <li class="host clock6">
-    <%= author_tag article.data["host"] %>
-  </li>
-  <% article.data["guests"][1..-1].each_with_index do |guest, i| %>
-  <li class="guest clock<%= 5 - i %>">
-    <%= author_tag guest %>
-  </li>
-  <% end %>
-<% end %>
-
-<% content_for :nav do %>
-  <ul class="page-nav">
-    <li><%= prev_nav(article.previous_article) %></li>
-    <li><%= next_nav(article.next_article) %></li>
-  </ul>
-<% end %>
-
 <% page_articles[0..0].each_with_index do |article, i| %>
   <article class="post">
-    <audio controls name="media" class="player">
-      <source src="<%= article.data["mp3_link"] %>" type="audio/mpeg">
-    </audio>
-
-    <ul class="actions">
-      <li><a href="<%= article.data["mp3_link"] %>"><i class="icon-download"></i></a></li>
-      <li><a href=""><i class="icon-share"></i></a></li>
-    </ul>
-
-    <h2 class="title"><%= link_to "##{article.data['idx']} #{article.title}", article %></h2>
-
-    <dl>
-      <dt>Host:</dt><dd> <%= author(article.data["host"]).name %></dd>
-      <dt>Guests:</dt><dd> <%= article.data["guests"].map { |guest| author(guest).name }.join(", ") %></dd>
-      <dt>Topic:</dt><dd> <%= article.tags.join(", ") %></dd>
-    </dl>
-
-    <h4>Show Notes:</h4>
-    <div>
-      <%= article.body %>
-    </div>
+    <%= partial 'shared/post', locals: { article: article } %>
   </article>
 <% end %>
 
@@ -64,12 +23,3 @@ per_page: 10
     (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
   }());
 </script>
-
-<script type="text/javascript">var addthis_config = {"data_track_addressbar":true, services_compact:'sinaweibo,twitter,facebook,linkedin,email'};</script>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5123d9651f2e6f1f"></script>
-<script type="text/javascript">
-  $(".icon-share").each(function(idx, elem) {
-    addthis.button(elem, addthis_config, { url: window.location.protocol + "//" + window.location.host + $(elem).data('url'), title: "[Teahour.fm] " + $(elem).data('title') } );
-  });
-</script>
-<!-- AddThis Button END -->
