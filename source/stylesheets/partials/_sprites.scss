@@ -9,7 +9,6 @@
   background-image: url("/images/sprites.png");
   background-position: 20px 20px;
   background-repeat: no-repeat;
-  margin-top: 1px;
 }
 
 .icons-mic                { background-position: 0      0; width: 40px; height: 40px; }
@@ -19,9 +18,16 @@
 .icons-download           { background-position: 0 -90px; width: 40px; height: 30px;}
 .icons-share              { background-position: -40px -90px; width: 40px; height: 30px; }
 
+.icons-twitter            { background-position: 0px -120px; width: 25px; }
+.icons-facebook           { background-position: -25px -120px; width: 25px; }
+.icons-weibo              { background-position: -50px -120px; width: 25px; }
+
 a:hover {
   .icons-mic                { background-position: 0      -40px; }
   .icons-podcast            { background-position: -40px  -40px; }
   .icons-email              { background-position: -80px  -40px; }
   .icons-rss                { background-position: -120px -40px; }
+  .icons-twitter            { background-position: 0px -140px; }
+  .icons-facebook           { background-position: -25px -140px; }
+  .icons-weibo              { background-position: -50px -140px; }
 }
