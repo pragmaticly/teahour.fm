@@ -47,8 +47,8 @@
     <h2 class="title">#<%= current_article.data['idx'] %> <%= current_article.title %></h2>
 
     <dl>
-      <dt>Host:</dt><dd> <%= current_article.data["host"] %></dd>
-      <dt>Guests:</dt><dd> <%= current_article.data["guests"].join(", ") %></dd>
+      <dt>Host:</dt><dd> <%= author(current_article.data["host"]).name %></dd>
+      <dt>Guests:</dt><dd> <%= current_article.data["guests"].map { |guest| author(guest).name }.join(", ") %></dd>
       <dt>Topic:</dt><dd> <%= current_article.tags.join(", ") %></dd>
     </dl>
 
