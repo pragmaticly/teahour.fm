@@ -92,7 +92,7 @@
             <% page_articles.each do |article| %>
               <% if selected_article == article %>
               <li class="active">
-                <a href="#">#<%= article.data['idx'] %> <%= article.title %></a>
+                <a href="<%= article.url %>">#<%= article.data['idx'] %> <%= article.title %></a>
               </li>
               <% else %>
               <li>
@@ -113,7 +113,7 @@
         </li> -->
       </ul>
       </div>
-      
+
       <p class="copyright">
         &copy; <%= Time.now.year %> <%= data.site.title %> <a href="//creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a>
         <br />
