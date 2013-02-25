@@ -20,7 +20,7 @@ xml.rss "xmlns:itunes" => "http://www.itunes.com/dtds/podcast-1.0.dtd", "version
       xml.itunes :name, "Teahour.fm"
       xml.itunes :email, "yedingding@gmail.com"
     end
-    xml.itunes :image, "href" => ""
+    xml.itunes :image, "href" => "http://teahour.fm/images/logo.jpg"
     xml.itunes :category, "text" => "Technology"
     xml.itunes :category, "text" => "Software How-To"
     xml.itunes :category, "text" => "Gadgets"

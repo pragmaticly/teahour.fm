@@ -19,7 +19,7 @@ window.location_pathname = ->
 audioPlayer = ->
   if (Modernizr.audio && Modernizr.audio.mp3 is "")
     audio = $("audio")
-    audio.replaceWith("""<embed src="#{audio.find('source').attr('src')}" autostart=false width='100%' height=20 enablejavascript="true" >""")
+    audio.replaceWith("""<embed src="#{audio.find('source').attr('src')}" autostart=false width='80%' height=30 enablejavascript="true" >""")
 
 shareToSocial = ->
   addthis_config = {"data_track_addressbar":true, services_compact:'sinaweibo,twitter,facebook,linkedin,email'}
@@ -27,8 +27,7 @@ shareToSocial = ->
     addthis.button(elem, addthis_config, { url: window.location.protocol + "//" + window.location.host + $(elem).data('url'), title: "[Teahour.fm] " + $(elem).data('title') } )
 
 $ ->
-  audioPlayer()
-  shareToSocial()
+  $('<h6/>').html("<p>...</p><a href='#' class='toggle-notes'>More Resources »</a>").insertBefore(".notes")
   $(".toggle-notes").click (e) ->
     e.preventDefault()
     e.stopPropagation()
@@ -39,7 +38,8 @@ $ ->
     else
       notes.hide()
       $(this).parent().prepend("<p>...</p>")
-  $(".toggle-notes").click()
+  audioPlayer()
+  shareToSocial()
 
 # Modernizr.load [
   # {
