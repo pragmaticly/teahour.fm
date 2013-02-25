@@ -1,4 +1,5 @@
 ---
+idx: 1
 title: "The beginning of Teahour.fm show"
 date: 2013-01-19 23:00 +08:00
 tags: ruby, ruby community, railscasts china, ruby china, javascript mvc

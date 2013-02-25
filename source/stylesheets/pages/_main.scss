@@ -6,6 +6,12 @@
   background: rgba(0,0,0,.2);
   @include border-radius(10px);
   .player { width: 100%; }
+  .actions {
+    i img {
+      width: 0px;
+      height: 0px;
+    }
+  }
   .title {
     font-size: 24px;
     border-bottom: 1px solid #5F9B6F;

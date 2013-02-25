@@ -1,4 +1,5 @@
 ---
+idx: 3
 title: "Interview with xdite on personal growth"
 date: 2013-02-09 20:00 +08:00
 tags: personal growth, team development, project management, rails training

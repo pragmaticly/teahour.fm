@@ -38,13 +38,13 @@
     <audio controls name="media" class="player">
       <source src="<%= current_article.data["mp3_link"] %>" type="audio/mpeg">
     </audio>
-    
+
     <ul class="actions">
       <li><a href="<%= current_article.data["mp3_link"] %>"><i class="icon-download"></i></a></li>
       <li><a href=""><i class="icon-share"></i></a></li>
     </ul>
-    
-    <h2 class="title"><%= current_article.title %></h2>
+
+    <h2 class="title">#<%= current_article.data['idx'] %> <%= current_article.title %></h2>
 
     <dl>
       <dt>Host:</dt><dd> <%= current_article.data["host"] %></dd>
@@ -74,10 +74,10 @@
     <!-- <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> -->
     <!-- <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a> -->
 
-    <!-- <script type="text/javascript">var addthis_config = {"data_track_addressbar":true, services_compact:'weibo,twitter,facebook,linkedin,email'};</script> -->
-    <!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5123d9651f2e6f1f"></script> -->
-    <!-- <script type="text/javascript"> -->
-    <!--   addthis.button(".icon-share", addthis_config); -->
-    <!-- </script> -->
+    <script type="text/javascript">var addthis_config = {"data_track_addressbar":true, services_compact:'sinaweibo,twitter,facebook,linkedin,email'};</script>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5123d9651f2e6f1f"></script>
+    <script type="text/javascript">
+      addthis.button(".icon-share", addthis_config);
+    </script>
   </article>
 <% end %>

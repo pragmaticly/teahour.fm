@@ -1,4 +1,5 @@
 ---
+idx: 4
 title: "Interview with ashchan on app development"
 date: 2013-02-19 21:00 +08:00
 tags: osx, mobile, iOS, Android, RubyMotion, MacRuby, HTML5

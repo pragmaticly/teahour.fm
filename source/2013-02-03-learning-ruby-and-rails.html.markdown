@@ -1,4 +1,5 @@
 ---
+idx: 2
 title: "How to Learning Ruby and Rails"
 date: 2013-02-03 22:00 +08:00
 tags: ruby, rails, book, education
