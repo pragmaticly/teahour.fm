@@ -38,11 +38,16 @@ per_page: 10
       <source src="<%= article.data["mp3_link"] %>" type="audio/mpeg">
     </audio>
 
-    <h2 class="title"><%= link_to article.title, article %></h2>
+    <ul class="actions">
+      <li><a href="<%= article.data["mp3_link"] %>"><i class="icon-download"></i></a></li>
+      <li><a href=""><i class="icon-share"></i></a></li>
+    </ul>
+
+    <h2 class="title"><%= link_to "##{article.data['idx']} #{article.title}", article %></h2>
 
     <dl>
-      <dt>Host:</dt><dd> <%= article.data["host"] %></dd>
-      <dt>Guests:</dt><dd> <%= article.data["guests"].join(", ") %></dd>
+      <dt>Host:</dt><dd> <%= author(article.data["host"]).name %></dd>
+      <dt>Guests:</dt><dd> <%= article.data["guests"].map { |guest| author(guest).name }.join(", ") %></dd>
       <dt>Topic:</dt><dd> <%= article.tags.join(", ") %></dd>
     </dl>
 
@@ -66,7 +71,7 @@ per_page: 10
   }());
 </script>
 
-<script type="text/javascript">var addthis_config = {"data_track_addressbar":true, services_compact:'weibo,twitter,facebook,linkedin,email'};</script>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true, services_compact:'sinaweibo,twitter,facebook,linkedin,email'};</script>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5123d9651f2e6f1f"></script>
 <script type="text/javascript">
   $(".icon-share").each(function(idx, elem) {

@@ -88,14 +88,14 @@
           <a href="#episodes" class="dropdown-toggle" data-toggle="dropdown">Episodes</a>
           <ul class="dropdown-menu" role="menu" aria-labelledby="Episodes">
             <% selected_article = current_article || page_articles[0] %>
-            <% page_articles.each_with_index do |article, i| %>
+            <% page_articles.each do |article| %>
               <% if selected_article == article %>
               <li>
-                <a href="#">#<%= page_articles.count - i %>: <%= article.title %></a>
+                <a href="#">#<%= article.data['idx'] %> <%= article.title %></a>
               </li>
               <% else %>
               <li class="selected">
-                <a href="<%= article.url %>">#<%= page_articles.count - i %>: <%= article.title %></a>
+                <a href="<%= article.url %>">#<%= article.data['idx'] %> <%= article.title %></a>
               </li>
               <% end %>
             <% end %>

@@ -1,5 +1,6 @@
 ---
-title: "Interview with ashchan on app development"
+idx: 4
+title: "Interview with Ashchan on app development"
 date: 2013-02-19 21:00 +08:00
 tags: osx, mobile, iOS, Android, RubyMotion, MacRuby, HTML5
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_4.mp3"

@@ -16,7 +16,13 @@ do ->
 window.location_pathname = ->
   location.pathname.replace(/index.\w+$/, '')
 
+audioPlayer = ->
+  if (Modernizr.audio && Modernizr.audio.mp3 is "")
+    audio = $("audio")
+    audio.replaceWith("""<embed src="#{audio.find('source').attr('src')}" autostart=false width='100%' height=20 enablejavascript="true" >""")
+
 $ ->
+  audioPlayer()
   $(".notes").css('display', 'none');
   $(".toggle-notes").click (e) ->
     e.preventDefault()

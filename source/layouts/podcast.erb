@@ -35,6 +35,7 @@
 
 <% wrap_layout :layout do %>
   <article class="post">
+<<<<<<< HEAD
     
     <div class="player">
       <audio controls name="media">
@@ -47,11 +48,11 @@
       </ul>
     </div>
     
-    <h2 class="title"><small>#4 released on 2/14/2013</small> <%= current_article.title %></h2>
+    <h2 class="title"><small>#<%= current_article.data['idx'] %> released on 2/14/2013</small> <%= current_article.title %></h2>
 
     <dl>
-      <dt>Host:</dt><dd> <%= current_article.data["host"] %></dd>
-      <dt>Guests:</dt><dd> <%= current_article.data["guests"].join(", ") %></dd>
+      <dt>Host:</dt><dd> <%= author(current_article.data["host"]).name %></dd>
+      <dt>Guests:</dt><dd> <%= current_article.data["guests"].map { |guest| author(guest).name }.join(", ") %></dd>
       <dt>Topic:</dt><dd> <%= current_article.tags.join(", ") %></dd>
     </dl>
 
@@ -77,10 +78,10 @@
     <!-- <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> -->
     <!-- <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a> -->
 
-    <script type="text/javascript">var addthis_config = {"data_track_addressbar":true, services_compact:'weibo,twitter,facebook,linkedin,email'};</script>
+    <script type="text/javascript">var addthis_config = {"data_track_addressbar":true, services_compact:'sinaweibo,twitter,facebook,linkedin,email'};</script>
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5123d9651f2e6f1f"></script>
     <script type="text/javascript">
-      addthis.button(".icons-share", addthis_config);
+      addthis.button(".icon-share", addthis_config);
     </script>
   </article>
 <% end %>
