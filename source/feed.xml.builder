@@ -30,7 +30,7 @@ xml.rss "xmlns:itunes" => "http://www.itunes.com/dtds/podcast-1.0.dtd", "version
         xml.title article.title
         xml.itunes :author, article.data["host"]
         xml.itunes :summary, article.summary, "type" => "html"
-        xml.itunes :image, "href" => ""
+        xml.itunes :image, "href" => "http://teahour.fm/images/logo.jpg"
         xml.enclosure "url" => article.data["mp3_link"], "type" => "audio/x-m4a"
         xml.guid article.data["mp3_link"]
         xml.pubDate article.date.to_time.iso8601
