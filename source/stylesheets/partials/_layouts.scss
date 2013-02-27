@@ -12,8 +12,6 @@ body * {
   -webkit-backface-visibility: hidden;
 }
 
-html, body { height: 100%; }
-
 body {
   color: #fff;
   background: transparent url('/images/bg.png');
@@ -227,7 +225,7 @@ a {
     }
     .main {
       float: left;
-      margin: 0 50px 40px;
+      margin: 0 0 40px;
       max-width: inherit;
       .post { margin: 0 5%; }
     }
