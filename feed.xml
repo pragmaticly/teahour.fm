@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Teahour.fm</title>
+    <link>http://teahour.fm</link>
+    <language>zh-CN</language>
+    <copyright>&amp;#x2117; &amp;amp; &amp;#xA9; 2013 Teahour.fm</copyright>
+    <itunes:subtitle>The chinese tech podcast focusing on programming, entrepreneurship and other geeky topics.</itunes:subtitle>
+    <itunes:author>Teahour.fm</itunes:author>
+    <itunes:summary>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</itunes:summary>
+    <id>http://teahour.fm</id>
+    <link href="http://teahour.fm/"/>
+    <link href="http://teahour.fm/feed.xml" rel="self"/>
+    <updated>2013-02-19T13:00:00Z</updated>
+    <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
+    <author>
+      <name>Teahour.fm</name>
+    </author>
+    <itunes:owner>
+      <itunes:name>Teahour.fm</itunes:name>
+      <itunes:email>yedingding@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://teahour.fm/images/logo.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Software How-To"/>
+    <itunes:category text="Gadgets"/>
+    <item>
+      <title>Interview with Ashchan on app development</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请了 &lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt; 的核心开发者之一和 Mac 版的作者 &lt;a href="http://ashchan.com/"&gt;Ashchan&lt;/a&gt; 给大家分享了他在 Mac 桌面应用和 iOS/Android 移动开发上的一些心得体会。同时参与嘉宾有 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;。主要涉及内容有:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;各种 Ruby Bridge/Binding for Mac/iOS dev&lt;/li&gt;
+&lt;/ol&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.jpg"/>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_4.mp3" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_4.mp3</guid>
+      <pubDate>2013-02-19T13:00:00Z</pubDate>
+      <itunes:duration>5548</itunes:duration>
+      <itunes:keywords>osx, mobile, iOS, Android, RubyMotion, MacRuby, HTML5</itunes:keywords>
+    </item>
+    <item>
+      <title>Interview with xdite on personal growth</title>
+      <itunes:author>kevin</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，邀请了台湾著名 Rubyist 和技术博主 &lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt;。xdite 在去年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China 2012&lt;/a&gt; 里面给做了非常精彩的演讲，在本期 podcast 里她围绕着两条主线 1) 学习成长经历，以及从T客帮到创业的职业经历 2) 如何招聘，如何培养新人和团队管理， 分享了个人心得。同时参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt; 和 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.jpg"/>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_3.mp3" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_3.mp3</guid>
+      <pubDate>2013-02-09T12:00:00Z</pubDate>
+      <itunes:duration>4861</itunes:duration>
+      <itunes:keywords>personal growth, team development, project management, rails training</itunes:keywords>
+    </item>
+    <item>
+      <title>How to Learning Ruby and Rails</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt;。四位 Teahour.fm 的主持全部到位，一期讨论了 Ruby 与 Rails 的学习经历和对初学者的学习建议。Kevin Wang 是 Rails 在线教育 &lt;a href="http://gotealeaf.com/"&gt;GoTeaLeaf&lt;/a&gt; 的创始人之一，他介绍了一下这个课程安排的考虑以及目前 Rails 在线教学的几种不同模式。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.jpg"/>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_2.mp3" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_2.mp3</guid>
+      <pubDate>2013-02-03T14:00:00Z</pubDate>
+      <itunes:duration>6632</itunes:duration>
+      <itunes:keywords>ruby, rails, book, education</itunes:keywords>
+    </item>
+    <item>
+      <title>The beginning of Teahour.fm show</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;迈出了第一步，由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt; 和 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。三位 Teahour.fm 的主持人讨论了自己经常听的 podcasts 和国内 Ruby/Rails 社区的现状和发展，包括 &lt;a href="http://ruby-china.org"&gt;Ruby China&lt;/a&gt; 和 &lt;a href="http://railscasts-china.org"&gt;RailsCasts China&lt;/a&gt;。之后是技术话题，讨论了自己使用过的各种 Javascript 框架。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.jpg"/>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/nil_podcast_1.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/nil_podcast_1.m4a</guid>
+      <pubDate>2013-01-19T15:00:00Z</pubDate>
+      <itunes:duration>7167</itunes:duration>
+      <itunes:keywords>ruby, ruby community, railscasts china, ruby china, javascript mvc</itunes:keywords>
+    </item>
+  </channel>
+</rss>
