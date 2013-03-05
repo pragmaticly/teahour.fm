@@ -1,6 +1,6 @@
 ---
 idx: 5
-title "Hardware for developers"
+title: "Hardware for developers"
 date: 2013-03-05 18:00 +08:00
 tags: hardware, lifestyle
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_5.m4a"
