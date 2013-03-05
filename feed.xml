@@ -12,6 +12,8 @@
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
     <updated>2013-02-19T13:00:00Z</updated>
+    <lastBuildDate>2013-02-19T13:00:00Z</lastBuildDate>
+    <pubDate>2013-02-19T13:00:00Z</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -34,6 +36,36 @@
 &lt;/ol&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.jpg"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请了 &lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt; 的核心开发者之一和 Mac 版的作者 &lt;a href="http://ashchan.com/"&gt;Ashchan&lt;/a&gt; 给大家分享了他在 Mac 桌面应用和 iOS/Android 移动开发上的一些心得体会。同时参与嘉宾有 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;。主要涉及内容有:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;各种 Ruby Bridge/Binding for Mac/iOS dev&lt;/li&gt;
+  &lt;li&gt;Mobile Development including iOS and Android&lt;/li&gt;
+  &lt;li&gt;HTML based solution such as WebView, PhoneGap, Titanium and etc.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.rakutec.com/"&gt;乐库科技 Rakuraku&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ashchan.com/projects/gmail-notifr"&gt;gmail-notifr&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubycocoa.sourceforge.net/"&gt;RubyCocoa&lt;/a&gt;: A Ruby/Objective-C Bridge for Mac OS X with Cocoa&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://macruby.org/"&gt;MacRuby&lt;/a&gt;: Ruby for the Objective-C Runtime, an implementation of Ruby 1.9 directly on top of Mac OS X core technologies&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.rubymotion.com/"&gt;RubyMotion&lt;/a&gt;: Ruby for iOS, a revolutionary toolchain for iOS.&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pragprog.com/book/bmrc/programming-cocoa-with-ruby"&gt;Programming Cocoa with Ruby&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://clang.llvm.org/docs/AutomaticReferenceCounting.html"&gt;ARC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://phonegap.com/"&gt;PhoneGap&lt;/a&gt;: A free and open source framework that allows you to create mobile apps using HTML, CSS and JavaScript.&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.appcelerator.com/platform/titanium-platform/"&gt;Titanium&lt;/a&gt;: An open, extensible development platform for creating beautiful native apps across different mobile devices and OSs including iOS, Android, Windows and BlackBerry, as well as hybrid and HTML5.&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://jquerymobile.com/"&gt;jQuery Mobile&lt;/a&gt;: A unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation.&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://iweek.ly/"&gt;iWeekly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Mind-Map-Book-Thinking-Potential/dp/0452273226"&gt;Mind Map Book&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mindnode.com/"&gt;MindNode Pro&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.echofon.com/"&gt;Echofon for Social&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pragprog.com/book/carubym/rubymotion"&gt;RubyMotion&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/5500364.htm"&gt;我是歌手&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/02/19/interview-with-ashchan-on-mobile-development.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_4.mp3" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_4.mp3</guid>
       <pubDate>2013-02-19T13:00:00Z</pubDate>
@@ -46,6 +78,34 @@
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，邀请了台湾著名 Rubyist 和技术博主 &lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt;。xdite 在去年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China 2012&lt;/a&gt; 里面给做了非常精彩的演讲，在本期 podcast 里她围绕着两条主线 1) 学习成长经历，以及从T客帮到创业的职业经历 2) 如何招聘，如何培养新人和团队管理， 分享了个人心得。同时参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt; 和 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。&lt;/p&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.jpg"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，邀请了台湾著名 Rubyist 和技术博主 &lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt;。xdite 在去年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China 2012&lt;/a&gt; 里面给做了非常精彩的演讲，在本期 podcast 里她围绕着两条主线 1) 学习成长经历，以及从T客帮到创业的职业经历 2) 如何招聘，如何培养新人和团队管理， 分享了个人心得。同时参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt; 和 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://blog.xdite.net/"&gt;xdite&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.techbang.com/"&gt;T客邦&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://veryxd.net/"&gt;very XD&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Massive_open_online_course"&gt;MOOC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.udacity.com/"&gt;Udacity&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.coursera.org/"&gt;Coursera&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.edx.org/"&gt;Edx&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://openclassroom.stanford.edu/MainFolder/HomePage.php"&gt;Stanford Open Classroom&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ocw.mit.edu/index.htm"&gt;MIT Open Class&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.apple.com/education/itunes-u/"&gt;iTunes-U&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ihower.tw/blog/archives/2369/"&gt;xdite 第一家公司的协作方式&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Scrum_development"&gt;scrum&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Kanban"&gt;kanban&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rails-101.logdown.com/"&gt;Rails 101&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://blog.xdite.net/posts/2013/01/30/2013-reading-list/"&gt;xdite's reading list&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.jstorimer.com/"&gt;Jesse Storimer&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.joelonsoftware.com/articles/LeakyAbstractions.html"&gt;Leaky Abstractions&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://csapp.cs.cmu.edu/"&gt;CSAPP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.sean-johnson.com/the-100-words-that-will-get-you-hired-anywhere/"&gt;The 100 words that will get you hired anywhere&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/02/09/personal-growth-by-xdite.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_3.mp3" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_3.mp3</guid>
       <pubDate>2013-02-09T12:00:00Z</pubDate>
@@ -58,6 +118,31 @@
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt;。四位 Teahour.fm 的主持全部到位，一期讨论了 Ruby 与 Rails 的学习经历和对初学者的学习建议。Kevin Wang 是 Rails 在线教育 &lt;a href="http://gotealeaf.com/"&gt;GoTeaLeaf&lt;/a&gt; 的创始人之一，他介绍了一下这个课程安排的考虑以及目前 Rails 在线教学的几种不同模式。&lt;/p&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.jpg"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt;。四位 Teahour.fm 的主持全部到位，一期讨论了 Ruby 与 Rails 的学习经历和对初学者的学习建议。Kevin Wang 是 Rails 在线教育 &lt;a href="http://gotealeaf.com/"&gt;GoTeaLeaf&lt;/a&gt; 的创始人之一，他介绍了一下这个课程安排的考虑以及目前 Rails 在线教学的几种不同模式。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://hashrocket.com/"&gt;HashRocket&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://obiefernandez.com/"&gt;Obie Fernandez&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321601661"&gt;The Rails Way&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Pair_programming"&gt;Pair programming&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Telecommuting"&gt;Telecommuting&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby.railstutorial.org/"&gt;Ruby On Rails Tutorial&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://code.google.com/p/xruby/"&gt;XRuby&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org/topics/7791"&gt;Rails is omakase&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/%E6%96%AF%E5%BE%B7%E5%93%A5%E7%88%BE%E6%91%A9%E7%97%87%E5%80%99%E7%BE%A4"&gt;斯德哥爾摩症候群&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/geelen/git-smart"&gt;Git-Smart&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://learn.thoughtbot.com/products/13?utm_source=giantrobots&amp;amp;utm_medium=blog&amp;amp;utm_campaign=launch"&gt;Ruby Science&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.youtube.com/user/adrianholovaty"&gt;Adrian Holovaty youtube feed&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Refactoring-Ruby-Edition-Jay-Fields/dp/0321603508"&gt;Refactoring: Ruby Edition&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Rails-AntiPatterns-Addison-Wesley-Professional-ebook/dp/B004C04QE0/ref=dp_kinw_strp_1"&gt;Rails AntiPatterns: Best Practice Ruby on Rails Refactoring&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://sidebar.io/"&gt;Sidebar.IO&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Talent-Code-Greatness-Born-Grown/dp/055380684X"&gt;The Talent Code: Greatness Isn't Born. It's Grown. Here's How.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/4726323/"&gt;一万小时天才理论&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/02/03/learning-ruby-and-rails.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_2.mp3" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_2.mp3</guid>
       <pubDate>2013-02-03T14:00:00Z</pubDate>
@@ -70,6 +155,36 @@
       <itunes:summary type="html">&lt;p&gt;迈出了第一步，由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt; 和 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。三位 Teahour.fm 的主持人讨论了自己经常听的 podcasts 和国内 Ruby/Rails 社区的现状和发展，包括 &lt;a href="http://ruby-china.org"&gt;Ruby China&lt;/a&gt; 和 &lt;a href="http://railscasts-china.org"&gt;RailsCasts China&lt;/a&gt;。之后是技术话题，讨论了自己使用过的各种 Javascript 框架。&lt;/p&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.jpg"/>
+      <description type="html">&lt;p&gt;迈出了第一步，由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt; 和 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。三位 Teahour.fm 的主持人讨论了自己经常听的 podcasts 和国内 Ruby/Rails 社区的现状和发展，包括 &lt;a href="http://ruby-china.org"&gt;Ruby China&lt;/a&gt; 和 &lt;a href="http://railscasts-china.org"&gt;RailsCasts China&lt;/a&gt;。之后是技术话题，讨论了自己使用过的各种 Javascript 框架。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://grammar.quickanddirtytips.com/"&gt;Grammar Girl&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://publicspeaker.quickanddirtytips.com/"&gt;The public speaker&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://itunes.apple.com/cn/podcast/tiny4voice"&gt;Tiny4Voice&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.thisamericanlife.org/"&gt;This American Life&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://thechangelog.com/"&gt;The Change Log&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://5by5.tv/"&gt;5by5&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://5by5.tv/b2w"&gt;Back to Work&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.eslpod.com/"&gt;ESL&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mixergy.com/"&gt;Mixergy&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://intridea.com"&gt;Intridea&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://spinejs.com/"&gt;Spine.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://backbonejs.org/"&gt;Backbone.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://emberjs.com/"&gt;Ember.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://angularjs.org/"&gt;Angular.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://meteor.com/"&gt;Meteor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/visionmedia/pomo"&gt;pomo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://crushitbook.com/"&gt;Crush It&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.infoq.com/throne_of_js/"&gt;Throne of JS Content on InfoQ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://throneofjs.com/"&gt;THRONE OF JS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.rubymotion.com/"&gt;RubyMotion&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Aaron_Swartz"&gt;Aaron Swartz&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/01/19/1st_beginning.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/nil_podcast_1.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/nil_podcast_1.m4a</guid>
       <pubDate>2013-01-19T15:00:00Z</pubDate>
