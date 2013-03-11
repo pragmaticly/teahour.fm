@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>2013-02-19T13:00:00Z</updated>
-    <lastBuildDate>2013-02-19T13:00:00Z</lastBuildDate>
-    <pubDate>2013-02-19T13:00:00Z</pubDate>
+    <updated>2013-03-11T02:42:00Z</updated>
+    <lastBuildDate>2013-03-11T02:42:00Z</lastBuildDate>
+    <pubDate>2013-03-11T02:42:00Z</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,120 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>Git, GitHub and GitLab</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://saito.im"&gt;SaitoWu&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。武鑫(Saito) 是著名自托管 Git 项目仓库开源项目 &lt;a href="http://gitlabhq.com"&gt;GitLab&lt;/a&gt; 的核心开发者之一，也是 &lt;a href="http://rubyconfchina.org"&gt;RubyConfChina 2012&lt;/a&gt; 的讲师，给大家做了期很精彩的 GitLab 实现介绍。本期我们很荣幸能请到 SaitoWu 同学来跟大家聊聊他的从业经历，他所感兴趣的话题，包括 &lt;a href="http://git-scm.com"&gt;Git&lt;/a&gt;，&lt;a href="http://github.com"&gt;GitHub&lt;/a&gt;，以及 &lt;a href="http://gitlabhq.com"&gt;GitLab&lt;/a&gt;。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.jpg"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://saito.im"&gt;SaitoWu&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。武鑫(Saito) 是著名自托管 Git 项目仓库开源项目 &lt;a href="http://gitlabhq.com"&gt;GitLab&lt;/a&gt; 的核心开发者之一，也是 &lt;a href="http://rubyconfchina.org"&gt;RubyConfChina 2012&lt;/a&gt; 的讲师，给大家做了期很精彩的 GitLab 实现介绍。本期我们很荣幸能请到 SaitoWu 同学来跟大家聊聊他的从业经历，他所感兴趣的话题，包括 &lt;a href="http://git-scm.com"&gt;Git&lt;/a&gt;，&lt;a href="http://github.com"&gt;GitHub&lt;/a&gt;，以及 &lt;a href="http://gitlabhq.com"&gt;GitLab&lt;/a&gt;。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.sinatrarb.com"&gt;Sinatra&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://speakerdeck.com/saito/how-gitlab-works"&gt;How gitlab works&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://subversion.tigris.org"&gt;SVN&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Virtual_private_network"&gt;VPN&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.kernel.org/pub/software/scm/git/docs/git-svn.html"&gt;git-svn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org/topics/node31"&gt;Ruby Tuesday&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://clojure.org/"&gt;http://clojure.org/&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.haskell.org/haskellwiki/Haskell"&gt;Haskell&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/richhickey"&gt;Rich Hickey&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/10555435/"&gt;七周七语言&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://jdk8.java.net/"&gt;JDK8&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://enterprise.github.com/"&gt;Github Enterprise&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.eng.cam.ac.uk/help/jpmg/ssh/authorized_keys_howto.html"&gt;authorized_keys&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/tv42/gitosis"&gt;Gitosis&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/sitaramc/gitolite"&gt;Gitolite&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://twistedmatrix.com/trac/"&gt;Twisted&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/blog/493-github-is-moving-to-rackspace"&gt;GitHub is Moving to Rackspace!&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.engineyard.com/2009/engine-yard-and-github-transition"&gt;Engine Yard And GitHub Transition&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zachholman.com"&gt;Zach Holman&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/blog/1345-introducing-boxen"&gt;Github Boxen&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://libgit2.github.com"&gt;libgit2&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://hubot.github.com"&gt;Hubot&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zachholman.com/screencast/play/"&gt;Play - Company's DJ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://rubygems.org/gems/redcarpet/"&gt;Redcarpet&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/defunkt/unicorn"&gt;Unicorn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/blog/1311-html-pipeline-chainable-content-filters"&gt;html-pipeline&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/defunkt/resque"&gt;Resque&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://gitcafe.com/"&gt;Gitcafe&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.redmine.org/"&gt;Redmine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://help.github.com/articles/using-pull-requests"&gt;Use pull request&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://scrum.kaverjody.com/reference-materials/"&gt;Scrum要素&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/component/component"&gt;Component&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/tommy351/hexo"&gt;Hexo&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/03/11/git-github-and-gitlab.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_6.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_6.m4a</guid>
+      <pubDate>2013-03-11T02:42:00Z</pubDate>
+      <itunes:duration>4321</itunes:duration>
+      <itunes:keywords>git, github, gitlab</itunes:keywords>
+    </item>
+    <item>
+      <title>Hardware for developers</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt;。本期由所有Teahour创始人和大家一起聊聊开发中用到的硬件和选购的一些技巧以及如何锻炼和保护程序员的身体。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.apple.com/macbook-pro/"&gt;Macbook Pro&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.jpg"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt;。本期由所有Teahour创始人和大家一起聊聊开发中用到的硬件和选购的一些技巧以及如何锻炼和保护程序员的身体。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.apple.com/macbook-pro/"&gt;Macbook Pro&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/grosser/parallel_tests"&gt;Parallel Tests&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Ivy_Bridge_(microarchitecture)"&gt;Ivy Bridge&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/%E7%A1%AC%E4%BB%B6%E8%99%9A%E6%8B%9F%E5%8C%96"&gt;硬件虚拟化&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/%E8%B6%85%E5%9F%B7%E8%A1%8C%E7%B7%92"&gt;超线程&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.crucial.com/store/partspecs.aspx?imodule=CT256M4SSD2"&gt;Crucial M4&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Samsung-830-Series-MZ-7PC256N-Internal/dp/B005T3GPXY"&gt;Samsung 830&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://huangzhimin.com/"&gt;Richard Huang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.hermanmiller.com/content/hermanmiller/english/products/categories/seating/performance-work-chairs/aeron-chairs.html"&gt;Herman Miller Aeron&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.hermanmiller.com/content/hermanmiller/english/products/categories/seating/performance-work-chairs/embody-chairs.html"&gt;Herman Miller Embody&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/9500961.htm"&gt;锤子手机&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/QWERTY"&gt;QWERTY&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Dvorak_keyboard"&gt;Dvorak&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.pfu.fujitsu.com/hhkeyboard/type-s/"&gt;Happy Hacking Keyboard Pro Type-S&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.razerzone.com/store/razer-blackwidow-2013"&gt;Razer Blackwidow For Mac&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.topre.co.jp/products/comp/product26.html"&gt;Realforce 86U&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://matias.ca/tactilepro/"&gt;Tactile Pro&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Apple_Extended_Keyboard"&gt;Apple Extended Keyboard&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Alps_Electric_Co."&gt;Alps&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://matias.ca/"&gt;Matias&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Apple_Desktop_Bus"&gt;ADB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.kinesis-ergo.com/freestyle2_mac_link.htm"&gt;Kinesis Freestyle&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://matias.ca/minitactilepro/mac/"&gt;mini Tactile Pro&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.shlug.org/"&gt;Shanghai Linux User Group&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://accessories.us.dell.com/sna/productdetail.aspx?c=us&amp;amp;l=en&amp;amp;cs=19&amp;amp;sku=320-2676"&gt;Dell 2412M&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/jimweirich"&gt;Jim Weirich&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.fitbit.com/zip"&gt;Fitbit Zip&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.fitbit.com/one"&gt;Fitbit One&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.fitbit.com/Flex"&gt;Fitbit Flex&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://jawbone.com/up"&gt;Jawbone Up&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule"&gt;The Boy Scout Rule&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/4887629/"&gt;钻石年代&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://itunes.apple.com/us/app/pocket-casts/id414834813?mt=8"&gt;Pocket Casts&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html"&gt;SuperDuper!&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/03/05/hardware-for-developers.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_5.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_5.m4a</guid>
+      <pubDate>2013-03-05T10:00:00Z</pubDate>
+      <itunes:duration>5066</itunes:duration>
+      <itunes:keywords>hardware, lifestyle</itunes:keywords>
+    </item>
     <item>
       <title>Interview with Ashchan on app development</title>
       <itunes:author>dingding</itunes:author>
