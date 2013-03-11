@@ -14,6 +14,11 @@ duration: 1:12:01
 本期由 [Daniel](http://lvguoning.com) 主持，参与嘉宾有 [SaitoWu](http://saito.im), [Dingding Ye](http://yedingding.com)。武鑫(Saito) 是著名自托管 Git 项目仓库开源项目 [GitLab](http://gitlabhq.com) 的核心开发者之一，也是 [RubyConfChina 2012](http://rubyconfchina.org) 的讲师，给大家做了期很精彩的 GitLab 实现介绍。本期我们很荣幸能请到 SaitoWu 同学来跟大家聊聊他的从业经历，他所感兴趣的话题，包括 [Git](http://git-scm.com)，[GitHub](http://github.com)，以及 [GitLab](http://gitlabhq.com)。
 
 <section class="notes" markdown="1">
+* [Why Git is better than X](http://thkoch2001.github.com/whygitisbetter/)
+* [Git 为什么这么好?](http://www.douban.com/note/145945675/)
+* [Unlocking the Secrets of Git](http://sea.ucar.edu/event/unlocking-secrets-git)
+* [Git scaling at GitHub](http://vimeo.com/53261709)
+* [Chatops at Github](http://www.youtube.com/watch?v=DH2twW0dmrM)
 * [Sinatra](http://www.sinatrarb.com)
 * [How gitlab works](https://speakerdeck.com/saito/how-gitlab-works)
 * [SVN](http://subversion.tigris.org)
