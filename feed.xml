@@ -36,6 +36,11 @@
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://thkoch2001.github.com/whygitisbetter/"&gt;Why Git is better than X&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.douban.com/note/145945675/"&gt;Git 为什么这么好?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://sea.ucar.edu/event/unlocking-secrets-git"&gt;Unlocking the Secrets of Git&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://vimeo.com/53261709"&gt;Git scaling at GitHub&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=DH2twW0dmrM"&gt;Chatops at Github&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.sinatrarb.com"&gt;Sinatra&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://speakerdeck.com/saito/how-gitlab-works"&gt;How gitlab works&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://subversion.tigris.org"&gt;SVN&lt;/a&gt;&lt;/li&gt;
