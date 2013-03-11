@@ -47,4 +47,4 @@ duration: 1:12:01
 * [Scrum要素](http://scrum.kaverjody.com/reference-materials/)
 * [Component](https://github.com/component/component)
 * [Hexo](https://github.com/tommy351/hexo)
-
+</section>
