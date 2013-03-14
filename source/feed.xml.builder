@@ -22,7 +22,7 @@ xml.rss "xmlns:itunes" => "http://www.itunes.com/dtds/podcast-1.0.dtd", "version
       xml.itunes :name, "Teahour.fm"
       xml.itunes :email, "yedingding@gmail.com"
     end
-    xml.itunes :image, "href" => "http://teahour.fm/images/logo.jpg"
+    xml.itunes :image, "href" => "http://teahour.fm/images/logo.png"
     xml.itunes :category, "text" => "Technology"
     xml.itunes :category, "text" => "Software How-To"
     xml.itunes :category, "text" => "Gadgets"
@@ -32,7 +32,7 @@ xml.rss "xmlns:itunes" => "http://www.itunes.com/dtds/podcast-1.0.dtd", "version
         xml.title article.title
         xml.itunes :author, article.data["host"]
         xml.itunes :summary, article.summary, "type" => "html"
-        xml.itunes :image, "href" => "http://teahour.fm/images/logo.jpg"
+        xml.itunes :image, "href" => "http://teahour.fm/images/logo.png"
         xml.description article.body, "type" => "html"
         xml.link "http://teahour.fm#{article.url}"
         xml.enclosure "url" => article.data["mp3_link"], "type" => "audio/x-m4a"
