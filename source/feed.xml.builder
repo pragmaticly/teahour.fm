@@ -29,7 +29,7 @@ xml.rss "xmlns:itunes" => "http://www.itunes.com/dtds/podcast-1.0.dtd", "version
 
     blog.articles.each do |article|
       xml.item do
-        xml.title article.title
+        xml.title "##{article.data['idx']} #{article.title}"
         xml.itunes :author, article.data["host"]
         xml.itunes :summary, article.summary, "type" => "html"
         xml.itunes :image, "href" => "http://teahour.fm/images/logo.png"

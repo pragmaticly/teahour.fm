@@ -40,6 +40,8 @@ $ ->
       $(this).parent().prepend("<p>...</p>")
   audioPlayer()
   shareToSocial()
+  $("article").find('a').each (idx, elem) ->
+    $(elem).attr("target", "_blank")
 
 # Modernizr.load [
   # {
