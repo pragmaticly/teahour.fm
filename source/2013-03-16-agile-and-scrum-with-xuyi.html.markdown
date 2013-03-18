@@ -11,7 +11,7 @@ guests:
 duration: 1:27:45
 ---
 
-本期由 [Dingding Ye](http://yedingding.com) 主持，参与嘉宾有 [徐毅](http://kaverjody.com) 和 [Terry Tai](http://terrytail.com)。徐毅老师目前是 Nokia 公司的敏捷和精益教练，专长于大型组织(>500人)的敏捷迁徙转变，著有译本 [团队之美](http://book.douban.com/subject/4803982/)，[管理 3.0](http://book.douban.com/subject/10484469/) 和 [Scrum 要素](http://book.douban.com/subject/20507350/)，目前正在译一本敏捷测试相关的书 [大测大悟](http://www.ituring.com.cn/book/895)。本期徐毅老师到 Teahour，跟我们一起分享了他在敏捷实践，Scrum实践以及敏捷测试上的一些心得和经验。
+本期由 [Dingding Ye](http://yedingding.com) 主持，参与嘉宾有 [徐毅](http://kaverjody.com) 和 [Terry Tai](http://terrytail.com)。徐毅老师目前是 Nokia 公司的敏捷和精益教练，专长于大型组织(>500人)的敏捷迁徙转变，著有译本 [团队之美](http://book.douban.com/subject/4803982/)，[管理 3.0](http://book.douban.com/subject/10484469/) 和 [Scrum 要素](http://book.douban.com/subject/20507350/)，目前正在写作一本敏捷测试相关的书 [大测大悟](http://www.ituring.com.cn/book/895)。本期徐毅老师到 Teahour，跟我们一起分享了他在敏捷实践，Scrum实践以及敏捷测试上的一些心得和经验。
 
 徐毅老师的一些联系方式:
 
