@@ -27,7 +27,7 @@
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
     <item>
-      <title>你应该知道的 Agile 和 Scrum</title>
+      <title>#7 你应该知道的 Agile 和 Scrum</title>
       <itunes:author>dingding</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://kaverjody.com"&gt;徐毅&lt;/a&gt; 和 &lt;a href="http://terrytail.com"&gt;Terry Tai&lt;/a&gt;。徐毅老师目前是 Nokia 公司的敏捷和精益教练，专长于大型组织(&amp;gt;500人)的敏捷迁徙转变，著有译本 &lt;a href="http://book.douban.com/subject/4803982/"&gt;团队之美&lt;/a&gt;，&lt;a href="http://book.douban.com/subject/10484469/"&gt;管理 3.0&lt;/a&gt; 和 &lt;a href="http://book.douban.com/subject/20507350/"&gt;Scrum 要素&lt;/a&gt;，目前正在写作一本敏捷测试相关的书 &lt;a href="http://www.ituring.com.cn/book/895"&gt;大测大悟&lt;/a&gt;。本期徐毅老师到 Teahour，跟我们一起分享了他在敏捷实践，Scrum实践以及敏捷测试上的一些心得和经验。&lt;/p&gt;
 </itunes:summary>
@@ -71,7 +71,7 @@
       <itunes:keywords>agile, scrum</itunes:keywords>
     </item>
     <item>
-      <title>Git, GitHub and GitLab</title>
+      <title>#6 Git, GitHub and GitLab</title>
       <itunes:author>daniel</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://saito.im"&gt;SaitoWu&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。武鑫(Saito) 是著名自托管 Git 项目仓库开源项目 &lt;a href="http://gitlabhq.com"&gt;GitLab&lt;/a&gt; 的核心开发者之一，也是 &lt;a href="http://rubyconfchina.org"&gt;RubyConfChina 2012&lt;/a&gt; 的讲师，给大家做了期很精彩的 GitLab 实现介绍。本期我们很荣幸能请到 SaitoWu 同学来跟大家聊聊他的从业经历，他所感兴趣的话题，包括 &lt;a href="http://git-scm.com"&gt;Git&lt;/a&gt;，&lt;a href="http://github.com"&gt;GitHub&lt;/a&gt;，以及 &lt;a href="http://gitlabhq.com"&gt;GitLab&lt;/a&gt;。&lt;/p&gt;
 </itunes:summary>
@@ -129,7 +129,7 @@
       <itunes:keywords>git, github, gitlab</itunes:keywords>
     </item>
     <item>
-      <title>Hardware for developers</title>
+      <title>#5 Hardware for developers</title>
       <itunes:author>terry</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt;。本期由所有Teahour创始人和大家一起聊聊开发中用到的硬件和选购的一些技巧以及如何锻炼和保护程序员的身体。&lt;/p&gt;
 
@@ -189,7 +189,7 @@
       <itunes:keywords>hardware, lifestyle</itunes:keywords>
     </item>
     <item>
-      <title>Interview with Ashchan on app development</title>
+      <title>#4 Interview with Ashchan on app development</title>
       <itunes:author>dingding</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请了 &lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt; 的核心开发者之一和 Mac 版的作者 &lt;a href="http://ashchan.com/"&gt;Ashchan&lt;/a&gt; 给大家分享了他在 Mac 桌面应用和 iOS/Android 移动开发上的一些心得体会。同时参与嘉宾有 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;。主要涉及内容有:&lt;/p&gt;
 
@@ -235,7 +235,7 @@
       <itunes:keywords>osx, mobile, iOS, Android, RubyMotion, MacRuby, HTML5</itunes:keywords>
     </item>
     <item>
-      <title>Interview with xdite on personal growth</title>
+      <title>#3 Interview with xdite on personal growth</title>
       <itunes:author>kevin</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，邀请了台湾著名 Rubyist 和技术博主 &lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt;。xdite 在去年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China 2012&lt;/a&gt; 里面给做了非常精彩的演讲，在本期 podcast 里她围绕着两条主线 1) 学习成长经历，以及从T客帮到创业的职业经历 2) 如何招聘，如何培养新人和团队管理， 分享了个人心得。同时参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt; 和 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。&lt;/p&gt;
 </itunes:summary>
@@ -275,7 +275,7 @@
       <itunes:keywords>personal growth, team development, project management, rails training</itunes:keywords>
     </item>
     <item>
-      <title>How to Learning Ruby and Rails</title>
+      <title>#2 How to Learning Ruby and Rails</title>
       <itunes:author>daniel</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt;。四位 Teahour.fm 的主持全部到位，一期讨论了 Ruby 与 Rails 的学习经历和对初学者的学习建议。Kevin Wang 是 Rails 在线教育 &lt;a href="http://gotealeaf.com/"&gt;GoTeaLeaf&lt;/a&gt; 的创始人之一，他介绍了一下这个课程安排的考虑以及目前 Rails 在线教学的几种不同模式。&lt;/p&gt;
 </itunes:summary>
@@ -312,7 +312,7 @@
       <itunes:keywords>ruby, rails, book, education</itunes:keywords>
     </item>
     <item>
-      <title>The beginning of Teahour.fm show</title>
+      <title>#1 The beginning of Teahour.fm show</title>
       <itunes:author>terry</itunes:author>
       <itunes:summary type="html">&lt;p&gt;迈出了第一步，由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt; 和 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。三位 Teahour.fm 的主持人讨论了自己经常听的 podcasts 和国内 Ruby/Rails 社区的现状和发展，包括 &lt;a href="http://ruby-china.org"&gt;Ruby China&lt;/a&gt; 和 &lt;a href="http://railscasts-china.org"&gt;RailsCasts China&lt;/a&gt;。之后是技术话题，讨论了自己使用过的各种 Javascript 框架。&lt;/p&gt;
 </itunes:summary>
