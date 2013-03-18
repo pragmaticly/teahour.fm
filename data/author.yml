@@ -1,17 +1,17 @@
 dingding:
   name: "Dingding Ye"
   email: "yedingding@gmail.com"
-  avatar: "yedingding.jpg"
+  avatar: "yedingding.png"
   link: "http://yedingding.com"
 terry:
   name: "Terry Tai"
   email: "poshboytl@gmail.com"
-  avatar: "terry.jpg"
+  avatar: "terry.png"
   link: "http://terrytai.com"
 daniel:
   name: "Daniel Lv"
   email: "lgn21st@gmail.com"
-  avatar: "daniel.jpg"
+  avatar: "daniel.png"
   link: "http://lvguoning.com"
 kevin:
   name: "Kevin Wang"
@@ -19,9 +19,9 @@ kevin:
   avatar: "kevin.jpg"
   link: "http://knwang.com"
 ash:
-  name: "Ashchan"
+  name: "陈建明 (Ashchan)"
   email: "ashchan@gmail.com"
-  avatar: "ashchan.jpg"
+  avatar: "ashchan.png"
   link: "http://ashchan.com"
 xdite:
   name: "鄭伊廷 (xdite)"
@@ -33,3 +33,8 @@ saito:
   email: "saitowu@gmail.com"
   avatar: "saito.jpg"
   link: "http://saito.im/"
+kaverjody:
+  name: "徐毅 (kaverjody)"
+  email: "kaverjody@gmail.com"
+  avatar: "kaverjody.png"
+  link: "http://kaverjody.com/"
