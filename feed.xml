@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>2013-03-11T02:42:00Z</updated>
-    <lastBuildDate>2013-03-11T02:42:00Z</lastBuildDate>
-    <pubDate>2013-03-11T02:42:00Z</pubDate>
+    <updated>2013-03-16T03:06:00Z</updated>
+    <lastBuildDate>2013-03-16T03:06:00Z</lastBuildDate>
+    <pubDate>2013-03-16T03:06:00Z</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,50 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>你应该知道的 Agile 和 Scrum</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://kaverjody.com"&gt;徐毅&lt;/a&gt; 和 &lt;a href="http://terrytail.com"&gt;Terry Tai&lt;/a&gt;。徐毅老师目前是 Nokia 公司的敏捷和精益教练，专长于大型组织(&amp;gt;500人)的敏捷迁徙转变，著有译本 &lt;a href="http://book.douban.com/subject/4803982/"&gt;团队之美&lt;/a&gt;，&lt;a href="http://book.douban.com/subject/10484469/"&gt;管理 3.0&lt;/a&gt; 和 &lt;a href="http://book.douban.com/subject/20507350/"&gt;Scrum 要素&lt;/a&gt;，目前正在译一本敏捷测试相关的书 &lt;a href="http://www.ituring.com.cn/book/895"&gt;大测大悟&lt;/a&gt;。本期徐毅老师到 Teahour，跟我们一起分享了他在敏捷实践，Scrum实践以及敏捷测试上的一些心得和经验。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://kaverjody.com"&gt;徐毅&lt;/a&gt; 和 &lt;a href="http://terrytail.com"&gt;Terry Tai&lt;/a&gt;。徐毅老师目前是 Nokia 公司的敏捷和精益教练，专长于大型组织(&amp;gt;500人)的敏捷迁徙转变，著有译本 &lt;a href="http://book.douban.com/subject/4803982/"&gt;团队之美&lt;/a&gt;，&lt;a href="http://book.douban.com/subject/10484469/"&gt;管理 3.0&lt;/a&gt; 和 &lt;a href="http://book.douban.com/subject/20507350/"&gt;Scrum 要素&lt;/a&gt;，目前正在译一本敏捷测试相关的书 &lt;a href="http://www.ituring.com.cn/book/895"&gt;大测大悟&lt;/a&gt;。本期徐毅老师到 Teahour，跟我们一起分享了他在敏捷实践，Scrum实践以及敏捷测试上的一些心得和经验。&lt;/p&gt;
+
+&lt;p&gt;徐毅老师的一些联系方式:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/17376122"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://twitter.com/kaverjody"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.linkedin.com/in/kaveri"&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://scrum.kaverjody.com/"&gt;Scrum 要素&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://agilemanifesto.org/"&gt;敏捷宣言&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://agilemanifesto.org/iso/zhchs/"&gt;敏捷宣言中文版&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://scrum.org"&gt;The Home of Scrum&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.extremeprogramming.org/"&gt;XP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://cb.hbsp.harvard.edu/cb/web/product_detail.seam;jsessionid=8D8BACDD4CC4F2F87B3CD58D2ED10332?R=86116-PDF-ENG&amp;amp;conversationId=22181&amp;amp;E=48834"&gt;IT 新产品开发游戏&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.institute.nhs.uk/quality_and_service_improvement_tools/quality_and_service_improvement_tools/plan_do_study_act.html"&gt;PDSA: Plan, Do, Studay, Act&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://scrumalliance.org/"&gt;Scrum Alliance&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.scrum.org/Portals/0/Documents/Scrum%20Guides/Scrum%20Guide%20-%20CN.pdf"&gt;Scrum 指南&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Kanban_(development)"&gt;Kanban&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.agiletestingdays.com/"&gt;Agile Testing Day&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://skillsmatter.com/course/agile-testing/practical-agile-testing-janet-gregory"&gt;Practical Agile Testing with Janet Gregory&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468"&gt;Agile Testing&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pragprog.com/book/pad/practices-of-an-agile-developer"&gt;Practices of an Agile Developer&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pragprog.com/book/ehxta/explore-it"&gt;Explore It!&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/03/16/agile-and-scrum-with-xuyi.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_7.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_7.m4a</guid>
+      <pubDate>2013-03-16T03:06:00Z</pubDate>
+      <itunes:duration>5265</itunes:duration>
+      <itunes:keywords>agile, scrum</itunes:keywords>
+    </item>
     <item>
       <title>Git, GitHub and GitLab</title>
       <itunes:author>daniel</itunes:author>
