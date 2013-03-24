@@ -1,6 +1,6 @@
 ---
 idx: 2
-title: "How to Learning Ruby and Rails"
+title: "How to Learn Ruby and Rails"
 date: 2013-02-03 22:00 +08:00
 tags: ruby, rails, book, education
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_2.mp3"
