@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>2013-03-16T03:06:00Z</updated>
-    <lastBuildDate>2013-03-16T03:06:00Z</lastBuildDate>
-    <pubDate>2013-03-16T03:06:00Z</pubDate>
+    <updated>2013-03-24T16:00:00Z</updated>
+    <lastBuildDate>2013-03-24T16:00:00Z</lastBuildDate>
+    <pubDate>2013-03-24T16:00:00Z</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,60 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#8 GitLab 的故事</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://saito.im"&gt;SaitoWu&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。武鑫(Saito) 是著名自托管 Git 项目仓库开源项目 &lt;a href="http://gitlabhq.com"&gt;GitLab&lt;/a&gt; 的核心开发者之一，也是 &lt;a href="http://rubyconfchina.org"&gt;RubyConfChina 2012&lt;/a&gt; 的讲师。本期 SaitoWu 同学继续&lt;a href="/2013/03/11/git-github-and-gitlab.html"&gt;第六期&lt;/a&gt;的话题，跟我们聊聊 Gitlab 的故事，包括 Gitlab 的项目领导人 &lt;a href="https://github.com/randx"&gt;Randx&lt;/a&gt; 其人，武鑫如何成为 Gitlab 的核心开发者之一，Gitlab 这个开源项目对武鑫产生的影响可以给我们带来什么样的启发，以及对 Gitlab 将来发展的展望。在节目的最后，武鑫回答了大家关心的问题。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://saito.im"&gt;SaitoWu&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。武鑫(Saito) 是著名自托管 Git 项目仓库开源项目 &lt;a href="http://gitlabhq.com"&gt;GitLab&lt;/a&gt; 的核心开发者之一，也是 &lt;a href="http://rubyconfchina.org"&gt;RubyConfChina 2012&lt;/a&gt; 的讲师。本期 SaitoWu 同学继续&lt;a href="/2013/03/11/git-github-and-gitlab.html"&gt;第六期&lt;/a&gt;的话题，跟我们聊聊 Gitlab 的故事，包括 Gitlab 的项目领导人 &lt;a href="https://github.com/randx"&gt;Randx&lt;/a&gt; 其人，武鑫如何成为 Gitlab 的核心开发者之一，Gitlab 这个开源项目对武鑫产生的影响可以给我们带来什么样的启发，以及对 Gitlab 将来发展的展望。在节目的最后，武鑫回答了大家关心的问题。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org/topics/9382"&gt;Gitlab 专题问题收集帖&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://railscasts-china.com/episodes/rubyconf-2012-saito-how-getlab-works"&gt;How Gitlab Works&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://speakerdeck.com/saito/how-gitlab-works"&gt;How Gitlab Works PPT&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/randx"&gt;Randx&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/gitlabhq?tab=members"&gt;Gitlab core team members&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gitlab.com"&gt;Gitlab.com&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://blog.gitlab.com/2013/01/24/dmitriy-zaporozhets-joins-gitlab-com-as-a-co-founder/"&gt;Randx join Gitlab.com as a co-founder&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Internet_Relay_Chat"&gt;IRC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://groups.google.com/forum/?fromgroups#!forum/gitlabhq"&gt;Gitlab Googlegroup&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/SaitoWu/grit_ext"&gt;grit_ext&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.elderscrolls.com/skyrim"&gt;Skyrim 上古卷轴5：天际&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://enterprise.github.com/"&gt;Github Enterprise&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/20471120/"&gt;打造Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/search/%E7%8E%8B%E6%B7%AE"&gt;王淮&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/blog/642-smart-http-support"&gt;Smart HTTP Support&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/schacon"&gt;Scott Chacon&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/tv42/gitosis"&gt;Gitosis&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/sitaramc/gitolite"&gt;Gitolite&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/SaitoWu/grack"&gt;grack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://git-scm.com/book/en/Git-Internals-Transfer-Protocols"&gt;Git Transfer Protocols&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://blog.gitlab.org/gitlab-5-dot-0-has-been-released/"&gt;GitLab 5.0&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/gitlabhq/gitlab-shell"&gt;Gitlab Shell&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://help.github.com/articles/post-receive-hooks"&gt;Github Hooks&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/gitlabhq/gitlab-public-wiki/wiki/Hooks"&gt;Gitlab Hooks&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.redmine.org/"&gt;Project Management Tools&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/gitlabhq/gitlab-ci"&gt;Gitlab-CI&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://travis-ci.org/"&gt;Travis-CI&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://jenkins-ci.org/"&gt;Jenkins-CI&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gitolite.com/gitolite/mirroring.html"&gt;Gitolite Mirror&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://rubygems.org/gems/gitlab-grit"&gt;Gitlab-grit&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/gitlabhq/gitlab-recipes"&gt;Gitlab-recipes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/gitlabhq/gitlab-vagrant-vm"&gt;gitlab-vagrant-vm&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.feedly.com/"&gt;Feedly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubygems.org/gems/gitlab_meta"&gt;gitlab_meta&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/03/25/story-of-gitlab.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_8.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_8.m4a</guid>
+      <pubDate>2013-03-24T16:00:00Z</pubDate>
+      <itunes:duration>6010</itunes:duration>
+      <itunes:keywords>git, gitlab</itunes:keywords>
+    </item>
     <item>
       <title>#7 你应该知道的 Agile 和 Scrum</title>
       <itunes:author>dingding</itunes:author>
