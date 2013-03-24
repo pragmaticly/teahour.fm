@@ -8,7 +8,7 @@ host: daniel
 guests:
   - saito
   - dingding
-duration: 1:39:52
+duration: 1:40:10
 ---
 
 本期由 [Daniel](http://lvguoning.com) 主持，参与嘉宾有 [SaitoWu](http://saito.im), [Dingding Ye](http://yedingding.com)。武鑫(Saito) 是著名自托管 Git 项目仓库开源项目 [GitLab](http://gitlabhq.com) 的核心开发者之一，也是 [RubyConfChina 2012](http://rubyconfchina.org) 的讲师。本期 SaitoWu 同学继续[第六期](/2013/03/11/git-github-and-gitlab.html)的话题，跟我们聊聊 Gitlab 的故事，包括 Gitlab 的项目领导人 [Randx](https://github.com/randx) 其人，武鑫如何成为 Gitlab 的核心开发者之一，Gitlab 这个开源项目对武鑫产生的影响可以给我们带来什么样的启发，以及对 Gitlab 将来发展的展望。在节目的最后，武鑫回答了大家关心的问题。
