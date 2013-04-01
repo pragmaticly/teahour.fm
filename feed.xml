@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>2013-03-24T16:00:00Z</updated>
-    <lastBuildDate>2013-03-24T16:00:00Z</lastBuildDate>
-    <pubDate>2013-03-24T16:00:00Z</pubDate>
+    <updated>2013-04-01T09:00:00Z</updated>
+    <lastBuildDate>2013-04-01T09:00:00Z</lastBuildDate>
+    <pubDate>2013-04-01T09:00:00Z</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,39 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#9 与Rails创始人DHH聊Rails</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;主持, 并有幸邀请到Ruby on Rails创始人David Heinemeier
+Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://david.heinemeierhansson.com/"&gt;DHH&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyonrails.org/"&gt;Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://37signals.com/"&gt;37signals&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;主持, 并有幸邀请到Ruby on Rails创始人David Heinemeier
+Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://david.heinemeierhansson.com/"&gt;DHH&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyonrails.org/"&gt;Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://37signals.com/"&gt;37signals&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/04/01/interview-with-dhh-about-rails.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_dhh.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_dhh.m4a</guid>
+      <pubDate>2013-04-01T09:00:00Z</pubDate>
+      <itunes:duration>5466</itunes:duration>
+      <itunes:keywords>rails</itunes:keywords>
+    </item>
     <item>
       <title>#8 GitLab 的故事</title>
       <itunes:author>daniel</itunes:author>
@@ -76,7 +109,7 @@
       <link>http://teahour.fm/2013/03/25/story-of-gitlab.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_8.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_8.m4a</guid>
-      <pubDate>2013-03-24T16:00:00Z</pubDate>
+      <pubDate>2013-03-25T02:00:00Z</pubDate>
       <itunes:duration>6010</itunes:duration>
       <itunes:keywords>git, gitlab</itunes:keywords>
     </item>
