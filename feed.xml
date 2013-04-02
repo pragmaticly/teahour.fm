@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>2013-04-02T02:00:00Z</updated>
-    <lastBuildDate>2013-04-02T02:00:00Z</lastBuildDate>
-    <pubDate>2013-04-02T02:00:00Z</pubDate>
+    <updated>2013-04-02T09:00:00Z</updated>
+    <lastBuildDate>2013-04-02T09:00:00Z</lastBuildDate>
+    <pubDate>2013-04-02T09:00:00Z</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -29,7 +29,7 @@
     <item>
       <title>#10 开源软件和GitCafe</title>
       <itunes:author>kevin</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;主持, 邀请到上海Linux User Group 的负责人和GitCafe的创始人 Thomas Yao 来聊聊开源软件的话题和GitCafe 的创业经历。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;主持, 邀请到上海Linux User Group 的负责人和GitCafe的创始人 Thomas Yao 来聊聊开源软件的话题和GitCafe 的创业经历。 &lt;/p&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
@@ -39,7 +39,7 @@
 &lt;/section&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;本期由&lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;主持, 邀请到上海Linux User Group 的负责人和GitCafe的创始人 Thomas Yao 来聊聊开源软件的话题和GitCafe 的创业经历。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;主持, 邀请到上海Linux User Group 的负责人和GitCafe的创始人 Thomas Yao 来聊聊开源软件的话题和GitCafe 的创业经历。 &lt;/p&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
@@ -54,7 +54,7 @@
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/GNU_Project"&gt;GNU project&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Linus_Torvalds"&gt;Linus Torvalds&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.thelinuxdaily.com/2010/04/the-first-linux-announcement-from-linus-torvalds"&gt;Announcement of Linux&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=CjaC8Pq9-V"&gt;Revolution OS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=CjaC8Pq9-V0B"&gt;Revolution OS&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Eric_S._Raymond"&gt;Eric S Raymond&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/GNU_General_Public_Licens"&gt;GPL License&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/MIT_License"&gt;MIT License&lt;/a&gt;&lt;/li&gt;
@@ -71,7 +71,7 @@
       <link>http://teahour.fm/2013/04/02/open-source-software-and-gitcafe.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_9.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_9.m4a</guid>
-      <pubDate>2013-04-02T02:00:00Z</pubDate>
+      <pubDate>2013-04-02T09:00:00Z</pubDate>
       <itunes:duration>5466</itunes:duration>
       <itunes:keywords>Open Source Software, Github, GitCafe</itunes:keywords>
     </item>
