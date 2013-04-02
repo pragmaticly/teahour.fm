@@ -25,7 +25,7 @@ duration: 1:31:06
   * [GNU project](http://en.wikipedia.org/wiki/GNU_Project)
   * [Linus Torvalds](http://en.wikipedia.org/wiki/Linus_Torvalds)
   * [Announcement of Linux](http://www.thelinuxdaily.com/2010/04/the-first-linux-announcement-from-linus-torvalds)
-  * [Revolution OS](http://www.youtube.com/watch?v=CjaC8Pq9-V0B)
+  * [Revolution OS](https://www.google.com/#hl=en&safe=off&sclient=psy-ab&q=revolution+os&oq=revolution+os)
   * [Eric S Raymond](http://en.wikipedia.org/wiki/Eric_S._Raymond)
   * [GPL License](http://en.wikipedia.org/wiki/GNU_General_Public_Licens)
   * [MIT License](http://en.wikipedia.org/wiki/MIT_License)
