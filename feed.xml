@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>2013-04-01T09:00:00Z</updated>
-    <lastBuildDate>2013-04-01T09:00:00Z</lastBuildDate>
-    <pubDate>2013-04-01T09:00:00Z</pubDate>
+    <updated>2013-04-02T02:00:00Z</updated>
+    <lastBuildDate>2013-04-02T02:00:00Z</lastBuildDate>
+    <pubDate>2013-04-02T02:00:00Z</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,55 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#10 开源软件和GitCafe</title>
+      <itunes:author>kevin</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;主持, 邀请到上海Linux User Group 的负责人和GitCafe的创始人 Thomas Yao 来聊聊开源软件的话题和GitCafe 的创业经历。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/ghosTM55"&gt;Thomas Yao&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.shlug.org/"&gt;Shanghai Linux User Group&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;主持, 邀请到上海Linux User Group 的负责人和GitCafe的创始人 Thomas Yao 来聊聊开源软件的话题和GitCafe 的创业经历。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/ghosTM55"&gt;Thomas Yao&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.shlug.org/"&gt;Shanghai Linux User Group&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://gitcafe.com/"&gt;GitCafe&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.debian.org/"&gt;Debian&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gentoo.org/"&gt;Gentoo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.linuxfromscratch.org/lfs/"&gt;LFS - Linux From Scratch&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.archlinux.org/"&gt;Arch Linux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Richard_Stallma"&gt;Richard Stallman&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/GNU_Project"&gt;GNU project&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Linus_Torvalds"&gt;Linus Torvalds&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.thelinuxdaily.com/2010/04/the-first-linux-announcement-from-linus-torvalds"&gt;Announcement of Linux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=CjaC8Pq9-V"&gt;Revolution OS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Eric_S._Raymond"&gt;Eric S Raymond&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/GNU_General_Public_Licens"&gt;GPL License&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/MIT_License"&gt;MIT License&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://stinkybad.com"&gt;Skinkybad&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://500px.com"&gt;500px&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.thefancy.com"&gt;Fancy&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://overapi.com"&gt;Overapi&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://martinfowler.com"&gt;Martin Fowler&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyrogues.com/097-rr-book-club-patterns-of-enterprise-architecture-with-martin-fowler"&gt;Ruby Rogue's Book Club with Martin Fowler&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.alfredapp.com"&gt;Alfred App&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/04/02/open-source-software-and-gitcafe.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_9.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_9.m4a</guid>
+      <pubDate>2013-04-02T02:00:00Z</pubDate>
+      <itunes:duration>5466</itunes:duration>
+      <itunes:keywords>Open Source Software, Github, GitCafe</itunes:keywords>
+    </item>
     <item>
       <title>#9 与Rails创始人DHH聊Rails</title>
       <itunes:author>terry</itunes:author>
