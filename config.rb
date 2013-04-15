@@ -149,7 +149,7 @@ configure :build do
 
   # Compress PNGs after build
   # use: https://github.com/middleman/middleman-smusher
-  activate :smusher
+  # activate :smusher
 
   # Gzip HTML, CSS, and JavaScript
   # see: https://github.com/middleman/middleman-guides/blob/master/source/advanced/file-size-optimization.html.markdown#gzip-text-files
