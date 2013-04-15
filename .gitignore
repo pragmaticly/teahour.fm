@@ -25,3 +25,5 @@
 
 !/vendor/javascripts/jquery/*
 !/vendor/javascripts/modernizr/modernizr.js
+
+/analytic
