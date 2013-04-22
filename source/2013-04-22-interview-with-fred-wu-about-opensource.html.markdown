@@ -2,7 +2,7 @@
 idx: 13
 title: "采访 Fred Wu 以及开源实践"
 date: 2013-04-22 16:50 +08:00
-mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_13.m4a"
+mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_13.m4a"
 host: daniel
 guests:
   - terry
