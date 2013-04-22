@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>2013-04-02T09:00:00Z</updated>
-    <lastBuildDate>2013-04-02T09:00:00Z</lastBuildDate>
-    <pubDate>2013-04-02T09:00:00Z</pubDate>
+    <updated>2013-04-22T08:50:00Z</updated>
+    <lastBuildDate>2013-04-22T08:50:00Z</lastBuildDate>
+    <pubDate>2013-04-22T08:50:00Z</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,147 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#13 采访 Fred Wu 以及开源实践</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;Fred Wu 是 Locomote 公司的技术经理，在工作之外，他衷于开源，是 Rails 社区知名的开源软件开发者，Rails框架的贡献者，Slim 模板引擎的开发者，他在上海出生，在澳洲读书，工作，Fred Wu 是 RubyConfChina 2012 的演讲嘉宾。&lt;/p&gt;
+
+&lt;p&gt;在本期访谈中，FredWu 从他在大学时代以自由职业者的身份开始接触项目，到技术话题包括 Ruby，Rails，PHP框架等，以及 Fred 如何参与开源实践，包括 Angle Nest 的故事，如何去给 Rails 贡献代码的，Slim 项目给我们带来的启发等等精彩内容。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;Fred Wu 是 Locomote 公司的技术经理，在工作之外，他衷于开源，是 Rails 社区知名的开源软件开发者，Rails框架的贡献者，Slim 模板引擎的开发者，他在上海出生，在澳洲读书，工作，Fred Wu 是 RubyConfChina 2012 的演讲嘉宾。&lt;/p&gt;
+
+&lt;p&gt;在本期访谈中，FredWu 从他在大学时代以自由职业者的身份开始接触项目，到技术话题包括 Ruby，Rails，PHP框架等，以及 Fred 如何参与开源实践，包括 Angle Nest 的故事，如何去给 Rails 贡献代码的，Slim 项目给我们带来的启发等等精彩内容。&lt;/p&gt;
+
+&lt;p&gt;About Fred Wu:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://fredwu.me"&gt;Fred Wu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/fredwu"&gt;Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/fredwu"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://envato.com"&gt;Envato&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tutsplus.com/"&gt;tutsplus&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://psd.tutsplus.com/"&gt;psd.tutsplus&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://themeforest.net"&gt;themeforest&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.sitepoint.com"&gt;Sitepoint&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ruby-lang.org/en/"&gt;Ruby&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyonrails.org"&gt;Rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://wordpress.org/"&gt;Wordpress&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://spreecommerce.com/"&gt;Spree&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.magentocommerce.com/"&gt;Magento&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/6783748/"&gt;写给程序员的Web设计书&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.locomote.com.au/"&gt;Locomote&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/kohana/core"&gt;Kohana&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.yiiframework.com"&gt;yiiframework&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://cakephp.org"&gt;CakePHP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ellislab.com/codeigniter"&gt;Codeigniter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/fredwu/angel_nest"&gt;Angle Nest&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://fredwu.me/post/9036730472/open-sourcing-a-200-hour-project-the-story-behind-it"&gt;Open-sourcing A 200+ Hour Project&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=2891907"&gt;Angle nest at Hac knews&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://angel.co"&gt;Angle List&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://contributors.rubyonrails.org/contributors/fred-wu/commits"&gt;Contribute to Rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/rails/rails/issues/9803"&gt;Upgrade from 3.2.12 to 3.2.13 makes loading of views become really slow&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/slim-template/slim"&gt;Slim&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/haml/haml"&gt;Haml&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://macheist.com"&gt;Mac apps bundle&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/fredwu/datamappify"&gt;datamappify&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.redline.st/"&gt;Redline&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://railscasts-china.com/episodes/rubyconf-2012-fred-wu"&gt;Become a Better Developer You Can&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/04/22/interview-with-fred-wu-about-opensource.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_13.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_13.m4a</guid>
+      <pubDate>2013-04-22T08:50:00Z</pubDate>
+      <itunes:duration>4360</itunes:duration>
+      <itunes:keywords>opensource</itunes:keywords>
+    </item>
+    <item>
+      <title>#12 SegmentFault 和黑客马拉松之运营篇</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://segmentfault.com/u/sunny"&gt;高阳&lt;/a&gt;，&lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 和 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt;。高阳是 &lt;a href="http://segmentfault.com"&gt;SegmentFault&lt;/a&gt; 的联合创始人，专门负责运营这一块。本期高阳来到 Teahour，跟大家分享了一下他在 SegmentFault 的运营经验和他们举办的活动黑客马拉松。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://segmentfault.com/u/sunny"&gt;高阳&lt;/a&gt;，&lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 和 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt;。高阳是 &lt;a href="http://segmentfault.com"&gt;SegmentFault&lt;/a&gt; 的联合创始人，专门负责运营这一块。本期高阳来到 Teahour，跟大家分享了一下他在 SegmentFault 的运营经验和他们举办的活动黑客马拉松。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://segmentfault.com/"&gt;SegmentFault&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://segmentfault.com/q/1010000000094490"&gt;SegmentFault 团队&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://typecho.org/"&gt;Typeecho&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://stackoverflow.com"&gt;StackOverflow&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://segmentfault.com/hackathon"&gt;黑客马拉松&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tech2ipo.com/"&gt;tech2ipo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://weibo.com/u/1739928273"&gt;苍老师&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://e.weibo.com/durexinchina"&gt;杜蕾斯官方微博&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mp.weixin.qq.com/cgi-bin/loginpage?t=wxm2-login&amp;amp;lang=zh_CN"&gt;微信公众平台&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://item.jd.com/348145.html"&gt;富士拍立得&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.youtube.com/user/therockcookiebottom/featured"&gt;A Song A Day&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.raspberrypi.org/"&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yedingding.com/2013/04/09/teahourfm-with-middleman.html"&gt;动态网站静态化的产物 Teahour.fm&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gotealeaf.com/"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/04/15/interview-with-sunshineg-on-marketing.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_12.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_12.m4a</guid>
+      <pubDate>2013-04-15T04:00:00Z</pubDate>
+      <itunes:duration>4293</itunes:duration>
+      <itunes:keywords>marketing, segmentfault, hackathon</itunes:keywords>
+    </item>
+    <item>
+      <title>#11 和Rei一起聊聊他的创业项目 -- Writings.io</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;主持, 并有幸邀请到&lt;a href="http://writings.io/"&gt;Writings.io&lt;/a&gt;的创始人Rei, 他将
+和我们一起聊聊Writings.io这个项目，以及背后的技术细节和设计思想。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/新世纪福音战士"&gt;新世纪福音战士&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.baike.com/wiki/%E5%87%8C%E6%B3%A2%E4%B8%BD"&gt;凌波丽&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;主持, 并有幸邀请到&lt;a href="http://writings.io/"&gt;Writings.io&lt;/a&gt;的创始人Rei, 他将
+和我们一起聊聊Writings.io这个项目，以及背后的技术细节和设计思想。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/新世纪福音战士"&gt;新世纪福音战士&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.baike.com/wiki/%E5%87%8C%E6%B3%A2%E4%B8%BD"&gt;凌波丽&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.csdn.net/"&gt;CSDN&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://codecampo.com/"&gt;CodeCampo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://writings.io/"&gt;Writings.io&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.csdn.net/"&gt;CSDN&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://robbinfan.com/"&gt;Robbin&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyonrails.org/"&gt;Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.mongodb.org/"&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/rails/turbolinks/"&gt;Turbolinks&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pjax.heroku.com/"&gt;PJAX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://basecamp.com/"&gt;Basecamp&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920018421.do"&gt;Javascript Web Application&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://twitter.github.io/flight/"&gt;Twitter Flight&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.google.com/nexus/7/"&gt;Nexus 7&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0"&gt;Kindle Paperwhite&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.com/articles/a860b125-buy-it"&gt;&amp;quot;Buy it&amp;quot;&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/04/08/interview-with-rei-about-writingsio.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_11.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_11.m4a</guid>
+      <pubDate>2013-04-08T04:00:00Z</pubDate>
+      <itunes:duration>5120</itunes:duration>
+      <itunes:keywords>writings.io, front mvc, solo project</itunes:keywords>
+    </item>
     <item>
       <title>#10 开源软件和GitCafe</title>
       <itunes:author>kevin</itunes:author>
@@ -54,7 +195,7 @@
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/GNU_Project"&gt;GNU project&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Linus_Torvalds"&gt;Linus Torvalds&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.thelinuxdaily.com/2010/04/the-first-linux-announcement-from-linus-torvalds"&gt;Announcement of Linux&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=CjaC8Pq9-V0B"&gt;Revolution OS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.google.com/#hl=en&amp;amp;safe=off&amp;amp;sclient=psy-ab&amp;amp;q=revolution+os&amp;amp;oq=revolution+os"&gt;Revolution OS&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Eric_S._Raymond"&gt;Eric S Raymond&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/GNU_General_Public_Licens"&gt;GPL License&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/MIT_License"&gt;MIT License&lt;/a&gt;&lt;/li&gt;
