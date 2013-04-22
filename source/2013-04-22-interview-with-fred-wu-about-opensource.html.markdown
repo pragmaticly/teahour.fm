@@ -7,6 +7,7 @@ host: daniel
 guests:
   - terry
   - fredwu
+tags: opensource
 duration: 1:12:40
 ---
 
@@ -14,10 +15,13 @@ Fred Wu 是 Locomote 公司的技术经理，在工作之外，他衷于开源�
 
 在本期访谈中，FredWu 从他在大学时代以自由职业者的身份开始接触项目，到技术话题包括 Ruby，Rails，PHP框架等，以及 Fred 如何参与开源实践，包括 Angle Nest 的故事，如何去给 Rails 贡献代码的，Slim 项目给我们带来的启发等等精彩内容。
 
+About Fred Wu:
+
+* [Fred Wu](http://fredwu.me)
+* [Github](https://github.com/fredwu)
+* [Twitter](https://twitter.com/fredwu)
+
 <section class="notes" markdown="1">
-  * [Blog](http://fredwu.me)
-  * [Github](https://github.com/fredwu)
-  * [Twitter](https://twitter.com/fredwu)
   * [Envato](http://envato.com)
   * [tutsplus](http://tutsplus.com/)
   * [psd.tutsplus](http://psd.tutsplus.com/)
