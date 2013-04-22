@@ -41,3 +41,8 @@ kaverjody:
 dhh:
   name: "David Heinemeier Hansson"
   avatar: "dhh.png"
+fredwu:
+  name: "Fred Wu"
+  avatar: "fredwu.png"
+  email: "ifredwu@gmail.com"
+  link: "http://fredwu.me"
