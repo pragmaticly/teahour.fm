@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>2013-04-22T08:50:00Z</updated>
-    <lastBuildDate>2013-04-22T08:50:00Z</lastBuildDate>
-    <pubDate>2013-04-22T08:50:00Z</pubDate>
+    <updated>2013-05-06T04:00:00Z</updated>
+    <lastBuildDate>2013-05-06T04:00:00Z</lastBuildDate>
+    <pubDate>2013-05-06T04:00:00Z</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,65 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#14 Become a Better Programmer with Avdi Grimm</title>
+      <itunes:author>kevin</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;Avdi Grimm 是 Ruby 社区知名的资深程序员，作者和社区领袖。在这期节目中我们请来 Avdi 来聊聊怎样突破“中级天花板”来达到更高的层次。&lt;/p&gt;
+
+&lt;p&gt;About Avdi Grimm:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://about.avdi.org/"&gt;Avdi Grimm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://shiprise.dpdcart.com/"&gt;Avdi's Publications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://rubyrogues.com/"&gt;Ruby Rogues&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;Avdi Grimm 是 Ruby 社区知名的资深程序员，作者和社区领袖。在这期节目中我们请来 Avdi 来聊聊怎样突破“中级天花板”来达到更高的层次。&lt;/p&gt;
+
+&lt;p&gt;About Avdi Grimm:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://about.avdi.org/"&gt;Avdi Grimm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://shiprise.dpdcart.com/"&gt;Avdi's Publications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://rubyrogues.com/"&gt;Ruby Rogues&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627"&gt;Growing Object Oriented Software Guided by Tests&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/dp/0321721330"&gt;Practical Object Oriented Design in Ruby&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X"&gt;Smalltalk Best Practice Patterns&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672"&gt;Factoring&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner"&gt;How Developers Stop Learning: Rise of the Expert Beginner&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=f5I1iyso29U"&gt;Go ahead and make a mess (Sandi Metz)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://chadfowler.com/blog/2013/04/09/who-i-want-to-hire/"&gt;Who I want to hire (Chad Fowler)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://learn.thoughtbot.com/podcast/44"&gt;I feel the opposite of burn out, interview with Chad Fowler&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.se-radio.net/"&gt;Software Engineering Radio&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.pairprogramwith.me/"&gt;Pair Programming with me&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://coreyhaines.com/"&gt;Corey Haines, Software Journeyman&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy"&gt;The hitchhiker's guide to the galaxy&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.wideteams.com/"&gt;Wide Teams&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.divshot.com/"&gt;DivShot&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://flexibits.com/fantastical"&gt;FantastiCal&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215"&gt;Domain Driven Design&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.destroyallsoftware.com/screencasts"&gt;Destroy All Software&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.rubytapas.com/"&gt;RubyTapas&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/05/06/become-a-better-programmer-with-avdi-grimm.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_14.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_14.m4a</guid>
+      <pubDate>2013-05-06T04:00:00Z</pubDate>
+      <itunes:duration>4479</itunes:duration>
+      <itunes:keywords>programming</itunes:keywords>
+    </item>
     <item>
       <title>#13 采访 Fred Wu 以及开源实践</title>
       <itunes:author>daniel</itunes:author>
