@@ -1,7 +1,7 @@
 ---
 idx: 14
 title: "Become a Better Programmer with Avdi Grimm"
-date: 2013-05-06 16:50 +08:00
+date: 2013-05-06 12:00 +08:00
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_14.m4a"
 host: kevin
 guests:
