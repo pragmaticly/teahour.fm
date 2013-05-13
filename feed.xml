@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>2013-05-06T04:00:00Z</updated>
-    <lastBuildDate>2013-05-06T04:00:00Z</lastBuildDate>
-    <pubDate>2013-05-06T04:00:00Z</pubDate>
+    <updated>Mon, 13 May 2013 09:00:00 -0000</updated>
+    <lastBuildDate>Mon, 13 May 2013 09:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 13 May 2013 09:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,51 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#15 采访36氪的技术总监 - 项新智</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;项新是国内知名科技媒体&lt;a href="http://www.36kr.com/"&gt;36氪&lt;/a&gt;的技术总监。负责36kr.com的开发维护以及架构工作。这一期我们和他聊聊36氪这个公司以及他们背后的一些故事。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://techcrunch.com/"&gt;Tech Crunch&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://news.ycombinator.com/"&gt;Hacker News&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tech2ipo.com/"&gt;tech2ipo&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;项新是国内知名科技媒体&lt;a href="http://www.36kr.com/"&gt;36氪&lt;/a&gt;的技术总监。负责36kr.com的开发维护以及架构工作。这一期我们和他聊聊36氪这个公司以及他们背后的一些故事。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://techcrunch.com/"&gt;Tech Crunch&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://news.ycombinator.com/"&gt;Hacker News&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tech2ipo.com/"&gt;tech2ipo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ifanr.com/"&gt;爱范儿&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.36kr.com/"&gt;36氪&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.aliyun.com/"&gt;阿里云&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.grandcloud.cn/"&gt;盛大云&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://open.qq.com/"&gt;腾讯云&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org/"&gt;RubyChina&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://capistranorb.com/"&gt;Capistrano&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.mongodb.org/"&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://nginx.org/"&gt;Nginx&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://unicorn.bogomips.org/"&gt;Unicorn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org/topics/10906"&gt;杭州Ruby开发者沙龙资料&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://itunes.apple.com/cn/app/ai-he-shui/id556249411?mt=8"&gt;爱喝水&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://task.li/"&gt;task.li&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://feedafever.com/"&gt;feedafever&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/05/13/interview-with-xinzhi-about-36kr.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_15.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_15.m4a</guid>
+      <pubDate>Mon, 13 May 2013 09:00:00 -0000</pubDate>
+      <itunes:duration>3623</itunes:duration>
+      <itunes:keywords>programming, media</itunes:keywords>
+    </item>
     <item>
       <title>#14 Become a Better Programmer with Avdi Grimm</title>
       <itunes:author>kevin</itunes:author>
@@ -81,7 +126,7 @@
       <link>http://teahour.fm/2013/05/06/become-a-better-programmer-with-avdi-grimm.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_14.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_14.m4a</guid>
-      <pubDate>2013-05-06T04:00:00Z</pubDate>
+      <pubDate>Mon, 06 May 2013 04:00:00 -0000</pubDate>
       <itunes:duration>4479</itunes:duration>
       <itunes:keywords>programming</itunes:keywords>
     </item>
@@ -141,7 +186,7 @@
       <link>http://teahour.fm/2013/04/22/interview-with-fred-wu-about-opensource.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_13.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_13.m4a</guid>
-      <pubDate>2013-04-22T08:50:00Z</pubDate>
+      <pubDate>Mon, 22 Apr 2013 08:50:00 -0000</pubDate>
       <itunes:duration>4360</itunes:duration>
       <itunes:keywords>opensource</itunes:keywords>
     </item>
@@ -176,7 +221,7 @@
       <link>http://teahour.fm/2013/04/15/interview-with-sunshineg-on-marketing.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_12.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_12.m4a</guid>
-      <pubDate>2013-04-15T04:00:00Z</pubDate>
+      <pubDate>Mon, 15 Apr 2013 04:00:00 -0000</pubDate>
       <itunes:duration>4293</itunes:duration>
       <itunes:keywords>marketing, segmentfault, hackathon</itunes:keywords>
     </item>
@@ -222,7 +267,7 @@
       <link>http://teahour.fm/2013/04/08/interview-with-rei-about-writingsio.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_11.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_11.m4a</guid>
-      <pubDate>2013-04-08T04:00:00Z</pubDate>
+      <pubDate>Mon, 08 Apr 2013 04:00:00 -0000</pubDate>
       <itunes:duration>5120</itunes:duration>
       <itunes:keywords>writings.io, front mvc, solo project</itunes:keywords>
     </item>
@@ -271,7 +316,7 @@
       <link>http://teahour.fm/2013/04/02/open-source-software-and-gitcafe.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_9.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_9.m4a</guid>
-      <pubDate>2013-04-02T09:00:00Z</pubDate>
+      <pubDate>Tue, 02 Apr 2013 09:00:00 -0000</pubDate>
       <itunes:duration>5466</itunes:duration>
       <itunes:keywords>Open Source Software, Github, GitCafe</itunes:keywords>
     </item>
@@ -304,7 +349,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/04/01/interview-with-dhh-about-rails.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_dhh.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_dhh.m4a</guid>
-      <pubDate>2013-04-01T09:00:00Z</pubDate>
+      <pubDate>Mon, 01 Apr 2013 09:00:00 -0000</pubDate>
       <itunes:duration>5466</itunes:duration>
       <itunes:keywords>rails</itunes:keywords>
     </item>
@@ -358,7 +403,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/03/25/story-of-gitlab.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_8.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_8.m4a</guid>
-      <pubDate>2013-03-25T02:00:00Z</pubDate>
+      <pubDate>Mon, 25 Mar 2013 02:00:00 -0000</pubDate>
       <itunes:duration>6010</itunes:duration>
       <itunes:keywords>git, gitlab</itunes:keywords>
     </item>
@@ -402,7 +447,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/03/16/agile-and-scrum-with-xuyi.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_7.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_7.m4a</guid>
-      <pubDate>2013-03-16T03:06:00Z</pubDate>
+      <pubDate>Sat, 16 Mar 2013 03:06:00 -0000</pubDate>
       <itunes:duration>5265</itunes:duration>
       <itunes:keywords>agile, scrum</itunes:keywords>
     </item>
@@ -460,7 +505,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/03/11/git-github-and-gitlab.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_6.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_6.m4a</guid>
-      <pubDate>2013-03-11T02:42:00Z</pubDate>
+      <pubDate>Mon, 11 Mar 2013 02:42:00 -0000</pubDate>
       <itunes:duration>4321</itunes:duration>
       <itunes:keywords>git, github, gitlab</itunes:keywords>
     </item>
@@ -520,7 +565,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/03/05/hardware-for-developers.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_5.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_5.m4a</guid>
-      <pubDate>2013-03-05T10:00:00Z</pubDate>
+      <pubDate>Tue, 05 Mar 2013 10:00:00 -0000</pubDate>
       <itunes:duration>5066</itunes:duration>
       <itunes:keywords>hardware, lifestyle</itunes:keywords>
     </item>
@@ -566,7 +611,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/02/19/interview-with-ashchan-on-mobile-development.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_4.mp3" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_4.mp3</guid>
-      <pubDate>2013-02-19T13:00:00Z</pubDate>
+      <pubDate>Tue, 19 Feb 2013 13:00:00 -0000</pubDate>
       <itunes:duration>5548</itunes:duration>
       <itunes:keywords>osx, mobile, iOS, Android, RubyMotion, MacRuby, HTML5</itunes:keywords>
     </item>
@@ -606,7 +651,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/02/09/personal-growth-by-xdite.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_3.mp3" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_3.mp3</guid>
-      <pubDate>2013-02-09T12:00:00Z</pubDate>
+      <pubDate>Sat, 09 Feb 2013 12:00:00 -0000</pubDate>
       <itunes:duration>4861</itunes:duration>
       <itunes:keywords>personal growth, team development, project management, rails training</itunes:keywords>
     </item>
@@ -643,7 +688,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/02/03/learning-ruby-and-rails.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_2.mp3" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_2.mp3</guid>
-      <pubDate>2013-02-03T14:00:00Z</pubDate>
+      <pubDate>Sun, 03 Feb 2013 14:00:00 -0000</pubDate>
       <itunes:duration>6632</itunes:duration>
       <itunes:keywords>ruby, rails, book, education</itunes:keywords>
     </item>
@@ -685,7 +730,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/01/19/1st_beginning.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/nil_podcast_1.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/nil_podcast_1.m4a</guid>
-      <pubDate>2013-01-19T15:00:00Z</pubDate>
+      <pubDate>Sat, 19 Jan 2013 15:00:00 -0000</pubDate>
       <itunes:duration>7167</itunes:duration>
       <itunes:keywords>ruby, ruby community, railscasts china, ruby china, javascript mvc</itunes:keywords>
     </item>
