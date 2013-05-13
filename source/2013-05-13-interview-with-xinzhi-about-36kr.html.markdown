@@ -11,7 +11,7 @@ tags: programming, media
 duration: 1:00:23
 ---
 
-项新智是国内知名技术媒体[36氪](http://www.36kr.com/)的技术总监。负责36kr.com的开发维护以及架构工作。这一期我们和他聊聊36氪这个公司以及他们背后的一些故事。
+项新是国内知名科技媒体[36氪](http://www.36kr.com/)的技术总监。负责36kr.com的开发维护以及架构工作。这一期我们和他聊聊36氪这个公司以及他们背后的一些故事。
 
 <section class="notes" markdown="1">
   * [Tech Crunch](http://techcrunch.com/)
