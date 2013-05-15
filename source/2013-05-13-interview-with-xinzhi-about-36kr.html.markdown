@@ -1,6 +1,6 @@
 ---
 idx: 15
-title: "采访36氪的技术总监 - 项新智"
+title: "采访36氪的技术总监 - 项新知"
 date: 2013-05-13 17:00 +08:00
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_15.m4a"
 host: terry
@@ -11,7 +11,7 @@ tags: programming, media
 duration: 1:00:23
 ---
 
-项新智是国内知名科技媒体[36氪](http://www.36kr.com/)的技术总监。负责36kr.com的开发维护以及架构工作。这一期我们和他聊聊36氪这个公司以及他们背后的一些故事。
+项新知是国内知名科技媒体[36氪](http://www.36kr.com/)的技术总监。负责36kr.com的开发维护以及架构工作。这一期我们和他聊聊36氪这个公司以及他们背后的一些故事。
 
 <section class="notes" markdown="1">
   * [Tech Crunch](http://techcrunch.com/)
