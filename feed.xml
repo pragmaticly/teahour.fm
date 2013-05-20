@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 13 May 2013 09:00:00 -0000</updated>
-    <lastBuildDate>Mon, 13 May 2013 09:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 13 May 2013 09:00:00 -0000</pubDate>
+    <updated>Mon, 20 May 2013 02:00:00 -0000</updated>
+    <lastBuildDate>Mon, 20 May 2013 02:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 20 May 2013 02:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -27,9 +27,66 @@
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
     <item>
-      <title>#15 采访36氪的技术总监 - 项新智</title>
+      <title>#16 采访暴走漫画 CTO 曹力(@ShiningRay) - 谈架构演进</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，&lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 协作主持，邀请到现&lt;a href="http://baozoumanhua.com/"&gt;暴走漫画&lt;/a&gt; CTO、&lt;a href="http://www.bling0.com/"&gt;博聆网&lt;/a&gt;创始人&lt;a href="http://shiningray.cn/"&gt;曹力(@ShiningRay)&lt;/a&gt;) 来聊聊暴走漫画的网站架构演进和性能优化的经验分享。&lt;/p&gt;
+
+&lt;p&gt;曹力的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/shiningray"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，&lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 协作主持，邀请到现&lt;a href="http://baozoumanhua.com/"&gt;暴走漫画&lt;/a&gt; CTO、&lt;a href="http://www.bling0.com/"&gt;博聆网&lt;/a&gt;创始人&lt;a href="http://shiningray.cn/"&gt;曹力(@ShiningRay)&lt;/a&gt;) 来聊聊暴走漫画的网站架构演进和性能优化的经验分享。&lt;/p&gt;
+
+&lt;p&gt;曹力的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/shiningray"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/ShiningRay"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://speakerdeck.com/shiningray/diao-si-cheng-xu-yuan-ru-he-da-zao-ri-pvbai-mo-de-wang-zhan-jia-gou"&gt;屌丝程序员如何打造日PV百万的网站架构&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yedingding.com/2013/05/14/ruby-event-5-11.html"&gt;杭州 Ruby 开发者沙龙活动总结&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.grandcloud.cn/"&gt;盛大云&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://nginx.org/"&gt;nginx&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.couchbase.com/membase"&gt;Membase&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://redis.io/"&gt;redis&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.couchbase.com/"&gt;Couchbase&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.upyun.com/"&gt;又拍云&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://dnspod.cn"&gt;DNSPod&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://newrelic.com/"&gt;New Relic&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://qiushibaike.com"&gt;糗事百科&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.percona.com/"&gt;Percona&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mariadb.org/"&gt;MariaDB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.youtube.com/playlist?list=PLuVcDOUVjW2ePvFapFSHBZ71ya2fLHZS5"&gt;Scaling Rails Screencasts&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/collectiveidea/delayed_job"&gt;delayed_job&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://sidekiq.org/"&gt;Sidekiq&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://httpd.apache.org/docs/2.2/programs/ab.html"&gt;ab&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287"&gt;High Performance MySQL&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.erlang.org/"&gt;Erlang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.josephjaber.com/articles/railsconf-2013-talks"&gt;Railsconf 2013 keynote&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://lessconf.lesseverything.com"&gt;LessConf&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.microconf.com"&gt;MicroConf&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/hooopo/second_level_cache"&gt;second_level_cache&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://kevindewalt.com/"&gt;Kevin Dewalt's Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/05/20/interview-with-shining-ray.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_16.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_16.m4a</guid>
+      <pubDate>Mon, 20 May 2013 02:00:00 -0000</pubDate>
+      <itunes:duration>3623</itunes:duration>
+      <itunes:keywords>high availability, deployment, performance optimization</itunes:keywords>
+    </item>
+    <item>
+      <title>#15 采访36氪的技术总监 - 项新知</title>
       <itunes:author>terry</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;项新是国内知名科技媒体&lt;a href="http://www.36kr.com/"&gt;36氪&lt;/a&gt;的技术总监。负责36kr.com的开发维护以及架构工作。这一期我们和他聊聊36氪这个公司以及他们背后的一些故事。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;项新知是国内知名科技媒体&lt;a href="http://www.36kr.com/"&gt;36氪&lt;/a&gt;的技术总监。负责36kr.com的开发维护以及架构工作。这一期我们和他聊聊36氪这个公司以及他们背后的一些故事。&lt;/p&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
@@ -40,7 +97,7 @@
 &lt;/section&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;项新是国内知名科技媒体&lt;a href="http://www.36kr.com/"&gt;36氪&lt;/a&gt;的技术总监。负责36kr.com的开发维护以及架构工作。这一期我们和他聊聊36氪这个公司以及他们背后的一些故事。&lt;/p&gt;
+      <description type="html">&lt;p&gt;项新知是国内知名科技媒体&lt;a href="http://www.36kr.com/"&gt;36氪&lt;/a&gt;的技术总监。负责36kr.com的开发维护以及架构工作。这一期我们和他聊聊36氪这个公司以及他们背后的一些故事。&lt;/p&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
