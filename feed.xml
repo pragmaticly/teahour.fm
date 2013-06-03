@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 20 May 2013 02:00:00 -0000</updated>
-    <lastBuildDate>Mon, 20 May 2013 02:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 20 May 2013 02:00:00 -0000</pubDate>
+    <updated>Mon, 03 Jun 2013 12:00:00 -0000</updated>
+    <lastBuildDate>Mon, 03 Jun 2013 12:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 03 Jun 2013 12:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,45 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#18 采访《七周七数据库》作者 Eric Redmond - 数据库的故事</title>
+      <itunes:author>kevin</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://sevenweeks.org/"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://sevenweeks.org/"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://basho.com"&gt;Basho&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pragprog.com/book/btlang/seven-languages-in-seven-weeks"&gt;Seven Languages in Seven Weeks&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.mongohq.com/‎"&gt;MongoHQ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/CAP_theorem"&gt;CAP theorem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.postgresql.org"&gt;PostgreSQL&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.mongodb.org"&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://couchdb.apache.org"&gt;CouchDB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://hbase.apache.org"&gt;HBase&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://cassandra.apache.org"&gt;Cassandra&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://redis.io"&gt;Redis&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.neo4j.org"&gt;Neo4J&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Dynamo_(storage_system)‎"&gt;Dynamo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Eventual_consistency"&gt;Eventual Consistency&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.google.com/glass/start/how-to-get-one/"&gt;Google Glass Explorer Program&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://littleriakbook.com"&gt;The Little Riak Book&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820"&gt;Antifragile: Things That Gain from Disorder&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://vimeo.com/40720794"&gt;Hashrocket Lunch n' Learn with Eric Redmond&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=HMTPFw9tIgY"&gt;Hashrocket Guest Star Interview: Eric Redmond&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/06/03/databases-with-eric-redmond.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_18.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_18.m4a</guid>
+      <pubDate>Mon, 03 Jun 2013 12:00:00 -0000</pubDate>
+      <itunes:duration>7317</itunes:duration>
+      <itunes:keywords>database, nosql</itunes:keywords>
+    </item>
     <item>
       <title>#16 采访暴走漫画 CTO 曹力(@ShiningRay) - 谈架构演进</title>
       <itunes:author>dingding</itunes:author>
