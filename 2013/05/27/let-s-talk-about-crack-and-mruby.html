@@ -11,12 +11,12 @@
     <meta charset="UTF-8">
 
     <title>
-        采访暴走漫画 CTO 曹力(@ShiningRay) - 谈架构演进
+        跟大牛们一起来聊聊 Crack 和 MRuby
  - Teahour.fm
     </title>
 
     <meta name="description" content="The chinese tech podcast focusing on programming, entrepreneurship and other geeky topics.">
-    <meta name="keywords" content="  ["high availability", "deployment", "performance optimization"]
+    <meta name="keywords" content="  ["crack", "mruby"]
 ">
     <meta name="author" content="Dingding Ye">
 
@@ -48,7 +48,7 @@
     })();</script>
   </head>
 
-  <body class="2013 2013_05 2013_05_20 2013_05_20_interview-with-shining-ray">
+  <body class="2013 2013_05 2013_05_27 2013_05_27_let-s-talk-about-crack-and-mruby">
 
     <header class="masthead">
       <hgroup>
@@ -58,14 +58,14 @@
 
       <ul class="participants">
           <li class="guest clock7">
-    <a href="http://www.bling0.com/" target="_blank"><img src="/images/shining_ray.png"/></a>
+    <a href="http://luikore.github.io/" target="_blank"><img src="/images/luikore.png"/></a>
   </li>
   <li class="host clock6">
-    <a href="http://yedingding.com" target="_blank"><img src="/images/yedingding.png"/></a>
+    <a href="http://lvguoning.com" target="_blank"><img src="/images/daniel.png"/></a>
   </li>
   
   <li class="guest clock5">
-    <a href="http://knwang.com" target="_blank"><img src="/images/kevin.jpg"/></a>
+    <a href="https://twitter.com/skandhas_nil" target="_blank"><img src="/images/skandhas.png"/></a>
   </li>
   
 
@@ -79,63 +79,84 @@
 
 <div class="player">
   <audio controls name="media">
-    <source src="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_16.m4a" type="audio/mpeg">
+    <source src="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_17.m4a" type="audio/mpeg">
   </audio>
 
   <ul class="actions">
-    <li><a href="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_16.m4a"><i class="icons-download"></i></a></li>
-    <li><a href=""><i class="icons-share" data-url="/2013/05/20/interview-with-shining-ray.html" data-title="采访暴走漫画 CTO 曹力(@ShiningRay) - 谈架构演进"></i></a></li>
+    <li><a href="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_17.m4a"><i class="icons-download"></i></a></li>
+    <li><a href=""><i class="icons-share" data-url="/2013/05/27/let-s-talk-about-crack-and-mruby.html" data-title="跟大牛们一起来聊聊 Crack 和 MRuby"></i></a></li>
   </ul>
 </div>
 
 <h2 class="title">
-  <small>#16 released on 05/20/2013</small>
-  采访暴走漫画 CTO 曹力(@ShiningRay) - 谈架构演进
+  <small>#17 released on 05/27/2013</small>
+  跟大牛们一起来聊聊 Crack 和 MRuby
 </h2>
 
 <dl>
-  <dt>Host:</dt><dd> Dingding Ye</dd>
-  <dt>Guests:</dt><dd> 曹力(ShiningRay), Kevin Wang</dd>
-  <dt>Topic:</dt><dd> high availability, deployment, performance optimization</dd>
+  <dt>Host:</dt><dd> Daniel Lv</dd>
+  <dt>Guests:</dt><dd> 吕戈(luikore), 王勇(skandhas)</dd>
+  <dt>Topic:</dt><dd> crack, mruby</dd>
 </dl>
 
 <h4>Show Notes:</h4>
 <div>
-  <p>本期由 <a href="http://yedingding.com">Dingding Ye</a> 主持，<a href="http://knwang.com">Kevin Wang</a> 协作主持，邀请到现<a href="http://baozoumanhua.com/">暴走漫画</a> CTO、<a href="http://www.bling0.com/">博聆网</a>创始人<a href="http://shiningray.cn/">曹力(@ShiningRay)</a>) 来聊聊暴走漫画的网站架构演进和性能优化的经验分享。</p>
+  <p>本期由 <a href="http://twitter.com/lgn21st">Daniel Lv</a> 主持，邀请了两位来自 <a href="http://ruby-china.org">RubyChina</a> 的大牛吕戈，王勇来 Teahour 做客，一起来聊聊 Crack，底层开发，MRuby，虚拟机，以及大牛是怎样练成的。本期分两个部分，本期为第一部分，由主持人和吕戈一起来访谈王勇，下期发布第二部分，由主持人和王勇反过来访谈吕戈。</p>
 
-<p>曹力的一些联系方式：</p>
+<p>吕戈: 独立 Mac App 开发者，曾于淘宝和 ThePlant 工作。长年在 Ruby-Forum 和 Ruby China 潜水，偶尔解答诸如 &quot;Y组合子怎么写最 cool&quot; 之类的问题。喜欢 Sinatra，并与武鑫共同开发了基于 Sinatra 的 <a href="http://yavaeye.com">鸭眼网</a>。曾向 Padrino 和 BlueCloth 贡献过一点微不足道的代码，发过一些不为人知的 Rubygems，偶尔在杭州 Ruby Tuesday 担任吐槽角色。</p>
 
 <ul>
-  <li><a href="https://twitter.com/shiningray">Twitter</a></li>
-  <li><a href="http://weibo.com/ShiningRay">Weibo</a></li>
+  <li>Twitter: <a href="https://twitter.com/night_song">https://twitter.com/night_song</a></li>
+  <li>Github: <a href="https://github.com/luikore">https://github.com/luikore</a></li>
+  <li>Blog: <a href="http://luikore.github.io/">http://luikore.github.io/</a></li>
+</ul>
+
+<p>王勇: 8 年 C/C++ 的从业经验，目前是一家 GPS 导航公司的资深技术研究员。是不折不扣的 Ruby 爱好者，MRuby 的 Code Committer。还是蓝光三人组的粉丝。也喜欢研究用 Ruby 捣鼓一些另类的玩意。</p>
+
+<ul>
+  <li>Twitter: <a href="https://twitter.com/skandhas_nil">https://twitter.com/skandhas_nil</a></li>
+  <li>Weibo: <a href="http://weibo.com/u/2338968722">http://weibo.com/u/2338968722</a></li>
+  <li>Github: <a href="https://github.com/skandhas">https://github.com/skandhas</a></li>
 </ul>
 
 <section class="notes">
   <ul>
-    <li><a href="https://speakerdeck.com/shiningray/diao-si-cheng-xu-yuan-ru-he-da-zao-ri-pvbai-mo-de-wang-zhan-jia-gou">屌丝程序员如何打造日PV百万的网站架构</a></li>
-    <li><a href="http://yedingding.com/2013/05/14/ruby-event-5-11.html">杭州 Ruby 开发者沙龙活动总结</a></li>
-    <li><a href="http://www.grandcloud.cn/">盛大云</a></li>
-    <li><a href="http://nginx.org/">nginx</a></li>
-    <li><a href="http://www.couchbase.com/membase">Membase</a></li>
-    <li><a href="http://redis.io/">redis</a></li>
-    <li><a href="http://www.couchbase.com/">Couchbase</a></li>
-    <li><a href="https://www.upyun.com/">又拍云</a></li>
-    <li><a href="https://dnspod.cn">DNSPod</a></li>
-    <li><a href="http://newrelic.com/">New Relic</a></li>
-    <li><a href="http://qiushibaike.com">糗事百科</a></li>
-    <li><a href="http://www.percona.com/">Percona</a></li>
-    <li><a href="http://mariadb.org/">MariaDB</a></li>
-    <li><a href="https://www.youtube.com/playlist?list=PLuVcDOUVjW2ePvFapFSHBZ71ya2fLHZS5">Scaling Rails Screencasts</a></li>
-    <li><a href="https://github.com/collectiveidea/delayed_job">delayed_job</a></li>
-    <li><a href="http://sidekiq.org/">Sidekiq</a></li>
-    <li><a href="http://httpd.apache.org/docs/2.2/programs/ab.html">ab</a></li>
-    <li><a href="http://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287">High Performance MySQL</a></li>
-    <li><a href="http://www.erlang.org/">Erlang</a></li>
-    <li><a href="http://www.josephjaber.com/articles/railsconf-2013-talks">Railsconf 2013 keynote</a></li>
-    <li><a href="http://lessconf.lesseverything.com">LessConf</a></li>
-    <li><a href="http://www.microconf.com">MicroConf</a></li>
-    <li><a href="https://github.com/hooopo/second_level_cache">second_level_cache</a></li>
-    <li><a href="http://kevindewalt.com/">Kevin Dewalt's Blog</a></li>
+    <li><a href="http://baike.baidu.com/view/1047304.htm">智能手机操作系统</a></li>
+    <li><a href="http://baike.baidu.com/view/802253.htm">派森</a></li>
+    <li><a href="http://www.ruby-lang.org/">Ruby Programming Language</a></li>
+    <li><a href="http://www.sleberknight.com/blog/sleberkn/resource/javaversusrubybooks.jpeg">Java V.S. Rails</a></li>
+    <li><a href="http://en.wikipedia.org/wiki/Software_cracking">Software cracking</a></li>
+    <li><a href="http://www.acdsee.com/">AcdSee</a></li>
+    <li><a href="http://baike.baidu.com/view/1189980.htm">静态分析</a></li>
+    <li><a href="http://baike.baidu.com/view/689086.htm">动态分析</a></li>
+    <li><a href="http://en.wikipedia.org/wiki/SoftICE">SoftICE</a></li>
+    <li><a href="http://teahour.fm/2013/02/19/interview-with-ashchan-on-mobile-development.html">AshChan</a></li>
+    <li><a href="http://baike.baidu.com/view/1351603.htm">trw2000</a></li>
+    <li><a href="http://liutaotao.com/">刘涛涛</a></li>
+    <li><a href="http://bbs.pediy.com/">看雪安全论坛</a></li>
+    <li><a href="http://jjhou.boolan.com/">侯捷</a></li>
+    <li><a href="http://baike.baidu.com/view/2413002.htm">深入浅出MFC</a></li>
+    <li><a href="http://book.douban.com/subject/1110934/">STL源码剖析</a></li>
+    <li><a href="http://book.douban.com/subject/1193565/">Word排版艺术</a></li>
+    <li><a href="http://book.douban.com/subject/1091086/">深度探索C++对象模型</a></li>
+    <li><a href="http://ruby-china.org/topics/4538">王勇大哥AI作品(1)</a></li>
+    <li><a href="http://ruby-china.org/topics/4684">王勇大哥AI作品(2)</a></li>
+    <li><a href="http://ruby-china.org/topics/4567">王勇大哥AI作品(3)</a></li>
+    <li><a href="https://github.com/mruby/mruby">MRuby</a></li>
+    <li><a href="https://github.com/matz">Matz</a></li>
+    <li><a href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=59579">MRuby ISO/IEC 30170:2012</a></li>
+    <li><a href="https://github.com/ko1">Koichi Sasada</a></li>
+    <li><a href="http://patshaughnessy.net/ruby-under-a-microscope">Ruby Under a Microscope</a></li>
+    <li><a href="http://rhg.rubyforge.org/">Ruby Hacking Guide</a></li>
+    <li><a href="https://github.com/bovi">Daniel Bovensiepen</a></li>
+    <li><a href="http://blog.mruby.sh/">mruby.sh</a></li>
+    <li><a href="http://shop.oreilly.com/product/0636920015482.do">Head First C</a></li>
+    <li><a href="http://en.wikipedia.org/wiki/Portable_Executable">Portable Executable Format</a></li>
+    <li><a href="http://en.wikipedia.org/wiki/Executable_and_Linkable_Format">Executable and Linkable Format</a></li>
+    <li><a href="http://www.amazon.com/Advanced-Programming-UNIX-Environment-2nd/dp/0201433079">Advanced Programming in the UNIX Environment</a></li>
+    <li><a href="http://www.jstorimer.com/products/working-with-unix-processes">Working With Unix Processes</a></li>
+    <li><a href="http://www.jstorimer.com/products/working-with-tcp-sockets">Working With TCP Sockets</a></li>
+    <li><a href="http://www.jstorimer.com/products/working-with-ruby-threads">Working With Ruby Threads</a></li>
   </ul>
 </section>
 
@@ -146,7 +167,7 @@
     <!-- <script type="text/javascript"> -->
     <!--     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */ -->
     <!--     var disqus_shortname = 'teahourfm'; // required: replace example with your forum shortname -->
-    <!--     var disqus_identifier = 'cto-shiningray'; -->
+    <!--     var disqus_identifier = 'crack-mruby'; -->
 
     <!--     /* * * DON'T EDIT BELOW THIS LINE * * */ -->
     <!--     (function() { -->
@@ -164,8 +185,8 @@
 
     <nav>
         <ul class="page-nav">
-    <li><a href="/2013/05/13/interview-with-xinzhi-about-36kr.html" class="prev"><i class="icon-angle-left"></i></a></li>
-    <li><a href="/2013/05/27/let-s-talk-about-crack-and-mruby.html" class="next"><i class="icon-angle-right"></i></a></li>
+    <li><a href="/2013/05/20/interview-with-shining-ray.html" class="prev"><i class="icon-angle-left"></i></a></li>
+    <li><a href="/2013/06/03/databases-with-eric-redmond.html" class="next"><i class="icon-angle-right"></i></a></li>
   </ul>
 
     </nav>
@@ -204,13 +225,13 @@
               
             
               
-              <li>
+              <li class="active">
                 <a href="/2013/05/27/let-s-talk-about-crack-and-mruby.html">#17 跟大牛们一起来聊聊 Crack 和 MRuby</a>
               </li>
               
             
               
-              <li class="active">
+              <li>
                 <a href="/2013/05/20/interview-with-shining-ray.html">#16 采访暴走漫画 CTO 曹力(@ShiningRay) - 谈架构演进</a>
               </li>
               

@@ -66,6 +66,80 @@
       <itunes:keywords>database, nosql</itunes:keywords>
     </item>
     <item>
+      <title>#17 跟大牛们一起来聊聊 Crack 和 MRuby</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://twitter.com/lgn21st"&gt;Daniel Lv&lt;/a&gt; 主持，邀请了两位来自 &lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt; 的大牛吕戈，王勇来 Teahour 做客，一起来聊聊 Crack，底层开发，MRuby，虚拟机，以及大牛是怎样练成的。本期分两个部分，本期为第一部分，由主持人和吕戈一起来访谈王勇，下期发布第二部分，由主持人和王勇反过来访谈吕戈。&lt;/p&gt;
+
+&lt;p&gt;吕戈: 独立 Mac App 开发者，曾于淘宝和 ThePlant 工作。长年在 Ruby-Forum 和 Ruby China 潜水，偶尔解答诸如 &amp;quot;Y组合子怎么写最 cool&amp;quot; 之类的问题。喜欢 Sinatra，并与武鑫共同开发了基于 Sinatra 的 &lt;a href="http://yavaeye.com"&gt;鸭眼网&lt;/a&gt;。曾向 Padrino 和 BlueCloth 贡献过一点微不足道的代码，发过一些不为人知的 Rubygems，偶尔在杭州 Ruby Tuesday 担任吐槽角色。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://twitter.com/lgn21st"&gt;Daniel Lv&lt;/a&gt; 主持，邀请了两位来自 &lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt; 的大牛吕戈，王勇来 Teahour 做客，一起来聊聊 Crack，底层开发，MRuby，虚拟机，以及大牛是怎样练成的。本期分两个部分，本期为第一部分，由主持人和吕戈一起来访谈王勇，下期发布第二部分，由主持人和王勇反过来访谈吕戈。&lt;/p&gt;
+
+&lt;p&gt;吕戈: 独立 Mac App 开发者，曾于淘宝和 ThePlant 工作。长年在 Ruby-Forum 和 Ruby China 潜水，偶尔解答诸如 &amp;quot;Y组合子怎么写最 cool&amp;quot; 之类的问题。喜欢 Sinatra，并与武鑫共同开发了基于 Sinatra 的 &lt;a href="http://yavaeye.com"&gt;鸭眼网&lt;/a&gt;。曾向 Padrino 和 BlueCloth 贡献过一点微不足道的代码，发过一些不为人知的 Rubygems，偶尔在杭州 Ruby Tuesday 担任吐槽角色。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href="https://twitter.com/night_song"&gt;https://twitter.com/night_song&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Github: &lt;a href="https://github.com/luikore"&gt;https://github.com/luikore&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Blog: &lt;a href="http://luikore.github.io/"&gt;http://luikore.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;王勇: 8 年 C/C++ 的从业经验，目前是一家 GPS 导航公司的资深技术研究员。是不折不扣的 Ruby 爱好者，MRuby 的 Code Committer。还是蓝光三人组的粉丝。也喜欢研究用 Ruby 捣鼓一些另类的玩意。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href="https://twitter.com/skandhas_nil"&gt;https://twitter.com/skandhas_nil&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Weibo: &lt;a href="http://weibo.com/u/2338968722"&gt;http://weibo.com/u/2338968722&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Github: &lt;a href="https://github.com/skandhas"&gt;https://github.com/skandhas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/1047304.htm"&gt;智能手机操作系统&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/802253.htm"&gt;派森&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ruby-lang.org/"&gt;Ruby Programming Language&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.sleberknight.com/blog/sleberkn/resource/javaversusrubybooks.jpeg"&gt;Java V.S. Rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Software_cracking"&gt;Software cracking&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.acdsee.com/"&gt;AcdSee&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/1189980.htm"&gt;静态分析&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/689086.htm"&gt;动态分析&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/SoftICE"&gt;SoftICE&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://teahour.fm/2013/02/19/interview-with-ashchan-on-mobile-development.html"&gt;AshChan&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/1351603.htm"&gt;trw2000&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://liutaotao.com/"&gt;刘涛涛&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://bbs.pediy.com/"&gt;看雪安全论坛&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://jjhou.boolan.com/"&gt;侯捷&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/2413002.htm"&gt;深入浅出MFC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/1110934/"&gt;STL源码剖析&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/1193565/"&gt;Word排版艺术&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/1091086/"&gt;深度探索C++对象模型&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org/topics/4538"&gt;王勇大哥AI作品(1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org/topics/4684"&gt;王勇大哥AI作品(2)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org/topics/4567"&gt;王勇大哥AI作品(3)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/mruby/mruby"&gt;MRuby&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/matz"&gt;Matz&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=59579"&gt;MRuby ISO/IEC 30170:2012&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/ko1"&gt;Koichi Sasada&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://patshaughnessy.net/ruby-under-a-microscope"&gt;Ruby Under a Microscope&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rhg.rubyforge.org/"&gt;Ruby Hacking Guide&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/bovi"&gt;Daniel Bovensiepen&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://blog.mruby.sh/"&gt;mruby.sh&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920015482.do"&gt;Head First C&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Portable_Executable"&gt;Portable Executable Format&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Executable_and_Linkable_Format"&gt;Executable and Linkable Format&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Advanced-Programming-UNIX-Environment-2nd/dp/0201433079"&gt;Advanced Programming in the UNIX Environment&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.jstorimer.com/products/working-with-unix-processes"&gt;Working With Unix Processes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.jstorimer.com/products/working-with-tcp-sockets"&gt;Working With TCP Sockets&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.jstorimer.com/products/working-with-ruby-threads"&gt;Working With Ruby Threads&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/05/27/let-s-talk-about-crack-and-mruby.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_17.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_17.m4a</guid>
+      <pubDate>Mon, 27 May 2013 02:38:00 -0000</pubDate>
+      <itunes:duration>6684</itunes:duration>
+      <itunes:keywords>crack, mruby</itunes:keywords>
+    </item>
+    <item>
       <title>#16 采访暴走漫画 CTO 曹力(@ShiningRay) - 谈架构演进</title>
       <itunes:author>dingding</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，&lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 协作主持，邀请到现&lt;a href="http://baozoumanhua.com/"&gt;暴走漫画&lt;/a&gt; CTO、&lt;a href="http://www.bling0.com/"&gt;博聆网&lt;/a&gt;创始人&lt;a href="http://shiningray.cn/"&gt;曹力(@ShiningRay)&lt;/a&gt;) 来聊聊暴走漫画的网站架构演进和性能优化的经验分享。&lt;/p&gt;
