@@ -58,5 +58,5 @@ duration: 1:46:13
   * [hat-cache-miss.md](https://gist.github.com/luikore/4745289)
   * [Sound: Be](http://www.xiami.com/song/1771834968?spm=0.0.0.0.bhV8sQ)
   * [Adobe Source Code Pro](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html)
-  * [Linux 运维趋势](http://os.51cto.com/art/201011/233915.htm)
+  * [Linux 韵味趋势](http://os.51cto.com/art/201011/233915.htm)
 </section>
