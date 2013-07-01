@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 01 Jul 2013 04:00:00 -0000</updated>
-    <lastBuildDate>Mon, 01 Jul 2013 04:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 01 Jul 2013 04:00:00 -0000</pubDate>
+    <updated>Mon, 01 Jul 2013 05:00:00 -0000</updated>
+    <lastBuildDate>Mon, 01 Jul 2013 05:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 01 Jul 2013 05:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -29,16 +29,19 @@
     <item>
       <title>#21 跟天使湾聚变计划负责人王磊聊天使投资</title>
       <itunes:author>dingding</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt; 主持，&lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt;协作主持，邀请到现&lt;a href="http://tisiwi.com"&gt;天使湾&lt;/a&gt;聚变计划的负责人&lt;a href="http://makafei.com/blog"&gt;王磊&lt;/a&gt;来聊聊天使湾、种子投资和天使投资。你的项目适不适合找投资者 ，投资者是如何选择创业团队和项目，创业团队应该怎么去找投资者，这些在本期都有交流。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，[Kevin Wang] 联合主持，邀请到现&lt;a href="http://tisiwi.com"&gt;天使湾&lt;/a&gt;聚变计划负责人&lt;a href="http://makafei.com/blog"&gt;王磊&lt;/a&gt;来聊聊天使湾、种子投资和天使投资。&lt;/p&gt;
 
 &lt;p&gt;王磊的一些联系方式：&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="http://weibo.com/atosdps"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#097;&amp;#116;&amp;#111;&amp;#115;&amp;#100;&amp;#112;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;section class="notes"&gt;&lt;/section&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt; 主持，&lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt;协作主持，邀请到现&lt;a href="http://tisiwi.com"&gt;天使湾&lt;/a&gt;聚变计划的负责人&lt;a href="http://makafei.com/blog"&gt;王磊&lt;/a&gt;来聊聊天使湾、种子投资和天使投资。你的项目适不适合找投资者 ，投资者是如何选择创业团队和项目，创业团队应该怎么去找投资者，这些在本期都有交流。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，[Kevin Wang] 联合主持，邀请到现&lt;a href="http://tisiwi.com"&gt;天使湾&lt;/a&gt;聚变计划负责人&lt;a href="http://makafei.com/blog"&gt;王磊&lt;/a&gt;来聊聊天使湾、种子投资和天使投资。&lt;/p&gt;
 
 &lt;p&gt;王磊的一些联系方式：&lt;/p&gt;
 
@@ -55,10 +58,10 @@
     &lt;li&gt;&lt;a href="http://code4app.com/"&gt;Code4App&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.zuoear.com/"&gt;左耳&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://poobbs.com/"&gt;涂鸦王国&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Mark_Suster"&gt;Mark Suster&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Peter_Thiel"&gt;Peter Thiel&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Mark_Suster"&gt;Mark Suster&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Peter_Thiel‎"&gt;Peter Thiel&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://book.douban.com/subject/1056461/"&gt;旅行的艺术&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://odesk.com"&gt;oDesk&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.forbes.com/sites/venkateshrao/2012/09/03/entrepreneurs-are-the-new-labor-part-i/"&gt;Entrepreneurs are the new labor&lt;/a&gt;&lt;/li&gt;
@@ -68,7 +71,7 @@
       <link>http://teahour.fm/2013/07/01/tisiwi-and-seed-funding.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_21.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_21.m4a</guid>
-      <pubDate>Mon, 01 Jul 2013 04:00:00 -0000</pubDate>
+      <pubDate>Mon, 01 Jul 2013 05:00:00 -0000</pubDate>
       <itunes:duration>6954</itunes:duration>
       <itunes:keywords>天使湾, 投资, 天使投资</itunes:keywords>
     </item>
