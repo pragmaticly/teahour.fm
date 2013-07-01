@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 03 Jun 2013 12:00:00 -0000</updated>
-    <lastBuildDate>Mon, 03 Jun 2013 12:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 03 Jun 2013 12:00:00 -0000</pubDate>
+    <updated>Mon, 01 Jul 2013 04:00:00 -0000</updated>
+    <lastBuildDate>Mon, 01 Jul 2013 04:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 01 Jul 2013 04:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,175 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#21 跟天使湾聚变计划负责人王磊聊天使投资</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt; 主持，&lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt;协作主持，邀请到现&lt;a href="http://tisiwi.com"&gt;天使湾&lt;/a&gt;聚变计划的负责人&lt;a href="http://makafei.com/blog"&gt;王磊&lt;/a&gt;来聊聊天使湾、种子投资和天使投资。你的项目适不适合找投资者 ，投资者是如何选择创业团队和项目，创业团队应该怎么去找投资者，这些在本期都有交流。&lt;/p&gt;
+
+&lt;p&gt;王磊的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/atosdps"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt; 主持，&lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt;协作主持，邀请到现&lt;a href="http://tisiwi.com"&gt;天使湾&lt;/a&gt;聚变计划的负责人&lt;a href="http://makafei.com/blog"&gt;王磊&lt;/a&gt;来聊聊天使湾、种子投资和天使投资。你的项目适不适合找投资者 ，投资者是如何选择创业团队和项目，创业团队应该怎么去找投资者，这些在本期都有交流。&lt;/p&gt;
+
+&lt;p&gt;王磊的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/atosdps"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#097;&amp;#116;&amp;#111;&amp;#115;&amp;#100;&amp;#112;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://tisiwi.com/fusion"&gt;天使湾聚变计划&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ycombinator.com/"&gt;YC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://xiaoenai.com/"&gt;小恩爱&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://code4app.com/"&gt;Code4App&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.zuoear.com/"&gt;左耳&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://poobbs.com/"&gt;涂鸦王国&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Mark_Suster"&gt;Mark Suster&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Peter_Thiel‎"&gt;Peter Thiel&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/1056461/"&gt;旅行的艺术&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://odesk.com"&gt;oDesk&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.forbes.com/sites/venkateshrao/2012/09/03/entrepreneurs-are-the-new-labor-part-i/"&gt;Entrepreneurs are the new labor&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/07/01/tisiwi-and-seed-funding.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_21.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_21.m4a</guid>
+      <pubDate>Mon, 01 Jul 2013 04:00:00 -0000</pubDate>
+      <itunes:duration>6954</itunes:duration>
+      <itunes:keywords>天使湾, 投资, 天使投资</itunes:keywords>
+    </item>
+    <item>
+      <title>#20 跟大牛们一起讨论底层开发和 Ruby VM</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://twitter.com/lgn21st"&gt;Daniel Lv&lt;/a&gt; 主持，本期继续第17期的话题，跟两位来自 &lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt; 的大牛吕戈，王勇来一起来聊聊底层开发，Ruby 虚拟机，以及大牛是怎样练成的。&lt;/p&gt;
+
+&lt;p&gt;吕戈: 独立 Mac App 开发者，曾于淘宝和 ThePlant 工作。长年在 Ruby-Forum 和 Ruby China 潜水，偶尔解答诸如 &amp;quot;Y组合子怎么写最 cool&amp;quot; 之类的问题。喜欢 Sinatra，并与武鑫共同开发了基于 Sinatra 的 &lt;a href="http://yavaeye.com"&gt;鸭眼网&lt;/a&gt;。曾向 Padrino 和 BlueCloth 贡献过一点微不足道的代码，发过一些不为人知的 Rubygems，偶尔在杭州 Ruby Tuesday 担任吐槽角色。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://twitter.com/lgn21st"&gt;Daniel Lv&lt;/a&gt; 主持，本期继续第17期的话题，跟两位来自 &lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt; 的大牛吕戈，王勇来一起来聊聊底层开发，Ruby 虚拟机，以及大牛是怎样练成的。&lt;/p&gt;
+
+&lt;p&gt;吕戈: 独立 Mac App 开发者，曾于淘宝和 ThePlant 工作。长年在 Ruby-Forum 和 Ruby China 潜水，偶尔解答诸如 &amp;quot;Y组合子怎么写最 cool&amp;quot; 之类的问题。喜欢 Sinatra，并与武鑫共同开发了基于 Sinatra 的 &lt;a href="http://yavaeye.com"&gt;鸭眼网&lt;/a&gt;。曾向 Padrino 和 BlueCloth 贡献过一点微不足道的代码，发过一些不为人知的 Rubygems，偶尔在杭州 Ruby Tuesday 担任吐槽角色。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href="https://twitter.com/night_song"&gt;https://twitter.com/night_song&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Github: &lt;a href="https://github.com/luikore"&gt;https://github.com/luikore&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Blog: &lt;a href="http://luikore.github.io/"&gt;http://luikore.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;王勇: 8 年 C/C++ 的从业经验，目前是一家 GPS 导航公司的资深技术研究员。是不折不扣的 Ruby 爱好者，MRuby 的 Code Committer。还是蓝光三人组的粉丝。也喜欢研究用 Ruby 捣鼓一些另类的玩意。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href="https://twitter.com/skandhas_nil"&gt;https://twitter.com/skandhas_nil&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Weibo: &lt;a href="http://weibo.com/u/2338968722"&gt;http://weibo.com/u/2338968722&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Github: &lt;a href="https://github.com/skandhas"&gt;https://github.com/skandhas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.iteye.com/ask"&gt;JavaEye 的问答频道&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.bugmenot.com"&gt;BugMeNot&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Just-in-time_compilation"&gt;JIT&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rednaxelafx.iteye.com"&gt;莫枢&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://theplant.jp"&gt;The Plant&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.cplusplus.com/reference/stl/"&gt;C++ STL&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/谭浩强"&gt;谭浩强&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/1679623/"&gt;C语言程序设计&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/4888652/"&gt;敏捷web开发&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/The-Ruby-Way-Second-Edition/dp/0672328844"&gt;The Ruby way&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://golang.org"&gt;Golang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://dlang.org"&gt;Dlang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.haskell.org"&gt;Haskell&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.scala-lang.org"&gt;Scala&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Objective-C"&gt;Objective-C&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://developer.apple.com/technologies/mac/cocoa.html"&gt;Cocoa&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Calling_convention"&gt;Calling convention&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://clang.llvm.org"&gt;Clang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://llvm.org"&gt;LLVM&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/YARV"&gt;YARV&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Bytecode"&gt;字节码&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.lua.org"&gt;Lua&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://zh.wikipedia.org/wiki/乱序执行"&gt;乱序执行&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://patshaughnessy.net/ruby-under-a-microscope"&gt;Ruby Under a Microscope&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://bugs.ruby-lang.org/issues/8339"&gt;Introducing Geneartional Garbage Collection for CRuby/MRI&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/ruby-prof/ruby-prof"&gt;Ruby Prof&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/tmm1/perftools.rb"&gt;perftools.rb&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tenderlovemaking.com/2011/12/05/profiling-rails-startup-with-dtrace.html"&gt;Profiling Rails startup with dtrace&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://valgrind.org"&gt;Valgrind&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://gist.github.com/luikore/4745289"&gt;hat-cache-miss.md&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.xiami.com/song/1771834968?spm=0.0.0.0.bhV8sQ"&gt;Sound: Be&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://blogs.adobe.com/typblography/2012/09/source-code-pro.html"&gt;Adobe Source Code Pro&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://os.51cto.com/art/201011/233915.htm"&gt;Linux 运维趋势&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/06/24/lets-talk-about-underlying-development-and-ruby-vm.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_20.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_20.m4a</guid>
+      <pubDate>Mon, 24 Jun 2013 06:00:00 -0000</pubDate>
+      <itunes:duration>6373</itunes:duration>
+      <itunes:keywords>underlying, rubyvm</itunes:keywords>
+    </item>
+    <item>
+      <title>#19 聊聊新加坡，聊聊RedDotRubyConf</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到&lt;a href="http://huangzhimin.com/"&gt;Richard Huang&lt;/a&gt; 和 &lt;a href="http://blog.xdite.net/"&gt;XDite&lt;/a&gt; 一起回顾了这一次&lt;a href="http://www.reddotrubyconf.com/"&gt;RedDotRubyConf&lt;/a&gt;之行，扯扯淡，谈谈收获。同时也谈谈他们两人在这次大会上名为 &amp;quot;Building Asynchronous APIs&amp;quot; 和 &amp;quot;Secure Your Rails Application: The Basics&amp;quot;两个演讲。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到&lt;a href="http://huangzhimin.com/"&gt;Richard Huang&lt;/a&gt; 和 &lt;a href="http://blog.xdite.net/"&gt;XDite&lt;/a&gt; 一起回顾了这一次&lt;a href="http://www.reddotrubyconf.com/"&gt;RedDotRubyConf&lt;/a&gt;之行，扯扯淡，谈谈收获。同时也谈谈他们两人在这次大会上名为 &amp;quot;Building Asynchronous APIs&amp;quot; 和 &amp;quot;Secure Your Rails Application: The Basics&amp;quot;两个演讲。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.reddotrubyconf.com/"&gt;RedDotRubyConf&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.jumboseafood.com.sg/"&gt;珍宝海鲜楼&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.dianping.com/shop/3084922"&gt;天天海南鸡饭&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.rwsentosa.com/Homepage/ThingsToDo/UniversalStudiosSingapore"&gt;Universal Studios Singapore&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://speakerdeck.com/tenderlove/reddotrubyconf"&gt;Refactoring Rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://winstonyw.com/assets/downloads/JRubyForTheWin.pdf"&gt;JRuby For The Win&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://huangzhimin.com/2013/06/07/my-presentation-at-reddotrubyconf-2013/"&gt;Building Asynchronous APIs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="Tools Of The Trade: https://speakerdeck.com/plataformatec/concurrency-in-ruby-tools-of-the-trade"&gt;Concurrency In Ruby&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://speakerdeck.com/a_matsuda/ruby-2-dot-0-on-rails-in-production"&gt;Ruby 2.0 on Rails in Production&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://lessconf.lesseverything.com/"&gt;LessConf&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://xdite.github.io/security-basic/"&gt;Secure Your Rails Application&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/igrigorik/em-synchrony"&gt;em-synchrony&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://postrank-labs.github.io/goliath/"&gt;Goliath&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/intridea/grape"&gt;Grape&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.sinatrarb.com/"&gt;Sinatra&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/kyledrake/sinatra-synchrony"&gt;sinatra-synchrony&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/igrigorik/async-rails"&gt;async-rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://railscasts-china.com/episodes/async-api-service"&gt;构建异步的API服务&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/rails/strong_parameters"&gt;Strong Parameters&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yehudakatz.com/"&gt;Yehuda Katz&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://gist.github.com/dhh/1975644"&gt;DHH slice pattern&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://doubleyourfreelancingrate.com/"&gt;Double Your Freelancing Rate in 14 Days&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://doubleyourfreelancingrate.com/the-blueprint"&gt;The blueprint&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://lesseverything.com/books/"&gt;Don't Let Your Business Run You&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://dnsimple.com/"&gt;DNSimple&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/apotonick/reform"&gt;Reform&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/fphilipe/warden-github-rails"&gt;Warden Github Rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/jlnr/gosu"&gt;gosu gem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://logdown.com/"&gt;LogDown&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://info.cookpad.com/24contest4_en"&gt;COOKPAD 24-hour Hackathon Competition&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://medium.com/"&gt;Medium&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org/topics/11748"&gt;南京第一次Ruby聚会&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/06/17/review-singapore-reddotrubyconf.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_19.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_19.m4a</guid>
+      <pubDate>Mon, 17 Jun 2013 05:00:00 -0000</pubDate>
+      <itunes:duration>6288</itunes:duration>
+      <itunes:keywords>ruby, conference, singapore</itunes:keywords>
+    </item>
     <item>
       <title>#18 采访《七周七数据库》作者 Eric Redmond - 数据库的故事</title>
       <itunes:author>kevin</itunes:author>
