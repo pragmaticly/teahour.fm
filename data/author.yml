@@ -1,5 +1,5 @@
 dingding:
-  name: "Dingding Ye"
+  name: "叶玎玎"
   email: "yedingding@gmail.com"
   avatar: "yedingding.png"
   link: "http://yedingding.com"
@@ -87,3 +87,7 @@ richard:
   name: "Richard Huang(flyerhzm)"
   avatar: 'richard.png'
   link: 'http://huangzhimin.com/'
+wanglei:
+  name: "王磊"
+  avatar: "wanglei.png"
+  link: "http://makafei.com/blog"
