@@ -1,5 +1,5 @@
 dingding:
-  name: "叶玎玎"
+  name: "Dingding Ye"
   email: "yedingding@gmail.com"
   avatar: "yedingding.png"
   link: "http://yedingding.com"
@@ -91,3 +91,7 @@ wanglei:
   name: "王磊"
   avatar: "wanglei.png"
   link: "http://makafei.com/blog"
+kgen:
+  name: "包桢韡 (kgen)"
+  avatar: "kgen.png"
+  link: "http://twitter.com/kgen"
