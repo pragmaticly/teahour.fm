@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Tue, 09 Jul 2013 04:00:00 -0000</updated>
-    <lastBuildDate>Tue, 09 Jul 2013 04:00:00 -0000</lastBuildDate>
-    <pubDate>Tue, 09 Jul 2013 04:00:00 -0000</pubDate>
+    <updated>Fri, 12 Jul 2013 04:00:00 -0000</updated>
+    <lastBuildDate>Fri, 12 Jul 2013 04:00:00 -0000</lastBuildDate>
+    <pubDate>Fri, 12 Jul 2013 04:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,46 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#23 与 Kgen 聊创业经历和感悟</title>
+      <itunes:author>kevin</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期是第 &lt;a href="/2013/07/09/gfw-and-vpncloud.html"&gt;#22&lt;/a&gt; 期的号外篇，22 期录制超过两个半小时，故分了正篇和号外篇。号外篇主要聊了三个部分的内容：1. 技术人员创业讨论以及 Kgen 之前做的几个失败的创业项目 2. 应该如何考虑和做产品文案 3. 如何做独立开发者的思考&lt;/p&gt;
+
+&lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#103;&amp;#101;&amp;#110;&amp;#046;&amp;#098;&amp;#097;&amp;#111;&amp;#064;&amp;#107;&amp;#105;&amp;#110;&amp;#103;&amp;#097;&amp;#120;&amp;#105;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期是第 &lt;a href="/2013/07/09/gfw-and-vpncloud.html"&gt;#22&lt;/a&gt; 期的号外篇，22 期录制超过两个半小时，故分了正篇和号外篇。号外篇主要聊了三个部分的内容：1. 技术人员创业讨论以及 Kgen 之前做的几个失败的创业项目 2. 应该如何考虑和做产品文案 3. 如何做独立开发者的思考&lt;/p&gt;
+
+&lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#103;&amp;#101;&amp;#110;&amp;#046;&amp;#098;&amp;#097;&amp;#111;&amp;#064;&amp;#107;&amp;#105;&amp;#110;&amp;#103;&amp;#097;&amp;#120;&amp;#105;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://vpncloud.me"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/07/12/startup-discussion-with-kgen.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_22-2.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_22-2.m4a</guid>
+      <pubDate>Fri, 12 Jul 2013 04:00:00 -0000</pubDate>
+      <itunes:duration>2757</itunes:duration>
+      <itunes:keywords>技术创业, Copy Hacker</itunes:keywords>
+    </item>
     <item>
       <title>#22 GFW 技术研究和云梯产品故事</title>
       <itunes:author>kevin</itunes:author>
@@ -62,6 +102,8 @@
     &lt;li&gt;&lt;a href="http://www.polarcloud.com/tomato"&gt;Tomato&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://railscasts-china.com/episodes/rubyconf-china-2012-vpncloud"&gt;RubyConf China 2012 花絮之 VPNCloud 篇&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.pandora.com/"&gt;pandora radio&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
