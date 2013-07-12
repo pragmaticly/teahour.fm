@@ -27,7 +27,7 @@ shareToSocial = ->
     addthis.button(elem, addthis_config, { url: window.location.protocol + "//" + window.location.host + $(elem).data('url'), title: "[Teahour.fm] " + $(elem).data('title') } )
 
 $ ->
-  $('<h6/>').html("<p>...</p><a href='#' class='toggle-notes'>More Resources »</a>").insertBefore(".notes")
+  $('<h6/>').html("<a href='#' class='toggle-notes'>More Resources »</a>").insertBefore(".notes")
   $(".toggle-notes").click (e) ->
     e.preventDefault()
     e.stopPropagation()

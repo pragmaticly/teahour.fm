@@ -31,4 +31,6 @@ Kgen 的一些联系方式：
 * [Tomato](http://www.polarcloud.com/tomato)
 * [RubyConf China 2012 花絮之 VPNCloud 篇](http://railscasts-china.com/episodes/rubyconf-china-2012-vpncloud)
 * [pandora radio](http://www.pandora.com/)
+* [Pragmatic.ly](https://pragmatic.ly)
+* [Tealeaf Academy](http://gotealeaf.com)
 </section>
