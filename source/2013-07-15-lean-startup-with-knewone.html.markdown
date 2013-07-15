@@ -27,6 +27,7 @@ duration: 1:22:34
 * [GNU Emacs](http://www.gnu.org/software/emacs/)
 * [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
 * [ARC](http://paulgraham.com/arc.html)
+* [SICP](http://mitpress.mit.edu/sicp/)
 * [Oculus Rift](http://knewone.com/things/oculus-rift-xu-ni-xian-shi-tou-kui)
 * [七周七语言](http://book.douban.com/subject/10555435/) 
 * [Paul Graham](http://paulgraham.com/)
