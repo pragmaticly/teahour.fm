@@ -19,7 +19,7 @@ Kgen 的一些联系方式：
 * [Email](mailto:kgen.bao@kingaxis.com)
 
 <section class="notes" markdown="1">
-* [云梯](http://vpncloud.me)
+* [云梯](https://www.vpncloud.me/)
 * [坐标轴软件](http://www.kingaxis.com)
 * [Pragmatic.ly](https://pragmatic.ly)
 * [Tealeaf Academy](http://gotealeaf.com)
