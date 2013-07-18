@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Fri, 12 Jul 2013 04:00:00 -0000</updated>
-    <lastBuildDate>Fri, 12 Jul 2013 04:00:00 -0000</lastBuildDate>
-    <pubDate>Fri, 12 Jul 2013 04:00:00 -0000</pubDate>
+    <updated>Mon, 15 Jul 2013 02:30:00 -0000</updated>
+    <lastBuildDate>Mon, 15 Jul 2013 02:30:00 -0000</lastBuildDate>
+    <pubDate>Mon, 15 Jul 2013 02:30:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,56 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#24 和knewone的李路聊聊技术和精益创业</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持, 邀请到&lt;a href="http://knewone.com/"&gt;knewone&lt;/a&gt;的创始人&lt;a href="http://weibo.com/coocooba"&gt;李路&lt;/a&gt;一起聊聊炫酷的硬件，精益创业，技术，Emacs, Lisp…&lt;/p&gt;
+
+&lt;p&gt;关于李路:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/coocooba"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/cookiepapa"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="lilu.life@gmail.com"&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持, 邀请到&lt;a href="http://knewone.com/"&gt;knewone&lt;/a&gt;的创始人&lt;a href="http://weibo.com/coocooba"&gt;李路&lt;/a&gt;一起聊聊炫酷的硬件，精益创业，技术，Emacs, Lisp…&lt;/p&gt;
+
+&lt;p&gt;关于李路:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/coocooba"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/cookiepapa"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="lilu.life@gmail.com"&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/"&gt;knewone&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898"&gt;The Lean Startup(book)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/things/jawbone-up-2nd-generation"&gt;Jawbone UP2&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gnu.org/software/emacs/"&gt;GNU Emacs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)"&gt;Lisp&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://paulgraham.com/arc.html"&gt;ARC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mitpress.mit.edu/sicp/"&gt;SICP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/things/oculus-rift-xu-ni-xian-shi-tou-kui"&gt;Oculus Rift&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/10555435/"&gt;七周七语言&lt;/a&gt; &lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://paulgraham.com/"&gt;Paul Graham&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.marco.org/"&gt;Marco Arment&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://itunes.apple.com/us/app/bugshot/id669858907?mt=8"&gt;Bugshot&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+</description>
+      <link>http://teahour.fm/2013/07/15/lean-startup-with-knewone.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_24.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_24.m4a</guid>
+      <pubDate>Mon, 15 Jul 2013 02:30:00 -0000</pubDate>
+      <itunes:duration>4954</itunes:duration>
+      <itunes:keywords>lean startup, 硬件, emacs, lisp</itunes:keywords>
+    </item>
     <item>
       <title>#23 与 Kgen 聊创业经历和感悟</title>
       <itunes:author>kevin</itunes:author>
@@ -52,7 +102,7 @@
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://vpncloud.me"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.vpncloud.me/"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
@@ -90,18 +140,20 @@
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://vpncloud.me"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.vpncloud.me/"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/防火长城"&gt;GFW&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://openvpn.net"&gt;OpenVPN&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/SSH‎"&gt;SSH&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/Tor"&gt;Tor&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://code.google.com/p/goagent/"&gt;GoAgent&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://www.dd-wrt.com/"&gt;ddwrt&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://openwrt.org/"&gt;openwrt&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.dd-wrt.com/"&gt;DDWRT&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://openwrt.org/"&gt;OpenWRT&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.polarcloud.com/tomato"&gt;Tomato&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Dnsmasq"&gt;DNSMasq&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://code.google.com/p/autoddvpn/"&gt;autoddvpn&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://railscasts-china.com/episodes/rubyconf-china-2012-vpncloud"&gt;RubyConf China 2012 花絮之 VPNCloud 篇&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://www.pandora.com/"&gt;pandora radio&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.pandora.com/"&gt;Pandora Radio&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
