@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 15 Jul 2013 02:30:00 -0000</updated>
-    <lastBuildDate>Mon, 15 Jul 2013 02:30:00 -0000</lastBuildDate>
-    <pubDate>Mon, 15 Jul 2013 02:30:00 -0000</pubDate>
+    <updated>Mon, 22 Jul 2013 13:00:00 -0000</updated>
+    <lastBuildDate>Mon, 22 Jul 2013 13:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 22 Jul 2013 13:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,52 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#25 和又拍云(UPYun)的邵海杨聊运维</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt; 主持, 邀请到&lt;a href="http://upyun.com/"&gt;又拍云(UPYun)&lt;/a&gt;的运维总监&lt;a href="http://weibo.com/gg618"&gt;邵海杨&lt;/a&gt;一起聊聊运维，云存储，云加速，以及互联网运维人员的职业规划，发展方面的话题…&lt;/p&gt;
+
+&lt;h5 id="section"&gt;关于邵海杨:&lt;/h5&gt;
+
+&lt;p&gt;来自杭州Linux用户组。又拍云(UPYun)运维总监，网名“海洋之心”，资深系统运维/架构师，业余撰稿人，致力于开源软件及前沿科技的研究和探索。精通系统及网络管理，定制嵌入式系统，安全防御及CDN加速，互联网高性能网络及架构设计、NoSQL先行者、分布式文件系统Ceph、虚拟化及OpenStack云平台的研究等新技术，喜交流，活跃于社区，积极投身于开源活动的组织和传播，真诚待人，授人以渔，共同进步。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt; 主持, 邀请到&lt;a href="http://upyun.com/"&gt;又拍云(UPYun)&lt;/a&gt;的运维总监&lt;a href="http://weibo.com/gg618"&gt;邵海杨&lt;/a&gt;一起聊聊运维，云存储，云加速，以及互联网运维人员的职业规划，发展方面的话题…&lt;/p&gt;
+
+&lt;h5 id="section"&gt;关于邵海杨:&lt;/h5&gt;
+
+&lt;p&gt;来自杭州Linux用户组。又拍云(UPYun)运维总监，网名“海洋之心”，资深系统运维/架构师，业余撰稿人，致力于开源软件及前沿科技的研究和探索。精通系统及网络管理，定制嵌入式系统，安全防御及CDN加速，互联网高性能网络及架构设计、NoSQL先行者、分布式文件系统Ceph、虚拟化及OpenStack云平台的研究等新技术，喜交流，活跃于社区，积极投身于开源活动的组织和传播，真诚待人，授人以渔，共同进步。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/gg618"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://shaohy.17geek.us"&gt;技术Wiki&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/shaohaiyang"&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="section-1"&gt;访谈笔记&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;邵海洋的运维经验分享&lt;/li&gt;
+  &lt;li&gt;介绍 UPYun Style Ops&lt;/li&gt;
+  &lt;li&gt;什么是自动化运维&lt;/li&gt;
+  &lt;li&gt;给运维人员成长的建议&lt;/li&gt;
+  &lt;li&gt;DevOps 在upyun的实践&lt;/li&gt;
+  &lt;li&gt;运维工程师如何不断修炼自己的运维能力，面对来自devops的挑战，面对来自云的挑战&lt;/li&gt;
+  &lt;li&gt;运维人员如何避免成为公司的『单点』&lt;/li&gt;
+  &lt;li&gt;关于wiki在企业内的知识管理和分享，如何处理海量信息，思考，以及沉淀&lt;/li&gt;
+  &lt;li&gt;运维人员的团队协作&lt;/li&gt;
+  &lt;li&gt;从运维人员到管理的角色转变&lt;/li&gt;
+  &lt;li&gt;UPYun如何做系统监控&lt;/li&gt;
+  &lt;li&gt;中间件和Openstack&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <link>http://teahour.fm/2013/07/22/interview-with-shaohaiyang-about-upyun-devops.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_25.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_25.m4a</guid>
+      <pubDate>Mon, 22 Jul 2013 13:00:00 -0000</pubDate>
+      <itunes:duration>6410</itunes:duration>
+      <itunes:keywords>devops, 运维</itunes:keywords>
+    </item>
     <item>
       <title>#24 和knewone的李路聊聊技术和精益创业</title>
       <itunes:author>terry</itunes:author>
@@ -119,7 +165,7 @@
     <item>
       <title>#22 GFW 技术研究和云梯产品故事</title>
       <itunes:author>kevin</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="http://vpncloud.me"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://vpncloud.me"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
 
 &lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
 
@@ -129,7 +175,7 @@
 &lt;/ul&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="http://vpncloud.me"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://vpncloud.me"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
 
 &lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
 
