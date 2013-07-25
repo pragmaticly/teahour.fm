@@ -11,7 +11,7 @@ guests:
   - dingding
 ---
 
-本期由 [Kevin Wang](http://knwang.com) 主持, [Dingding Ye](http://yedingdng.com) 联合主持，邀请到[云梯](http://vpncloud.me)的创始人[包桢韡 (kgen)](https://twitter.com/kgen)来聊聊 GFW 技术研究和云梯的创业故事。
+本期由 [Kevin Wang](http://knwang.com) 主持, [Dingding Ye](http://yedingdng.com) 联合主持，邀请到[云梯](https://vpncloud.me)的创始人[包桢韡 (kgen)](https://twitter.com/kgen)来聊聊 GFW 技术研究和云梯的创业故事。
 
 Kgen 的一些联系方式：
 
