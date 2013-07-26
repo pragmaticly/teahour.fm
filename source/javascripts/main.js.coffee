@@ -54,3 +54,5 @@ $ ->
         # $('a[rel~="external"]').meca('external')
   # }
 # ]
+
+  $("li#episodes > ul").niceScroll().hide()
