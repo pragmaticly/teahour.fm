@@ -2,6 +2,7 @@
 
 //= require modernizr/modernizr
 //= require jquery/jquery
+//= require jquery.nicescroll.min
 
 /* from  bootstrap-sass gem */
 
