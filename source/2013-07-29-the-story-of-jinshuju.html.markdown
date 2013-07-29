@@ -11,7 +11,7 @@ guests:
 duration: 1:46:28
 ---
 
-本期由[叶玎玎](http://yedingding.com)主持，Teahour 的老朋友 [xidte](http://blog.xdite.net) 联合主持，邀请到了ThoughtWorks 公司的资深顾问、[金数据](http://jinshuju.net)的创始人[陈金洲](http://michael.nona.name) 来跟我们一起聊聊金数据的故事。实战中国互联网创业，开发在整个创业路上只是占很少一部分，市场定位，客户开发，文案设计、定价策略等等都很重要，来听听陈金洲在金数据是怎么做的，xdite 在 [logdown](http://logdown.com) 是怎么做的吧。
+本期由[叶玎玎](http://yedingding.com)主持，Teahour 的老朋友 [xdite](http://blog.xdite.net) 联合主持，邀请到了ThoughtWorks 公司的资深顾问、[金数据](http://jinshuju.net)的创始人[陈金洲](http://michael.nona.name) 来跟我们一起聊聊金数据的故事。实战中国互联网创业，开发在整个创业路上只是占很少一部分，市场定位，客户开发，文案设计、定价策略等等都很重要，来听听陈金洲在金数据是怎么做的，xdite 在 [logdown](http://logdown.com) 是怎么做的吧。
 
 陈金洲的一些联系方式：
 
