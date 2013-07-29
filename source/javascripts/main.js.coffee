@@ -55,4 +55,11 @@ $ ->
   # }
 # ]
 
-  $("li#episodes > ul").niceScroll().hide()
+  $("li#episodes > ul").mCustomScrollbar
+    mouseWheelPixels: 300
+  $("li#episodes > a").click ->
+    $("li#about").removeClass("open")
+    $("li#episodes").toggleClass('open')
+    $("li#episodes > ul").mCustomScrollbar("update")
+    false
+
