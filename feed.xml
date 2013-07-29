@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 22 Jul 2013 13:00:00 -0000</updated>
-    <lastBuildDate>Mon, 22 Jul 2013 13:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 22 Jul 2013 13:00:00 -0000</pubDate>
+    <updated>Mon, 29 Jul 2013 04:00:00 -0000</updated>
+    <lastBuildDate>Mon, 29 Jul 2013 04:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 29 Jul 2013 04:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,50 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#26 和陈金洲聊金数据创业故事</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt;主持，Teahour 的老朋友 &lt;a href="http://blog.xdite.net"&gt;xidte&lt;/a&gt; 联合主持，邀请到了ThoughtWorks 公司的资深顾问、&lt;a href="http://jinshuju.net"&gt;金数据&lt;/a&gt;的创始人&lt;a href="http://michael.nona.name"&gt;陈金洲&lt;/a&gt; 来跟我们一起聊聊金数据的故事。实战中国互联网创业，开发在整个创业路上只是占很少一部分，市场定位，客户开发，文案设计、定价策略等等都很重要，来听听陈金洲在金数据是怎么做的，xdite 在 &lt;a href="http://logdown.com"&gt;logdown&lt;/a&gt; 是怎么做的吧。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt;主持，Teahour 的老朋友 &lt;a href="http://blog.xdite.net"&gt;xidte&lt;/a&gt; 联合主持，邀请到了ThoughtWorks 公司的资深顾问、&lt;a href="http://jinshuju.net"&gt;金数据&lt;/a&gt;的创始人&lt;a href="http://michael.nona.name"&gt;陈金洲&lt;/a&gt; 来跟我们一起聊聊金数据的故事。实战中国互联网创业，开发在整个创业路上只是占很少一部分，市场定位，客户开发，文案设计、定价策略等等都很重要，来听听陈金洲在金数据是怎么做的，xdite 在 &lt;a href="http://logdown.com"&gt;logdown&lt;/a&gt; 是怎么做的吧。&lt;/p&gt;
+
+&lt;p&gt;陈金洲的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/mechiland"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/mechilandx"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#109;&amp;#101;&amp;#099;&amp;#104;&amp;#105;&amp;#108;&amp;#097;&amp;#110;&amp;#100;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://michael.nona.name"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;最后，金洲专门给 Teahour 的听众准备了&lt;b&gt;金数据的优惠码 &amp;quot;TEAHOUR&amp;quot;&lt;/b&gt;, 8 月 11 号之前有效。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://logdown.com"&gt;LOGDOWN&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://jinshuju.net"&gt;金数据&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://railscasts-china.com/episodes/rubyconf-2012-michael-chen"&gt;Beyond 'rails server'&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://aliyun.com"&gt;阿里云&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zhifubao.com"&gt;支付宝&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://paypal.com"&gt;Paypal&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://stripe.com"&gt;Stripe&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://fastspring.com"&gt;FastSpring&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.xingyii.com/"&gt;行易差旅协作软件&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://training.kalzumeus.com/"&gt;Patrick McKenzie Teaches You To Sell More Software&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.entrepreneuronfire.com"&gt;Entrepreneurship On Fire&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yedingding.com/2013/07/24/remote-team-the-things-you-should-know.html"&gt;远程工作经验谈 - 如何适应及如何管理&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/07/29/the-story-of-jinshuju.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_26.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_26.m4a</guid>
+      <pubDate>Mon, 29 Jul 2013 04:00:00 -0000</pubDate>
+      <itunes:duration>6388</itunes:duration>
+      <itunes:keywords>创业</itunes:keywords>
+    </item>
     <item>
       <title>#25 和又拍云(UPYun)的邵海杨聊运维</title>
       <itunes:author>daniel</itunes:author>
