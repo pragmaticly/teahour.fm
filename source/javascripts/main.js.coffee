@@ -55,11 +55,15 @@ $ ->
   # }
 # ]
 
-  $("li#episodes > ul").mCustomScrollbar
-    mouseWheelPixels: 300
   $("li#episodes > a").click ->
     $("li#about").removeClass("open")
     $("li#episodes").toggleClass('open')
-    $("li#episodes > ul").mCustomScrollbar("update")
+    if $("li#episodes > ul").is(":visible") and $("li#episodes > ul").attr('tabindex') != "5000"
+      height = ($(window).height() - $(".nav").height() - 80)
+      $("li#episodes > ul").css("max-height", height)
+      $("li#episodes > ul").niceScroll
+        nativeparentscrolling: false
+        cursorcolor: '#4D8F5F'
+        cursorwidth: '2px'
+        hidecursordelay: 100
     false
-
