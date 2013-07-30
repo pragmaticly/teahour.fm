@@ -2,7 +2,7 @@
 
 //= require modernizr/modernizr
 //= require jquery/jquery
-//= require jquery.mCustomScrollbar.concat.min
+//= require jquery.nicescroll.min
 
 /* from  bootstrap-sass gem */
 
