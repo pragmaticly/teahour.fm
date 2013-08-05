@@ -11,7 +11,7 @@ guests:
 duration: 1:32:45
 ---
 
-本期由[叶玎玎](http://yedingding.com)主持，Teahour 的老朋友 [xdite](http://smalltalks.xdite.net) 联合主持，邀请到了 [Tiny4Voice](http://tiny4.org/voice/)、 [Tiny4Cocoa](http://tiny4cocoa.org)、[iApp4Me](http://iapp4me.com)、[新杂志](http://tiny4.org)的创始人郝培强 tinyfool 来跟我们一起聊聊新媒体、创业经历和团队建设。从 2010 年尝试 podcast 到现在创业做新杂志，Tinyfool 一直在内容市场寻找方向和突破。创造有价值的内容，传播有价值的内容，为用户提供真正的价值，祝新杂志顺利！
+本期由[叶玎玎](http://yedingding.com)主持，Teahour 的老朋友 [xdite](http://smalltalk.xdite.net) 联合主持，邀请到了 [Tiny4Voice](http://tiny4.org/voice/)、 [Tiny4Cocoa](http://tiny4cocoa.org)、[iApp4Me](http://iapp4me.com)、[新杂志](http://tiny4.org)的创始人郝培强 tinyfool 来跟我们一起聊聊新媒体、创业经历和团队建设。从 2010 年尝试 podcast 到现在创业做新杂志，Tinyfool 一直在内容市场寻找方向和突破。创造有价值的内容，传播有价值的内容，为用户提供真正的价值，祝新杂志顺利！
 
 Tinyfool 的一些联系方式：
 
