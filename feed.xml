@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 29 Jul 2013 04:00:00 -0000</updated>
-    <lastBuildDate>Mon, 29 Jul 2013 04:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 29 Jul 2013 04:00:00 -0000</pubDate>
+    <updated>Mon, 05 Aug 2013 03:00:00 -0000</updated>
+    <lastBuildDate>Mon, 05 Aug 2013 03:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 05 Aug 2013 03:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,50 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#27 与 Tinyfool 聊新媒体、创业经历和团队建设</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt;主持，Teahour 的老朋友 &lt;a href="http://smalltalks.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了 &lt;a href="http://tiny4.org/voice/"&gt;Tiny4Voice&lt;/a&gt;、 &lt;a href="http://tiny4cocoa.org"&gt;Tiny4Cocoa&lt;/a&gt;、&lt;a href="http://iapp4me.com"&gt;iApp4Me&lt;/a&gt;、&lt;a href="http://tiny4.org"&gt;新杂志&lt;/a&gt;的创始人郝培强 tinyfool 来跟我们一起聊聊新媒体、创业经历和团队建设。从 2010 年尝试 podcast 到现在创业做新杂志，Tinyfool 一直在内容市场寻找方向和突破。创造有价值的内容，传播有价值的内容，为用户提供真正的价值，祝新杂志顺利！&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt;主持，Teahour 的老朋友 &lt;a href="http://smalltalks.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了 &lt;a href="http://tiny4.org/voice/"&gt;Tiny4Voice&lt;/a&gt;、 &lt;a href="http://tiny4cocoa.org"&gt;Tiny4Cocoa&lt;/a&gt;、&lt;a href="http://iapp4me.com"&gt;iApp4Me&lt;/a&gt;、&lt;a href="http://tiny4.org"&gt;新杂志&lt;/a&gt;的创始人郝培强 tinyfool 来跟我们一起聊聊新媒体、创业经历和团队建设。从 2010 年尝试 podcast 到现在创业做新杂志，Tinyfool 一直在内容市场寻找方向和突破。创造有价值的内容，传播有价值的内容，为用户提供真正的价值，祝新杂志顺利！&lt;/p&gt;
+
+&lt;p&gt;Tinyfool 的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/tinyfool"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/tinyfool"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#116;&amp;#105;&amp;#110;&amp;#121;&amp;#102;&amp;#111;&amp;#111;&amp;#108;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://tiny4.org/blog"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://tiny4.org/voice/"&gt;Tiny4Voice&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tiny4cocoa.org"&gt;Tiny4Cocoa&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://iapp4me.com"&gt;iApp4Me&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tiny4.org"&gt;新杂志&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://logdown.com"&gt;Logdown&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.myaudiocast.com/podcasts/"&gt;MyAudioCast&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.apple.com/ibooks-author/"&gt;iBooks Author&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.udacity.com/course/cs262"&gt;Programming Languages: Building A Web Browser - Udacity&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tiny4cocoa.com/home/s/22/"&gt;Tiny4Cocoa iPad 杂志&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.apple.com.cn/airport-extreme/"&gt;AirPort Extreme&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.douban.com/subject/1261560/‎"&gt;国富论&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://smalltalk.xdite.net/posts/73953-how-to-create-a-remote-environment"&gt;如何打造一个远程工作的团队环境&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ihower.tw/blog/archives/2369"&gt;實戰敏捷開發之團隊開發篇&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/08/05/interview-with-tinyfool-on-xinzazhi.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_27.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_27.m4a</guid>
+      <pubDate>Mon, 05 Aug 2013 03:00:00 -0000</pubDate>
+      <itunes:duration>5565</itunes:duration>
+      <itunes:keywords>创业, 新媒体, 团队建设</itunes:keywords>
+    </item>
     <item>
       <title>#26 和陈金洲聊金数据创业故事</title>
       <itunes:author>dingding</itunes:author>
