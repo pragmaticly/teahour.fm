@@ -54,3 +54,16 @@ $ ->
         # $('a[rel~="external"]').meca('external')
   # }
 # ]
+
+  $("li#episodes > a").click ->
+    $("li#about").removeClass("open")
+    $("li#episodes").toggleClass('open')
+    if $("li#episodes > ul").is(":visible") and $("li#episodes > ul").attr('tabindex') != "5000"
+      height = ($(window).height() - $(".nav").height() - 80)
+      $("li#episodes > ul").css("max-height", height)
+      $("li#episodes > ul").niceScroll
+        nativeparentscrolling: false
+        cursorcolor: '#4D8F5F'
+        cursorwidth: '2px'
+        hidecursordelay: 100
+    false
