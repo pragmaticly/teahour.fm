@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 05 Aug 2013 03:00:00 -0000</updated>
-    <lastBuildDate>Mon, 05 Aug 2013 03:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 05 Aug 2013 03:00:00 -0000</pubDate>
+    <updated>Mon, 02 Sep 2013 04:00:00 -0000</updated>
+    <lastBuildDate>Mon, 02 Sep 2013 04:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 02 Sep 2013 04:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,153 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#30 可穿戴设备盘点和预测</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://terrytai.com"&gt;Terry&lt;/a&gt; 共同主持，邀请了 &lt;a href="http://knewone.com"&gt;Knewone&lt;/a&gt; 的 CEO &lt;a href="http://weibo.com/u/3516998421"&gt;沙昕哲&lt;/a&gt; 来聊聊目前很火的可穿戴设备产品。&lt;/p&gt;
+
+&lt;p&gt;做为剁手网站 Knewone 的 CEO，沙沙号称玩过(了解过)市面上几乎所有的可穿戴设备。这一期主题很轻松很新奇，iWatch，Fuelband，Fitbit，Jawbone UP2，新我手环，Pebble，Google Glass，Oculus Rift，LUMOback，LovePalz，Pillow Talk，Necomimi Brainwave Cat Ears，MYO，麦步等等，太多新奇科技产品，来听听试玩体验吧。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://terrytai.com"&gt;Terry&lt;/a&gt; 共同主持，邀请了 &lt;a href="http://knewone.com"&gt;Knewone&lt;/a&gt; 的 CEO &lt;a href="http://weibo.com/u/3516998421"&gt;沙昕哲&lt;/a&gt; 来聊聊目前很火的可穿戴设备产品。&lt;/p&gt;
+
+&lt;p&gt;做为剁手网站 Knewone 的 CEO，沙沙号称玩过(了解过)市面上几乎所有的可穿戴设备。这一期主题很轻松很新奇，iWatch，Fuelband，Fitbit，Jawbone UP2，新我手环，Pebble，Google Glass，Oculus Rift，LUMOback，LovePalz，Pillow Talk，Necomimi Brainwave Cat Ears，MYO，麦步等等，太多新奇科技产品，来听听试玩体验吧。&lt;/p&gt;
+
+&lt;p&gt;一些讨论点：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;智能手表猜想，任何需要两只手操作的手表都是反人类设计的&lt;/li&gt;
+  &lt;li&gt;iWatch 肯定需要刺激你去购买 iPhone，而不是替代&lt;/li&gt;
+  &lt;li&gt;硬件的差别不会太大，以后可穿戴设备需要在软件上多下文章&lt;/li&gt;
+  &lt;li&gt;什么是阻止你使用手环的最大原因及各种手环使用终极体验&lt;/li&gt;
+  &lt;li&gt;如果你带了 Google Glass，我拒绝跟你说话&lt;/li&gt;
+  &lt;li&gt;LovePalz 是好东西&lt;/li&gt;
+  &lt;li&gt;智能家具，最好是开箱即用&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.nike.com/cdp/fuelband/"&gt;Fuelband&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://fitbit.com/flex"&gt;Fitbit Flex&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/things/jawbone-up-2nd-generation"&gt;Jawbone UP2&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/things/xin-wo"&gt;新我&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/things/pebble"&gt;Pebble&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.google.com/glass/start/"&gt;Google Glass&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/things/oculus-rift-xu-ni-xian-shi-tou-kui"&gt;Oculus Rift&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/things/lumoback"&gt;LUMOback&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/things/lovepalz"&gt;LovePalz&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/things/pillow-talk"&gt;Pillow Talk&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/things/necomimi-brainwave-cat-ears"&gt;Necomimi Brainwave Cat Ears&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.thalmic.com/en-us/myo/"&gt;MYO&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://damaijiankang.com/"&gt;麦步&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.com/articles/4-remote-full-time-job"&gt;如何开始你的 SOHO 之旅 (2)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.marketcircle.com/billingspro/"&gt;Billings&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://freshbooks.com"&gt;FreshBooks&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.fitbit.com/user/27295J"&gt;Dingding's Fitbit Profile&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/09/02/wearable-devices-with-sxzz.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_30.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_30.m4a</guid>
+      <pubDate>Mon, 02 Sep 2013 04:00:00 -0000</pubDate>
+      <itunes:duration>5680</itunes:duration>
+      <itunes:keywords>wearable-devices, 可穿戴设备</itunes:keywords>
+    </item>
+    <item>
+      <title>#29 和 Ubuntu Tweak 作者图拉鼎聊聊独立开发者</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;和&lt;a href="https://twitter.com/lgn21st"&gt;Daniel&lt;/a&gt;共同主持，邀请了 &lt;a href="http://ubuntu-tweak.com/"&gt;Ubuntu Tweak&lt;/a&gt; 的作者&lt;a href="http://imtx.me/"&gt;图拉鼎&lt;/a&gt;来和我们聊聊他的成长历程以及独立开发者的方方面面。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://ubuntu-tweak.com/"&gt;Ubuntu Tweak&lt;/a&gt; 是一个为了方便所有人配置Ubuntu的工具。 它提供了许多默认系统并未提供的桌面和系统选项。 在它的帮助下，你的Ubuntu之旅将会更加愉快！&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;和&lt;a href="https://twitter.com/lgn21st"&gt;Daniel&lt;/a&gt;共同主持，邀请了 &lt;a href="http://ubuntu-tweak.com/"&gt;Ubuntu Tweak&lt;/a&gt; 的作者&lt;a href="http://imtx.me/"&gt;图拉鼎&lt;/a&gt;来和我们聊聊他的成长历程以及独立开发者的方方面面。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://ubuntu-tweak.com/"&gt;Ubuntu Tweak&lt;/a&gt; 是一个为了方便所有人配置Ubuntu的工具。 它提供了许多默认系统并未提供的桌面和系统选项。 在它的帮助下，你的Ubuntu之旅将会更加愉快！&lt;/p&gt;
+
+&lt;p&gt;关于图拉鼎：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/tualatrix"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/tualatrix"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://imtx.me/"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://ubuntu-tweak.com/"&gt;Ubuntu Tweak&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://manico.im/"&gt;Manico&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Cyrix"&gt;Cyrix&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Tualatin_(microprocessor)#Tualatin"&gt;Tualatin&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.microcomputer.com.cn/"&gt;微型计算机&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Logo_(programming_language)"&gt;Logo programming language&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/BASIC"&gt;BASIC programming language&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ggv.com.cn/newweb/default.htm"&gt;文曲星&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ubuntu.com/"&gt;Ubuntu&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.canonical.com/"&gt;Canonical&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/979.htm"&gt;注册表&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/20844/8013115.htm?fromId=20844"&gt;DotA&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.djangoproject.com/"&gt;Django&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Mark_Shuttleworth"&gt;Mark Shuttleworth&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mouapp.com/"&gt;Mou&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://brew.sh/"&gt;Homebrew&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mplayerx.org/"&gt;MPlayerX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://totalfinder.binaryage.com/"&gt;TotalFinder&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://macromates.com/"&gt;Textmate&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.google.com/analytics/"&gt;Google Analytics&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/doo/GAJavaScriptTracker"&gt;GAJavaScriptTracker&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.duokan.com/%E6%94%B9%E5%8F%98%E6%9C%AA%E6%9D%A5%E7%9A%84%E4%B9%9D%E5%A4%A7%E7%AE%97%E6%B3%95/b/39764"&gt;改变未来的九大算法&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/things/blink-speaker"&gt;Blink 音箱&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/08/26/independent-developer-tualatrix.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_29.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_29.m4a</guid>
+      <pubDate>Mon, 26 Aug 2013 04:30:00 -0000</pubDate>
+      <itunes:duration>6050</itunes:duration>
+      <itunes:keywords>independent developer, OS, Mac, Ubuntu</itunes:keywords>
+    </item>
+    <item>
+      <title>#28 和Strikingly的CTO Dafeng聊聊他们和Y-Combinator的故事</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="https://twitter.com/lgn21st"&gt;Daniel&lt;/a&gt;和&lt;a href="https://twitter.com/poshboytl"&gt;Terry&lt;/a&gt;共同主持，邀请到了来自 &lt;a href="https://www.strikingly.com/"&gt;Strikingly&lt;/a&gt; 的 CTO &lt;a href="https://twitter.com/dfguo"&gt;郭达峰&lt;/a&gt;来跟我们聊聊 Strikingly 的创业故事。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.strikingly.com/"&gt;Strikingly&lt;/a&gt; 是一家在美国成立的创业公司，公司的三位创始人均来自中国。从2011年8月开始写第一行代码，到2012年四月第一次尝试申请&lt;a href="http://ycombinator.com/"&gt;Y-Combinator&lt;/a&gt;，2012年7月团队成员在旧金山开始正式全职开发，8月份新版本上线，10月份实现收支平衡，11月份第二次申请YC，成功被YC的孵化器录取（Strikingly 同时也是第一家YC的中国团队），在之后的YC Demo Day上，Strinkly拿到第一名的好成绩，获得了多家创投的青睐并成功融资150万，他们的创业故事登上了纽约时报，今年6月份，Strikingly团队回到中国并正式入驻了创新工厂……&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="https://twitter.com/lgn21st"&gt;Daniel&lt;/a&gt;和&lt;a href="https://twitter.com/poshboytl"&gt;Terry&lt;/a&gt;共同主持，邀请到了来自 &lt;a href="https://www.strikingly.com/"&gt;Strikingly&lt;/a&gt; 的 CTO &lt;a href="https://twitter.com/dfguo"&gt;郭达峰&lt;/a&gt;来跟我们聊聊 Strikingly 的创业故事。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.strikingly.com/"&gt;Strikingly&lt;/a&gt; 是一家在美国成立的创业公司，公司的三位创始人均来自中国。从2011年8月开始写第一行代码，到2012年四月第一次尝试申请&lt;a href="http://ycombinator.com/"&gt;Y-Combinator&lt;/a&gt;，2012年7月团队成员在旧金山开始正式全职开发，8月份新版本上线，10月份实现收支平衡，11月份第二次申请YC，成功被YC的孵化器录取（Strikingly 同时也是第一家YC的中国团队），在之后的YC Demo Day上，Strinkly拿到第一名的好成绩，获得了多家创投的青睐并成功融资150万，他们的创业故事登上了纽约时报，今年6月份，Strikingly团队回到中国并正式入驻了创新工厂……&lt;/p&gt;
+
+&lt;p&gt;关于郭达峰:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/dfguo"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/dfguo"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://www.strikingly.com/"&gt;Strikingly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ycombinator.com/"&gt;Y-Combinator&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://moneythink.org/"&gt;Money Think&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Minimum_viable_product"&gt;MVP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://37signals.com/rework"&gt;Rework&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://copyhackers.com/"&gt;Copy hackers&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.com/articles/2-how-to-begin-soho-1"&gt;如何开始你的 SOHO 之旅 (1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyconfchina.org/"&gt;RubyConfChina 2013&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/08/21/strikingly-yc-and-startup.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_28.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_28.m4a</guid>
+      <pubDate>Tue, 20 Aug 2013 23:30:00 -0000</pubDate>
+      <itunes:duration>5492</itunes:duration>
+      <itunes:keywords>startup, yc, lean startup, silicon valley</itunes:keywords>
+    </item>
     <item>
       <title>#27 与 Tinyfool 聊新媒体、创业经历和团队建设</title>
       <itunes:author>dingding</itunes:author>
