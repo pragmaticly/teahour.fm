@@ -1,6 +1,6 @@
 ---
 idx: 32
-title: 跟简书的联合创始人赵波聊从大公司到创业
+title: 跟简书的赵波聊从大公司到创业
 date: 2013-09-16 10:00 +08:00
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_32.m4a"
 host: daniel
