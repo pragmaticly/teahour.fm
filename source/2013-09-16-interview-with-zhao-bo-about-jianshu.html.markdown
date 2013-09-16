@@ -10,7 +10,7 @@ guests:
 duration: 2:34:36
 ---
 
-本期由 [Daniel Lv](http://lvguoning.com) 和 [Terry Tai](http://terrytai.com) 共同主持，我们邀请到了简书的联合创始人，[赵波](https://twitter.com/larryzhao) 来跟大家他从大学毕业加入 [SAP](http://www.sap.com) 公司的工作经历，分享了他对 SAP 这家公司和 ERP 的理解，以及之后从大公司离职，跟朋友一起创业，创立简书的故事。除此之外，赵波还跟分享了大学生如何规划自己的职业，毕业生如何求职，进入大公司要做那些准备，在大公司的工作经历可以给你带来什么？以及在校大学生如何争取一个互联网创业公司的实习机会等等。
+本期由 [Daniel Lv](http://lvguoning.com) 和 [Terry Tai](http://terrytai.com) 共同主持，我们邀请到了简书的联合创始人，[赵波](https://twitter.com/larryzhao) 来跟大聊聊他从大学毕业加入 [SAP](http://www.sap.com) 公司的工作经历，分享了他对 SAP 这家公司和 ERP 的理解，以及之后从大公司离职，跟朋友一起创业，创立简书的故事。除此之外，赵波还跟分享了大学生如何规划自己的职业，毕业生如何求职，进入大公司要做那些准备，在大公司的工作经历可以给你带来什么？以及在校大学生如何争取一个互联网创业公司的实习机会等等。
 
 ### 关于赵波
 
