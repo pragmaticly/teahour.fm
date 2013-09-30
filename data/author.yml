@@ -131,3 +131,11 @@ zhaobo:
   name: "赵波"
   avatar: "zhaobo.png"
   link: "https://twitter.com/larryzhao"
+liulianxiang:
+  name: "刘连响"
+  avatar: "liulianxiang.jpg"
+  link: "http://weibo.com/notedit"
+hanjiyun:
+  name: "韩吉云"
+  avatar: "hanjiyun.jpg"
+  link: "http://han.im/"
