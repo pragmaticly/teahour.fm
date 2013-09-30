@@ -1,6 +1,6 @@
 ---
 idx: 33
-title: 和workor的两位常使人聊聊他们的创业故事
+title: 和workor的两位创始人聊聊他们的创业故事
 date: 2013-09-30 10:00 +08:00
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_33.m4a"
 host: terry
