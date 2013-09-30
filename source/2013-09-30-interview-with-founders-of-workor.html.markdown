@@ -53,5 +53,5 @@ duration: 1:10:44
 * [Quixote](http://quixote.ca/)
 * [Skala Preview](http://bjango.com/mac/skalapreview/)
 * [Stilly](https://itunes.apple.com/us/app/stilly-one-button-gif-camera/id648976952?mt=8)
-* [当我谈跑步时，我谈些什么](http://book.douban.com/subject/3369600/a)
+* [当我谈跑步时，我谈些什么](http://book.douban.com/subject/3369600/)
 </section>
