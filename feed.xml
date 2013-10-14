@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Wed, 11 Sep 2013 05:00:00 -0000</updated>
-    <lastBuildDate>Wed, 11 Sep 2013 05:00:00 -0000</lastBuildDate>
-    <pubDate>Wed, 11 Sep 2013 05:00:00 -0000</pubDate>
+    <updated>Mon, 14 Oct 2013 01:00:00 -0000</updated>
+    <lastBuildDate>Mon, 14 Oct 2013 01:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 14 Oct 2013 01:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,152 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#34 和李天放聊课程格子创业故事</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请到了&lt;a href="http://kechenggezi.com"&gt;课程格子&lt;/a&gt;的创始人&lt;a href="http://litianfang.com"&gt;李天放&lt;/a&gt;来跟我们一起聊聊他两年多的创业经历。天放是一个美籍华人，三年前放弃硅谷大好的机会回国创业，课程格子是他的第三个产品，在本期节目中他介绍了他和他的团队是如何找到这个需求，如何做 MVP，如何宣传推广，如何跟用户交流，如何做产品级别测试等等的经验，也介绍了课程格子的技术架构和团队文化。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请到了&lt;a href="http://kechenggezi.com"&gt;课程格子&lt;/a&gt;的创始人&lt;a href="http://litianfang.com"&gt;李天放&lt;/a&gt;来跟我们一起聊聊他两年多的创业经历。天放是一个美籍华人，三年前放弃硅谷大好的机会回国创业，课程格子是他的第三个产品，在本期节目中他介绍了他和他的团队是如何找到这个需求，如何做 MVP，如何宣传推广，如何跟用户交流，如何做产品级别测试等等的经验，也介绍了课程格子的技术架构和团队文化。&lt;/p&gt;
+
+&lt;p&gt;李天放的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#116;&amp;#105;&amp;#097;&amp;#110;&amp;#102;&amp;#108;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://litianfang.com"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/tstyle11"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://www.palantir.com/"&gt;Palantir&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://kechenggezi.com"&gt;课程格子&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.chuangxin.com"&gt;创新工场&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.paulgraham.com/"&gt;Paul Graham&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="www.yunjiasuqi.cn/‎"&gt;微软云加速器&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pragprog.com/book/btlang/seven-languages-in-seven-weeks"&gt;Seven Languages in Seven Weeks&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yedingding.com/2013/08/08/dig-into-code-review-process.html"&gt;让代码审查成为你的团队习惯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yedingding.com/2013/09/11/practical-git-flow-for-startups.html"&gt;实用 Git 工作流&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/1438119/"&gt;Masters of Doom&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/10/14/interview-with-tstyle11-about-kechenggezi.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_34.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_34.m4a</guid>
+      <pubDate>Mon, 14 Oct 2013 01:00:00 -0000</pubDate>
+      <itunes:duration>4988</itunes:duration>
+      <itunes:keywords>startup, entreprenuer</itunes:keywords>
+    </item>
+    <item>
+      <title>#33 和workor的两位创始人聊聊他们的创业故事</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，邀请到了 &lt;a href="http://workor.com/"&gt;Workor网&lt;/a&gt; 的两位创始人:  一位是前 &lt;a href="http://www.biubiubiubiu.com/"&gt;Biu网&lt;/a&gt; 的创始人&lt;a href="http://han.im/"&gt;韩吉云&lt;/a&gt;，还有前&lt;a href="http://www.guokr.com/"&gt;果壳网&lt;/a&gt; team leader &lt;a href="http://weibo.com/notedit"&gt;刘连响&lt;/a&gt;，来和他们一起聊聊他们的创业故事以及背后的一些技术选型。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，邀请到了 &lt;a href="http://workor.com/"&gt;Workor网&lt;/a&gt; 的两位创始人:  一位是前 &lt;a href="http://www.biubiubiubiu.com/"&gt;Biu网&lt;/a&gt; 的创始人&lt;a href="http://han.im/"&gt;韩吉云&lt;/a&gt;，还有前&lt;a href="http://www.guokr.com/"&gt;果壳网&lt;/a&gt; team leader &lt;a href="http://weibo.com/notedit"&gt;刘连响&lt;/a&gt;，来和他们一起聊聊他们的创业故事以及背后的一些技术选型。&lt;/p&gt;
+
+&lt;h6 id="show-notes"&gt;Show Notes:&lt;/h6&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://workor.com/"&gt;workor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://shijue.me/home"&gt;视觉中国&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.guokr.com/"&gt;果壳网&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.djangoproject.com/"&gt;Django&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.lua.org/"&gt;Lua&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.biubiubiubiu.com/"&gt;Biu&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://v2ex.com/"&gt;v2ex&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://medium.com/"&gt;Medium&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/mbleigh"&gt;Michael Bleigh&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://theleanstartup.com/"&gt;The Lean Startup&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gotomeeting.com/online/"&gt;GoToMeeting&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://join.me/"&gt;join.me&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.webrtc.org/"&gt;WebRTC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.sqwiggle.com/"&gt;Sqwiggle&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://liveminutes.com/"&gt;LiveMinute&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.google.com/hangouts/"&gt;Google Hangouts&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://mixpanel.com/"&gt;mixpanel&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.zendesk.com/"&gt;Zendesk&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.olark.com/"&gt;Olark&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://plus.google.com/104305417553504824606/about?gl=cn&amp;amp;hl=zh-CN"&gt;漫咖啡&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://backbonejs.org/"&gt;Backbone.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://nodejs.org/"&gt;node.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://flask.pocoo.org/"&gt;Flask&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.mongodb.org/"&gt;mongoDB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.postgresql.org/"&gt;PostgreSQL&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pusher.com/"&gt;Pusher&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://golang.org/"&gt;Go&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Rob_Pike"&gt;Rob Pike&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Linus_Torvalds"&gt;Linus&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://plan9.bell-labs.com/plan9/"&gt;Plan 9&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://beego.me/"&gt;beego&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://groups.google.com/forum/#!forum/python-cn"&gt;python-cn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.sinatrarb.com/"&gt;Sinatra&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.tornadoweb.org/en/stable/"&gt;Tornado&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://webpy.org/"&gt;web.py&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://quixote.ca/"&gt;Quixote&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://bjango.com/mac/skalapreview/"&gt;Skala Preview&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://itunes.apple.com/us/app/stilly-one-button-gif-camera/id648976952?mt=8"&gt;Stilly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/3369600/"&gt;当我谈跑步时，我谈些什么&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://beenhero.com/improve-remote-work-productivity/"&gt;远程工作之个人效率篇&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/09/30/interview-with-founders-of-workor.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_33.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_33.m4a</guid>
+      <pubDate>Mon, 30 Sep 2013 02:00:00 -0000</pubDate>
+      <itunes:duration>4244</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>#32 跟简书的赵波聊从大公司到创业</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt; 和 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 共同主持，我们邀请到了简书的联合创始人，&lt;a href="https://twitter.com/larryzhao"&gt;赵波&lt;/a&gt; 来跟大聊聊他从大学毕业加入 &lt;a href="http://www.sap.com"&gt;SAP&lt;/a&gt; 公司的工作经历，分享了他对 SAP 这家公司和 ERP 的理解，以及之后从大公司离职，跟朋友一起创业，创立简书的故事。除此之外，赵波还跟分享了大学生如何规划自己的职业，毕业生如何求职，进入大公司要做那些准备，在大公司的工作经历可以给你带来什么？以及在校大学生如何争取一个互联网创业公司的实习机会等等。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt; 和 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 共同主持，我们邀请到了简书的联合创始人，&lt;a href="https://twitter.com/larryzhao"&gt;赵波&lt;/a&gt; 来跟大聊聊他从大学毕业加入 &lt;a href="http://www.sap.com"&gt;SAP&lt;/a&gt; 公司的工作经历，分享了他对 SAP 这家公司和 ERP 的理解，以及之后从大公司离职，跟朋友一起创业，创立简书的故事。除此之外，赵波还跟分享了大学生如何规划自己的职业，毕业生如何求职，进入大公司要做那些准备，在大公司的工作经历可以给你带来什么？以及在校大学生如何争取一个互联网创业公司的实习机会等等。&lt;/p&gt;
+
+&lt;h3 id="section"&gt;关于赵波&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href="https://twitter.com/larryzhao"&gt;https://twitter.com/larryzhao&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Blog: &lt;a href="http://larryzhao.com"&gt;http://larryzhao.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://jianshu.io"&gt;简书&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.sap.com"&gt;SAP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Enterprise_resource_planning"&gt;ERP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://linlis.me"&gt;林立&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yammer.com"&gt;Yammer&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.moleskine.com/en/"&gt;moleskine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://delicious.com"&gt;Delicious&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/spine/spine"&gt;SpineJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://alexmaccaw.com"&gt;Author of SpineJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/jashkenas/backbone"&gt;BackboneJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ashkenas.com"&gt;Author of BackboneJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.documentcloud.org"&gt;Document Cloud&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://angularjs.org"&gt;AngularJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://emberjs.com"&gt;EmberJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.innospace.com.cn/fuwu.aspx"&gt;创智天地 InnoSpace&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://medium.com"&gt;Medium&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://read.douban.com/ebook/1531222/"&gt;MacTalk - 人生元编程&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.marksimonson.com/fonts/view/anonymous-pro"&gt;Anonymous Pro&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://fieldnotesbrand.com/colors/"&gt;Field Notes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gotealeaf.com/"&gt;Gotealeaf&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/09/16/interview-with-zhao-bo-about-jianshu.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_32.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_32.m4a</guid>
+      <pubDate>Mon, 16 Sep 2013 02:00:00 -0000</pubDate>
+      <itunes:duration>9276</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
     <item>
       <title>#31 跟易空海创始人 Maxime 聊如何运作一个咨询公司</title>
       <itunes:author>kevin</itunes:author>
@@ -409,7 +555,7 @@
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="https://www.vpncloud.biz/"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.vpncloud.co/"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
@@ -426,7 +572,7 @@
     <item>
       <title>#22 GFW 技术研究和云梯产品故事</title>
       <itunes:author>kevin</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.vpncloud.biz"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.vpncloud.co"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
 
 &lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
 
@@ -436,7 +582,7 @@
 &lt;/ul&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.vpncloud.biz"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.vpncloud.co"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
 
 &lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
 
@@ -447,7 +593,7 @@
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="https://www.vpncloud.biz/"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.vpncloud.co/"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/防火长城"&gt;GFW&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://openvpn.net"&gt;OpenVPN&lt;/a&gt;&lt;/li&gt;
