@@ -19,4 +19,5 @@ duration: 1:27:25
 * [PickFu](https://pickfu.com)
 * [RubyConf China](http://rubyconfchina.org)
 * [better_errors](https://github.com/charliesome/better_errors)
+* [实用 Git 工作流](http://yedingding.com/2013/09/11/practical-git-flow-for-startups.html)
 </section>
