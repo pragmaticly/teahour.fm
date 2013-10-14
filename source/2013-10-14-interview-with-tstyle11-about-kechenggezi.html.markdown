@@ -19,6 +19,8 @@ duration: 1:23:08
 * [Blog](http://litianfang.com)
 * [Weibo](http://weibo.com/tstyle11)
 
+目前课程格子在招募新成员，有兴趣加入的同学可以给天放发一份简历。在节目的最后，天放也介绍了他们团队的招聘要求和他们能提供的，非常真实，是主播们听了就觉得想加入的那种团队。
+
 <section class="notes" markdown="1">
 * [Palantir](https://www.palantir.com/)
 * [课程格子](http://kechenggezi.com)
