@@ -15,7 +15,7 @@ duration: 1:23:08
 
 李天放的一些联系方式：
 
-* [Email](mailto:tianfl@gmail.com)
+* [Email](mailto:joinus@creatingev.com)
 * [Blog](http://litianfang.com)
 * [Weibo](http://weibo.com/tstyle11)
 
@@ -26,7 +26,7 @@ duration: 1:23:08
 * [课程格子](http://kechenggezi.com)
 * [创新工场](http://www.chuangxin.com)
 * [Paul Graham](http://www.paulgraham.com/)
-* [微软云加速器](www.yunjiasuqi.cn/‎)
+* [微软云加速器](http://www.yunjiasuqi.cn/‎)
 * [Seven Languages in Seven Weeks](http://pragprog.com/book/btlang/seven-languages-in-seven-weeks)
 * [让代码审查成为你的团队习惯](http://yedingding.com/2013/08/08/dig-into-code-review-process.html)
 * [实用 Git 工作流](http://yedingding.com/2013/09/11/practical-git-flow-for-startups.html)
