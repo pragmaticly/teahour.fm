@@ -28,7 +28,7 @@ duration: 1:41:38
 * [Planning Poker](http://www.planningpoker.com/)
 * [Intridea](http://www.intridea.com/)
 * [Campfire](https://campfirenow.com/)
-* [Rails Jobs](http://www.railsjobs.com/)
+* [Rails Jobbers](http://www.railsjobbers.com/)
 * [Tealeaf Academy](http://www.gotealeaf.com)
 * [爱燃烧](http://iranshao.com/)
 * [比赛控](http://bisaikong.com/)
