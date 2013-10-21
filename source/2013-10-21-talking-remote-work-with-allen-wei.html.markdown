@@ -26,7 +26,7 @@ duration: 1:41:38
 * [Jira](https://www.atlassian.com/software/jira)
 * [Toggl](https://www.toggl.com/)
 * [Planning Poker](http://www.planningpoker.com/)
-* [Intredia](http://www.intridea.com/)
+* [Intridea](http://www.intridea.com/)
 * [Campfire](https://campfirenow.com/)
 * [Rails Jobs](http://www.railsjobs.com/)
 * [Tealeaf Academy](http://www.gotealeaf.com)
