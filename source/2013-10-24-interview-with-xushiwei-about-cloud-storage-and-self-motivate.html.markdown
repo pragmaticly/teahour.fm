@@ -34,7 +34,7 @@ duration: 1:41:38
 * [Amazon](http://aws.amazon.com/s3/)
 * [Erlang](http://www.erlang.org)
 * [Golang](http://golang.org)
-* [Golang 社区](http://golangtc.org)
+* [Golang 社区](http://golangtc.com)
 * [Ruby 社区](http://ruby-china.org)
 * [RailsCasts China](http://railscasts-china.com)
 * [Writings.io](https://writings.io)
