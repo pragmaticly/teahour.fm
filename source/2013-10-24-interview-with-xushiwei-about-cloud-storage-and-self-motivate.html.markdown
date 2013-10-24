@@ -1,7 +1,7 @@
 ---
 
 idx: 36
-title: "和七牛的CEO许式伟聊云存储以及做有追求的程序员"
+title: "和七牛的许式伟聊云存储以及做有追求的程序员"
 date: 2013-10-24 09:00 +08:00
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_36.m4a"
 tags: cloud-storage self-motivate
