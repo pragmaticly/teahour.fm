@@ -25,7 +25,6 @@ duration: 1:33:44
 * [Pivotal Labs](http://pivotallabs.com/)
 * [thoughtbot](http://thoughtbot.com/)
 * [PivotalTracker](http://www.pivotaltracker.com/)
-* [Pivotal Labs](http://pivotallabs.com/)
 * [University of Waterloo](http://uwaterloo.ca/)
 * [rocketfuel](http://rocketfuel.com/)
 * [Jim Weirich](https://github.com/jimweirich)
