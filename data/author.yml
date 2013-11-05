@@ -7,7 +7,7 @@ terry:
   name: "Terry Tai"
   email: "poshboytl@gmail.com"
   avatar: "terry.png"
-  link: "http://terrytai.com"
+  link: "http://weibo.com/poshboytl"
 daniel:
   name: "Daniel Lv"
   email: "lgn21st@gmail.com"
@@ -151,3 +151,7 @@ xushiwei:
   name: "许式伟"
   avatar: "xushiwei.png"
   link: "http://weibo.com/xushiweizh"
+luwei:
+  name: "鲁葳"
+  avatar: "luwei.png"
+  link: "http://weilu.github.io/"
