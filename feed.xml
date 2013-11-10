@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 14 Oct 2013 01:00:00 -0000</updated>
-    <lastBuildDate>Mon, 14 Oct 2013 01:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 14 Oct 2013 01:00:00 -0000</pubDate>
+    <updated>Sun, 10 Nov 2013 16:00:00 -0000</updated>
+    <lastBuildDate>Sun, 10 Nov 2013 16:00:00 -0000</lastBuildDate>
+    <pubDate>Sun, 10 Nov 2013 16:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,217 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#38 与 GuruDigger 创始人蔡金聊创业团队如何寻找靠谱工程师</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请了 &lt;a href="http://gurudigger.com"&gt;GuruDigger&lt;/a&gt; 的创始人&lt;a href="http://primesplus.com/blog/"&gt;蔡金&lt;/a&gt;，聊聊 GuruDigger 想要做的那件事，如何让靠谱的创业团队找到靠谱的工程师，如何让靠谱的工程师找到靠谱的创业团队。不是简单的等朋友推荐守株待兔，不是简单的面个试、吃个饭、聊个天决定，而是用科学的方法找人，用科学的方法找团队。最后，也介绍了他们在融资这件事情上面的一些操作经验。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请了 &lt;a href="http://gurudigger.com"&gt;GuruDigger&lt;/a&gt; 的创始人&lt;a href="http://primesplus.com/blog/"&gt;蔡金&lt;/a&gt;，聊聊 GuruDigger 想要做的那件事，如何让靠谱的创业团队找到靠谱的工程师，如何让靠谱的工程师找到靠谱的创业团队。不是简单的等朋友推荐守株待兔，不是简单的面个试、吃个饭、聊个天决定，而是用科学的方法找人，用科学的方法找团队。最后，也介绍了他们在融资这件事情上面的一些操作经验。&lt;/p&gt;
+
+&lt;p&gt;一些讨论到的点：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;职场经历：从大公司 GE 到创建自己第一家公司。放弃营收良好的外包公司，转型去寻找理想，打造互联网产品，一路的选择思考。&lt;/li&gt;
+  &lt;li&gt;GuruDigger 这 3 年半，一直在拼搏，一直在坚持，有过非常低谷的时期，有过非常孤独的时期，那些不为人知的故事。&lt;/li&gt;
+  &lt;li&gt;做为一个创业团队，如何去寻找到靠谱的工程师&lt;/li&gt;
+  &lt;li&gt;做为一个工程师，如何去寻找到靠谱的创业团队&lt;/li&gt;
+  &lt;li&gt;对于劳动报酬的思考，工资和期权&lt;/li&gt;
+  &lt;li&gt;对于融资的经验分享，融资前你需要懂得资本规则&lt;/li&gt;
+  &lt;li&gt;市场运营方面的一些经验分享&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;蔡金的一些基本信息：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#109;&amp;#105;&amp;#107;&amp;#101;&amp;#064;&amp;#103;&amp;#117;&amp;#114;&amp;#117;&amp;#100;&amp;#105;&amp;#103;&amp;#103;&amp;#101;&amp;#114;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/u/2103247395"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://jimmygraphic.com"&gt;JimmyGraphic&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://github.com"&gt;Github&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://stackoverflow.com"&gt;StackOverflow&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.innospace.com.cn"&gt;InnoSpace&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.cn/Tribes-Godin-Seth/dp/0749939753/ref=sr_1_2?ie=UTF8&amp;amp;qid=1384097112&amp;amp;sr=8-2&amp;amp;keywords=tribe"&gt;Tribes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://weekly.manong.io"&gt;码农周刊&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://andrewchen.co/recent/"&gt;Andrew Chen&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/11/11/how-to-find-great-engineers.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_38.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_38.m4a</guid>
+      <pubDate>Sun, 10 Nov 2013 16:00:00 -0000</pubDate>
+      <itunes:duration>4488</itunes:duration>
+      <itunes:keywords>startup, hiring</itunes:keywords>
+    </item>
+    <item>
+      <title>#37 和鲁葳聊聊软件咨询公司是如何工作的</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://weibo.com/poshboytl"&gt;Terry Tai&lt;/a&gt;和&lt;a href="http://yedingding.com/"&gt;Dingding&lt;/a&gt;共同主持，邀请了 neo 的美女软件工程师鲁葳，和她一起聊聊软件咨询公司是如何工作的。让大家了解更多的优秀软件咨询公司的细节和内幕。&lt;/p&gt;
+
+&lt;h5 id="section"&gt;关于鲁葳：&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/luweidewei"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weilu.github.io/"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="section-1"&gt;访谈笔记&lt;/h5&gt;
+
+&lt;section class="notes"&gt;&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://weibo.com/poshboytl"&gt;Terry Tai&lt;/a&gt;和&lt;a href="http://yedingding.com/"&gt;Dingding&lt;/a&gt;共同主持，邀请了 neo 的美女软件工程师鲁葳，和她一起聊聊软件咨询公司是如何工作的。让大家了解更多的优秀软件咨询公司的细节和内幕。&lt;/p&gt;
+
+&lt;h5 id="section"&gt;关于鲁葳：&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/luweidewei"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weilu.github.io/"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="section-1"&gt;访谈笔记&lt;/h5&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.neo.com/"&gt;neo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pivotallabs.com/"&gt;Pivotal Labs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://thoughtbot.com/"&gt;thoughtbot&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.pivotaltracker.com/"&gt;PivotalTracker&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://uwaterloo.ca/"&gt;University of Waterloo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rocketfuel.com/"&gt;rocketfuel&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/jimweirich"&gt;Jim Weirich&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Pair_programming"&gt;Pair programming&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Test-driven_development"&gt;TDD&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Continuous_integration"&gt;Continuous integration&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.sublimetext.com/"&gt;Sublime Text&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.jetbrains.com/ruby/"&gt;RubyMine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.vim.org/"&gt;Vim&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gnu.org/software/emacs/"&gt;Emacs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tmux.sourceforge.net/"&gt;tmux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://travis-ci.org/"&gt;Travis CI&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://jenkins-ci.org/"&gt;Jenkins CI&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yehudakatz.com/"&gt;Yehuda Katz&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Eric_Ries"&gt;Eric Ries&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920021827.do"&gt;Lean UX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://railsgirls.com/"&gt;Rails Girls&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://remotepairprogramming.com/"&gt;Remote Pair Programing Blog&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://customer.io/"&gt;Customer.io&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://effectivejs.com/"&gt;Effective JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/11/05/interview-with-luwei.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_37.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_37.m4a</guid>
+      <pubDate>Tue, 05 Nov 2013 04:30:00 -0000</pubDate>
+      <itunes:duration>5624</itunes:duration>
+      <itunes:keywords>development, consultancy, pair, tdd, ci</itunes:keywords>
+    </item>
+    <item>
+      <title>#36 和七牛的许式伟聊云存储以及做有追求的程序员</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由Daniel Lv主持，我们邀请了七牛云存储的CEO许式伟来我们这里做客，聊存储，聊技术人员的成长和追求。许老大平时工作非常繁忙，能够约到他非常难得。另外许老大一直是我非常敬仰的高手，大神，所以平添了一分采访的压力，怀着惴惴不安的心情，我们开始了本次访谈。&lt;/p&gt;
+
+&lt;p&gt;访谈从许老大的求学经历开始，包括他的成长经历，以及他是怎么通过一份手写简历，争取到金山的工作机会。在金山作为首席架构师，曾经主导WPS开发经历了一次耗时3年的重写，背后又有着怎样的故事，后来成立金山软件实验室，以及从金山辗转加入盛大云，许老大结合自己的职业经历，传递大家一些非常有价值的建议。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由Daniel Lv主持，我们邀请了七牛云存储的CEO许式伟来我们这里做客，聊存储，聊技术人员的成长和追求。许老大平时工作非常繁忙，能够约到他非常难得。另外许老大一直是我非常敬仰的高手，大神，所以平添了一分采访的压力，怀着惴惴不安的心情，我们开始了本次访谈。&lt;/p&gt;
+
+&lt;p&gt;访谈从许老大的求学经历开始，包括他的成长经历，以及他是怎么通过一份手写简历，争取到金山的工作机会。在金山作为首席架构师，曾经主导WPS开发经历了一次耗时3年的重写，背后又有着怎样的故事，后来成立金山软件实验室，以及从金山辗转加入盛大云，许老大结合自己的职业经历，传递大家一些非常有价值的建议。&lt;/p&gt;
+
+&lt;p&gt;只要谈到存储，许老大就会滔滔不绝，话题从金山实验室的研究项目开始，经历百度，盛大云，一直到七牛。其实这是一个许老大对存储的追寻的过程，这个过程不断加深他对存储本质的理解，许老大总是给自己提出更高的要求，不断挑战自己，追求把产品做到极致，这同时也是一个完善和提升个人的技术和修养的过程，最后许老大谈了他自己的创业理念，用人的原则，并给我们分享了一本意境深邃的书，值得大家认真去品读。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.kingsoft.com"&gt;金山&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.wps.cn/product/wps2013/"&gt;WPS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.grandcloud.cn"&gt;盛大云&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.qiniu.com"&gt;七牛&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.programmer.com.cn/4206/"&gt;盛大创新院许式伟：影响我一生的五个重要选择&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Fortran"&gt;Fortran&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/DOSKEY"&gt;DOSKEY&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/1543817.htm"&gt;分形图形&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://codingnow.com"&gt;云风&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.codingnow.com/2000/"&gt;风魂&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tvision.sourceforge.net"&gt;Turbo Vision&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://weibo.com/wanqiangli"&gt;黎万强&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://hadoop.apache.org"&gt;hadoop&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://aws.amazon.com/s3/"&gt;Amazon&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.erlang.org"&gt;Erlang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://golang.org"&gt;Golang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://golangtc.com"&gt;Golang 社区&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org"&gt;Ruby 社区&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://railscasts-china.com"&gt;RailsCasts China&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://writings.io"&gt;Writings.io&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://blog.chloerei.com/articles/79-writings-io-is-failure"&gt;Writings.io 失败了&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/11248/4923540.htm?fromId=11248&amp;amp;from=rdtself"&gt;平凡的世界&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/10/24/interview-with-xushiwei-about-cloud-storage-and-self-motivate.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_36.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_36.m4a</guid>
+      <pubDate>Thu, 24 Oct 2013 01:00:00 -0000</pubDate>
+      <itunes:duration>6098</itunes:duration>
+      <itunes:keywords>cloud-storage self-motivate</itunes:keywords>
+    </item>
+    <item>
+      <title>#35 和魏伦谈远程团队和远程工作</title>
+      <itunes:author>kevin</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://www.twitter.com/knwang"&gt;Kevin Wang&lt;/a&gt; 主持，邀请到了&lt;a href="http://allenwei.cn"&gt;魏伦&lt;/a&gt;, &lt;a href="https://bindo.com/"&gt;Bindo Labs&lt;/a&gt; 的 CTO 来谈远程团队的建设和远程工作的体会.&lt;/p&gt;
+
+&lt;p&gt;魏伦的联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://allenwei.cn"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/allenweiit"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://www.twitter.com/knwang"&gt;Kevin Wang&lt;/a&gt; 主持，邀请到了&lt;a href="http://allenwei.cn"&gt;魏伦&lt;/a&gt;, &lt;a href="https://bindo.com/"&gt;Bindo Labs&lt;/a&gt; 的 CTO 来谈远程团队的建设和远程工作的体会.&lt;/p&gt;
+
+&lt;p&gt;魏伦的联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://allenwei.cn"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/allenweiit"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://bindo.com/"&gt;Bindo Labs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.redmine.org/"&gt;Redmine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://trello.com/"&gt;Trello&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.atlassian.com/software/jira"&gt;Jira&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.toggl.com/"&gt;Toggl&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.planningpoker.com/"&gt;Planning Poker&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.intridea.com/"&gt;Intridea&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://campfirenow.com/"&gt;Campfire&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.railsjobbers.com/"&gt;Rails Jobbers&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://iranshao.com/"&gt;爱燃烧&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://bisaikong.com/"&gt;比赛控&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://exercism.io/"&gt;Exercism&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://movie.douban.com/subject/6146955/"&gt;寿司之神&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.getconcentrating.com/"&gt;Concentrate&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_35.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_35.m4a</guid>
+      <pubDate>Mon, 21 Oct 2013 01:00:00 -0000</pubDate>
+      <itunes:duration>6098</itunes:duration>
+      <itunes:keywords>remote work</itunes:keywords>
+    </item>
     <item>
       <title>#34 和李天放聊课程格子创业故事</title>
       <itunes:author>dingding</itunes:author>
