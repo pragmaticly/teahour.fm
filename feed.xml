@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Sun, 10 Nov 2013 16:00:00 -0000</updated>
-    <lastBuildDate>Sun, 10 Nov 2013 16:00:00 -0000</lastBuildDate>
-    <pubDate>Sun, 10 Nov 2013 16:00:00 -0000</pubDate>
+    <updated>Sun, 17 Nov 2013 16:00:00 -0000</updated>
+    <lastBuildDate>Sun, 17 Nov 2013 16:00:00 -0000</lastBuildDate>
+    <pubDate>Sun, 17 Nov 2013 16:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,54 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#39 SaaS 产品血泪史</title>
+      <itunes:author>kevin</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;在本期的节目 Teahour 迎来了新的主播 &lt;a href="http://blog.xdite.net/"&gt;Xdite&lt;/a&gt;! 这期的节目由三位主播 &lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://blog.xdite.net"&gt;Xdite&lt;/a&gt; 主持，吐槽和痛诉开发和经营 &lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt; 和 &lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt; SaaS 产品的血泪史。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;在本期的节目 Teahour 迎来了新的主播 &lt;a href="http://blog.xdite.net/"&gt;Xdite&lt;/a&gt;! 这期的节目由三位主播 &lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://blog.xdite.net"&gt;Xdite&lt;/a&gt; 主持，吐槽和痛诉开发和经营 &lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt; 和 &lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt; SaaS 产品的血泪史。&lt;/p&gt;
+
+&lt;p&gt;一些讨论到的点：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;介绍了两个人分别在操作的产品&lt;/li&gt;
+  &lt;li&gt;你认为什么是 SaaS&lt;/li&gt;
+  &lt;li&gt;怎么起步，怎么选择这个方向&lt;/li&gt;
+  &lt;li&gt;往回想，如果重新来一遍，起步时你会有变化吗？&lt;/li&gt;
+  &lt;li&gt;产品的开发过程是如何的？&lt;/li&gt;
+  &lt;li&gt;上线后发生了什么事情，如何找人，如何前进？&lt;/li&gt;
+  &lt;li&gt;至今你做了哪些调整？调整的决策是如何的？&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Software_as_a_service"&gt;SaaS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rocodev.com/"&gt;Rocodev&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.intridea.com/"&gt;Intridea&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://news.ycombinator.com/"&gt;HackerNews&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.groovehq.com/"&gt;groovehq&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://37signals.com/"&gt;37signals&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://basecamp.com/"&gt;Basecamp&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://trello.com/"&gt;Trello&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://businessofsoftware.org/"&gt;Business of Software&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://businessofsoftware.org/2013/02/kathy-sierra-building-the-minimum-badass-user-business-of-software-a-masterclass-in-thinking-about-software-product-development/"&gt;Kathy Sierra's BoS Keynote&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.penflip.com/"&gt;Penflip&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://editorially.com/"&gt;Editorially&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://jianshu.io/p/VWuif5"&gt;Teahour 线下活动&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/11/18/lessons-learned-from-running-saas-products.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_39.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_39.m4a</guid>
+      <pubDate>Sun, 17 Nov 2013 16:00:00 -0000</pubDate>
+      <itunes:duration>6281</itunes:duration>
+      <itunes:keywords>SaaS, entrepreneurship, products</itunes:keywords>
+    </item>
     <item>
       <title>#38 与 GuruDigger 创始人蔡金聊创业团队如何寻找靠谱工程师</title>
       <itunes:author>dingding</itunes:author>
