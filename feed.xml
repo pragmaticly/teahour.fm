@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Sun, 17 Nov 2013 16:00:00 -0000</updated>
-    <lastBuildDate>Sun, 17 Nov 2013 16:00:00 -0000</lastBuildDate>
-    <pubDate>Sun, 17 Nov 2013 16:00:00 -0000</pubDate>
+    <updated>Mon, 16 Dec 2013 10:00:00 -0000</updated>
+    <lastBuildDate>Mon, 16 Dec 2013 10:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 16 Dec 2013 10:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,50 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#40 聊台灣軟體業失落的十年</title>
+      <itunes:author>xdite</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://blog.xdite.net/"&gt;Xdite&lt;/a&gt; 主持，邀請了台灣熱門網路電台的站長 Now.in 的創辦人 &lt;a href="http://victorlin.me/"&gt;Victor Lin&lt;/a&gt;，聊聊他最近出版的一本新書&lt;a href="https://leanpub.com/the-lost-ten-years-of-taiwan-software-industry"&gt;「台灣軟體業失落的十年」&lt;/a&gt;。這本書是一本相當全面性的談摩登軟體開發流程的書，在 LeanPub 上販售。聊聊 Victor 出版並這本書的契機，以及分享與交換 LeanPub 這種新式流程撰寫出版電子書的心得。最後，Victor 也預告他下一本書的內容，內容會是工程師的職涯發展指南。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://blog.xdite.net/"&gt;Xdite&lt;/a&gt; 主持，邀請了台灣熱門網路電台的站長 Now.in 的創辦人 &lt;a href="http://victorlin.me/"&gt;Victor Lin&lt;/a&gt;，聊聊他最近出版的一本新書&lt;a href="https://leanpub.com/the-lost-ten-years-of-taiwan-software-industry"&gt;「台灣軟體業失落的十年」&lt;/a&gt;。這本書是一本相當全面性的談摩登軟體開發流程的書，在 LeanPub 上販售。聊聊 Victor 出版並這本書的契機，以及分享與交換 LeanPub 這種新式流程撰寫出版電子書的心得。最後，Victor 也預告他下一本書的內容，內容會是工程師的職涯發展指南。&lt;/p&gt;
+
+&lt;p&gt;一些討論到的點：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Now.in：Victor 上一個經營的網路電台平台，同時數萬人在線。且這個電台的底層竟是由他自己一人打造。&lt;/li&gt;
+  &lt;li&gt;台灣軟體業失落的十年：寫這本書的動機。&lt;/li&gt;
+  &lt;li&gt;摩登技術出版在傳統出版架構下的困境&lt;/li&gt;
+  &lt;li&gt;LeanPub 出版經驗分享&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;VictorLin 的部落格：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://blog.ez2learn.com/"&gt;程式設計遇上小提琴&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://victorlin.me/"&gt;Victor Lin's coding notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://blog.ez2learn.com/2011/07/29/lesson-learned-fro-now-in/"&gt;Now.in&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://leanpub.com/the-lost-ten-years-of-taiwan-software-industry"&gt;台灣軟體業失落的十年&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://leanpub.com"&gt;LeanPub&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yowureport.com/?p=8944"&gt;一至千萬的藝術 — 如何養成支撐網路巨量交易的伺服器艦隊&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pinboard.in/"&gt;Pinboard&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81"&gt;約耳談軟體&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pragprog.com/book/kcdc/the-developer-s-code"&gt;The Developer's Code: What Real Programmers Do&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pragprog.com/book/algh/land-the-tech-job-you-love"&gt;Land the Tech Job You Love&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/12/16/software-industry-in-taiwan.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_40.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_40.m4a</guid>
+      <pubDate>Mon, 16 Dec 2013 10:00:00 -0000</pubDate>
+      <itunes:duration>142380</itunes:duration>
+      <itunes:keywords>software, leanpub, career, taiwan</itunes:keywords>
+    </item>
     <item>
       <title>#39 SaaS 产品血泪史</title>
       <itunes:author>kevin</itunes:author>
