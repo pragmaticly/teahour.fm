@@ -1,5 +1,5 @@
 ---
-idx: 40
+idx: 41
 title: "跟 Quake Wang 聊蝉游记"
 date: 2013-12-23 18:26 +08:00
 tags: startup, travel
