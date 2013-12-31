@@ -1,6 +1,6 @@
 ---
 idx: 42
-title: "跟貔貅比特币交易所的邱亮聊聊比特币"
+title: "跟貔貅交易所的邱亮聊聊比特币"
 date: 2013-12-31 10:58 +08:00
 tags: bitcoin
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_42.m4a"
