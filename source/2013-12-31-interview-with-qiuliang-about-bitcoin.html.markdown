@@ -10,7 +10,7 @@ guests:
 duration: 1:42:53
 ---
 
-比特币是2013年的一个热点话题，在 Teahour.FM 本年度收官之际，主持人 [Daniel](http://lvguoning.com) 邀请到了[貔貅 Peatio比特币交易所](https://peatio.com)的创始人[邱亮 HappyHacking](http://weibo.com/hpyhck)来跟大家聊聊跟比特币相关的有趣的话题，包括比特币的历史，现状，原理，以及未来等等，本期话题非常适合对比特币背后的技术有兴趣的朋友。
+比特币是2013年的一个热点话题，在 Teahour.FM 本年度收官之际，主持人 [Daniel](http://lvguoning.com) 邀请到了[貔貅 Peatio交易所](https://peatio.com)的创始人[邱亮 HappyHacking](http://weibo.com/hpyhck)来跟大家聊聊跟比特币相关的有趣的话题，包括比特币的历史，现状，原理，以及未来等等，本期话题非常适合对比特币背后的技术有兴趣的朋友。
 
 - 比特别是如何产生的
 - 比特币背后的技术
