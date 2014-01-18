@@ -171,3 +171,7 @@ happyhacking:
   name: "邱亮（HappyHacking）"
   avatar: "happyhacking.png"
   link: "http://weibo.com/hpyhck"
+secret:
+  name: "秘密"
+  avatar: "secret.png"
+  link: "#"
