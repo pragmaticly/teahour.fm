@@ -25,6 +25,7 @@ duration: 1:32:28
 * [RubyMotion](http://www.rubymotion.com/): Ruby for iOS, a revolutionary toolchain for iOS.
 * [Programming Cocoa with Ruby](http://pragprog.com/book/bmrc/programming-cocoa-with-ruby)
 * [ARC](http://clang.llvm.org/docs/AutomaticReferenceCounting.html)
+* [PHP Addiction](http://www.marco.org/2012/06/29/php-addiction)
 * [PhoneGap](http://phonegap.com/): A free and open source framework that allows you to create mobile apps using HTML, CSS and JavaScript.
 * [Titanium](https://www.appcelerator.com/platform/titanium-platform/): An open, extensible development platform for creating beautiful native apps across different mobile devices and OSs including iOS, Android, Windows and BlackBerry, as well as hybrid and HTML5.
 * [jQuery Mobile](http://jquerymobile.com/): A unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation.

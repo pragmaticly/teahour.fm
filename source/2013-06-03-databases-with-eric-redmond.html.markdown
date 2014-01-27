@@ -11,7 +11,7 @@ tags: database, nosql
 duration: 2:01:57
 ---
 
-本期由 [Kevin Wang](http://knwang.com) 主持，[Dingding Ye](http://yedingding.com) 协作主持，邀请到 [《Seven Databases in Seven Weeks》](http://sevenweeks.org/) 作者 [Eric Redmond](http://www.coderoshi.com/) 畅聊数据库。Eric 目前是 [Riak](https://basho.com/riak) 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。
+本期由 [Kevin Wang](http://knwang.com) 主持，[Dingding Ye](http://yedingding.com) 协作主持，邀请到 [《Seven Databases in Seven Weeks》](http://pragprog.com/book/btlang/seven-languages-in-seven-weeks) 作者 [Eric Redmond](http://www.coderoshi.com/) 畅聊数据库。Eric 目前是 [Riak](https://basho.com/riak) 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。
 
 <section class="notes" markdown="1">
 * [Basho](https://basho.com)

@@ -25,9 +25,11 @@ duration: 1:22:34
 * [Pragmatic.ly](https://pragmatic.ly/)
 * [Jawbone UP2](http://knewone.com/things/jawbone-up-2nd-generation)
 * [GNU Emacs](http://www.gnu.org/software/emacs/)
+* [Lilu's Emacs配置](https://github.com/lilu/my-emacs)
 * [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
 * [ARC](http://paulgraham.com/arc.html)
 * [SICP](http://mitpress.mit.edu/sicp/)
+* [APL][]
 * [Oculus Rift](http://knewone.com/things/oculus-rift-xu-ni-xian-shi-tou-kui)
 * [七周七语言](http://book.douban.com/subject/10555435/) 
 * [Paul Graham](http://paulgraham.com/)
@@ -35,3 +37,4 @@ duration: 1:22:34
 * [Bugshot](https://itunes.apple.com/us/app/bugshot/id669858907?mt=8)
 </section>
 
+[APL]: http://en.wikipedia.org/wiki/APL_(programming_language)

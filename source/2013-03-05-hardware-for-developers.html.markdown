@@ -37,7 +37,7 @@ duration: 1:24:26
 * [Alps](http://en.wikipedia.org/wiki/Alps_Electric_Co.)
 * [Matias](http://matias.ca/)
 * [ADB](http://en.wikipedia.org/wiki/Apple_Desktop_Bus)
-* [Kinesis Freestyle](http://www.kinesis-ergo.com/freestyle2_mac_link.htm)
+* [Kinesis Freestyle](http://www.kinesis-ergo.com/about-us/product-images/freestyle2-for-mac/)
 * [mini Tactile Pro](http://matias.ca/minitactilepro/mac/)
 * [Shanghai Linux User Group](http://www.shlug.org/)
 * [Dell 2412M](http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&cs=19&sku=320-2676)

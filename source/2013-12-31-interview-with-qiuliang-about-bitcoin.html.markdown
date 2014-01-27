@@ -41,5 +41,9 @@ weibo：[HappyHacking](http://weibo.com/hpyhck)
 - [BTC-e](https://btc-e.com)
 - [BTCChina](https://vip.btcchina.com)
 - [李笑来](http://xiaolai.li)
+- [鲁葳](http://weilu.github.io)
+- [pusher](http://pusher.com/)
+- [mailgun](www.mailgun.com)
+- [NewRelic](http://newrelic.com/)
 </section>
 
