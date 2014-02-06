@@ -29,7 +29,7 @@ duration: 1:31:06
   * [Eric S Raymond](http://en.wikipedia.org/wiki/Eric_S._Raymond)
   * [GPL License](http://en.wikipedia.org/wiki/GNU_General_Public_Licens)
   * [MIT License](http://en.wikipedia.org/wiki/MIT_License)
-  * [Skinkybad](http://stinkybad.com)
+  * [Stinkybad](http://stinkybad.com)
   * [500px](http://500px.com)
   * [Fancy](http://www.thefancy.com)
   * [Overapi](http://overapi.com)

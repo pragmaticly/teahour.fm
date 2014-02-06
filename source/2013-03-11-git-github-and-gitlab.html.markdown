@@ -24,6 +24,7 @@ duration: 1:12:01
 * [SVN](http://subversion.tigris.org)
 * [VPN](http://en.wikipedia.org/wiki/Virtual_private_network)
 * [git-svn](https://www.kernel.org/pub/software/scm/git/docs/git-svn.html)
+* [蓝](http://www.iteye.com/upload/logo/user/149658/c802d3e3-2ea3-3d7a-a15a-5f74dad27e4e.jpg)[光](http://www.iteye.com/upload/logo/user/201752/c089b018-e0c6-3e0d-aee4-b8da4aa4c2f6.jpg)[党](http://www.iteye.com/upload/logo/user/179842/e7f2a3da-4ed0-3627-ba26-c63a7a4f5f13.jpg)
 * [Ruby Tuesday](http://ruby-china.org/topics/node31)
 * [http://clojure.org/](http://clojure.org/)
 * [Haskell](http://www.haskell.org/haskellwiki/Haskell)

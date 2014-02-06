@@ -31,6 +31,8 @@ duration: 1:46:28
 * [支付宝](http://zhifubao.com)
 * [Paypal](http://paypal.com)
 * [Stripe](https://stripe.com)
+* [wufoo](http://www.wufoo.com/)
+* [formstack](http://www.formstack.com/)
 * [FastSpring](http://fastspring.com)
 * [行易差旅协作软件](http://www.xingyii.com/)
 * [Patrick McKenzie Teaches You To Sell More Software](https://training.kalzumeus.com/)

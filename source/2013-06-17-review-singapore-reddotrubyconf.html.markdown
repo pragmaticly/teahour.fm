@@ -25,6 +25,7 @@ duration: 1:44:48
   * [Ruby 2.0 on Rails in Production](https://speakerdeck.com/a_matsuda/ruby-2-dot-0-on-rails-in-production)
   * [LessConf](http://lessconf.lesseverything.com/)
   * [Secure Your Rails Application](http://xdite.github.io/security-basic/)
+  * [Security is Hard](https://gist.github.com/xdite/5618045)
   * [em-synchrony](https://github.com/igrigorik/em-synchrony)
   * [Goliath](http://postrank-labs.github.io/goliath/)
   * [Grape](https://github.com/intridea/grape)

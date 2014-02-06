@@ -31,6 +31,7 @@ Tinyfool 的一些联系方式：
 * [iBooks Author](https://www.apple.com/ibooks-author/)
 * [Programming Languages: Building A Web Browser - Udacity](https://www.udacity.com/course/cs262)
 * [Tiny4Cocoa iPad 杂志](http://tiny4cocoa.com/home/s/22/)
+* [碎月成星](http://blog.sycx.me/)
 * [AirPort Extreme](http://www.apple.com.cn/airport-extreme/)
 * [国富论](http://www.douban.com/subject/1261560/‎)
 * [如何打造一个远程工作的团队环境](http://smalltalk.xdite.net/posts/73953-how-to-create-a-remote-environment)

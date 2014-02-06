@@ -34,3 +34,7 @@ duration: 1:46:50
 * 从运维人员到管理的角色转变
 * UPYun如何做系统监控
 * 中间件和Openstack
+* [Nodyn](http://nodyn.io/)
+* [elixir](http://elixir-lang.org/)
+* [RabbitMQ](http://www.rabbitmq.com/)
+* [多看](http://www.duokan.com)
