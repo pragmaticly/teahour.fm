@@ -7,14 +7,14 @@
     <copyright>&amp;#x2117; &amp;amp; &amp;#xA9; 2013 Teahour.fm</copyright>
     <itunes:subtitle>The chinese tech podcast focusing on programming, entrepreneurship and other geeky topics.</itunes:subtitle>
     <itunes:author>Teahour.fm</itunes:author>
-    <itunes:summary>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</itunes:summary>
+    <itunes:summary>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</itunes:summary>
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 16 Dec 2013 10:00:00 -0000</updated>
-    <lastBuildDate>Mon, 16 Dec 2013 10:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 16 Dec 2013 10:00:00 -0000</pubDate>
-    <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
+    <updated>Sat, 18 Jan 2014 16:00:00 -0000</updated>
+    <lastBuildDate>Sat, 18 Jan 2014 16:00:00 -0000</lastBuildDate>
+    <pubDate>Sat, 18 Jan 2014 16:00:00 -0000</pubDate>
+    <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
     </author>
@@ -26,6 +26,172 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#43 Teahour.FM 一周岁生日特期</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;时光如梭，我们已经迎来了 Teahour.FM 的一周岁生日。
+在这一期特别节目里，我们聊了很多有意思的话题，在此先卖一个关子。&lt;/p&gt;
+
+&lt;p&gt;节目中提到的&lt;a href="https://jinshuju.net/f/u7ycDz"&gt;“我最喜欢的Teahour.FM节目评选”&lt;/a&gt;的&lt;a href="https://jinshuju.net/f/u7ycDz"&gt;调查表地址&lt;/a&gt;是：&lt;a href="https://jinshuju.net/f/u7ycDz"&gt;https://jinshuju.net/f/u7ycDz&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;填写调查表的听众就相当于自动参加了我们的抽奖送大礼活动,&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;时光如梭，我们已经迎来了 Teahour.FM 的一周岁生日。
+在这一期特别节目里，我们聊了很多有意思的话题，在此先卖一个关子。&lt;/p&gt;
+
+&lt;p&gt;节目中提到的&lt;a href="https://jinshuju.net/f/u7ycDz"&gt;“我最喜欢的Teahour.FM节目评选”&lt;/a&gt;的&lt;a href="https://jinshuju.net/f/u7ycDz"&gt;调查表地址&lt;/a&gt;是：&lt;a href="https://jinshuju.net/f/u7ycDz"&gt;https://jinshuju.net/f/u7ycDz&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;填写调查表的听众就相当于自动参加了我们的抽奖送大礼活动,
+我们期待获得你的反馈。&lt;/p&gt;
+
+&lt;h4 id="section"&gt;奖品详情：&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://knewone.com/"&gt;Knewone&lt;/a&gt; 提供的 3个 &lt;a href="http://knewone.com/things/yeelight-blue"&gt;Yeelight Blue&lt;/a&gt; 智能灯泡&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/andor27"&gt;Andor Chen&lt;/a&gt; 提供的 3本 &lt;a href="http://railstutorial-china.org/"&gt;Ruby on Rails Tutorial 中文版&lt;/a&gt;电子书&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://blog.xdite.net/"&gt;XDite&lt;/a&gt; 提供的3本 &lt;a href="https://leanpub.com/rails-101"&gt;Rails 101&lt;/a&gt; 电子书以及 3份一年期的&lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt;高级帐号。&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://peatio.com/"&gt;貔貅交易所&lt;/a&gt; 提供的3个比特币红包&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.yunti.me/"&gt;云梯&lt;/a&gt; 提供的3个免费vpn帐号(可使用三个月)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://angularjs.org/"&gt;AngularJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://backbonejs.org/"&gt;Backbone.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://marionettejs.com/"&gt;Marionette&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://37signals.com/svn/posts/3697-server-generated-javascript-responses"&gt;SJR&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://batmanjs.org/"&gt;batman.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://emberjs.com/"&gt;Ember&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://spinejs.com/"&gt;Spine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://37signals.com/"&gt;37Signals&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://intridea.com/"&gt;Intridea&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co/"&gt;fengche.co&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyconfchina.org/"&gt;RubyConf China&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gotealeaf.com/"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.baike.com/wiki/%E4%B8%89%E6%B8%A9%E6%9A%96"&gt;三温暖&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://railsrumble.com/"&gt;Rails Rumble&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://info.cookpad.com/24contest4_en"&gt;COOKPAD Hackathon&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://developers.google.com/groups/"&gt;GDG&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/3079029/"&gt;大秦帝国&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/21371574/"&gt;凯恩斯大战哈耶克&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/6719081/"&gt;刀剑神域&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/1291204/"&gt;GEB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/25783344/"&gt;牌局心理学&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Crush-It-Time-Cash-Passion/dp/0061914177"&gt;Crush It!&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E8%BD%AF%E4%BB%B6%E5%8D%B3%E6%9C%8D%E5%8A%A1"&gt;SAAS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://jianshu.io/"&gt;简书&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.qiniu.com/"&gt;七牛&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks"&gt;Seven Databases in Seven Weeks&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+</description>
+      <link>http://teahour.fm/2014/01/19/happy-birthday-to-teahour.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_43.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_43.m4a</guid>
+      <pubDate>Sat, 18 Jan 2014 16:00:00 -0000</pubDate>
+      <itunes:duration>6151</itunes:duration>
+      <itunes:keywords>birthday</itunes:keywords>
+    </item>
+    <item>
+      <title>#42 跟貔貅交易所的邱亮聊聊比特币</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;比特币是2013年的一个热点话题，在 Teahour.FM 本年度收官之际，主持人 &lt;a href="http://lvguoning.com"&gt;Daniel&lt;/a&gt; 邀请到了&lt;a href="https://peatio.com"&gt;貔貅 Peatio交易所&lt;/a&gt;的创始人&lt;a href="http://weibo.com/hpyhck"&gt;邱亮 HappyHacking&lt;/a&gt;来跟大家聊聊跟比特币相关的有趣的话题，包括比特币的历史，现状，原理，以及未来等等，本期话题非常适合对比特币背后的技术有兴趣的朋友。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;比特别是怎么产生的&lt;/li&gt;
+  &lt;li&gt;比特币背后的技术&lt;/li&gt;
+  &lt;li&gt;如何解读中本聪的比特别创世论文&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;比特币是2013年的一个热点话题，在 Teahour.FM 本年度收官之际，主持人 &lt;a href="http://lvguoning.com"&gt;Daniel&lt;/a&gt; 邀请到了&lt;a href="https://peatio.com"&gt;貔貅 Peatio交易所&lt;/a&gt;的创始人&lt;a href="http://weibo.com/hpyhck"&gt;邱亮 HappyHacking&lt;/a&gt;来跟大家聊聊跟比特币相关的有趣的话题，包括比特币的历史，现状，原理，以及未来等等，本期话题非常适合对比特币背后的技术有兴趣的朋友。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;比特别是怎么产生的&lt;/li&gt;
+  &lt;li&gt;比特币背后的技术&lt;/li&gt;
+  &lt;li&gt;如何解读中本聪的比特别创世论文&lt;/li&gt;
+  &lt;li&gt;比特币的发展何现状&lt;/li&gt;
+  &lt;li&gt;比特币的获取方式&lt;/li&gt;
+  &lt;li&gt;比特币的交易安全&lt;/li&gt;
+  &lt;li&gt;比特别全网算力的发展史&lt;/li&gt;
+  &lt;li&gt;比特币的流通特点，交易特点&lt;/li&gt;
+  &lt;li&gt;国内外比特别交易平台的特点，现状&lt;/li&gt;
+  &lt;li&gt;全民所有制的比特币交易平台&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="section"&gt;关于邱亮&lt;/h4&gt;
+
+&lt;p&gt;weibo：&lt;a href="http://weibo.com/hpyhck"&gt;HappyHacking&lt;/a&gt;&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://peatio.com"&gt;貔貅 Peatio&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://bitcoin.org"&gt;Bitcoin&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://bitcoin.org/bitcoin.pdf"&gt;Bitcoin: A Peer-to-Peer Electronic Cash System&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Peer-to-peer"&gt;P2P&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/公开密钥加密"&gt;非对称加密算法/公开密钥加密算法&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/link?url=A4VQa8eu8WcBprnNBkrt88j7noNQMmcbLB9B0SqVl5bS-PouQi8QNRld0wc6rsk0FyE-4QYjnY-EQKmHoN8zyq"&gt;中本聪&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.btc123.com/data/docs/bitcoin_cn.pdf"&gt;创世论文(翻译)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/通货紧缩"&gt;通货紧缩&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.mtgox.com"&gt;MT.Gox&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://btc-e.com"&gt;BTC-e&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://vip.btcchina.com"&gt;BTCChina&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://xiaolai.li"&gt;李笑来&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://weilu.github.io"&gt;鲁葳&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pusher.com/"&gt;pusher&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="www.mailgun.com"&gt;mailgun&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://newrelic.com/"&gt;NewRelic&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+</description>
+      <link>http://teahour.fm/2013/12/31/interview-with-qiuliang-about-bitcoin.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_42.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_42.m4a</guid>
+      <pubDate>Tue, 31 Dec 2013 02:58:00 -0000</pubDate>
+      <itunes:duration>6173</itunes:duration>
+      <itunes:keywords>bitcoin</itunes:keywords>
+    </item>
+    <item>
+      <title>#41 跟 Quake Wang 聊蝉游记</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 Daniel 主持，我们邀请了蝉游记的技术负责人 &lt;a href="http://quake.iteye.com"&gt;QuakeWang&lt;/a&gt; 来跟我们聊聊他的技术经历，包括 QuakeWang 从大公司做 Java 开发，后来加入到 &lt;a href="http://iteye.com"&gt;ITEye (JavaEye)&lt;/a&gt; 做 Rails 开发，以及他现在正在做的一个创业项目 —— 蝉游记。在访谈中， QuakeWang 跟我们分享了他在 ITEye 和蝉游记的创业经历，及从技术角度来看待技术，创业，团队，产品，招聘，以及技术人成长等话题。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 Daniel 主持，我们邀请了蝉游记的技术负责人 &lt;a href="http://quake.iteye.com"&gt;QuakeWang&lt;/a&gt; 来跟我们聊聊他的技术经历，包括 QuakeWang 从大公司做 Java 开发，后来加入到 &lt;a href="http://iteye.com"&gt;ITEye (JavaEye)&lt;/a&gt; 做 Rails 开发，以及他现在正在做的一个创业项目 —— 蝉游记。在访谈中， QuakeWang 跟我们分享了他在 ITEye 和蝉游记的创业经历，及从技术角度来看待技术，创业，团队，产品，招聘，以及技术人成长等话题。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://chanyouji.com"&gt;蝉游记&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://quake.iteye.com"&gt;QuakeWang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://iteye.com"&gt;ITEye (JavaEye)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyquiz.com"&gt;RubyQuze&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ofbiz.apache.org"&gt;Apache OFBiz&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://sourceforge.net"&gt;SourceForge&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/24321/10994693.htm"&gt;范凯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.caibangzi.com/my"&gt;财帮子&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyonrails.org"&gt;Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://redis.io"&gt;Redis&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://lucene.apache.org/solr/"&gt;Solr&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://prawn.majesticseacreature.com"&gt;Prawn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.lego.com/zh-cn"&gt;乐高&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/2691099/"&gt;Universal Data Models&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/25723799/"&gt;野心优雅&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+</description>
+      <link>http://teahour.fm/2013/12/23/interview-with-quakewang-about-chanyouji.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_41.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_41.m4a</guid>
+      <pubDate>Mon, 23 Dec 2013 10:26:00 -0000</pubDate>
+      <itunes:duration>5042</itunes:duration>
+      <itunes:keywords>startup, travel</itunes:keywords>
+    </item>
     <item>
       <title>#40 聊台灣軟體業失落的十年</title>
       <itunes:author>xdite</itunes:author>
@@ -679,6 +845,7 @@
     &lt;li&gt;&lt;a href="https://www.apple.com/ibooks-author/"&gt;iBooks Author&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://www.udacity.com/course/cs262"&gt;Programming Languages: Building A Web Browser - Udacity&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://tiny4cocoa.com/home/s/22/"&gt;Tiny4Cocoa iPad 杂志&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://blog.sycx.me/"&gt;碎月成星&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.apple.com.cn/airport-extreme/"&gt;AirPort Extreme&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.douban.com/subject/1261560/‎"&gt;国富论&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://smalltalk.xdite.net/posts/73953-how-to-create-a-remote-environment"&gt;如何打造一个远程工作的团队环境&lt;/a&gt;&lt;/li&gt;
@@ -723,6 +890,8 @@
     &lt;li&gt;&lt;a href="http://zhifubao.com"&gt;支付宝&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://paypal.com"&gt;Paypal&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://stripe.com"&gt;Stripe&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.wufoo.com/"&gt;wufoo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.formstack.com/"&gt;formstack&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://fastspring.com"&gt;FastSpring&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.xingyii.com/"&gt;行易差旅协作软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://training.kalzumeus.com/"&gt;Patrick McKenzie Teaches You To Sell More Software&lt;/a&gt;&lt;/li&gt;
@@ -775,6 +944,10 @@
   &lt;li&gt;从运维人员到管理的角色转变&lt;/li&gt;
   &lt;li&gt;UPYun如何做系统监控&lt;/li&gt;
   &lt;li&gt;中间件和Openstack&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://nodyn.io/"&gt;Nodyn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://elixir-lang.org/"&gt;elixir&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.rabbitmq.com/"&gt;RabbitMQ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.duokan.com"&gt;多看&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
       <link>http://teahour.fm/2013/07/22/interview-with-shaohaiyang-about-upyun-devops.html</link>
@@ -815,9 +988,11 @@
     &lt;li&gt;&lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://knewone.com/things/jawbone-up-2nd-generation"&gt;Jawbone UP2&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.gnu.org/software/emacs/"&gt;GNU Emacs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/lilu/my-emacs"&gt;Lilu's Emacs配置&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)"&gt;Lisp&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://paulgraham.com/arc.html"&gt;ARC&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://mitpress.mit.edu/sicp/"&gt;SICP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/APL_(programming_language)"&gt;APL&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://knewone.com/things/oculus-rift-xu-ni-xian-shi-tou-kui"&gt;Oculus Rift&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://book.douban.com/subject/10555435/"&gt;七周七语言&lt;/a&gt; &lt;/li&gt;
     &lt;li&gt;&lt;a href="http://paulgraham.com/"&gt;Paul Graham&lt;/a&gt;&lt;/li&gt;
@@ -1065,6 +1240,7 @@
     &lt;li&gt;&lt;a href="https://speakerdeck.com/a_matsuda/ruby-2-dot-0-on-rails-in-production"&gt;Ruby 2.0 on Rails in Production&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://lessconf.lesseverything.com/"&gt;LessConf&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://xdite.github.io/security-basic/"&gt;Secure Your Rails Application&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://gist.github.com/xdite/5618045"&gt;Security is Hard&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://github.com/igrigorik/em-synchrony"&gt;em-synchrony&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://postrank-labs.github.io/goliath/"&gt;Goliath&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://github.com/intridea/grape"&gt;Grape&lt;/a&gt;&lt;/li&gt;
@@ -1099,10 +1275,10 @@
     <item>
       <title>#18 采访《七周七数据库》作者 Eric Redmond - 数据库的故事</title>
       <itunes:author>kevin</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://sevenweeks.org/"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://pragprog.com/book/btlang/seven-languages-in-seven-weeks"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://sevenweeks.org/"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://pragprog.com/book/btlang/seven-languages-in-seven-weeks"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
@@ -1164,7 +1340,8 @@
 &lt;section class="notes"&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="http://baike.baidu.com/view/1047304.htm"&gt;智能手机操作系统&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/802253.htm"&gt;派森&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/%E8%92%99%E6%8F%90%C2%B7%E6%B4%BE%E6%A3%AE%E7%9A%84%E9%A3%9B%E8%A1%8C%E9%A6%AC%E6%88%B2%E5%9C%98"&gt;派森&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh-cn/%E8%BB%9F%E8%9B%80%E5%85%A9K"&gt;软蛀&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.ruby-lang.org/"&gt;Ruby Programming Language&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.sleberknight.com/blog/sleberkn/resource/javaversusrubybooks.jpeg"&gt;Java V.S. Rails&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Software_cracking"&gt;Software cracking&lt;/a&gt;&lt;/li&gt;
@@ -1187,15 +1364,16 @@
     &lt;li&gt;&lt;a href="https://github.com/mruby/mruby"&gt;MRuby&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://github.com/matz"&gt;Matz&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=59579"&gt;MRuby ISO/IEC 30170:2012&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/luikore/spellbreak"&gt;spellbreak&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://github.com/ko1"&gt;Koichi Sasada&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://patshaughnessy.net/ruby-under-a-microscope"&gt;Ruby Under a Microscope&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://rhg.rubyforge.org/"&gt;Ruby Hacking Guide&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://axgle.github.io/rhg/"&gt;Ruby Hacking Guide&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://github.com/bovi"&gt;Daniel Bovensiepen&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://blog.mruby.sh/"&gt;mruby.sh&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920015482.do"&gt;Head First C&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920015482.do"&gt;Head First C&lt;/a&gt; （&lt;a href="http://book.douban.com/subject/25703412/"&gt;中译本&lt;/a&gt;）&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Portable_Executable"&gt;Portable Executable Format&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Executable_and_Linkable_Format"&gt;Executable and Linkable Format&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://www.amazon.com/Advanced-Programming-UNIX-Environment-2nd/dp/0201433079"&gt;Advanced Programming in the UNIX Environment&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/11626789/"&gt;Advanced Programming in the UNIX Environment&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.jstorimer.com/products/working-with-unix-processes"&gt;Working With Unix Processes&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.jstorimer.com/products/working-with-tcp-sockets"&gt;Working With TCP Sockets&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.jstorimer.com/products/working-with-ruby-threads"&gt;Working With Ruby Threads&lt;/a&gt;&lt;/li&gt;
@@ -1246,9 +1424,11 @@
     &lt;li&gt;&lt;a href="http://www.percona.com/"&gt;Percona&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://mariadb.org/"&gt;MariaDB&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://www.youtube.com/playlist?list=PLuVcDOUVjW2ePvFapFSHBZ71ya2fLHZS5"&gt;Scaling Rails Screencasts&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://blog.iron.io/2013/03/how-we-went-from-30-servers-to-2-go.html"&gt;How We Went from 30 Servers to 2: Go&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://github.com/collectiveidea/delayed_job"&gt;delayed_job&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://sidekiq.org/"&gt;Sidekiq&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://httpd.apache.org/docs/2.2/programs/ab.html"&gt;ab&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tsung.erlang-projects.org/"&gt;tsung&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287"&gt;High Performance MySQL&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.erlang.org/"&gt;Erlang&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.josephjaber.com/articles/railsconf-2013-talks"&gt;Railsconf 2013 keynote&lt;/a&gt;&lt;/li&gt;
@@ -1543,7 +1723,7 @@
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Eric_S._Raymond"&gt;Eric S Raymond&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/GNU_General_Public_Licens"&gt;GPL License&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/MIT_License"&gt;MIT License&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://stinkybad.com"&gt;Skinkybad&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://stinkybad.com"&gt;Stinkybad&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://500px.com"&gt;500px&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.thefancy.com"&gt;Fancy&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://overapi.com"&gt;Overapi&lt;/a&gt;&lt;/li&gt;
@@ -1711,6 +1891,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
     &lt;li&gt;&lt;a href="http://subversion.tigris.org"&gt;SVN&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Virtual_private_network"&gt;VPN&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://www.kernel.org/pub/software/scm/git/docs/git-svn.html"&gt;git-svn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.iteye.com/upload/logo/user/149658/c802d3e3-2ea3-3d7a-a15a-5f74dad27e4e.jpg"&gt;蓝&lt;/a&gt;&lt;a href="http://www.iteye.com/upload/logo/user/201752/c089b018-e0c6-3e0d-aee4-b8da4aa4c2f6.jpg"&gt;光&lt;/a&gt;&lt;a href="http://www.iteye.com/upload/logo/user/179842/e7f2a3da-4ed0-3627-ba26-c63a7a4f5f13.jpg"&gt;党&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://ruby-china.org/topics/node31"&gt;Ruby Tuesday&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://clojure.org/"&gt;http://clojure.org/&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.haskell.org/haskellwiki/Haskell"&gt;Haskell&lt;/a&gt;&lt;/li&gt;
@@ -1786,7 +1967,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Alps_Electric_Co."&gt;Alps&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://matias.ca/"&gt;Matias&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Apple_Desktop_Bus"&gt;ADB&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://www.kinesis-ergo.com/freestyle2_mac_link.htm"&gt;Kinesis Freestyle&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.kinesis-ergo.com/about-us/product-images/freestyle2-for-mac/"&gt;Kinesis Freestyle&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://matias.ca/minitactilepro/mac/"&gt;mini Tactile Pro&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.shlug.org/"&gt;Shanghai Linux User Group&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://accessories.us.dell.com/sna/productdetail.aspx?c=us&amp;amp;l=en&amp;amp;cs=19&amp;amp;sku=320-2676"&gt;Dell 2412M&lt;/a&gt;&lt;/li&gt;
@@ -1836,6 +2017,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
     &lt;li&gt;&lt;a href="http://www.rubymotion.com/"&gt;RubyMotion&lt;/a&gt;: Ruby for iOS, a revolutionary toolchain for iOS.&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://pragprog.com/book/bmrc/programming-cocoa-with-ruby"&gt;Programming Cocoa with Ruby&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://clang.llvm.org/docs/AutomaticReferenceCounting.html"&gt;ARC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.marco.org/2012/06/29/php-addiction"&gt;PHP Addiction&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://phonegap.com/"&gt;PhoneGap&lt;/a&gt;: A free and open source framework that allows you to create mobile apps using HTML, CSS and JavaScript.&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://www.appcelerator.com/platform/titanium-platform/"&gt;Titanium&lt;/a&gt;: An open, extensible development platform for creating beautiful native apps across different mobile devices and OSs including iOS, Android, Windows and BlackBerry, as well as hybrid and HTML5.&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://jquerymobile.com/"&gt;jQuery Mobile&lt;/a&gt;: A unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation.&lt;/li&gt;
@@ -1908,9 +2090,11 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
     &lt;li&gt;&lt;a href="http://hashrocket.com/"&gt;HashRocket&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://obiefernandez.com/"&gt;Obie Fernandez&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321601661"&gt;The Rails Way&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/1493173/"&gt;Bitter Java&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Pair_programming"&gt;Pair programming&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Telecommuting"&gt;Telecommuting&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://ruby.railstutorial.org/"&gt;Ruby On Rails Tutorial&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.linkedin.com/in/xueyongzhi"&gt;Xueyong Zhi&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://code.google.com/p/xruby/"&gt;XRuby&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://ruby-china.org/topics/7791"&gt;Rails is omakase&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/%E6%96%AF%E5%BE%B7%E5%93%A5%E7%88%BE%E6%91%A9%E7%97%87%E5%80%99%E7%BE%A4"&gt;斯德哥爾摩症候群&lt;/a&gt;&lt;/li&gt;
@@ -1948,6 +2132,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
     &lt;li&gt;&lt;a href="http://www.thisamericanlife.org/"&gt;This American Life&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://thechangelog.com/"&gt;The Change Log&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://5by5.tv/"&gt;5by5&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://5by5.tv/buildanalyze"&gt;Build and Analyze&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://5by5.tv/b2w"&gt;Back to Work&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.eslpod.com/"&gt;ESL&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://mixergy.com/"&gt;Mixergy&lt;/a&gt;&lt;/li&gt;
@@ -1955,8 +2140,12 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
     &lt;li&gt;&lt;a href="http://intridea.com"&gt;Intridea&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://spinejs.com/"&gt;Spine.js&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://backbonejs.org/"&gt;Backbone.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://coffeescript.org/"&gt;CoffeeScript&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.infoq.com/presentations/Asynchronous-UI"&gt;Lie, cheat, steal&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://emberjs.com/"&gt;Ember.js&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://angularjs.org/"&gt;Angular.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://todomvc.com/"&gt;TodoMVC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knockoutjs.com/"&gt;Knockout&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://meteor.com/"&gt;Meteor&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://github.com/visionmedia/pomo"&gt;pomo&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://crushitbook.com/"&gt;Crush It&lt;/a&gt;&lt;/li&gt;
