@@ -8,7 +8,7 @@ xml.rss "xmlns:itunes" => "http://www.itunes.com/dtds/podcast-1.0.dtd", "version
     xml.copyright "&#x2117; &amp; &#xA9; 2013 Teahour.fm"
     xml.itunes :subtitle, "The chinese tech podcast focusing on programming, entrepreneurship and other geeky topics."
     xml.itunes :author, "Teahour.fm"
-    xml.itunes :summary, "Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。"
+    xml.itunes :summary, "Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。"
 
     xml.id "http://teahour.fm"
     xml.link "href" => "http://teahour.fm/"
@@ -16,7 +16,7 @@ xml.rss "xmlns:itunes" => "http://www.itunes.com/dtds/podcast-1.0.dtd", "version
     xml.updated blog.articles.first.date.to_time.rfc2822
     xml.lastBuildDate blog.articles.first.date.to_time.rfc2822
     xml.pubDate blog.articles.first.date.to_time.rfc2822
-    xml.description "Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。"
+    xml.description "Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。"
     xml.author { xml.name "Teahour.fm" }
     xml.itunes :owner do
       xml.itunes :name, "Teahour.fm"
