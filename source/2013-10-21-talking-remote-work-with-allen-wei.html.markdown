@@ -20,7 +20,7 @@ duration: 1:41:38
 
 <section class="notes" markdown="1">
 * [Bindo Labs](https://bindo.com/)
-* [Pragmatic.ly](https://pragmatic.ly/)
+* [Fengche.co](https://fengche.co/)
 * [Redmine](http://www.redmine.org/)
 * [Trello](http://trello.com/)
 * [Jira](https://www.atlassian.com/software/jira)

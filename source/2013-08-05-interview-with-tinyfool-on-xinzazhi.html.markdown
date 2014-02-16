@@ -26,7 +26,7 @@ Tinyfool 的一些联系方式：
 * [iApp4Me](http://iapp4me.com)
 * [新杂志](http://tiny4.org)
 * [Logdown](http://logdown.com)
-* [Pragmatic.ly](https://pragmatic.ly)
+* [Fengche.co](https://fengche.co)
 * [MyAudioCast](http://www.myaudiocast.com/podcasts/)
 * [iBooks Author](https://www.apple.com/ibooks-author/)
 * [Programming Languages: Building A Web Browser - Udacity](https://www.udacity.com/course/cs262)

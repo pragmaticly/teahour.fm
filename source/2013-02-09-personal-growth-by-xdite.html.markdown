@@ -26,7 +26,7 @@ duration: 1:21:01
 * [MIT Open Class](http://ocw.mit.edu/index.htm)
 * [iTunes-U](http://www.apple.com/education/itunes-u/)
 * [xdite 第一家公司的协作方式](http://ihower.tw/blog/archives/2369/)
-* [Pragmatic.ly](https://pragmatic.ly/)
+* [Fengche.co](https://fengche.co/)
 * [scrum](http://en.wikipedia.org/wiki/Scrum_development)
 * [kanban](http://en.wikipedia.org/wiki/Kanban)
 * [Rails 101](http://rails-101.logdown.com/)

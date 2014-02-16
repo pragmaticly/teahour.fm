@@ -33,6 +33,6 @@ Kgen 的一些联系方式：
 * [autoddvpn](https://code.google.com/p/autoddvpn/)
 * [RubyConf China 2012 花絮之 VPNCloud 篇](http://railscasts-china.com/episodes/rubyconf-china-2012-vpncloud)
 * [Pandora Radio](http://www.pandora.com/)
-* [Pragmatic.ly](https://pragmatic.ly)
+* [Fengche.co](https://fengche.co)
 * [Tealeaf Academy](http://gotealeaf.com)
 </section>

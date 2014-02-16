@@ -31,7 +31,7 @@ duration: 1:14:48
 * [JimmyGraphic](http://jimmygraphic.com)
 * [Github](http://github.com)
 * [StackOverflow](http://stackoverflow.com)
-* [Pragmatic.ly](https://pragmatic.ly)
+* [Fengche.co](https://fengche.co)
 * [InnoSpace](http://www.innospace.com.cn)
 * [Tribes](http://www.amazon.cn/Tribes-Godin-Seth/dp/0749939753/ref=sr_1_2?ie=UTF8&qid=1384097112&sr=8-2&keywords=tribe)
 * [码农周刊](http://weekly.manong.io)

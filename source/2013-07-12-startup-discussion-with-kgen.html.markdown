@@ -21,6 +21,6 @@ Kgen 的一些联系方式：
 <section class="notes" markdown="1">
 * [云梯](https://www.vpncloud.co/)
 * [坐标轴软件](http://www.kingaxis.com)
-* [Pragmatic.ly](https://pragmatic.ly)
+* [Fengche.co](https://fengche.co)
 * [Tealeaf Academy](http://gotealeaf.com)
 </section>

@@ -20,7 +20,7 @@ duration: 1:27:45
 * [LinkedIn](https://www.linkedin.com/in/kaveri)
 
 <section class="notes" markdown="1">
-* [Pragmatic.ly](https://pragmatic.ly)
+* [Fengche.co](https://fengche.co)
 * [Scrum 要素](http://scrum.kaverjody.com/)
 * [敏捷宣言](http://agilemanifesto.org/)
 * [敏捷宣言中文版](http://agilemanifesto.org/iso/zhchs/)

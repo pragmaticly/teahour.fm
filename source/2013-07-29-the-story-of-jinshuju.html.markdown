@@ -25,7 +25,7 @@ duration: 1:46:28
 <section class="notes" markdown="1">
 * [LOGDOWN](http://logdown.com)
 * [金数据](http://jinshuju.net)
-* [Pragmatic.ly](https://pragmatic.ly)
+* [Fengche.co](https://fengche.co)
 * [Beyond 'rails server'](http://railscasts-china.com/episodes/rubyconf-2012-michael-chen)
 * [阿里云](http://aliyun.com)
 * [支付宝](http://zhifubao.com)

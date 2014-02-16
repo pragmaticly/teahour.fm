@@ -28,6 +28,6 @@ duration: 1:11:33
 * [A Song A Day](http://www.youtube.com/user/therockcookiebottom/featured)
 * [Raspberry Pi](http://www.raspberrypi.org/)
 * [动态网站静态化的产物 Teahour.fm](http://yedingding.com/2013/04/09/teahourfm-with-middleman.html)
-* [Pragmatic.ly](https://pragmatic.ly/)
+* [Fengche.co](https://fengche.co/)
 * [Tealeaf Academy](http://www.gotealeaf.com/)
 </section>
