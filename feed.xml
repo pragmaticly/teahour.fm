@@ -239,10 +239,10 @@
     <item>
       <title>#39 SaaS 产品血泪史</title>
       <itunes:author>kevin</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;在本期的节目 Teahour 迎来了新的主播 &lt;a href="http://blog.xdite.net/"&gt;Xdite&lt;/a&gt;! 这期的节目由三位主播 &lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://blog.xdite.net"&gt;Xdite&lt;/a&gt; 主持，吐槽和痛诉开发和经营 &lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt; 和 &lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt; SaaS 产品的血泪史。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;在本期的节目 Teahour 迎来了新的主播 &lt;a href="http://blog.xdite.net/"&gt;Xdite&lt;/a&gt;! 这期的节目由三位主播 &lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://blog.xdite.net"&gt;Xdite&lt;/a&gt; 主持，吐槽和痛诉开发和经营 &lt;a href="https://fengche.co/"&gt;Fengche.co&lt;/a&gt; 和 &lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt; SaaS 产品的血泪史。&lt;/p&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;在本期的节目 Teahour 迎来了新的主播 &lt;a href="http://blog.xdite.net/"&gt;Xdite&lt;/a&gt;! 这期的节目由三位主播 &lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://blog.xdite.net"&gt;Xdite&lt;/a&gt; 主持，吐槽和痛诉开发和经营 &lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt; 和 &lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt; SaaS 产品的血泪史。&lt;/p&gt;
+      <description type="html">&lt;p&gt;在本期的节目 Teahour 迎来了新的主播 &lt;a href="http://blog.xdite.net/"&gt;Xdite&lt;/a&gt;! 这期的节目由三位主播 &lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://blog.xdite.net"&gt;Xdite&lt;/a&gt; 主持，吐槽和痛诉开发和经营 &lt;a href="https://fengche.co/"&gt;Fengche.co&lt;/a&gt; 和 &lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt; SaaS 产品的血泪史。&lt;/p&gt;
 
 &lt;p&gt;一些讨论到的点：&lt;/p&gt;
 
@@ -260,7 +260,7 @@
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Software_as_a_service"&gt;SaaS&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co/"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://rocodev.com/"&gt;Rocodev&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.intridea.com/"&gt;Intridea&lt;/a&gt;&lt;/li&gt;
@@ -316,7 +316,7 @@
     &lt;li&gt;&lt;a href="http://jimmygraphic.com"&gt;JimmyGraphic&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://github.com"&gt;Github&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://stackoverflow.com"&gt;StackOverflow&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.innospace.com.cn"&gt;InnoSpace&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.amazon.cn/Tribes-Godin-Seth/dp/0749939753/ref=sr_1_2?ie=UTF8&amp;amp;qid=1384097112&amp;amp;sr=8-2&amp;amp;keywords=tribe"&gt;Tribes&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://weekly.manong.io"&gt;码农周刊&lt;/a&gt;&lt;/li&gt;
@@ -470,7 +470,7 @@
 &lt;section class="notes"&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="https://bindo.com/"&gt;Bindo Labs&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co/"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.redmine.org/"&gt;Redmine&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://trello.com/"&gt;Trello&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://www.atlassian.com/software/jira"&gt;Jira&lt;/a&gt;&lt;/li&gt;
@@ -840,7 +840,7 @@
     &lt;li&gt;&lt;a href="http://iapp4me.com"&gt;iApp4Me&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://tiny4.org"&gt;新杂志&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://logdown.com"&gt;Logdown&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.myaudiocast.com/podcasts/"&gt;MyAudioCast&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://www.apple.com/ibooks-author/"&gt;iBooks Author&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://www.udacity.com/course/cs262"&gt;Programming Languages: Building A Web Browser - Udacity&lt;/a&gt;&lt;/li&gt;
@@ -884,7 +884,7 @@
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="http://logdown.com"&gt;LOGDOWN&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://jinshuju.net"&gt;金数据&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://railscasts-china.com/episodes/rubyconf-2012-michael-chen"&gt;Beyond 'rails server'&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://aliyun.com"&gt;阿里云&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://zhifubao.com"&gt;支付宝&lt;/a&gt;&lt;/li&gt;
@@ -985,7 +985,7 @@
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="http://knewone.com/"&gt;knewone&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898"&gt;The Lean Startup(book)&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co/"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://knewone.com/things/jawbone-up-2nd-generation"&gt;Jawbone UP2&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.gnu.org/software/emacs/"&gt;GNU Emacs&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://github.com/lilu/my-emacs"&gt;Lilu's Emacs配置&lt;/a&gt;&lt;/li&gt;
@@ -994,7 +994,7 @@
     &lt;li&gt;&lt;a href="http://mitpress.mit.edu/sicp/"&gt;SICP&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/APL_(programming_language)"&gt;APL&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://knewone.com/things/oculus-rift-xu-ni-xian-shi-tou-kui"&gt;Oculus Rift&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://book.douban.com/subject/10555435/"&gt;七周七语言&lt;/a&gt; &lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/10555435/"&gt;七周七语言&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://paulgraham.com/"&gt;Paul Graham&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.marco.org/"&gt;Marco Arment&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://itunes.apple.com/us/app/bugshot/id669858907?mt=8"&gt;Bugshot&lt;/a&gt;&lt;/li&gt;
@@ -1037,7 +1037,7 @@
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="https://www.vpncloud.co/"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
@@ -1087,7 +1087,7 @@
     &lt;li&gt;&lt;a href="https://code.google.com/p/autoddvpn/"&gt;autoddvpn&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://railscasts-china.com/episodes/rubyconf-china-2012-vpncloud"&gt;RubyConf China 2012 花絮之 VPNCloud 篇&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.pandora.com/"&gt;Pandora Radio&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
@@ -1133,7 +1133,7 @@
     &lt;li&gt;&lt;a href="http://poobbs.com/"&gt;涂鸦王国&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Mark_Suster"&gt;Mark Suster&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Peter_Thiel"&gt;Peter Thiel&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://book.douban.com/subject/1056461/"&gt;旅行的艺术&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://odesk.com"&gt;oDesk&lt;/a&gt;&lt;/li&gt;
@@ -1633,7 +1633,7 @@
     &lt;li&gt;&lt;a href="http://www.youtube.com/user/therockcookiebottom/featured"&gt;A Song A Day&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.raspberrypi.org/"&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://yedingding.com/2013/04/09/teahourfm-with-middleman.html"&gt;动态网站静态化的产物 Teahour.fm&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co/"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.gotealeaf.com/"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
@@ -1845,7 +1845,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://scrum.kaverjody.com/"&gt;Scrum 要素&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://agilemanifesto.org/"&gt;敏捷宣言&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://agilemanifesto.org/iso/zhchs/"&gt;敏捷宣言中文版&lt;/a&gt;&lt;/li&gt;
@@ -2058,7 +2058,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
     &lt;li&gt;&lt;a href="http://ocw.mit.edu/index.htm"&gt;MIT Open Class&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.apple.com/education/itunes-u/"&gt;iTunes-U&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://ihower.tw/blog/archives/2369/"&gt;xdite 第一家公司的协作方式&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co/"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Scrum_development"&gt;scrum&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Kanban"&gt;kanban&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://rails-101.logdown.com/"&gt;Rails 101&lt;/a&gt;&lt;/li&gt;
@@ -2136,7 +2136,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
     &lt;li&gt;&lt;a href="http://5by5.tv/b2w"&gt;Back to Work&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.eslpod.com/"&gt;ESL&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://mixergy.com/"&gt;Mixergy&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://intridea.com"&gt;Intridea&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://spinejs.com/"&gt;Spine.js&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://backbonejs.org/"&gt;Backbone.js&lt;/a&gt;&lt;/li&gt;
