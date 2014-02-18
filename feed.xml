@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Sat, 18 Jan 2014 16:00:00 -0000</updated>
-    <lastBuildDate>Sat, 18 Jan 2014 16:00:00 -0000</lastBuildDate>
-    <pubDate>Sat, 18 Jan 2014 16:00:00 -0000</pubDate>
+    <updated>Tue, 18 Feb 2014 08:00:00 -0000</updated>
+    <lastBuildDate>Tue, 18 Feb 2014 08:00:00 -0000</lastBuildDate>
+    <pubDate>Tue, 18 Feb 2014 08:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,65 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#44 跟 DEVCORE 的 allenown 聊聊黑客社群與網站安全</title>
+      <itunes:author>xdite</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;信息安全對大眾是一個比較神秘的話題。本集請來了台灣黑客年會的籌辦人 allenown 談談信息安全，黑客社群，黑客與開發者對於網站的不同視野角度。黑客的職涯發展以及行業生態。本期话题非常适合对於信息安全技术有兴趣的朋友。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;信息安全顧問公司提供的服務&lt;/li&gt;
+  &lt;li&gt;黑箱，灰箱，白箱測試&lt;/li&gt;
+  &lt;li&gt;台灣黑客年會&lt;/li&gt;
+  &lt;li&gt;世界黑客社群&lt;/li&gt;
+  &lt;li&gt;黑客與開發者對於網站的不同視野角度&lt;/li&gt;
+  &lt;li&gt;黑客社群的培養以及職涯發展&lt;/li&gt;
+  &lt;li&gt;不同網站框架的安全架構探討&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="allenown"&gt;关于 allenown&lt;/h4&gt;
+
+&lt;p&gt;twitter: &lt;a href="http://twitter.com/allenown"&gt;allenown&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;信息安全對大眾是一個比較神秘的話題。本集請來了台灣黑客年會的籌辦人 allenown 談談信息安全，黑客社群，黑客與開發者對於網站的不同視野角度。黑客的職涯發展以及行業生態。本期话题非常适合对於信息安全技术有兴趣的朋友。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;信息安全顧問公司提供的服務&lt;/li&gt;
+  &lt;li&gt;黑箱，灰箱，白箱測試&lt;/li&gt;
+  &lt;li&gt;台灣黑客年會&lt;/li&gt;
+  &lt;li&gt;世界黑客社群&lt;/li&gt;
+  &lt;li&gt;黑客與開發者對於網站的不同視野角度&lt;/li&gt;
+  &lt;li&gt;黑客社群的培養以及職涯發展&lt;/li&gt;
+  &lt;li&gt;不同網站框架的安全架構探討&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="allenown"&gt;关于 allenown&lt;/h4&gt;
+
+&lt;p&gt;twitter: &lt;a href="http://twitter.com/allenown"&gt;allenown&lt;/a&gt;&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://devco.re"&gt;DevCore&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://hitcon.org"&gt;台灣黑客年會&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://exp.tw"&gt;http://exp.tw&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.defcon.org/"&gt;DEF CON&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://hacker-friendly.com/"&gt;Hacker Friendly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://plainpass.com/"&gt;我的密碼沒加密&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://blog.xdite.net/posts/2013/08/18/secure-your-application-the-basic-1"&gt;Secure Your Application : The Basic&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.smashingmagazine.com/"&gt;Smashing Magazine&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;/section&gt;
+
+</description>
+      <link>http://teahour.fm/2014/02/18/interview-with-allenown.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_44.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_44.m4a</guid>
+      <pubDate>Tue, 18 Feb 2014 08:00:00 -0000</pubDate>
+      <itunes:duration>4008</itunes:duration>
+      <itunes:keywords>security</itunes:keywords>
+    </item>
     <item>
       <title>#43 Teahour.FM 一周岁生日特期</title>
       <itunes:author>terry</itunes:author>
