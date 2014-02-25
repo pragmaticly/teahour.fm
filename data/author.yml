@@ -175,3 +175,11 @@ secret:
   name: "秘密"
   avatar: "secret.png"
   link: "#"
+allenown:
+  name: "allenown"
+  avatar: "allenown.png"
+  link: "https://twitter.com/allenown"
+puling:
+  name: "朴灵"
+  avatar: "puling.png"
+  link: "http://weibo.com/shyvo"

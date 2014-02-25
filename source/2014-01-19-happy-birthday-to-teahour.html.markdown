@@ -55,4 +55,3 @@ duration: 1:42:31
 * [七牛](http://www.qiniu.com/)
 * [Seven Databases in Seven Weeks](http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks)
 </section>
-
