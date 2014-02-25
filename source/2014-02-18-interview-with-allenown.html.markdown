@@ -1,7 +1,7 @@
 ---
-idx: 42
+idx: 44
 title: "跟 DEVCORE 的 allenown 聊聊黑客社群與網站安全"
-date: 2014-02-19 10:58 +08:00
+date: 2014-02-18 10:58 +08:00
 tags: security
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_44.m4a"
 host: xdite
