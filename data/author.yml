@@ -175,3 +175,7 @@ secret:
   name: "秘密"
   avatar: "secret.png"
   link: "#"
+allenown:
+  name: "Allen Own"
+  avatar: "allenown.png"
+  link: "https://twitter.com/allenown"
