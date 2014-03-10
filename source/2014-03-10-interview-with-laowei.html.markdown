@@ -20,7 +20,7 @@ duration: 1:38:52
 * [为知笔记](http://www.wiz.cn/index.html)
 * [Markdown](http://daringfireball.net/projects/markdown/syntax)
 * [LaTex](http://www.latex-project.org/)
-* [FreeMarker](http://freemarker.org/)
+* [FreeMaker](http://www.adobe.com/cn/products/framemaker.html/)
 * [InDesign](http://www.adobe.com/products/indesign.html)
 * [WizQTClient](https://github.com/WizTeam/WizQTClient)
 * [iconfont](http://www.iconfont.cn/)
