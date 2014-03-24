@@ -2,277 +2,301 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://teahour.fm/2013/01/19/1st_beginning.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/02/03/learning-ruby-and-rails.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/02/09/personal-growth-by-xdite.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/02/19/interview-with-ashchan-on-mobile-development.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/03/05/hardware-for-developers.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/03/11/git-github-and-gitlab.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/03/16/agile-and-scrum-with-xuyi.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/03/25/story-of-gitlab.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/04/01/interview-with-dhh-about-rails.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/04/02/open-source-software-and-gitcafe.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/04/08/interview-with-rei-about-writingsio.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/04/15/interview-with-sunshineg-on-marketing.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/04/22/interview-with-fred-wu-about-opensource.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/05/06/become-a-better-programmer-with-avdi-grimm.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/05/13/interview-with-xinzhi-about-36kr.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/05/20/interview-with-shining-ray.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/05/27/let-s-talk-about-crack-and-mruby.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/06/03/databases-with-eric-redmond.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/06/17/review-singapore-reddotrubyconf.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/06/24/lets-talk-about-underlying-development-and-ruby-vm.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/07/01/tisiwi-and-seed-funding.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/07/09/gfw-and-vpncloud.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/07/12/startup-discussion-with-kgen.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/07/15/lean-startup-with-knewone.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/07/22/interview-with-shaohaiyang-about-upyun-devops.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/07/29/the-story-of-jinshuju.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/08/05/interview-with-tinyfool-on-xinzazhi.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/08/21/strikingly-yc-and-startup.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/08/26/independent-developer-tualatrix.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/09/02/wearable-devices-with-sxzz.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/09/11/how-to-run-a-consulting-firm-by-maxime.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/09/16/interview-with-zhao-bo-about-jianshu.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/09/30/interview-with-founders-of-workor.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/10/14/interview-with-tstyle11-about-kechenggezi.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/10/24/interview-with-xushiwei-about-cloud-storage-and-self-motivate.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/11/05/interview-with-luwei.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/11/11/how-to-find-great-engineers.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/11/18/lessons-learned-from-running-saas-products.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/12/16/software-industry-in-taiwan.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/12/23/interview-with-quakewang-about-chanyouji.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2013/12/31/interview-with-qiuliang-about-bitcoin.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2014/01/19/happy-birthday-to-teahour.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/2014/02/18/interview-with-allenown.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://teahour.fm/2014/02/24/first-nodejs.html</loc>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://teahour.fm/2014/03/10/interview-with-laowei.html</loc>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://teahour.fm/2014/03/17/interview-with-binghe.html</loc>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://teahour.fm/2014/03/24/interview-with-sting.html</loc>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/404.html</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://teahour.fm/</loc>
-    <lastmod>2014-02-18T00:00:00+08:00</lastmod>
+    <lastmod>2014-03-24T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>

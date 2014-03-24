@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Tue, 18 Feb 2014 08:00:00 -0000</updated>
-    <lastBuildDate>Tue, 18 Feb 2014 08:00:00 -0000</lastBuildDate>
-    <pubDate>Tue, 18 Feb 2014 08:00:00 -0000</pubDate>
+    <updated>Mon, 24 Mar 2014 04:00:00 -0000</updated>
+    <lastBuildDate>Mon, 24 Mar 2014 04:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 24 Mar 2014 04:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,179 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#48 和中国著名Common Lisp程序员冰河聊聊Lisp</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com/"&gt;Daniel&lt;/a&gt; 主持, 邀请到了 &lt;a href="http://weibo.com/pmcamp"&gt;PMCamp&lt;/a&gt;, &lt;a href="http://topgeek.org/"&gt;Topgeek&lt;/a&gt; 的核心组织者 &lt;a href="http://weibo.com/stingchen"&gt;Sting&lt;/a&gt;，和我们一起聊聊Full Stack developer 和社区活动组织的话题。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://www.vcanland.com/"&gt;永泰红磡&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.chinagdg.com/forum.php"&gt;GDG China&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com/"&gt;Daniel&lt;/a&gt; 主持, 邀请到了 &lt;a href="http://weibo.com/pmcamp"&gt;PMCamp&lt;/a&gt;, &lt;a href="http://topgeek.org/"&gt;Topgeek&lt;/a&gt; 的核心组织者 &lt;a href="http://weibo.com/stingchen"&gt;Sting&lt;/a&gt;，和我们一起聊聊Full Stack developer 和社区活动组织的话题。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://www.vcanland.com/"&gt;永泰红磡&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.chinagdg.com/forum.php"&gt;GDG China&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://topgeek.org/"&gt;Topgeek&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.zhihu.com/question/22420900"&gt;怎样成为全栈工程师-知乎&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/"&gt;What is a Full Stack developer?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.baixing.com/"&gt;百姓网&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/u/1115970444"&gt;袁滚滚&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.ted.com/talks/larry_page_where_s_google_going_next"&gt;Larry Page TED talk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://tv.sohu.com/s2012/personofinterest1/"&gt;疑犯追踪&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://tv.sohu.com/s2013/houseofcards1/"&gt;纸牌屋&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.itgonglun.com/"&gt;IT公论&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.zhihu.com/question/19551518"&gt;李如一&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.techwom.com/archives/2776"&gt;张小龙：微信背后的产品观&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <link>http://teahour.fm/2014/03/24/interview-with-sting.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_48.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_48.m4a</guid>
+      <pubDate>Mon, 24 Mar 2014 04:00:00 -0000</pubDate>
+      <itunes:duration>5932</itunes:duration>
+      <itunes:keywords>full stack, community</itunes:keywords>
+    </item>
+    <item>
+      <title>#47 和中国著名Common Lisp程序员冰河聊聊Lisp</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://weibo.com/poshboytl"&gt;Terry Tai&lt;/a&gt;主持，邀请到了国内著名的 Common Lisp 程序员，&lt;a href="http://www.amazon.cn/%E5%AE%9E%E7%94%A8Common-Lisp%E7%BC%96%E7%A8%8B-Peter-Seibel/dp/B005V9BBDK"&gt;实用Common Lisp编程&lt;/a&gt; 一书的译者&lt;a href="http://weibo.com/tianchunbinghe"&gt;田春(冰河)&lt;/a&gt;，和我们一起聊聊Lisp的方方面面, 揭开Lisp的神秘面纱。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://weibo.com/poshboytl"&gt;Terry Tai&lt;/a&gt;主持，邀请到了国内著名的 Common Lisp 程序员，&lt;a href="http://www.amazon.cn/%E5%AE%9E%E7%94%A8Common-Lisp%E7%BC%96%E7%A8%8B-Peter-Seibel/dp/B005V9BBDK"&gt;实用Common Lisp编程&lt;/a&gt; 一书的译者&lt;a href="http://weibo.com/tianchunbinghe"&gt;田春(冰河)&lt;/a&gt;，和我们一起聊聊Lisp的方方面面, 揭开Lisp的神秘面纱。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://www.amazon.cn/%E5%AE%9E%E7%94%A8Common-Lisp%E7%BC%96%E7%A8%8B-Peter-Seibel/dp/B005V9BBDK"&gt;实用Common Lisp编程&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://knewone.com/"&gt;KnewOne&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html"&gt;Solaris Studio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.paulgraham.com/onlisp.html"&gt;On Lisp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://paulgraham.com/acl.html"&gt;ANSI Common Lisp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html"&gt;Common Lisp the Language, 2nd Edition&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://mitpress.mit.edu/sicp/full-text/book/book.html"&gt;SICP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/S-%E8%A1%A8%E8%BE%BE%E5%BC%8F"&gt;S-表达式&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Simple_Network_Management_Protocol"&gt;Simple Network Management Protocol&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://sourceforge.net/"&gt;SourceForge&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://common-lisp.net/project/cl-net-snmp/"&gt;cl-net-snmp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://racket-lang.org/"&gt;Racket&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/Scheme"&gt;Scheme&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.lispworks.com/documentation/HyperSpec/Front/"&gt;Common Lisp HyperSpec&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.lispworks.com/"&gt;LispWorks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://common-lisp.net/project/slime/"&gt;SLIME&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weitz.de/hunchentoot/"&gt;Hunchentoot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.quicklisp.org/"&gt;Quicklisp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://clojure.org/"&gt;Clojure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.paulgraham.com/index.html"&gt;Paul Graham&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.paulgraham.com/arc.html"&gt;Arc&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://news.ycombinator.com/"&gt;Hacker News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/LALR_parser"&gt;LALR parser&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/richhickey"&gt;Rich Hickey&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://abcl.org/"&gt;ABCL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/Yacc"&gt;yacc&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.filemaker.com/products/filemaker-pro/"&gt;FileMaker Pro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.adobe.com/products/framemaker.html"&gt;FrameMaker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.adobe.com/cn/products/indesign.html"&gt;InDesign&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.docbook.org/"&gt;DocBook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.latex-project.org/"&gt;LaTeX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.amazon.com/The-Little-Schemer-4th-Edition/dp/0262560992"&gt;The Little Schemer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://paulgraham.com/lisp.html"&gt;Paul Graham&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link>http://teahour.fm/2014/03/17/interview-with-binghe.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_47.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_47.m4a</guid>
+      <pubDate>Mon, 17 Mar 2014 04:00:00 -0000</pubDate>
+      <itunes:duration>5932</itunes:duration>
+      <itunes:keywords>lisp</itunes:keywords>
+    </item>
+    <item>
+      <title>#46 和为知笔记的CTO聊聊他的经历和技术</title>
+      <itunes:author>kevin</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;主持, 和&lt;a href="http://www.wiz.cn/index.html"&gt;为知笔记&lt;/a&gt;的CTO老魏聊聊他的入行经历，以及他们产品中的一些技术选型。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/Pascal_(%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80)"&gt;Pascal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/Fortran"&gt;Fortran&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;主持, 和&lt;a href="http://www.wiz.cn/index.html"&gt;为知笔记&lt;/a&gt;的CTO老魏聊聊他的入行经历，以及他们产品中的一些技术选型。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/Pascal_(%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80)"&gt;Pascal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/Fortran"&gt;Fortran&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Turbo_cC"&gt;Tubo C&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Turbo_Pascal"&gt;Tubo Pascal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://linux.wps.cn/"&gt;WPS Office&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.wiz.cn/index.html"&gt;为知笔记&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://daringfireball.net/projects/markdown/syntax"&gt;Markdown&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.latex-project.org/"&gt;LaTex&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.adobe.com/cn/products/framemaker.html/"&gt;FrameMaker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.adobe.com/products/indesign.html"&gt;InDesign&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/WizTeam/WizQTClient"&gt;WizQTClient&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.iconfont.cn/"&gt;iconfont&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.edx.org/course/louvainx/louvainx-louv1-01x-paradigms-computer-1203"&gt;Paradigms of Computer Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <link>http://teahour.fm/2014/03/10/interview-with-laowei.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_46.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_46.m4a</guid>
+      <pubDate>Mon, 10 Mar 2014 04:00:00 -0000</pubDate>
+      <itunes:duration>5932</itunes:duration>
+      <itunes:keywords>node</itunes:keywords>
+    </item>
+    <item>
+      <title>#45 和《深入浅出Node.js》作者朴灵一起聊聊Node.js</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://nodejs.org/"&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://book.douban.com/subject/25768396/"&gt;深入浅出Node.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.sap.com/china/index.html"&gt;SAP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.infoq.com/cn/"&gt;infoQ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.infoq.com/cn/author/%E5%B4%94%E5%BA%B7"&gt;崔康&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.quora.com/Ryan-Dahl/Who-is-Ryan-Dahl"&gt;Ryan Dahl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://nodejs.org/"&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://book.douban.com/subject/25768396/"&gt;深入浅出Node.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.sap.com/china/index.html"&gt;SAP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.infoq.com/cn/"&gt;infoQ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.infoq.com/cn/author/%E5%B4%94%E5%BA%B7"&gt;崔康&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.quora.com/Ryan-Dahl/Who-is-Ryan-Dahl"&gt;Ryan Dahl&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Event-driven_programming"&gt;Event-driven&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/creationix"&gt;Tim Caswell&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/luvit/luvit"&gt;luvit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twistedmatrix.com/trac/"&gt;Twisted&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/eventmachine/eventmachine"&gt;EventMachine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://code.google.com/p/v8/"&gt;V8 JavaScript Engine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/gnosek/ebb"&gt;ebb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/visionmedia"&gt;TJ Holowaychuk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/visionmedia/express"&gt;express&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.meteor.com/"&gt;Meteor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/senchalabs/connect"&gt;connect&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://rack.github.io/"&gt;rack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/JeffreyZhao/jscex"&gt;jscex&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://medium.com/"&gt;medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/aleafs/pm"&gt;pm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/Unitech/pm2"&gt;pm2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/rogerwang/node-webkit"&gt;node-webkit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com"&gt;github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=jo_B4LTHi3I"&gt;Introduction to Node.js with Ryan Dahl&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/pragmaticly/smart-time-ago"&gt;Smart Time Ago&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <link>http://teahour.fm/2014/02/24/first-nodejs.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_45.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_45.m4a</guid>
+      <pubDate>Mon, 24 Feb 2014 04:00:00 -0000</pubDate>
+      <itunes:duration>4637</itunes:duration>
+      <itunes:keywords>node</itunes:keywords>
+    </item>
     <item>
       <title>#44 跟 DEVCORE 的 allenown 聊聊黑客社群與網站安全</title>
       <itunes:author>xdite</itunes:author>
@@ -81,7 +254,7 @@
       <link>http://teahour.fm/2014/02/18/interview-with-allenown.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_44.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_44.m4a</guid>
-      <pubDate>Tue, 18 Feb 2014 08:00:00 -0000</pubDate>
+      <pubDate>Tue, 18 Feb 2014 02:58:00 -0000</pubDate>
       <itunes:duration>4008</itunes:duration>
       <itunes:keywords>security</itunes:keywords>
     </item>
@@ -111,7 +284,7 @@
   &lt;li&gt;&lt;a href="http://weibo.com/andor27"&gt;Andor Chen&lt;/a&gt; 提供的 3本 &lt;a href="http://railstutorial-china.org/"&gt;Ruby on Rails Tutorial 中文版&lt;/a&gt;电子书&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://blog.xdite.net/"&gt;XDite&lt;/a&gt; 提供的3本 &lt;a href="https://leanpub.com/rails-101"&gt;Rails 101&lt;/a&gt; 电子书以及 3份一年期的&lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt;高级帐号。&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://peatio.com/"&gt;貔貅交易所&lt;/a&gt; 提供的3个比特币红包&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.yunti.me/"&gt;云梯&lt;/a&gt; 提供的3个免费vpn帐号(可使用三个月)&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.ytvpn.com/"&gt;云梯&lt;/a&gt; 提供的3个免费 VPN 帐号(可使用3个月)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;section class="notes"&gt;
@@ -145,7 +318,6 @@
     &lt;li&gt;&lt;a href="http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks"&gt;Seven Databases in Seven Weeks&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
-
 </description>
       <link>http://teahour.fm/2014/01/19/happy-birthday-to-teahour.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_43.m4a" type="audio/x-m4a"/>
@@ -1094,7 +1266,7 @@
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="https://www.vpncloud.co/"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
@@ -1111,7 +1283,7 @@
     <item>
       <title>#22 GFW 技术研究和云梯产品故事</title>
       <itunes:author>kevin</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.vpncloud.co"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
 
 &lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
 
@@ -1121,7 +1293,7 @@
 &lt;/ul&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.vpncloud.co"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
 
 &lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
 
@@ -1132,7 +1304,7 @@
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="https://www.vpncloud.co/"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/防火长城"&gt;GFW&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://openvpn.net"&gt;OpenVPN&lt;/a&gt;&lt;/li&gt;
