@@ -1,6 +1,6 @@
 ---
 idx: 48
-title: "和中国著名Common Lisp程序员冰河聊聊Lisp"
+title: "和Sting聊聊Full Stack developer"
 date: 2014-03-24 12:00 +08:00
 tags: full stack, community
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_48.m4a"
