@@ -158,5 +158,5 @@ end
 
 activate :deploy do |deploy|
   deploy.method = :git
-  deploy.branch = "gitcafe-pages"
+  deploy.branch = "gh-pages"
 end
