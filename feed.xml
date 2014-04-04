@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 24 Mar 2014 04:00:00 -0000</updated>
-    <lastBuildDate>Mon, 24 Mar 2014 04:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 24 Mar 2014 04:00:00 -0000</pubDate>
+    <updated>Fri, 04 Apr 2014 04:00:00 -0000</updated>
+    <lastBuildDate>Fri, 04 Apr 2014 04:00:00 -0000</lastBuildDate>
+    <pubDate>Fri, 04 Apr 2014 04:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -27,7 +27,57 @@
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
     <item>
-      <title>#48 和中国著名Common Lisp程序员冰河聊聊Lisp</title>
+      <title>#49 和姜海舟聊聊互联网金融</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请到了广发银行总行电子银行部产品经理姜海舟来跟我们聊聊技术人员跨界到银行业的故事以及对于不同选择的看法。&lt;/p&gt;
+
+&lt;p&gt;本期话题：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;技术人员转型到银行产品运营的经历。&lt;/li&gt;
+  &lt;li&gt;转型中，技术背景带来的好处和坏处。&lt;/li&gt;
+  &lt;li&gt;银行业和互联网金融&lt;/li&gt;
+  &lt;li&gt;个人成长应该如何提升核心竞争力&lt;/li&gt;
+  &lt;li&gt;为什么决定放弃银行美好前景选择创业&lt;/li&gt;
+  &lt;li&gt;Picks 里面有放毒&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;section class="notes"&gt;&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请到了广发银行总行电子银行部产品经理姜海舟来跟我们聊聊技术人员跨界到银行业的故事以及对于不同选择的看法。&lt;/p&gt;
+
+&lt;p&gt;本期话题：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;技术人员转型到银行产品运营的经历。&lt;/li&gt;
+  &lt;li&gt;转型中，技术背景带来的好处和坏处。&lt;/li&gt;
+  &lt;li&gt;银行业和互联网金融&lt;/li&gt;
+  &lt;li&gt;个人成长应该如何提升核心竞争力&lt;/li&gt;
+  &lt;li&gt;为什么决定放弃银行美好前景选择创业&lt;/li&gt;
+  &lt;li&gt;Picks 里面有放毒&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.cgbchina.com.cn/CN/ebank/"&gt;广发银行电子银行&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yedingding.com/2013/10/11/how-to-find-tech-cofounder.html"&gt;如何吸引技术合伙人&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/3773007/"&gt;PPT演义&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.rapidbbs.cn/"&gt;锐普PPT论坛&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yedingding.com/2014/03/12/bootstrapping-your-startup-idea.html"&gt;Bootstrapping Your Startup Idea&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ecamm.com/mac/callrecorder/"&gt;Skype Call Recorder&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/04/04/talk-with-jianghaizhou.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_49.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_49.m4a</guid>
+      <pubDate>Fri, 04 Apr 2014 04:00:00 -0000</pubDate>
+      <itunes:duration>4440</itunes:duration>
+      <itunes:keywords>互联网金融, 创业</itunes:keywords>
+    </item>
+    <item>
+      <title>#48 和Sting聊聊Full Stack developer</title>
       <itunes:author>daniel</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com/"&gt;Daniel&lt;/a&gt; 主持, 邀请到了 &lt;a href="http://weibo.com/pmcamp"&gt;PMCamp&lt;/a&gt;, &lt;a href="http://topgeek.org/"&gt;Topgeek&lt;/a&gt; 的核心组织者 &lt;a href="http://weibo.com/stingchen"&gt;Sting&lt;/a&gt;，和我们一起聊聊Full Stack developer 和社区活动组织的话题。&lt;/p&gt;
 
