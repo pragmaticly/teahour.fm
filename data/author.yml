@@ -191,8 +191,11 @@ binghe:
   name: "田春"
   avatar: "binghe.png"
   link: "http://weibo.com/tianchunbinghe"
-
 sting:
   name: "Sting Chen"
   avatar: "sting.png"
   link: "http://weibo.com/stingchen"
+jianghaizhou:
+  name: "姜海舟"
+  avatar: "jianghaizhou.jpeg"
+  link: "http://weibo.com/u/1882468165"
