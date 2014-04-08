@@ -1,5 +1,5 @@
 ---
-idx: 49
+idx: 50
 title: "和Qubit的工程师聊聊A/B testing, Node 和 Ruby"
 date: 2014-04-8 12:00 +08:00
 tags: node, ruby, a/b testing
