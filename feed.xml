@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Fri, 04 Apr 2014 04:00:00 -0000</updated>
-    <lastBuildDate>Fri, 04 Apr 2014 04:00:00 -0000</lastBuildDate>
-    <pubDate>Fri, 04 Apr 2014 04:00:00 -0000</pubDate>
+    <updated>Mon, 21 Apr 2014 04:00:00 -0000</updated>
+    <lastBuildDate>Mon, 21 Apr 2014 04:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 21 Apr 2014 04:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,71 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#51 Interview with Ari Lerner about AngularJS</title>
+      <itunes:author>kevin</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;In this Episode Kevin interview with Ari to talk about AngularJS. Ari is the author of &lt;a href="https://www.ng-book.com/"&gt;ng-book, The Complete Book on AngularJS&lt;/a&gt;, &lt;a href="https://leanpub.com/angularjs-rails"&gt;Riding Rails with AngularJS&lt;/a&gt; and &lt;a href="https://leanpub.com/d3angularjs"&gt;D3 on AngularJS&lt;/a&gt;. Also he is the CTO and Founder at FullStack LLC.&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;In this Episode Kevin interview with Ari to talk about AngularJS. Ari is the author of &lt;a href="https://www.ng-book.com/"&gt;ng-book, The Complete Book on AngularJS&lt;/a&gt;, &lt;a href="https://leanpub.com/angularjs-rails"&gt;Riding Rails with AngularJS&lt;/a&gt; and &lt;a href="https://leanpub.com/d3angularjs"&gt;D3 on AngularJS&lt;/a&gt;. Also he is the CTO and Founder at FullStack LLC.&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://github.com/auser/beehive"&gt;Beehive&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://backbonejs.org/"&gt;BackboneJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://emberjs.com/"&gt;EmberJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://angularjs.org/"&gt;AngularJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pluralsight.com/training"&gt;pluralsight&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ng-newsletter.com/"&gt;ng-newsletter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://golang.org/"&gt;Golang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.alfredapp.com/"&gt;Alfred App&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.rogueamoeba.com/audiohijackpro/"&gt;Audio Hijack Pro&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+</description>
+      <link>http://teahour.fm/2014/04/21/interview-with-ari-lerner.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_51.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_51.m4a</guid>
+      <pubDate>Mon, 21 Apr 2014 04:00:00 -0000</pubDate>
+      <itunes:duration>5034</itunes:duration>
+      <itunes:keywords>AngularJS, English, Front-end MVC</itunes:keywords>
+    </item>
+    <item>
+      <title>#50 和Qubit的工程师聊聊A/B testing, Node 和 Ruby</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请到 &lt;a href="http://www.qubitproducts.com/"&gt;Quibit.&lt;/a&gt; 的工程师 &lt;a href="http://www.weibo.com/u/2462586132"&gt;Dong Jing&lt;/a&gt;。 一起聊聊 A/B testing, Node 还有 Ruby.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://www.w3cdigitaldatatoolkit.com/"&gt;W3C Digital Standard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.qubitproducts.com/tag-management"&gt;OpenTag (Tag managemnet)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请到 &lt;a href="http://www.qubitproducts.com/"&gt;Quibit.&lt;/a&gt; 的工程师 &lt;a href="http://www.weibo.com/u/2462586132"&gt;Dong Jing&lt;/a&gt;。 一起聊聊 A/B testing, Node 还有 Ruby.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://www.w3cdigitaldatatoolkit.com/"&gt;W3C Digital Standard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.qubitproducts.com/tag-management"&gt;OpenTag (Tag managemnet)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.optimizely.com"&gt;Optimizely&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.google.co.uk/tagmanager/"&gt;Google Tag Manager(GTM)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://hailocab.com/london"&gt;Hailo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://citymapper.com/london"&gt;CityMapper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://store.3drobotics.com"&gt;3DRobotics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://store.3drobotics.com/products/3dr-pixhawk"&gt;Pixhawk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://instagram.com/p/fI1EzmPbGW/"&gt;Crash的录像&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://wiki.ecmascript.org/doku.php?id=strawman:data_parallelism"&gt;Parallel EcmaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://kangax.github.io/es5-compat-table/es6"&gt;ECMAScript 6 Compatibility Table&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.meetup.com"&gt;Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <link>http://teahour.fm/2014/04/08/interview-with-dong-jing.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_50.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_50.m4a</guid>
+      <pubDate>Tue, 08 Apr 2014 04:00:00 -0000</pubDate>
+      <itunes:duration>4672</itunes:duration>
+      <itunes:keywords>node, ruby, a/b testing</itunes:keywords>
+    </item>
     <item>
       <title>#49 和姜海舟聊聊互联网金融</title>
       <itunes:author>dingding</itunes:author>
