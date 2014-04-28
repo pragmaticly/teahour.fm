@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 21 Apr 2014 04:00:00 -0000</updated>
-    <lastBuildDate>Mon, 21 Apr 2014 04:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 21 Apr 2014 04:00:00 -0000</pubDate>
+    <updated>Mon, 28 Apr 2014 04:00:00 -0000</updated>
+    <lastBuildDate>Mon, 28 Apr 2014 04:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 28 Apr 2014 04:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,61 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#52 简书的故事</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;玎玎&lt;/a&gt;主持，&lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了简书的创始人&lt;a href="http://jianshu.io/users/y3Dbcz"&gt;林立&lt;/a&gt;来跟我们一起聊聊简书的创业故事。当然，xdite 是另一个内容平台 logdown 的创始人，所以也有不少 logdown 的故事分享。&lt;/p&gt;
+
+&lt;p&gt;本期话题：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;如何看待内容平台&lt;/li&gt;
+  &lt;li&gt;为什么选择做简书这个项目，选择的背后&lt;/li&gt;
+  &lt;li&gt;简书、内容平台、Blog 平台，三者的思考&lt;/li&gt;
+&lt;/ol&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;玎玎&lt;/a&gt;主持，&lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了简书的创始人&lt;a href="http://jianshu.io/users/y3Dbcz"&gt;林立&lt;/a&gt;来跟我们一起聊聊简书的创业故事。当然，xdite 是另一个内容平台 logdown 的创始人，所以也有不少 logdown 的故事分享。&lt;/p&gt;
+
+&lt;p&gt;本期话题：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;如何看待内容平台&lt;/li&gt;
+  &lt;li&gt;为什么选择做简书这个项目，选择的背后&lt;/li&gt;
+  &lt;li&gt;简书、内容平台、Blog 平台，三者的思考&lt;/li&gt;
+  &lt;li&gt;对于简书未来的期望和商业模式的思考&lt;/li&gt;
+  &lt;li&gt;内容平台的鸡和蛋问题，如何获取第一批用户&lt;/li&gt;
+  &lt;li&gt;运营经验分享，效果好的，效果不理想的&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;简书目前在招聘，有兴趣的朋友看这里：&lt;a href="http://jianshu.io/p/gonzAc"&gt;http://jianshu.io/p/gonzAc&lt;/a&gt;&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://jianshu.io"&gt;简书&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://logdown.com"&gt;logdown&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://instagram.com/"&gt;instagram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://medium.com"&gt;Medium&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengcheco.com"&gt;风车&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://octopress.org"&gt;Octopress&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://ghost.org/"&gt;Ghost&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com"&gt;Github&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.techbang.com/"&gt;T 客邦&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://teahour.fm/2013/09/16/interview-with-zhao-bo-about-jianshu.html"&gt;跟简书的赵波聊从大公司到创业&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://shiseapp.com/"&gt;食色&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://penflip.com"&gt;penflip&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://mindnode.com/"&gt;MindNode&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yedingding.com/2014/04/17/test-your-mvp-seriously.html"&gt;Test Your MVP, Seriously&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/04/28/the-story-of-jianshu.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_52.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_52.m4a</guid>
+      <pubDate>Mon, 28 Apr 2014 04:00:00 -0000</pubDate>
+      <itunes:duration>5325</itunes:duration>
+      <itunes:keywords>创业, 简书</itunes:keywords>
+    </item>
     <item>
       <title>#51 Interview with Ari Lerner about AngularJS</title>
       <itunes:author>kevin</itunes:author>
