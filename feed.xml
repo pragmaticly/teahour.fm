@@ -96,11 +96,15 @@
     &lt;li&gt;&lt;a href="http://emberjs.com/"&gt;EmberJS&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://knockoutjs.com/"&gt;KnockoutJS&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://angularjs.org/"&gt;AngularJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://jasmine.github.io/"&gt;Jasmine&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://karma-runner.github.io/0.12/index.html"&gt;Karma&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/angular/protractor"&gt;Protractor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://velocity.oreilly.com.cn/"&gt;China Velocity&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://golang.org/"&gt;Golang&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.erlang.org/"&gt;Erlang&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://clojure.org/"&gt;Clojure&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://nodejs.org/"&gt;Node&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://passportjs.org/"&gt;Passport&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.ng-newsletter.com/"&gt;ng-newsletter&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://www.ng-book.com/"&gt;ng-book&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://tinyhabits.com/"&gt;Tiny Habits&lt;/a&gt;&lt;/li&gt;
@@ -230,6 +234,7 @@
   &lt;li&gt;&lt;a href="http://weibo.com/u/1115970444"&gt;袁滚滚&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.ted.com/talks/larry_page_where_s_google_going_next"&gt;Larry Page TED talk&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://tv.sohu.com/s2012/personofinterest1/"&gt;疑犯追踪&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://tv.sohu.com/s2013/helix1/"&gt;双螺旋&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://tv.sohu.com/s2013/houseofcards1/"&gt;纸牌屋&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.itgonglun.com/"&gt;IT公论&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.zhihu.com/question/19551518"&gt;李如一&lt;/a&gt;&lt;/li&gt;
