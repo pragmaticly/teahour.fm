@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 28 Apr 2014 04:00:00 -0000</updated>
-    <lastBuildDate>Mon, 28 Apr 2014 04:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 28 Apr 2014 04:00:00 -0000</pubDate>
+    <updated>Fri, 09 May 2014 01:00:00 -0000</updated>
+    <lastBuildDate>Fri, 09 May 2014 01:00:00 -0000</lastBuildDate>
+    <pubDate>Fri, 09 May 2014 01:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,70 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#53 跟 ThoughtWorks 的面试官聊聊面试这件事</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;h4 id="section"&gt;缘起：&lt;/h4&gt;
+
+&lt;p&gt;ThoughtWorks 是传说中的十大最难面试公司之首，前段时间 ThoughtWorks 的 HR 任蕙在 RubyChina 发了一篇帖子，标题是：“找工作的人那么多，为什么我还招不到人？来吐槽面试好么?” 并收到了很多网友的问题，我联系了任蕙，争取到一次采访两位来自 ThoughtWorks 的面试官的机会，于是我带着这些问题走进了 ThoughtWorks 北京办公室，开始了本次访谈。&lt;/p&gt;
+
+&lt;p&gt;在准备这期访谈之前，我有一个疑虑，很担心本期的采访嘉宾，ThoughtWorks 的面试官韩凯和王健会以公司发言人的态度和方式应对本次访谈，但是当我见到两位面试官后，我的疑虑被彻底打消了。两位面试官一开始就以当年黑暗的亲身经历，给我们展现了两个活生生的草根逆袭的励志故事，然后一步一步解构一家全球顶尖IT公司的面试流程每个环节，特点，并给出非常实际可操作性极强的建议，访谈中两位面试官诙谐幽默，让整个过程笑场不断，内容让人深受启发却又感觉轻松欢快……&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;h4 id="section"&gt;缘起：&lt;/h4&gt;
+
+&lt;p&gt;ThoughtWorks 是传说中的十大最难面试公司之首，前段时间 ThoughtWorks 的 HR 任蕙在 RubyChina 发了一篇帖子，标题是：“找工作的人那么多，为什么我还招不到人？来吐槽面试好么?” 并收到了很多网友的问题，我联系了任蕙，争取到一次采访两位来自 ThoughtWorks 的面试官的机会，于是我带着这些问题走进了 ThoughtWorks 北京办公室，开始了本次访谈。&lt;/p&gt;
+
+&lt;p&gt;在准备这期访谈之前，我有一个疑虑，很担心本期的采访嘉宾，ThoughtWorks 的面试官韩凯和王健会以公司发言人的态度和方式应对本次访谈，但是当我见到两位面试官后，我的疑虑被彻底打消了。两位面试官一开始就以当年黑暗的亲身经历，给我们展现了两个活生生的草根逆袭的励志故事，然后一步一步解构一家全球顶尖IT公司的面试流程每个环节，特点，并给出非常实际可操作性极强的建议，访谈中两位面试官诙谐幽默，让整个过程笑场不断，内容让人深受启发却又感觉轻松欢快……&lt;/p&gt;
+
+&lt;h4 id="section-1"&gt;本期的话题&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;十大入职面试最难的科技公司，ThoughtWorks 排名第一，你敢来挑战么？&lt;/li&gt;
+  &lt;li&gt;两位 ThoughtWorks 的面试官用自己当年的面试经历现身说法。&lt;/li&gt;
+  &lt;li&gt;ThoughtWorks 的面试号称业界最难，他们面试方式给候选人带来怎样的压力，候选人在面试中可能容易犯的错误，以及面试官建议。&lt;/li&gt;
+  &lt;li&gt;ThoughtWorks 是一家什么样的公司，入职 ThoughtWorks 可以给你怎样的成长和未来？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org/jobthoughtworks"&gt;ThoughtWorks的HR任蕙&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org/topics/18061"&gt;找工作的人辣么多，为什么我还招不到人。来吐槽面试好么&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.crazyenglish.com/"&gt;疯狂英语&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gigix.thoughtworkers.org"&gt;熊节&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://dreamhead.blogbus.com/"&gt;梦想风暴&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E6%AF%8F%E5%88%86%E9%92%9F%E6%93%8D%E4%BD%9C%E6%95%B0"&gt;APM&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.lagou.com/subject/s_thoughtworks.html"&gt;作难面试的IT公司，你敢来挑战么？&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh-cn/%E7%BB%93%E5%AF%B9%E7%BC%96%E7%A8%8B"&gt;结对编程&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E6%95%8F%E6%8D%B7%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91"&gt;敏捷软件开发&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E7%B2%BE%E7%9B%8A%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91"&gt;精益软件开发&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.docbook.org/"&gt;Docbook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.scala-lang.org/"&gt;Scala&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://clojure.org/"&gt;Clojure&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Happy_Hacking_Keyboard"&gt;HHKB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html"&gt;Aeron Chairs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.thoughtworks.com/products/go-continuous-delivery"&gt;ThoughtWorks Go&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh-cn/%E9%A9%AC%E4%B8%81%C2%B7%E7%A6%8F%E5%8B%92"&gt;马丁·福勒&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://brainbits.wordpress.com/2012/07/24/thoughtworks-university/"&gt;ThoughtWorks University&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/3609132/"&gt;把时间当作朋友&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://weibo.com/ibuick"&gt;ibuick&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/20268969/"&gt;OS X Mountain Lion高手进阶&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/5253255.htm"&gt;CI&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://xueqiu.com/zhuankan"&gt;雪球专刊&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/05/09/job-interview-at-thoughtworks.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_53.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_53.m4a</guid>
+      <pubDate>Fri, 09 May 2014 01:00:00 -0000</pubDate>
+      <itunes:duration>5715</itunes:duration>
+      <itunes:keywords>job, interview, thoughtworks</itunes:keywords>
+    </item>
     <item>
       <title>#52 简书的故事</title>
       <itunes:author>dingding</itunes:author>
