@@ -34,7 +34,7 @@ ThoughtWorks 是传说中的十大最难面试公司之首，前段时间 Though
 - [熊节](http://gigix.thoughtworkers.org)
 - [梦想风暴](http://dreamhead.blogbus.com/)
 - [APM](http://zh.wikipedia.org/zh/%E6%AF%8F%E5%88%86%E9%92%9F%E6%93%8D%E4%BD%9C%E6%95%B0)
-- [作难面试的IT公司，你敢来挑战么？](http://www.lagou.com/subject/s_thoughtworks.html)
+- [最难面试的IT公司，你敢来挑战么？](http://www.lagou.com/subject/s_thoughtworks.html)
 - [结对编程](http://zh.wikipedia.org/zh-cn/%E7%BB%93%E5%AF%B9%E7%BC%96%E7%A8%8B)
 - [RubyChina](http://ruby-china.org)
 - [敏捷软件开发](http://zh.wikipedia.org/zh/%E6%95%8F%E6%8D%B7%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91)
