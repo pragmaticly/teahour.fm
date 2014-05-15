@@ -16,7 +16,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 
 
 <section class="notes" markdown="1">
-- [Seed Studio](http://seeedstudio.com)
+- [Seeed Studio](http://seeedstudio.com)
 - [Adafruit](http://adafruit.com)
 - [Sparkfun](http://sparkfun.com)
 - [创客](http://book.douban.com/subject/20365163)
