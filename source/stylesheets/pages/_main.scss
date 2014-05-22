@@ -32,6 +32,9 @@
       }
     }
   }
+  .bdsharebuttonbox {
+    float: right;
+  }
   .title {
     font-size: 24px;
     border-bottom: 1px solid #5F9B6F;
@@ -94,15 +97,8 @@
         }
       }
 
-      .download, .share {
+      .download {
         margin-top: 10px;
-      }
-
-      .share {
-        i img {
-          width: 0px;
-          height: 0px;
-        }
       }
     }
 
