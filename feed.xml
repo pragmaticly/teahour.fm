@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Fri, 09 May 2014 02:00:00 -0000</updated>
-    <lastBuildDate>Fri, 09 May 2014 02:00:00 -0000</lastBuildDate>
-    <pubDate>Fri, 09 May 2014 02:00:00 -0000</pubDate>
+    <updated>Thu, 22 May 2014 10:50:00 -0000</updated>
+    <lastBuildDate>Thu, 22 May 2014 10:50:00 -0000</lastBuildDate>
+    <pubDate>Thu, 22 May 2014 10:50:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,102 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#55 和叶俊亨聊找狗网</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;玎玎&lt;/a&gt;主持，&lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了找狗网的创始人&lt;a href="http://facebook.com/jamesyeh0627"&gt;叶俊亨&lt;/a&gt;来跟我们一起聊聊找狗网的故事。&lt;/p&gt;
+
+&lt;p&gt;James (叶俊亨) 是信号处理和情感计算方向的专家，也是找狗网有限公司和瀚亘资讯有限公司的创业人。在本期节目中，他分享了他的一些研究经历、创业经历尤其是找狗网这个项目的技术分享和运营分享。因为瀚亘资讯是完全 2B 的公司而找狗网很大程度上是 2C 的项目，所以 James 也分享了他在 2B 和 2C 项目上的不同实战经验分享。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;玎玎&lt;/a&gt;主持，&lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了找狗网的创始人&lt;a href="http://facebook.com/jamesyeh0627"&gt;叶俊亨&lt;/a&gt;来跟我们一起聊聊找狗网的故事。&lt;/p&gt;
+
+&lt;p&gt;James (叶俊亨) 是信号处理和情感计算方向的专家，也是找狗网有限公司和瀚亘资讯有限公司的创业人。在本期节目中，他分享了他的一些研究经历、创业经历尤其是找狗网这个项目的技术分享和运营分享。因为瀚亘资讯是完全 2B 的公司而找狗网很大程度上是 2C 的项目，所以 James 也分享了他在 2B 和 2C 项目上的不同实战经验分享。&lt;/p&gt;
+
+&lt;h3 id="section"&gt;找狗网的介绍&lt;/h3&gt;
+
+&lt;p&gt;找狗網有限公司是一群熱血、有理想的青年組成的團隊，團隊的唯一一個目標就是「快速的幫您找回走失的寵物」，團隊內外成員有寵物協尋義工、律師顧問、獸醫師、顧問、寵物協尋社群主持人、資工博士、資訊碩士、行銷專家、民間及官方收容所成員等，我們成立這個組織沒有別的想法，就僅有用我們的專才來協助所有走失的寵物能回到主人的懷抱中。&lt;/p&gt;
+
+&lt;h3 id="section-1"&gt;本期福利&lt;/h3&gt;
+
+&lt;p&gt;这期主持人玎玎在杭州，最近去了一个杭州的联合办公社，&lt;a href="http://weibo.com/allface"&gt;allface&lt;/a&gt; 咖啡馆，所以向老板索取了一些一日体验劵，可以免费获得一份主食、咖啡和小食。如果你在杭州并且有兴趣去体验，可以直接联系我。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://finddog.net"&gt;找狗网&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/642820/11169492.htm"&gt;信号处理&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/464340.htm"&gt;情感计算&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/1013282.htm"&gt;鸿海集团&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.findingrover.com/"&gt;Finding Rover&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.petrecognition.com/"&gt;PiP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Facial_recognition_system"&gt;Face Recognition&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/1028.htm"&gt;蓝牙&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/7773.htm"&gt;GPS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/346846.htm"&gt;皮下芯片&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/165512/5093838.htm"&gt;消费心理学&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.chinatimes.com/realtimenews/20140507004992-260405"&gt;麥當勞早安鬧鐘APP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Shark_Tank"&gt;Shark Tank (TV)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/gp/product/1401312926/ref=oh_details_o05_s00_i00?ie=UTF8&amp;amp;psc=1"&gt;Shark Tank Jump Start Your Business: How to Launch and Grow a Business from Concept to Cash&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://site.douban.com/215796/"&gt;allface Coffee&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yedingding.com/tags/teahour"&gt;Teahour 音频文本&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/05/22/talk-about-finddog.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_55.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_55.m4a</guid>
+      <pubDate>Thu, 22 May 2014 10:50:00 -0000</pubDate>
+      <itunes:duration>5513</itunes:duration>
+      <itunes:keywords>startup</itunes:keywords>
+    </item>
+    <item>
+      <title>#54 和小波一起聊聊Maker和开源硬件</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;h4 id="section"&gt;本期的话题&lt;/h4&gt;
+&lt;p&gt;伴随着 &lt;a href="http://www.arduino.cc/"&gt;Arduino&lt;/a&gt; 和 &lt;a href="http://www.raspberrypi.org/"&gt;Raspberry Pi&lt;/a&gt; 在中国的普及和兴起，
+Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 Maker 社区的小波，和大家一起聊聊中国的 Maker社区 和开源硬件。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://seeedstudio.com"&gt;Seeed Studio&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;h4 id="section"&gt;本期的话题&lt;/h4&gt;
+&lt;p&gt;伴随着 &lt;a href="http://www.arduino.cc/"&gt;Arduino&lt;/a&gt; 和 &lt;a href="http://www.raspberrypi.org/"&gt;Raspberry Pi&lt;/a&gt; 在中国的普及和兴起，
+Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 Maker 社区的小波，和大家一起聊聊中国的 Maker社区 和开源硬件。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://seeedstudio.com"&gt;Seeed Studio&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://adafruit.com"&gt;Adafruit&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://sparkfun.com"&gt;Sparkfun&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/20365163"&gt;创客&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.espruino.com/"&gt;espruino&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/kyab/mruby-arduino"&gt;mruby-arduino&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://makerfaire.com/"&gt;Maker Faire Bay Area&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.shenzhenmakerfaire.com/"&gt;Maker Faire Shenzhen&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://learn.adafruit.com"&gt;Adafruit learn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.chaihuo.org/blog/"&gt;柴火创客空间&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://xinchejian.com/"&gt;上海新车间&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.bjmakerspace.com/"&gt;北京创客空间&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://v.youku.com/v_show/id_XMzkyOTY4NTc2.html"&gt;激光打蚊子&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://hackerspaces.org/wiki/Hackerspaces"&gt;全球 HackerSpace / MakerSpace 汇总&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://redpitaya.com/"&gt;Red Pitaya&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.poppy-project.org/"&gt;开源机器人&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.osvehicle.com/"&gt;开源汽车&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+</description>
+      <link>http://teahour.fm/2014/05/13/interview-with-xiaobo-about-maker.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_54.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_54.m4a</guid>
+      <pubDate>Tue, 13 May 2014 04:00:00 -0000</pubDate>
+      <itunes:duration>3537</itunes:duration>
+      <itunes:keywords>Maker, Open source hardware</itunes:keywords>
+    </item>
     <item>
       <title>#53 跟 ThoughtWorks 的面试官聊聊面试这件事</title>
       <itunes:author>daniel</itunes:author>
@@ -1756,16 +1852,16 @@
     <item>
       <title>#18 采访《七周七数据库》作者 Eric Redmond - 数据库的故事</title>
       <itunes:author>kevin</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://pragprog.com/book/btlang/seven-languages-in-seven-weeks"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://pragprog.com/book/btlang/seven-languages-in-seven-weeks"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="https://basho.com"&gt;Basho&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://pragprog.com/book/btlang/seven-languages-in-seven-weeks"&gt;Seven Languages in Seven Weeks&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://www.mongohq.com/‎"&gt;MongoHQ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.mongohq.com/"&gt;MongoHQ&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/CAP_theorem"&gt;CAP theorem&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.postgresql.org"&gt;PostgreSQL&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.mongodb.org"&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
@@ -1775,7 +1871,10 @@
     &lt;li&gt;&lt;a href="http://redis.io"&gt;Redis&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.neo4j.org"&gt;Neo4J&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Dynamo_(storage_system)‎"&gt;Dynamo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Dynamo_(storage_system)"&gt;Dynamo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://voltdb.com/"&gt;VoltDB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://jung.sourceforge.net/"&gt;JUNG&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://docs.neo4j.org/chunked/milestone/cypher-query-lang.html"&gt;Cypher&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Eventual_consistency"&gt;Eventual Consistency&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.google.com/glass/start/how-to-get-one/"&gt;Google Glass Explorer Program&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://littleriakbook.com"&gt;The Little Riak Book&lt;/a&gt;&lt;/li&gt;
