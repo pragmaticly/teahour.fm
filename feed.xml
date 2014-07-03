@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 16 Jun 2014 10:50:00 -0000</updated>
-    <lastBuildDate>Mon, 16 Jun 2014 10:50:00 -0000</lastBuildDate>
-    <pubDate>Mon, 16 Jun 2014 10:50:00 -0000</pubDate>
+    <updated>Thu, 03 Jul 2014 17:00:00 -0000</updated>
+    <lastBuildDate>Thu, 03 Jul 2014 17:00:00 -0000</lastBuildDate>
+    <pubDate>Thu, 03 Jul 2014 17:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,85 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#58 跟池建强聊阅读，写作以及人生元编程</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 Daniel 主持，我们邀请到了&lt;a href="http://www.duokan.com/book/40930"&gt;«MacTalk 人生元编程»&lt;/a&gt;的作者池建强，池老师来Teahour做客，我们的话题从探讨一个问题开始：一个技术人如池老师，有什么样的经历，才会有这样的情怀，写下这些流畅洒脱的文字?&lt;/p&gt;
+
+&lt;p&gt;池老师跟大家分享了他对技术人生，阅读人生，以及写作人生的感悟，以及曾经读过的好书，跟这些书有关的故事，元编程这本书出版后给他带来的变化，以及他对如何阅读，写作的建议。在节目中池老师还公布了他经营微信公众账号的独家秘籍，以及对2014年世界杯冠军的大胆预测，本期访谈信息量极大，但是相信一定不会让你失望。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 Daniel 主持，我们邀请到了&lt;a href="http://www.duokan.com/book/40930"&gt;«MacTalk 人生元编程»&lt;/a&gt;的作者池建强，池老师来Teahour做客，我们的话题从探讨一个问题开始：一个技术人如池老师，有什么样的经历，才会有这样的情怀，写下这些流畅洒脱的文字?&lt;/p&gt;
+
+&lt;p&gt;池老师跟大家分享了他对技术人生，阅读人生，以及写作人生的感悟，以及曾经读过的好书，跟这些书有关的故事，元编程这本书出版后给他带来的变化，以及他对如何阅读，写作的建议。在节目中池老师还公布了他经营微信公众账号的独家秘籍，以及对2014年世界杯冠军的大胆预测，本期访谈信息量极大，但是相信一定不会让你失望。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://macshuo.com/"&gt;池建强&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.duokan.com/book/40930"&gt;MacTolk 人生元编程&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://itunes.apple.com/cn/app/xin-za-zhi/id647781818?mt=8"&gt;新杂志&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/1395123/"&gt;乐者为王&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ituring.com.cn/article/64975"&gt;池建强：我的人生元编程（图灵访谈）&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/1250293.htm"&gt;池宇峰&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/50454/5076049.htm"&gt;雷军&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://developer.apple.com/swift/"&gt;Swift&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://nondot.org/sabre/"&gt;Chris Lattner&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/1737286.htm"&gt;冯大辉&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://blog.alipay.com/1220.html"&gt;支付宝首席架构师程立&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/2619.htm"&gt;金庸&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/2969.htm"&gt;古龙&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/6021440/"&gt;黑客与画家&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/4163938/"&gt;软件随想录&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/7782/4947554.htm"&gt;路遥&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/11248/4923540.htm"&gt;平凡的世界&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/31467/5028628.htm"&gt;王朔&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/4867/5567199.htm"&gt;王小波&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/619959.htm"&gt;时代三部曲&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/918548/5131859.htm"&gt;阿城&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/918548/5131859.htm"&gt;棋王&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/66555/6464535.htm"&gt;冯唐&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/395961/7613515.htm"&gt;不二&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/20278799/"&gt;三十六大&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/74978.htm"&gt;刘震云&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/51704.htm"&gt;莫言&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/39744.htm"&gt;村上春树&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/257521/5110549.htm"&gt;且听风吟&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/38057/4964330.htm"&gt;挪威的森林&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/3369600/"&gt;当我谈跑步时，我谈些什么&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/526303.htm"&gt;加夫列尔·加西亚·马尔克斯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/37227.htm"&gt;百年孤独&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/1400705/"&gt;情人&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/86410.htm"&gt;玛格丽特·杜拉斯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/387947.htm"&gt;王道乾&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/30507.htm"&gt;诺贝尔文学奖&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/5038708.htm"&gt;早晨从中午开始&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/5576/8467138.htm"&gt;人生&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/7330/5395299.htm"&gt;吴军&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/6709783/"&gt;浪潮之巅&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/2202550/11243905.htm"&gt;数学之美&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/20471211/"&gt;Linux多线程服务端编程&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://blog.codingnow.com/"&gt;云风&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mindhacks.cn/"&gt;刘未鹏&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://dbanotes.net/"&gt;Fenng&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/3652388/"&gt;程序员的自我修养&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/6709809/"&gt;暗时间&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mindhacks.cn/2009/01/18/escape-from-your-shawshank-part1/"&gt;如何逃出肖申克&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://taosay.net/"&gt;道哥的黑板报&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.hiwifi.com/"&gt;极路由&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.docker.com/"&gt;Docker&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/25745691/"&gt;罗辑思维&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/25902942/"&gt;文明之光&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.redisbook.com/en/latest/"&gt;Redis设计与实现&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/07/04/talk-with-chi-jian-qiang.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_58.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_58.m4a</guid>
+      <pubDate>Thu, 03 Jul 2014 17:00:00 -0000</pubDate>
+      <itunes:duration>6509</itunes:duration>
+      <itunes:keywords>mac, reading, writing</itunes:keywords>
+    </item>
     <item>
       <title>#56 谈谈空间数据以及数据可视化</title>
       <itunes:author>kevin</itunes:author>
