@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Thu, 22 May 2014 10:50:00 -0000</updated>
-    <lastBuildDate>Thu, 22 May 2014 10:50:00 -0000</lastBuildDate>
-    <pubDate>Thu, 22 May 2014 10:50:00 -0000</pubDate>
+    <updated>Mon, 16 Jun 2014 10:50:00 -0000</updated>
+    <lastBuildDate>Mon, 16 Jun 2014 10:50:00 -0000</lastBuildDate>
+    <pubDate>Mon, 16 Jun 2014 10:50:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,50 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#56 谈谈空间数据以及数据可视化</title>
+      <itunes:author>kevin</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由Kevin主持，和两位空间数据以及数据可视化专家聊聊这两个听起高深但实际上和我们生活息息相关的话题。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E9%BA%A5%E5%8D%A1%E6%89%98%E6%8A%95%E5%BD%B1%E6%B3%95"&gt;麦克托投影&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="Street Map http://www.openstreetmap.org/"&gt;Open&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://map.baidu.com/"&gt;百度地图&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由Kevin主持，和两位空间数据以及数据可视化专家聊聊这两个听起高深但实际上和我们生活息息相关的话题。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E9%BA%A5%E5%8D%A1%E6%89%98%E6%8A%95%E5%BD%B1%E6%B3%95"&gt;麦克托投影&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="Street Map http://www.openstreetmap.org/"&gt;Open&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://map.baidu.com/"&gt;百度地图&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.51ditu.com/"&gt;51 地图&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.esri.com/"&gt;ESRI&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gdal.org/"&gt;GDAL&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://geojson.org/"&gt;GeoJSON&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/4733932/"&gt;semiology of graphics&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.tableausoftware.com/"&gt;Tableau Software&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.scidb.org/"&gt;SciDB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.zillow.com/"&gt;Zillow&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.bbc.co.uk/programmes/b018ttws"&gt;Sherlock&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://movie.douban.com/subject/3071441/"&gt;雪国列车&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://movie.douban.com/subject/3016187/"&gt;权利的游戏&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://movie.douban.com/subject/4073872/"&gt;算命&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/06/16/talk-with-zhang-gong-and-zhi-cheng-about-data-visualization.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_56.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_56.m4a</guid>
+      <pubDate>Mon, 16 Jun 2014 10:50:00 -0000</pubDate>
+      <itunes:duration>5777</itunes:duration>
+      <itunes:keywords>satellite imaging, data visualization</itunes:keywords>
+    </item>
     <item>
       <title>#55 和叶俊亨聊找狗网</title>
       <itunes:author>dingding</itunes:author>

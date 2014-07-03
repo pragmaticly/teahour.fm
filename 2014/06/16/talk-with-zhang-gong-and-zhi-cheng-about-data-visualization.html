@@ -11,12 +11,12 @@
     <meta charset="UTF-8">
 
     <title>
-        和为知笔记的CTO聊聊他的经历和技术
+        谈谈空间数据以及数据可视化
  - Teahour.fm
     </title>
 
     <meta name="description" content="The chinese tech podcast focusing on programming, entrepreneurship and other geeky topics.">
-    <meta name="keywords" content="  ["node"]
+    <meta name="keywords" content="  ["satellite imaging", "data visualization"]
 ">
     <meta name="author" content="Dingding Ye">
 
@@ -48,7 +48,7 @@
     })();</script>
   </head>
 
-  <body class="2014 2014_03 2014_03_10 2014_03_10_interview-with-laowei">
+  <body class="2014 2014_06 2014_06_16 2014_06_16_talk-with-zhang-gong-and-zhi-cheng-about-data-visualization">
 
     <header class="masthead">
       <hgroup>
@@ -58,14 +58,18 @@
 
       <ul class="participants">
           <li class="guest clock7">
-    <a href="http://weibo.com/wizweishijun" target="_blank"><img src="/images/laowei.png"/></a>
+    <a href="https://twitter.com/zcliu" target="_blank"><img src="/images/zhicheng.png"/></a>
   </li>
   <li class="host clock6">
     <a href="http://knwang.com" target="_blank"><img src="/images/kevin.jpg"/></a>
   </li>
   
   <li class="guest clock5">
-    <a href="http://yedingding.com" target="_blank"><img src="/images/yedingding.png"/></a>
+    <a href="http://weibo.com/u/2473439694" target="_blank"><img src="/images/zhanggong.png"/></a>
+  </li>
+  
+  <li class="guest clock4">
+    <a href="http://weibo.com/poshboytl" target="_blank"><img src="/images/terry.png"/></a>
   </li>
   
 
@@ -79,11 +83,11 @@
 
 <div class="player">
   <audio controls name="media">
-    <source src="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_46.m4a" type="audio/mpeg">
+    <source src="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_56.m4a" type="audio/mpeg">
   </audio>
 
   <ul class="actions">
-    <li><a href="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_46.m4a" download="teahour_episode_46.m4a"><i class="icons-download"></i></a></li>
+    <li><a href="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_56.m4a" download="teahour_episode_56.m4a"><i class="icons-download"></i></a></li>
   </ul>
 </div>
 
@@ -91,8 +95,8 @@
   <div class="bdsharebuttonbox"><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_twi" data-cmd="twi" title="分享到Twitter"></a><a href="#" class="bds_fbook" data-cmd="fbook" title="分享到Facebook"></a><a href="#" class="bds_linkedin" data-cmd="linkedin" title="分享到linkedin"></a></div>
 <script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
 
-  <small>#46 released on 03/10/2014</small>
-  和为知笔记的CTO聊聊他的经历和技术
+  <small>#56 released on 06/16/2014</small>
+  谈谈空间数据以及数据可视化
 </h2>
 
 <div class="weixin">
@@ -101,29 +105,34 @@
 
 <dl>
   <dt>Host:</dt><dd> Kevin Wang</dd>
-  <dt>Guests:</dt><dd> 老魏, Dingding Ye</dd>
-  <dt>Topic:</dt><dd> node</dd>
+  <dt>Guests:</dt><dd> Zhicheng Liu, Zhanggong, Terry Tai</dd>
+  <dt>Topic:</dt><dd> satellite imaging, data visualization</dd>
 </dl>
 
 <h4>Show Notes:</h4>
 <div>
-  <p>本期由<a href="http://www.gotealeaf.com">Kevin Wang</a>主持, 和<a href="http://www.wiz.cn/index.html">为知笔记</a>的CTO老魏聊聊他的入行经历，以及他们产品中的一些技术选型。</p>
+  <p>本期由Kevin主持，和两位空间数据以及数据可视化专家聊聊这两个听起高深但实际上和我们生活息息相关的话题。</p>
 
-<ul>
-  <li><a href="http://zh.wikipedia.org/wiki/Pascal_(%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80)">Pascal</a></li>
-  <li><a href="http://zh.wikipedia.org/wiki/Fortran">Fortran</a></li>
-  <li><a href="http://en.wikipedia.org/wiki/Turbo_cC">Tubo C</a></li>
-  <li><a href="http://en.wikipedia.org/wiki/Turbo_Pascal">Tubo Pascal</a></li>
-  <li><a href="http://linux.wps.cn/">WPS Office</a></li>
-  <li><a href="http://www.wiz.cn/index.html">为知笔记</a></li>
-  <li><a href="http://daringfireball.net/projects/markdown/syntax">Markdown</a></li>
-  <li><a href="http://www.latex-project.org/">LaTex</a></li>
-  <li><a href="http://www.adobe.com/cn/products/framemaker.html/">FrameMaker</a></li>
-  <li><a href="http://www.adobe.com/products/indesign.html">InDesign</a></li>
-  <li><a href="https://github.com/WizTeam/WizQTClient">WizQTClient</a></li>
-  <li><a href="http://www.iconfont.cn/">iconfont</a></li>
-  <li><a href="https://www.edx.org/course/louvainx/louvainx-louv1-01x-paradigms-computer-1203">Paradigms of Computer Programming</a></li>
-</ul>
+<section class="notes">
+  <ul>
+    <li><a href="http://zh.wikipedia.org/zh/%E9%BA%A5%E5%8D%A1%E6%89%98%E6%8A%95%E5%BD%B1%E6%B3%95">麦克托投影</a></li>
+    <li><a href="Street Map http://www.openstreetmap.org/">Open</a></li>
+    <li><a href="http://map.baidu.com/">百度地图</a></li>
+    <li><a href="http://www.51ditu.com/">51 地图</a></li>
+    <li><a href="http://www.esri.com/">ESRI</a></li>
+    <li><a href="http://www.gdal.org/">GDAL</a></li>
+    <li><a href="http://geojson.org/">GeoJSON</a></li>
+    <li><a href="http://book.douban.com/subject/4733932/">semiology of graphics</a></li>
+    <li><a href="http://www.tableausoftware.com/">Tableau Software</a></li>
+    <li><a href="http://www.scidb.org/">SciDB</a></li>
+    <li><a href="http://www.zillow.com/">Zillow</a></li>
+    <li><a href="http://www.bbc.co.uk/programmes/b018ttws">Sherlock</a></li>
+    <li><a href="http://movie.douban.com/subject/3071441/">雪国列车</a></li>
+    <li><a href="http://movie.douban.com/subject/3016187/">权利的游戏</a></li>
+    <li><a href="http://movie.douban.com/subject/4073872/">算命</a></li>
+  </ul>
+
+</section>
 
 </div>
 
@@ -132,7 +141,7 @@
     <!-- <script type="text/javascript"> -->
     <!--     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */ -->
     <!--     var disqus_shortname = 'teahourfm'; // required: replace example with your forum shortname -->
-    <!--     var disqus_identifier = 'cto'; -->
+    <!--     var disqus_identifier = ''; -->
 
     <!--     /* * * DON'T EDIT BELOW THIS LINE * * */ -->
     <!--     (function() { -->
@@ -150,8 +159,8 @@
 
     <nav>
         <ul class="page-nav">
-    <li><a href="/2014/02/24/first-nodejs.html" class="prev"><i class="icon-angle-left"></i></a></li>
-    <li><a href="/2014/03/17/interview-with-binghe.html" class="next"><i class="icon-angle-right"></i></a></li>
+    <li><a href="/2014/05/22/talk-about-finddog.html" class="prev"><i class="icon-angle-left"></i></a></li>
+    <li><a href="#" class="next disabled"><i class="icon-angle-right"></i></a></li>
   </ul>
 
     </nav>
@@ -184,7 +193,7 @@
             
             
               
-              <li>
+              <li class="active">
                 <a href="/2014/06/16/talk-with-zhang-gong-and-zhi-cheng-about-data-visualization.html">#56 谈谈空间数据以及数据可视化</a>
               </li>
               
@@ -244,7 +253,7 @@
               
             
               
-              <li class="active">
+              <li>
                 <a href="/2014/03/10/interview-with-laowei.html">#46 和为知笔记的CTO聊聊他的经历和技术</a>
               </li>
               
