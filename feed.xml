@@ -106,6 +106,54 @@
       <itunes:keywords>mac, reading, writing</itunes:keywords>
     </item>
     <item>
+      <title>#57 聊聊技术类书籍的翻译和自出版</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 和 &lt;a href="http://weibo.com/lgn21st"&gt;Daniel&lt;/a&gt; 主持，邀请到了 Andor Chen 以及 Rei 一起聊聊技术类书籍的翻译以及自出版的相关，包括现状，工具，平台，方法等一系列问题。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://railstutorial-china.org/"&gt;Ruby on Rails 教程&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://v.youku.com/v_show/id_XMzA5MTYxNTY=.html"&gt;How to build a blog engine in 15 minutes with ruby on rails&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 和 &lt;a href="http://weibo.com/lgn21st"&gt;Daniel&lt;/a&gt; 主持，邀请到了 Andor Chen 以及 Rei 一起聊聊技术类书籍的翻译以及自出版的相关，包括现状，工具，平台，方法等一系列问题。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://railstutorial-china.org/"&gt;Ruby on Rails 教程&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://v.youku.com/v_show/id_XMzA5MTYxNTY=.html"&gt;How to build a blog engine in 15 minutes with ruby on rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://creativecommons.org/licenses/by/2.0/"&gt;Creative Commons&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.railstutorial.org/"&gt;The Ruby on Rails Tutorial&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://michaelhartl.com/"&gt;Michael Hartl&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/2123092/"&gt;Web开发敏捷之道&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/3099733/"&gt;Ruby程序设计语言&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/andorchen/burr"&gt;burr&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://leanpub.com/"&gt;Leanpub&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://read.douban.com"&gt;豆瓣阅读&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://read.douban.com/ebook/198648/"&gt;CoffeeScript小书&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/J%C2%B7K%C2%B7%E7%BD%97%E7%90%B3"&gt;J·K·罗琳&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ituring.com.cn/"&gt;图灵社区&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://selfstore.io/"&gt;SelfStore&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://stripe.com/"&gt;Stripe&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://sphinx-doc.org/"&gt;Sphinx Doc&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.methods.co.nz/asciidoc/"&gt;AsciiDoc&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://atlas.oreilly.com/"&gt;Atlas&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://designcode.io/"&gt;Design Code&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.gitbook.io/"&gt;GitBook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.softcover.io/"&gt;softcover&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/06/23/interview-with-andor-chen-about-self-publish.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_57.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_57.m4a</guid>
+      <pubDate>Mon, 23 Jun 2014 04:00:00 -0000</pubDate>
+      <itunes:duration>5354</itunes:duration>
+      <itunes:keywords>翻译, 自出版, translation, self-publish</itunes:keywords>
+    </item>
+    <item>
       <title>#56 谈谈空间数据以及数据可视化</title>
       <itunes:author>kevin</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由Kevin主持，和两位空间数据以及数据可视化专家聊聊这两个听起高深但实际上和我们生活息息相关的话题。&lt;/p&gt;
