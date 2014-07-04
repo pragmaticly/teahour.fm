@@ -17,7 +17,7 @@ duration: 01:48:29
 
 <section class="notes" markdown="1">
 * [池建强](http://macshuo.com/)
-* [MacTolk 人生元编程](http://item.jd.com/11398297.html)
+* [MacTalk 人生元编程](http://item.jd.com/11398297.html)
 * [新杂志](https://itunes.apple.com/cn/app/xin-za-zhi/id647781818?mt=8)
 * [乐者为王](http://book.douban.com/subject/1395123/)
 * [池建强：我的人生元编程（图灵访谈）](http://www.ituring.com.cn/article/64975)
