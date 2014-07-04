@@ -1,7 +1,7 @@
 ---
 idx: 58
 title: "跟池建强聊阅读，写作以及人生元编程"
-date: 2014-07-04 12:00 +08:00
+date: 2014-07-04 08:00 +08:00
 tags: mac, reading, writing
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_58.m4a"
 host: daniel
