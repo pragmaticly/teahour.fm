@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Thu, 03 Jul 2014 17:00:00 -0000</updated>
-    <lastBuildDate>Thu, 03 Jul 2014 17:00:00 -0000</lastBuildDate>
-    <pubDate>Thu, 03 Jul 2014 17:00:00 -0000</pubDate>
+    <updated>Fri, 04 Jul 2014 00:00:00 -0000</updated>
+    <lastBuildDate>Fri, 04 Jul 2014 00:00:00 -0000</lastBuildDate>
+    <pubDate>Fri, 04 Jul 2014 00:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -29,19 +29,19 @@
     <item>
       <title>#58 跟池建强聊阅读，写作以及人生元编程</title>
       <itunes:author>daniel</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由 Daniel 主持，我们邀请到了&lt;a href="http://www.duokan.com/book/40930"&gt;«MacTalk 人生元编程»&lt;/a&gt;的作者池建强，池老师来Teahour做客，我们的话题从探讨一个问题开始：一个技术人如池老师，有什么样的经历，才会有这样的情怀，写下这些流畅洒脱的文字?&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期由 Daniel 主持，我们邀请到了&lt;a href="http://item.jd.com/11398297.html"&gt;«MacTalk 人生元编程»&lt;/a&gt;的作者池建强，池老师来Teahour做客，我们的话题从探讨一个问题开始：一个技术人如池老师，有什么样的经历，才会有这样的情怀，写下这些流畅洒脱的文字?&lt;/p&gt;
 
 &lt;p&gt;池老师跟大家分享了他对技术人生，阅读人生，以及写作人生的感悟，以及曾经读过的好书，跟这些书有关的故事，元编程这本书出版后给他带来的变化，以及他对如何阅读，写作的建议。在节目中池老师还公布了他经营微信公众账号的独家秘籍，以及对2014年世界杯冠军的大胆预测，本期访谈信息量极大，但是相信一定不会让你失望。&lt;/p&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;本期由 Daniel 主持，我们邀请到了&lt;a href="http://www.duokan.com/book/40930"&gt;«MacTalk 人生元编程»&lt;/a&gt;的作者池建强，池老师来Teahour做客，我们的话题从探讨一个问题开始：一个技术人如池老师，有什么样的经历，才会有这样的情怀，写下这些流畅洒脱的文字?&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期由 Daniel 主持，我们邀请到了&lt;a href="http://item.jd.com/11398297.html"&gt;«MacTalk 人生元编程»&lt;/a&gt;的作者池建强，池老师来Teahour做客，我们的话题从探讨一个问题开始：一个技术人如池老师，有什么样的经历，才会有这样的情怀，写下这些流畅洒脱的文字?&lt;/p&gt;
 
 &lt;p&gt;池老师跟大家分享了他对技术人生，阅读人生，以及写作人生的感悟，以及曾经读过的好书，跟这些书有关的故事，元编程这本书出版后给他带来的变化，以及他对如何阅读，写作的建议。在节目中池老师还公布了他经营微信公众账号的独家秘籍，以及对2014年世界杯冠军的大胆预测，本期访谈信息量极大，但是相信一定不会让你失望。&lt;/p&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="http://macshuo.com/"&gt;池建强&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://www.duokan.com/book/40930"&gt;MacTolk 人生元编程&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://item.jd.com/11398297.html"&gt;MacTolk 人生元编程&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://itunes.apple.com/cn/app/xin-za-zhi/id647781818?mt=8"&gt;新杂志&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://book.douban.com/subject/1395123/"&gt;乐者为王&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.ituring.com.cn/article/64975"&gt;池建强：我的人生元编程（图灵访谈）&lt;/a&gt;&lt;/li&gt;
@@ -101,7 +101,7 @@
       <link>http://teahour.fm/2014/07/04/talk-with-chi-jian-qiang.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_58.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_58.m4a</guid>
-      <pubDate>Thu, 03 Jul 2014 17:00:00 -0000</pubDate>
+      <pubDate>Fri, 04 Jul 2014 00:00:00 -0000</pubDate>
       <itunes:duration>6509</itunes:duration>
       <itunes:keywords>mac, reading, writing</itunes:keywords>
     </item>
