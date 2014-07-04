@@ -10,14 +10,14 @@ guests:
 duration: 01:48:29
 ---
 
-本期由 Daniel 主持，我们邀请到了[<<MacTalk 人生元编程>>](http://www.duokan.com/book/40930)的作者池建强，池老师来Teahour做客，我们的话题从探讨一个问题开始：一个技术人如池老师，有什么样的经历，才会有这样的情怀，写下这些流畅洒脱的文字?
+本期由 Daniel 主持，我们邀请到了[<<MacTalk 人生元编程>>](http://item.jd.com/11398297.html)的作者池建强，池老师来Teahour做客，我们的话题从探讨一个问题开始：一个技术人如池老师，有什么样的经历，才会有这样的情怀，写下这些流畅洒脱的文字?
 
 池老师跟大家分享了他对技术人生，阅读人生，以及写作人生的感悟，以及曾经读过的好书，跟这些书有关的故事，元编程这本书出版后给他带来的变化，以及他对如何阅读，写作的建议。在节目中池老师还公布了他经营微信公众账号的独家秘籍，以及对2014年世界杯冠军的大胆预测，本期访谈信息量极大，但是相信一定不会让你失望。
 
 
 <section class="notes" markdown="1">
 * [池建强](http://macshuo.com/)
-* [MacTolk 人生元编程](http://www.duokan.com/book/40930)
+* [MacTolk 人生元编程](http://item.jd.com/11398297.html)
 * [新杂志](https://itunes.apple.com/cn/app/xin-za-zhi/id647781818?mt=8)
 * [乐者为王](http://book.douban.com/subject/1395123/)
 * [池建强：我的人生元编程（图灵访谈）](http://www.ituring.com.cn/article/64975)
