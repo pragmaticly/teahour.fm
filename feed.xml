@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Fri, 04 Jul 2014 00:00:00 -0000</updated>
-    <lastBuildDate>Fri, 04 Jul 2014 00:00:00 -0000</lastBuildDate>
-    <pubDate>Fri, 04 Jul 2014 00:00:00 -0000</pubDate>
+    <updated>Tue, 22 Jul 2014 06:30:00 -0000</updated>
+    <lastBuildDate>Tue, 22 Jul 2014 06:30:00 -0000</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2014 06:30:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,56 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#59 与 Roger Wang 聊 node-webkit</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 Dingding 主持，邀请到了 &lt;a href="https://github.com/rogerwang/node-webkit"&gt;node-webkit&lt;/a&gt; 的作者 Roger Wang 王文睿来 Teahour 做客，分享 node-webkit 的开发故事。&lt;/p&gt;
+
+&lt;p&gt;node-webkit 是一个用 HTML5/CSS/Javascript 这些 Web 技术来写跨平台应用程序的开源框架，可以让我们写一份代码，同时跑在 Windows、Linux 和 Mac 上，是国人主导的在国际上也很有影响力的开源软件。在本期节目中，文睿介绍了 node-webkit 的架构和实现细节，node-webkit 的发布更新策略，node-webkit 的开源故事和未来计划。同时，也对比了一些同类的框架如 Atom Shell，Hex，TideSDK 等。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 Dingding 主持，邀请到了 &lt;a href="https://github.com/rogerwang/node-webkit"&gt;node-webkit&lt;/a&gt; 的作者 Roger Wang 王文睿来 Teahour 做客，分享 node-webkit 的开发故事。&lt;/p&gt;
+
+&lt;p&gt;node-webkit 是一个用 HTML5/CSS/Javascript 这些 Web 技术来写跨平台应用程序的开源框架，可以让我们写一份代码，同时跑在 Windows、Linux 和 Mac 上，是国人主导的在国际上也很有影响力的开源软件。在本期节目中，文睿介绍了 node-webkit 的架构和实现细节，node-webkit 的发布更新策略，node-webkit 的开源故事和未来计划。同时，也对比了一些同类的框架如 Atom Shell，Hex，TideSDK 等。&lt;/p&gt;
+
+&lt;p&gt;如果你对 node-webkit 有任何问题，可以在 node-webkit 的 Google Groups 里面讨论。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://github.com/rogerwang/node-webkit"&gt;node-webkit&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://software.intel.com/zh-cn/oss"&gt;Intel 开源中心&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/3263982.htm"&gt;meego&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.lighttable.com/"&gt;Light Table&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://kickstarter.com"&gt;KickStarter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://popcorntime.io/"&gt;Popcorn Time&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pad.haroopress.com/"&gt;Haroopad&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengcheco.com"&gt;Fengche Windows&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://developer.mozilla.org/zh-CN/docs/Mozilla/Gecko"&gt;Gecko&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://webkitgtk.org/"&gt;Webkit-GTK&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://code.google.com/p/chromiumembedded/"&gt;CEF(Chromium Embed Framework)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.chromium.org/developers/content-module/content-api"&gt;Content API&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Inter-process_communication"&gt;IPC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.chromium.org/developers/design-documents/chromeviews"&gt;Chrome Views&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://software.intel.com/zh-cn/html5/tools"&gt;XDK&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.chromium.org/blink"&gt;Blink&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://appjs.com/"&gt;App.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://developer.chrome.com/apps/about_apps"&gt;Chrome Apps&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.tidesdk.org/"&gt;TideSDK&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.tidekit.com/"&gt;TideKit&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://hex.youdao.com"&gt;Hex&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/atom/atom-shell"&gt;Atom Shell&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/apenwarr/sshuttle"&gt;sshuttle&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yedingding.com/2014/07/09/deliver-better-product-i.html"&gt;Deliver Better Product (I)&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/07/22/node-webkit-with-rogerwang.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_59.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_59.m4a</guid>
+      <pubDate>Tue, 22 Jul 2014 06:30:00 -0000</pubDate>
+      <itunes:duration>4260</itunes:duration>
+      <itunes:keywords>node-webkit, node, webkit, 桌面应用开发</itunes:keywords>
+    </item>
     <item>
       <title>#58 跟池建强聊阅读，写作以及人生元编程</title>
       <itunes:author>daniel</itunes:author>
@@ -41,7 +91,7 @@
 &lt;section class="notes"&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="http://macshuo.com/"&gt;池建强&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://item.jd.com/11398297.html"&gt;MacTolk 人生元编程&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://item.jd.com/11398297.html"&gt;MacTalk 人生元编程&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://itunes.apple.com/cn/app/xin-za-zhi/id647781818?mt=8"&gt;新杂志&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://book.douban.com/subject/1395123/"&gt;乐者为王&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.ituring.com.cn/article/64975"&gt;池建强：我的人生元编程（图灵访谈）&lt;/a&gt;&lt;/li&gt;
