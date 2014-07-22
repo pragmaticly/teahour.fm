@@ -117,7 +117,7 @@ GEM
       sprockets (~> 2.1)
       sprockets-helpers (~> 1.0.0)
       sprockets-sass (~> 1.0.0)
-    mini_magick (3.4)
+    mini_magick (3.7.0)
       subexec (~> 0.2.1)
     multi_json (1.7.7)
     oj (2.0.0)
