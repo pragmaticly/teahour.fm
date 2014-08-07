@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Tue, 22 Jul 2014 06:30:00 -0000</updated>
-    <lastBuildDate>Tue, 22 Jul 2014 06:30:00 -0000</lastBuildDate>
-    <pubDate>Tue, 22 Jul 2014 06:30:00 -0000</pubDate>
+    <updated>Thu, 07 Aug 2014 02:00:00 -0000</updated>
+    <lastBuildDate>Thu, 07 Aug 2014 02:00:00 -0000</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2014 02:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,52 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#60 与丁磊聊大数据和机器学习</title>
+      <itunes:author>kevin</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 Kevin 主持，邀请到了 Paypal 数据科学组的组长丁磊来 Teahour 做客，分享他在大数据、机器学习和数据科学上的学习和工作经验。&lt;/p&gt;
+
+&lt;p&gt;丁磊在美国俄亥俄州立大学攻读机器学习的博士学位后，一直在机器学习领域工作，目前负责领导 Paypal 的电子商务和广告平台的数据科学组。在本期节目中，丁磊介绍了数据科学的历史和演进、数据科学要从哪些方面来做、新兴的一些大数据领域、如何成为数据科学家，是一期很好的介绍节目。&lt;/p&gt;
+
+&lt;p&gt;还在学校的学生们，如果你对这个领域感兴趣，一定要好好学线性代数！&lt;/p&gt;
+
+&lt;section class="notes"&gt;&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 Kevin 主持，邀请到了 Paypal 数据科学组的组长丁磊来 Teahour 做客，分享他在大数据、机器学习和数据科学上的学习和工作经验。&lt;/p&gt;
+
+&lt;p&gt;丁磊在美国俄亥俄州立大学攻读机器学习的博士学位后，一直在机器学习领域工作，目前负责领导 Paypal 的电子商务和广告平台的数据科学组。在本期节目中，丁磊介绍了数据科学的历史和演进、数据科学要从哪些方面来做、新兴的一些大数据领域、如何成为数据科学家，是一期很好的介绍节目。&lt;/p&gt;
+
+&lt;p&gt;还在学校的学生们，如果你对这个领域感兴趣，一定要好好学线性代数！&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6"&gt;数据科学&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0"&gt;机器学习&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E4%B8%93%E5%AE%B6%E7%B3%BB%E7%BB%9F"&gt;专家系统&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C"&gt;神经网络&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://hadoop.apache.org/"&gt;Hadoop&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://spark.apache.org/"&gt;Spark&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98"&gt;数据挖掘&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/%E5%95%86%E4%B8%9A%E6%99%BA%E8%83%BD"&gt;商业智能&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.r-project.org/"&gt;R&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.mathworks.com/products/matlab/"&gt;Matlab&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.mapr.com/"&gt;MapR&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.wired.com/2013/08/qq_netflix-algorithm/"&gt;The Science Behind the Netflix Algorithms That Decide What You’ll Watch Next&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://cwds.uw.edu/risk-o-meter-intelligent-clinical-risk-calculator"&gt;Risk O Meter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.udacity.com/course/cs271"&gt;Introduction to AI&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.coursera.org/course/ml"&gt;Machine Learning Course&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.papersapp.com/mac/"&gt;Papers&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/08/07/machine-learning-with-ding-lei.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_60.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_60.m4a</guid>
+      <pubDate>Thu, 07 Aug 2014 02:00:00 -0000</pubDate>
+      <itunes:duration>5160</itunes:duration>
+      <itunes:keywords>big data, machine learning, data science</itunes:keywords>
+    </item>
     <item>
       <title>#59 与 Roger Wang 聊 node-webkit</title>
       <itunes:author>dingding</itunes:author>
