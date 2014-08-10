@@ -251,3 +251,15 @@ dinglei:
   name: "丁磊"
   avatar: "dinglei.jpg"
   link: "https://www.linkedin.com/in/dinglei"
+jasonli:
+  name: "Jason Li"
+  avatar: "jasonli.png"
+  link: "http://swiftist.org/~lifedim"
+congteng:
+  name: "丛腾"
+  avatar: "congteng.png"
+  link: "https://twitter.com/congteng"
+liuning:
+  name: "刘宁"
+  avatar: "liuning.png"
+  link: "#"
