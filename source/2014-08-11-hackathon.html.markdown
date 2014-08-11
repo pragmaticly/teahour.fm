@@ -13,7 +13,9 @@ duration: 01:03:07
 ---
 
 本期由 Terry 主持，邀请到了[SegmentFault2014客马拉松北京场](http://segmentfault.com/a/1190000000593834)冠军团队。
-和他们聊聊这次冠军经历。
+和他们聊聊黑客马拉松相关的话题。
+聊一下，在黑客马拉松中，一个好的点子是如何从萌发，实施，到完成,
+并最终获奖。
 
 <section class="notes" markdown="1">
 * [Swift](https://developer.apple.com/swift/)
