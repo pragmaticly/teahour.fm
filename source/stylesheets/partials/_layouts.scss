@@ -5,7 +5,7 @@ html {
 
 body  {
   -webkit-text-size-adjust: none;
-  min-width: 480px;
+  min-width: 320px;
 }
 
 body * {
@@ -117,7 +117,7 @@ a {
         }
       }
     }
-  
+
     .dropdown-menu {
       min-width: 320px;
       margin: 0 0 0 -50px;
@@ -137,11 +137,11 @@ a {
           @include border-radius(15px);
         }
       }
-      .social-buttons { 
+      .social-buttons {
         list-style: none;
         margin: 0;
-        a { 
-          padding: 3px 10px; 
+        a {
+          padding: 3px 10px;
           i { vertical-align: middle;}
         }
       }
@@ -162,10 +162,10 @@ a {
   .copyright {
     float: right;
     margin: 10px 40px 0 0;
-    font-size: 11px;
+    font-size: 13px;
     line-height: 20px;
     text-align: right;
-    color: #9bf7b3;
+    color: #80E722;
     a {
       color: #b8ee75;
       &:hover { color: #fff; text-decoration: none; }
@@ -216,8 +216,8 @@ a {
 
 @media print, screen and (max-width: 1024px) {
   body {
-    .masthead { 
-      position: relative; 
+    .masthead {
+      position: relative;
       float: left;
       left: 50%;
       margin-left: -300px;
@@ -229,19 +229,19 @@ a {
       max-width: inherit;
       .post { margin: 0 5%; }
     }
-    .footer { 
+    .footer {
       position: static;
       .copyright { padding-bottom: 20px; }
     }
-    .global-nav { 
+    .global-nav {
       position: fixed;
       top: 0;
       left: 0;
-      > ul > li > a { 
+      > ul > li > a {
         background-color: rgba(255,255,255,.4);
         &:hover { background-color: rgba(255,255,255,.6); }
       }
-      .social-connect { 
+      .social-connect {
         margin: 0 3px 3px 0;
         float: none;
         > li.open > a, > li > a:hover { background-color: rgba(255,255,255,.6) !important; }
@@ -251,6 +251,36 @@ a {
         top: 100%;
         margin: 0;
         background-color: rgba(255,255,255,.8);
+      }
+    }
+  }
+}
+
+@media print, screen and (max-width: 640px) {
+  body {
+    padding: 0;
+
+    .masthead {
+      display: none;
+    }
+
+    .main {
+      margin-top: 60px;
+    }
+
+    .global-nav {
+      #newsletter, #github, #about { display: none; }
+
+      .social-connect {
+        float: left;
+      }
+    }
+
+    .footer {
+      .copyright {
+        float: none;
+        margin-top: -10px;
+        text-align: center;
       }
     }
   }
