@@ -40,6 +40,14 @@ xml.rss "xmlns:itunes" => "http://www.itunes.com/dtds/podcast-1.0.dtd", "version
         xml.pubDate article.date.to_time.rfc2822
         xml.itunes :duration, article.data["duration"]
         xml.itunes :keywords, article.tags.join(", ")
+        xml.authors do
+          ([article.data["host"]] + article.data["guests"]).each do |guest|
+            xml.author do
+              xml.name data.author[guest].name
+              xml.avatar "http://teahour.fm/images/#{data.author[guest].avatar}"
+            end
+          end
+        end
       end
     end
   end
