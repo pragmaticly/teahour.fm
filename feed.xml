@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Thu, 07 Aug 2014 02:00:00 -0000</updated>
-    <lastBuildDate>Thu, 07 Aug 2014 02:00:00 -0000</lastBuildDate>
-    <pubDate>Thu, 07 Aug 2014 02:00:00 -0000</pubDate>
+    <updated>Mon, 18 Aug 2014 07:00:00 -0000</updated>
+    <lastBuildDate>Mon, 18 Aug 2014 07:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2014 07:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,95 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#62 与江宏聊 AVOS Cloud</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 Dingding 主持，邀请到了 &lt;a href="https://cn.avoscloud.com"&gt;AVOS Cloud&lt;/a&gt; 的创始人江宏来 Teahour 做客，聊聊 AVOS Cloud 的背后故事和技术架构。&lt;/p&gt;
+
+&lt;p&gt;AVOS Cloud 是一个为移动开发者提供后端服务的云解决方案，包括了存储、账号管理、社交分享、消息推送等模块。在节目中，江宏分享了 AVOS Cloud 的由来和目前的架构设计。目前，AVOS Cloud 正在招聘 iOS 开发者、Android 开发者和 DevOps，有兴趣的可以听听江宏对于他们团队和开放文化的介绍。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 Dingding 主持，邀请到了 &lt;a href="https://cn.avoscloud.com"&gt;AVOS Cloud&lt;/a&gt; 的创始人江宏来 Teahour 做客，聊聊 AVOS Cloud 的背后故事和技术架构。&lt;/p&gt;
+
+&lt;p&gt;AVOS Cloud 是一个为移动开发者提供后端服务的云解决方案，包括了存储、账号管理、社交分享、消息推送等模块。在节目中，江宏分享了 AVOS Cloud 的由来和目前的架构设计。目前，AVOS Cloud 正在招聘 iOS 开发者、Android 开发者和 DevOps，有兴趣的可以听听江宏对于他们团队和开放文化的介绍。&lt;/p&gt;
+
+&lt;p&gt;本期附送彩蛋：想找工作，要在众多竞争者中脱颖而出，你应该学什么。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://cn.avoscloud.com"&gt;AVOS Cloud&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/8488783.htm"&gt;BAAS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://parse.com/"&gt;Parse&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://mixbit.com/"&gt;MixBit&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.mysql.com"&gt;MySQL&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.mongodb.org/"&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://hbase.apache.org"&gt;HBase&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/3623887.htm"&gt;WebSocket&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.infoq.com/cn/presentations/experience-sharing-of-avos-build-cloud-services-in-cloud-platform"&gt;云上的云：AVOS Cloud在云平台上构建云服务的经验分享&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://vesperapp.co/"&gt;Vesper&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://vesperapp.co/blog/how-to-make-a-vesper-sync/"&gt;Vesper Sync Story&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.docker.com"&gt;Docker&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://clojure.org"&gt;Clojure&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://open.avoscloud.com/"&gt;AVOS Cloud 开放资源&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA/"&gt;Hard Thing About Things Building&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.offscreenmag.com/"&gt;Off Screen&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.36kr.com/p/214424.html"&gt;insight 视频访谈：Slack 创始人 Stewart&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/08/18/talk-about-avos-cloud.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_62.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_62.m4a</guid>
+      <pubDate>Mon, 18 Aug 2014 07:00:00 -0000</pubDate>
+      <itunes:duration>4699</itunes:duration>
+      <itunes:keywords>AVOS, BAAS, Clojure</itunes:keywords>
+    </item>
+    <item>
+      <title>#61 采访SegmentFault2014黑客马拉松北京场冠军团队</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 Terry 主持，邀请到了&lt;a href="http://segmentfault.com/a/1190000000593834"&gt;SegmentFault2014黑客马拉松北京场&lt;/a&gt;冠军团队。
+和他们聊聊黑客马拉松相关的话题。
+聊一下，在黑客马拉松中，一个好的点子是如何从萌发，实施，到完成,
+并最终获奖。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://developer.apple.com/swift/"&gt;Swift&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://swiftist.org"&gt;Swiftist&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 Terry 主持，邀请到了&lt;a href="http://segmentfault.com/a/1190000000593834"&gt;SegmentFault2014黑客马拉松北京场&lt;/a&gt;冠军团队。
+和他们聊聊黑客马拉松相关的话题。
+聊一下，在黑客马拉松中，一个好的点子是如何从萌发，实施，到完成,
+并最终获奖。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://developer.apple.com/swift/"&gt;Swift&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://swiftist.org"&gt;Swiftist&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyonrails.org/"&gt;Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://nodejs.org/"&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://railsrumble.com/"&gt;Rails Rumble&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.facebook.com/hackathon"&gt;Facebook Hackathon&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://info.cookpad.com/24contest4_en"&gt;Cookpad Hackathon&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://phaser.io/"&gt;Phaser&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/6811366/"&gt;禅与摩托车维修艺术&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://getprismatic.com/home"&gt;Prismatic&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://itunes.apple.com/cn/app/tweet4china-free/id445052810?mt=8"&gt;Tweet4China Free&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://readdle.com/products/calendars5/"&gt;Calendars 5&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+</description>
+      <link>http://teahour.fm/2014/08/11/hackathon.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_61.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_61.m4a</guid>
+      <pubDate>Sun, 10 Aug 2014 16:00:00 -0000</pubDate>
+      <itunes:duration>3787</itunes:duration>
+      <itunes:keywords>hackathon</itunes:keywords>
+    </item>
     <item>
       <title>#60 与丁磊聊机器学习和数据科学</title>
       <itunes:author>kevin</itunes:author>
