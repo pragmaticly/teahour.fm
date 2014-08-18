@@ -68,6 +68,20 @@
       <pubDate>Mon, 18 Aug 2014 07:00:00 -0000</pubDate>
       <itunes:duration>4699</itunes:duration>
       <itunes:keywords>AVOS, BAAS, Clojure</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>江宏</name>
+          <avatar>http://teahour.fm/images/hjiang.png</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#61 采访SegmentFault2014黑客马拉松北京场冠军团队</title>
@@ -114,6 +128,24 @@
       <pubDate>Sun, 10 Aug 2014 16:00:00 -0000</pubDate>
       <itunes:duration>3787</itunes:duration>
       <itunes:keywords>hackathon</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>Jason Li</name>
+          <avatar>http://teahour.fm/images/jasonli.png</avatar>
+        </author>
+        <author>
+          <name>丛腾</name>
+          <avatar>http://teahour.fm/images/congteng.png</avatar>
+        </author>
+        <author>
+          <name>刘宁</name>
+          <avatar>http://teahour.fm/images/liuning.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#60 与丁磊聊机器学习和数据科学</title>
@@ -162,6 +194,20 @@
       <pubDate>Thu, 07 Aug 2014 02:00:00 -0000</pubDate>
       <itunes:duration>5160</itunes:duration>
       <itunes:keywords>big data, machine learning, data science</itunes:keywords>
+      <authors>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+        <author>
+          <name>丁磊</name>
+          <avatar>http://teahour.fm/images/dinglei.jpg</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#59 与 Roger Wang 聊 node-webkit</title>
@@ -212,6 +258,16 @@
       <pubDate>Tue, 22 Jul 2014 06:30:00 -0000</pubDate>
       <itunes:duration>4260</itunes:duration>
       <itunes:keywords>node-webkit, node, webkit, 桌面应用开发</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>王文睿</name>
+          <avatar>http://teahour.fm/images/rogerwang.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#58 跟池建强聊阅读，写作以及人生元编程</title>
@@ -291,6 +347,16 @@
       <pubDate>Fri, 04 Jul 2014 00:00:00 -0000</pubDate>
       <itunes:duration>6509</itunes:duration>
       <itunes:keywords>mac, reading, writing</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>池建强</name>
+          <avatar>http://teahour.fm/images/chijianqiang.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#57 聊聊技术类书籍的翻译和自出版</title>
@@ -339,6 +405,24 @@
       <pubDate>Mon, 23 Jun 2014 04:00:00 -0000</pubDate>
       <itunes:duration>5354</itunes:duration>
       <itunes:keywords>翻译, 自出版, translation, self-publish</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>安道</name>
+          <avatar>http://teahour.fm/images/andor.png</avatar>
+        </author>
+        <author>
+          <name>Rei</name>
+          <avatar>http://teahour.fm/images/rei.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#56 谈谈空间数据以及数据可视化</title>
@@ -383,6 +467,24 @@
       <pubDate>Mon, 16 Jun 2014 10:50:00 -0000</pubDate>
       <itunes:duration>5777</itunes:duration>
       <itunes:keywords>satellite imaging, data visualization</itunes:keywords>
+      <authors>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+        <author>
+          <name>Zhicheng Liu</name>
+          <avatar>http://teahour.fm/images/zhicheng.png</avatar>
+        </author>
+        <author>
+          <name>Zhanggong</name>
+          <avatar>http://teahour.fm/images/zhanggong.png</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#55 和叶俊亨聊找狗网</title>
@@ -431,6 +533,20 @@
       <pubDate>Thu, 22 May 2014 10:50:00 -0000</pubDate>
       <itunes:duration>5513</itunes:duration>
       <itunes:keywords>startup</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>叶俊亨</name>
+          <avatar>http://teahour.fm/images/jamesyeh.jpg</avatar>
+        </author>
+        <author>
+          <name>鄭伊廷 (xdite)</name>
+          <avatar>http://teahour.fm/images/xdite.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#54 和小波一起聊聊Maker和开源硬件</title>
@@ -479,6 +595,16 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Tue, 13 May 2014 04:00:00 -0000</pubDate>
       <itunes:duration>3537</itunes:duration>
       <itunes:keywords>Maker, Open source hardware</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>小波</name>
+          <avatar>http://teahour.fm/images/xiaobo.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#53 跟 ThoughtWorks 的面试官聊聊面试这件事</title>
@@ -543,6 +669,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Fri, 09 May 2014 02:00:00 -0000</pubDate>
       <itunes:duration>5715</itunes:duration>
       <itunes:keywords>job, interview, thoughtworks</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>韩凯</name>
+          <avatar>http://teahour.fm/images/hankai.jpg</avatar>
+        </author>
+        <author>
+          <name>王健</name>
+          <avatar>http://teahour.fm/images/wangjian.jpg</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#52 简书的故事</title>
@@ -598,6 +738,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 28 Apr 2014 04:00:00 -0000</pubDate>
       <itunes:duration>5325</itunes:duration>
       <itunes:keywords>创业, 简书</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>简叔</name>
+          <avatar>http://teahour.fm/images/linlis.jpg</avatar>
+        </author>
+        <author>
+          <name>鄭伊廷 (xdite)</name>
+          <avatar>http://teahour.fm/images/xdite.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#51 Interview with Ari Lerner about AngularJS</title>
@@ -643,6 +797,16 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 21 Apr 2014 04:00:00 -0000</pubDate>
       <itunes:duration>5034</itunes:duration>
       <itunes:keywords>AngularJS, English, Front-end MVC</itunes:keywords>
+      <authors>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+        <author>
+          <name>Ari Lerner</name>
+          <avatar>http://teahour.fm/images/ari.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#50 和Qubit的工程师聊聊A/B testing, Node 和 Ruby</title>
@@ -678,6 +842,16 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Tue, 08 Apr 2014 04:00:00 -0000</pubDate>
       <itunes:duration>4672</itunes:duration>
       <itunes:keywords>node, ruby, a/b testing</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>Dong Jing</name>
+          <avatar>http://teahour.fm/images/dongjing.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#49 和姜海舟聊聊互联网金融</title>
@@ -728,6 +902,16 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Fri, 04 Apr 2014 04:00:00 -0000</pubDate>
       <itunes:duration>4440</itunes:duration>
       <itunes:keywords>互联网金融, 创业</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>姜海舟</name>
+          <avatar>http://teahour.fm/images/jianghaizhou.jpeg</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#48 和Sting聊聊Full Stack developer</title>
@@ -765,6 +949,16 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 24 Mar 2014 04:00:00 -0000</pubDate>
       <itunes:duration>5932</itunes:duration>
       <itunes:keywords>full stack, community</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>Sting Chen</name>
+          <avatar>http://teahour.fm/images/sting.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#47 和中国著名Common Lisp程序员冰河聊聊Lisp</title>
@@ -817,6 +1011,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 17 Mar 2014 04:00:00 -0000</pubDate>
       <itunes:duration>5932</itunes:duration>
       <itunes:keywords>lisp</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>田春</name>
+          <avatar>http://teahour.fm/images/binghe.png</avatar>
+        </author>
+        <author>
+          <name>李路</name>
+          <avatar>http://teahour.fm/images/lilu.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#46 和为知笔记的CTO聊聊他的经历和技术</title>
@@ -853,6 +1061,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 10 Mar 2014 04:00:00 -0000</pubDate>
       <itunes:duration>5932</itunes:duration>
       <itunes:keywords>node</itunes:keywords>
+      <authors>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+        <author>
+          <name>老魏</name>
+          <avatar>http://teahour.fm/images/laowei.png</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#45 和《深入浅出Node.js》作者朴灵一起聊聊Node.js</title>
@@ -902,6 +1124,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 24 Feb 2014 04:00:00 -0000</pubDate>
       <itunes:duration>4637</itunes:duration>
       <itunes:keywords>node</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>朴灵</name>
+          <avatar>http://teahour.fm/images/puling.png</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#44 跟 DEVCORE 的 allenown 聊聊黑客社群與網站安全</title>
@@ -961,6 +1197,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Tue, 18 Feb 2014 02:58:00 -0000</pubDate>
       <itunes:duration>4008</itunes:duration>
       <itunes:keywords>security</itunes:keywords>
+      <authors>
+        <author>
+          <name>鄭伊廷 (xdite)</name>
+          <avatar>http://teahour.fm/images/xdite.png</avatar>
+        </author>
+        <author>
+          <name>allenown</name>
+          <avatar>http://teahour.fm/images/allenown.png</avatar>
+        </author>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#43 Teahour.FM 一周岁生日特期</title>
@@ -1029,6 +1279,16 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Sat, 18 Jan 2014 16:00:00 -0000</pubDate>
       <itunes:duration>6151</itunes:duration>
       <itunes:keywords>birthday</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>秘密</name>
+          <avatar>http://teahour.fm/images/secret.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#42 跟貔貅交易所的邱亮聊聊比特币</title>
@@ -1089,6 +1349,16 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Tue, 31 Dec 2013 02:58:00 -0000</pubDate>
       <itunes:duration>6173</itunes:duration>
       <itunes:keywords>bitcoin</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>邱亮（HappyHacking）</name>
+          <avatar>http://teahour.fm/images/happyhacking.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#41 跟 Quake Wang 聊蝉游记</title>
@@ -1126,6 +1396,16 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 23 Dec 2013 10:26:00 -0000</pubDate>
       <itunes:duration>5042</itunes:duration>
       <itunes:keywords>startup, travel</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>Quake Wang</name>
+          <avatar>http://teahour.fm/images/quake_wang.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#40 聊台灣軟體業失落的十年</title>
@@ -1170,6 +1450,16 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 16 Dec 2013 10:00:00 -0000</pubDate>
       <itunes:duration>142380</itunes:duration>
       <itunes:keywords>software, leanpub, career, taiwan</itunes:keywords>
+      <authors>
+        <author>
+          <name>鄭伊廷 (xdite)</name>
+          <avatar>http://teahour.fm/images/xdite.png</avatar>
+        </author>
+        <author>
+          <name>Victor Lin</name>
+          <avatar>http://teahour.fm/images/victorlin.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#39 SaaS 产品血泪史</title>
@@ -1218,6 +1508,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Sun, 17 Nov 2013 16:00:00 -0000</pubDate>
       <itunes:duration>6281</itunes:duration>
       <itunes:keywords>SaaS, entrepreneurship, products</itunes:keywords>
+      <authors>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>鄭伊廷 (xdite)</name>
+          <avatar>http://teahour.fm/images/xdite.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#38 与 GuruDigger 创始人蔡金聊创业团队如何寻找靠谱工程师</title>
@@ -1265,6 +1569,16 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Sun, 10 Nov 2013 16:00:00 -0000</pubDate>
       <itunes:duration>4488</itunes:duration>
       <itunes:keywords>startup, hiring</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>蔡金</name>
+          <avatar>http://teahour.fm/images/mikecai.jpeg</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#37 和鲁葳聊聊软件咨询公司是如何工作的</title>
@@ -1329,6 +1643,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Tue, 05 Nov 2013 04:30:00 -0000</pubDate>
       <itunes:duration>5624</itunes:duration>
       <itunes:keywords>development, consultancy, pair, tdd, ci</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>鲁葳</name>
+          <avatar>http://teahour.fm/images/luwei.png</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#36 和七牛的许式伟聊云存储以及做有追求的程序员</title>
@@ -1377,6 +1705,16 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Thu, 24 Oct 2013 01:00:00 -0000</pubDate>
       <itunes:duration>6098</itunes:duration>
       <itunes:keywords>cloud-storage self-motivate</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>许式伟</name>
+          <avatar>http://teahour.fm/images/xushiwei.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#35 和魏伦谈远程团队和远程工作</title>
@@ -1429,6 +1767,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 21 Oct 2013 01:00:00 -0000</pubDate>
       <itunes:duration>6098</itunes:duration>
       <itunes:keywords>remote work</itunes:keywords>
+      <authors>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+        <author>
+          <name>魏伦</name>
+          <avatar>http://teahour.fm/images/weilun.jpeg</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#34 和李天放聊课程格子创业故事</title>
@@ -1468,6 +1820,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 14 Oct 2013 01:00:00 -0000</pubDate>
       <itunes:duration>4988</itunes:duration>
       <itunes:keywords>startup, entreprenuer</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>李天放</name>
+          <avatar>http://teahour.fm/images/tstyle11.jpeg</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#33 和workor的两位创始人聊聊他们的创业故事</title>
@@ -1530,6 +1896,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 30 Sep 2013 02:00:00 -0000</pubDate>
       <itunes:duration>4244</itunes:duration>
       <itunes:keywords></itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>韩吉云</name>
+          <avatar>http://teahour.fm/images/hanjiyun.jpg</avatar>
+        </author>
+        <author>
+          <name>刘连响</name>
+          <avatar>http://teahour.fm/images/liulianxiang.jpg</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#32 跟简书的赵波聊从大公司到创业</title>
@@ -1577,6 +1957,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 16 Sep 2013 02:00:00 -0000</pubDate>
       <itunes:duration>9276</itunes:duration>
       <itunes:keywords></itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>赵波</name>
+          <avatar>http://teahour.fm/images/zhaobo.png</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#31 跟易空海创始人 Maxime 聊如何运作一个咨询公司</title>
@@ -1603,6 +1997,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Wed, 11 Sep 2013 05:00:00 -0000</pubDate>
       <itunes:duration>5245</itunes:duration>
       <itunes:keywords>consulting firm, freelancer</itunes:keywords>
+      <authors>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+        <author>
+          <name>Maxime Guilbot</name>
+          <avatar>http://teahour.fm/images/maxime.png</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#30 可穿戴设备盘点和预测</title>
@@ -1656,6 +2064,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 02 Sep 2013 04:00:00 -0000</pubDate>
       <itunes:duration>5680</itunes:duration>
       <itunes:keywords>wearable-devices, 可穿戴设备</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>沙昕哲</name>
+          <avatar>http://teahour.fm/images/sxzz.jpeg</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#29 和 Ubuntu Tweak 作者图拉鼎聊聊独立开发者</title>
@@ -1711,6 +2133,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 26 Aug 2013 04:30:00 -0000</pubDate>
       <itunes:duration>6050</itunes:duration>
       <itunes:keywords>independent developer, OS, Mac, Ubuntu</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>图拉鼎</name>
+          <avatar>http://teahour.fm/images/tualatrix.png</avatar>
+        </author>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#28 和Strikingly的CTO Dafeng聊聊他们和Y-Combinator的故事</title>
@@ -1750,6 +2186,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Tue, 20 Aug 2013 23:30:00 -0000</pubDate>
       <itunes:duration>5492</itunes:duration>
       <itunes:keywords>startup, yc, lean startup, silicon valley</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>郭达峰</name>
+          <avatar>http://teahour.fm/images/dafeng.png</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#27 与 Tinyfool 聊新媒体、创业经历和团队建设</title>
@@ -1795,6 +2245,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 05 Aug 2013 03:00:00 -0000</pubDate>
       <itunes:duration>5565</itunes:duration>
       <itunes:keywords>创业, 新媒体, 团队建设</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>郝培强 (tinyfool)</name>
+          <avatar>http://teahour.fm/images/tinyfool.png</avatar>
+        </author>
+        <author>
+          <name>鄭伊廷 (xdite)</name>
+          <avatar>http://teahour.fm/images/xdite.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#26 和陈金洲聊金数据创业故事</title>
@@ -1841,6 +2305,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 29 Jul 2013 04:00:00 -0000</pubDate>
       <itunes:duration>6388</itunes:duration>
       <itunes:keywords>创业</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>陈金洲</name>
+          <avatar>http://teahour.fm/images/mechiland.jpeg</avatar>
+        </author>
+        <author>
+          <name>鄭伊廷 (xdite)</name>
+          <avatar>http://teahour.fm/images/xdite.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#25 和又拍云(UPYun)的邵海杨聊运维</title>
@@ -1891,6 +2369,16 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 22 Jul 2013 13:00:00 -0000</pubDate>
       <itunes:duration>6410</itunes:duration>
       <itunes:keywords>devops, 运维</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>邵海洋</name>
+          <avatar>http://teahour.fm/images/shaohaiyang.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#24 和knewone的李路聊聊技术和精益创业</title>
@@ -1943,6 +2431,16 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 15 Jul 2013 02:30:00 -0000</pubDate>
       <itunes:duration>4954</itunes:duration>
       <itunes:keywords>lean startup, 硬件, emacs, lisp</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>李路</name>
+          <avatar>http://teahour.fm/images/lilu.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#23 与 Kgen 聊创业经历和感悟</title>
@@ -1983,6 +2481,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Fri, 12 Jul 2013 04:00:00 -0000</pubDate>
       <itunes:duration>2757</itunes:duration>
       <itunes:keywords>技术创业, Copy Hacker</itunes:keywords>
+      <authors>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+        <author>
+          <name>包桢韡 (kgen)</name>
+          <avatar>http://teahour.fm/images/kgen.jpg</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#22 GFW 技术研究和云梯产品故事</title>
@@ -2033,6 +2545,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Tue, 09 Jul 2013 04:00:00 -0000</pubDate>
       <itunes:duration>6437</itunes:duration>
       <itunes:keywords>gfw, vpn, 科学上网</itunes:keywords>
+      <authors>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+        <author>
+          <name>包桢韡 (kgen)</name>
+          <avatar>http://teahour.fm/images/kgen.jpg</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#21 跟天使湾聚变计划负责人王磊聊天使投资</title>
@@ -2082,6 +2608,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 01 Jul 2013 05:00:00 -0000</pubDate>
       <itunes:duration>6954</itunes:duration>
       <itunes:keywords>天使湾, 投资, 天使投资</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>王磊</name>
+          <avatar>http://teahour.fm/images/wanglei.png</avatar>
+        </author>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#20 跟大牛们一起讨论底层开发和 Ruby VM</title>
@@ -2153,6 +2693,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 24 Jun 2013 06:00:00 -0000</pubDate>
       <itunes:duration>6373</itunes:duration>
       <itunes:keywords>underlying, rubyvm</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>吕戈(luikore)</name>
+          <avatar>http://teahour.fm/images/luikore.png</avatar>
+        </author>
+        <author>
+          <name>王勇(skandhas)</name>
+          <avatar>http://teahour.fm/images/skandhas.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#19 聊聊新加坡，聊聊RedDotRubyConf</title>
@@ -2206,6 +2760,24 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 17 Jun 2013 05:00:00 -0000</pubDate>
       <itunes:duration>6288</itunes:duration>
       <itunes:keywords>ruby, conference, singapore</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>Richard Huang(flyerhzm)</name>
+          <avatar>http://teahour.fm/images/richard.png</avatar>
+        </author>
+        <author>
+          <name>鄭伊廷 (xdite)</name>
+          <avatar>http://teahour.fm/images/xdite.png</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#18 采访《七周七数据库》作者 Eric Redmond - 数据库的故事</title>
@@ -2248,6 +2820,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 03 Jun 2013 12:00:00 -0000</pubDate>
       <itunes:duration>7317</itunes:duration>
       <itunes:keywords>database, nosql</itunes:keywords>
+      <authors>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+        <author>
+          <name>Eric Redmond</name>
+          <avatar>http://teahour.fm/images/coderoshi.jpeg</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#17 跟大牛们一起来聊聊 Crack 和 MRuby</title>
@@ -2324,6 +2910,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 27 May 2013 02:38:00 -0000</pubDate>
       <itunes:duration>6684</itunes:duration>
       <itunes:keywords>crack, mruby</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>吕戈(luikore)</name>
+          <avatar>http://teahour.fm/images/luikore.png</avatar>
+        </author>
+        <author>
+          <name>王勇(skandhas)</name>
+          <avatar>http://teahour.fm/images/skandhas.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#16 采访暴走漫画 CTO 曹力(@ShiningRay) - 谈架构演进</title>
@@ -2383,6 +2983,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 20 May 2013 02:00:00 -0000</pubDate>
       <itunes:duration>3623</itunes:duration>
       <itunes:keywords>high availability, deployment, performance optimization</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>曹力(ShiningRay)</name>
+          <avatar>http://teahour.fm/images/shining_ray.png</avatar>
+        </author>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#15 采访36氪的技术总监 - 项新知</title>
@@ -2428,6 +3042,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 13 May 2013 09:00:00 -0000</pubDate>
       <itunes:duration>3623</itunes:duration>
       <itunes:keywords>programming, media</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>项新知(xinzhi)</name>
+          <avatar>http://teahour.fm/images/xinzhi.png</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#14 Become a Better Programmer with Avdi Grimm</title>
@@ -2487,6 +3115,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 06 May 2013 04:00:00 -0000</pubDate>
       <itunes:duration>4479</itunes:duration>
       <itunes:keywords>programming</itunes:keywords>
+      <authors>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>Avdi Grimm</name>
+          <avatar>http://teahour.fm/images/avdi.jpg</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#13 采访 Fred Wu 以及开源实践</title>
@@ -2547,6 +3189,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 22 Apr 2013 08:50:00 -0000</pubDate>
       <itunes:duration>4360</itunes:duration>
       <itunes:keywords>opensource</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>Fred Wu</name>
+          <avatar>http://teahour.fm/images/fredwu.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#12 SegmentFault 和黑客马拉松之运营篇</title>
@@ -2582,6 +3238,24 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 15 Apr 2013 04:00:00 -0000</pubDate>
       <itunes:duration>4293</itunes:duration>
       <itunes:keywords>marketing, segmentfault, hackathon</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>高阳 (sunshineg)</name>
+          <avatar>http://teahour.fm/images/sunshineg.jpeg</avatar>
+        </author>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#11 和Rei一起聊聊他的创业项目 -- Writings.io</title>
@@ -2628,6 +3302,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Mon, 08 Apr 2013 04:00:00 -0000</pubDate>
       <itunes:duration>5120</itunes:duration>
       <itunes:keywords>writings.io, front mvc, solo project</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>Rei</name>
+          <avatar>http://teahour.fm/images/rei.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#10 开源软件和GitCafe</title>
@@ -2677,6 +3365,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <pubDate>Tue, 02 Apr 2013 09:00:00 -0000</pubDate>
       <itunes:duration>5466</itunes:duration>
       <itunes:keywords>Open Source Software, Github, GitCafe</itunes:keywords>
+      <authors>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+        <author>
+          <name>Thomas Yao</name>
+          <avatar>http://teahour.fm/images/thomas_yao.png</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#9 与Rails创始人DHH聊Rails</title>
@@ -2710,6 +3412,16 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <pubDate>Mon, 01 Apr 2013 09:00:00 -0000</pubDate>
       <itunes:duration>5466</itunes:duration>
       <itunes:keywords>rails</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>David Heinemeier Hansson</name>
+          <avatar>http://teahour.fm/images/dhh.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#8 GitLab 的故事</title>
@@ -2764,6 +3476,20 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <pubDate>Mon, 25 Mar 2013 02:00:00 -0000</pubDate>
       <itunes:duration>6010</itunes:duration>
       <itunes:keywords>git, gitlab</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>武鑫 (Saito)</name>
+          <avatar>http://teahour.fm/images/saito.jpg</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#7 你应该知道的 Agile 和 Scrum</title>
@@ -2808,6 +3534,20 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <pubDate>Sat, 16 Mar 2013 03:06:00 -0000</pubDate>
       <itunes:duration>5265</itunes:duration>
       <itunes:keywords>agile, scrum</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>徐毅 (kaverjody)</name>
+          <avatar>http://teahour.fm/images/kaverjody.png</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#6 Git, GitHub and GitLab</title>
@@ -2867,6 +3607,20 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <pubDate>Mon, 11 Mar 2013 02:42:00 -0000</pubDate>
       <itunes:duration>4321</itunes:duration>
       <itunes:keywords>git, github, gitlab</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>武鑫 (Saito)</name>
+          <avatar>http://teahour.fm/images/saito.jpg</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#5 Hardware for developers</title>
@@ -2927,6 +3681,24 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <pubDate>Tue, 05 Mar 2013 10:00:00 -0000</pubDate>
       <itunes:duration>5066</itunes:duration>
       <itunes:keywords>hardware, lifestyle</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#4 Interview with Ashchan on app development</title>
@@ -2974,6 +3746,20 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <pubDate>Tue, 19 Feb 2013 13:00:00 -0000</pubDate>
       <itunes:duration>5548</itunes:duration>
       <itunes:keywords>osx, mobile, iOS, Android, RubyMotion, MacRuby, HTML5</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>陈建明 (Ashchan)</name>
+          <avatar>http://teahour.fm/images/ashchan.png</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#3 Interview with xdite on personal growth</title>
@@ -3014,6 +3800,24 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <pubDate>Sat, 09 Feb 2013 12:00:00 -0000</pubDate>
       <itunes:duration>4861</itunes:duration>
       <itunes:keywords>personal growth, team development, project management, rails training</itunes:keywords>
+      <authors>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+        <author>
+          <name>鄭伊廷 (xdite)</name>
+          <avatar>http://teahour.fm/images/xdite.png</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#2 How to Learn Ruby and Rails</title>
@@ -3053,6 +3857,24 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <pubDate>Sun, 03 Feb 2013 14:00:00 -0000</pubDate>
       <itunes:duration>6632</itunes:duration>
       <itunes:keywords>ruby, rails, book, education</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>Kevin Wang</name>
+          <avatar>http://teahour.fm/images/kevin.jpg</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+      </authors>
     </item>
     <item>
       <title>#1 The beginning of Teahour.fm show</title>
@@ -3100,6 +3922,20 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <pubDate>Sat, 19 Jan 2013 15:00:00 -0000</pubDate>
       <itunes:duration>7167</itunes:duration>
       <itunes:keywords>ruby, ruby community, railscasts china, ruby china, javascript mvc</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+      </authors>
     </item>
   </channel>
 </rss>
