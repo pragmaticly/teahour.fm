@@ -125,7 +125,7 @@
         </li>
         <li>
           <form>
-            <input type="text" name="" value="" placeholder="回车搜索" id="ts-search-input">
+            <input type="text" placeholder="回车搜索" id="ts-search-input">
           </form>
         </li>
         <!-- <li>
@@ -159,10 +159,35 @@
     <script src = 'http://tinysou-cdn.qiniudn.com/tinysou-nojquery.js'></script>
     <script type="text/javascript">
       $(document).ready(function(){
-      $('#ts-search-input').tinysouSearch({
-        engineKey: '5c7c6e7c8789e403471e',
-        perPage: 5,
-        disableAutocomplete: true
+        var customDropdownStylesFunction = function($this) {
+          var config = $this.data('tinysou-config-autocomplete');
+          var $attachEl = config.attachTo ? $(config.attachTo) : $this;
+          var offset = $attachEl.offset();
+          var styles = {
+            'position': 'fixed',
+            'z-index': 9999,
+            'bottom': 70,
+            'left': offset.left
+          };
+          if (config.setWidth) {
+            styles['width'] = $attachEl.outerWidth() - 2;
+          }
+          return styles;
+        };
+        var resultTemplate = Hogan.compile('<div class="ts-result"><h3 class="title"><a href="{{url}}" class="ts-search-result-link">{{title}}</a></h3><div class="ts-metadata"><span class="ts-snippet">{{{body}}}</span></div></div>');
+        var customRenderer = function(item) {
+          var data = {
+            title: item['document']['title'],
+            url: item['document']['url'],
+            body: (item.highlight && item.highlight['body']) || item['document']['body'].substring(0, 300)
+            };
+          return resultTemplate.render(data);
+        };
+        $('#ts-search-input').tinysouSearch({
+          engineKey: '5c7c6e7c8789e403471e',
+          perPage: 5,
+          renderFunction: customRenderer,
+          dropdownStylesFunction: customDropdownStylesFunction
         });
       })
     </script>
