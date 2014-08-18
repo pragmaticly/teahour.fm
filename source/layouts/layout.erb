@@ -32,7 +32,8 @@
     <link rel="shortcut icon" sizes="16x16" href="/favicon.ico">
     <link rel="alternate" type="application/rss+xml" title="Teahour.fm Feed" href="/feed.xml" />
 
-<%= stylesheet_link_tag 'application' %>
+    <%= stylesheet_link_tag 'application' %>
+    <link type='text/css' rel='stylesheet' href='http://tinysou-cdn.qiniudn.com/tinysou.min.css' media='all' />
     <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
     <%=  javascript_include_tag 'application' %>
     <script type="text/javascript">var _gaq = _gaq || [];
@@ -122,6 +123,11 @@
             </li>
           </ul>
         </li>
+        <li>
+          <form>
+            <input type="text" placeholder="回车搜索" id="ts-search-input">
+          </form>
+        </li>
         <!-- <li>
           <a href="#">Category</a>
         </li>
@@ -150,5 +156,31 @@
 
     <%= javascript_include_tag 'main' %>
     <%= yield_content :footer %>
+    <script src = 'http://tinysou-cdn.qiniudn.com/tinysou-nojquery.js'></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        var customDropdownStylesFunction = function($this) {
+          var config = $this.data('tinysou-config-autocomplete');
+          var $attachEl = config.attachTo ? $(config.attachTo) : $this;
+          var offset = $attachEl.offset();
+          var styles = {
+            'position': 'fixed',
+            'z-index': 9999,
+            'bottom': 70,
+            'left': offset.left
+          };
+          if (config.setWidth) {
+            styles['width'] = $attachEl.outerWidth() - 2;
+          }
+          return styles;
+        };
+        $('#ts-search-input').tinysouSearch({
+          engineKey: '5c7c6e7c8789e403471e',
+          perPage: 5,
+          dropdownStylesFunction: customDropdownStylesFunction
+        });
+      })
+    </script>
+
   </body>
 </html>
