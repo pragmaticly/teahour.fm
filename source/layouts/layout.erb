@@ -174,19 +174,9 @@
           }
           return styles;
         };
-        var resultTemplate = Hogan.compile('<div class="ts-result"><h3 class="title"><a href="{{url}}" class="ts-search-result-link">{{title}}</a></h3><div class="ts-metadata"><span class="ts-snippet">{{{body}}}</span></div></div>');
-        var customRenderer = function(item) {
-          var data = {
-            title: item['document']['title'],
-            url: item['document']['url'],
-            body: (item.highlight && item.highlight['body']) || item['document']['body'].substring(0, 300)
-            };
-          return resultTemplate.render(data);
-        };
         $('#ts-search-input').tinysouSearch({
           engineKey: '5c7c6e7c8789e403471e',
           perPage: 5,
-          renderFunction: customRenderer,
           dropdownStylesFunction: customDropdownStylesFunction
         });
       })
