@@ -36,7 +36,9 @@
     <link rel="shortcut icon" sizes="16x16" href="/favicon.ico">
     <link rel="alternate" type="application/rss+xml" title="Teahour.fm Feed" href="/feed.xml" />
 
-<link href="/stylesheets/application.css?1408356621" media="screen" rel="stylesheet" type="text/css" />    <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
+    <link href="/stylesheets/application.css?1408357221" media="screen" rel="stylesheet" type="text/css" />
+    <link type='text/css' rel='stylesheet' href='http://tinysou-cdn.qiniudn.com/tinysou.min.css' media='all' />
+    <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
     <script src="/javascripts/application.js?1406015726" type="text/javascript"></script>
     <script type="text/javascript">var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-38660023-1']);
@@ -588,10 +590,12 @@
           </ul>
         </li>
         <!-- <li>
-          <a href="#">Category</a>
+          <form>
+            <input type="text" placeholder="回车搜索" id="ts-search-input">
+          </form>
         </li>
         <li>
-          <a href="#">Search</a>
+          <a href="#">Category</a>
         </li> -->
       </ul>
       </div>
@@ -615,5 +619,31 @@
 
     <script src="/javascripts/main.js?1406015723" type="text/javascript"></script>
     
+    <script src = 'http://tinysou-cdn.qiniudn.com/tinysou-nojquery.js'></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        var customDropdownStylesFunction = function($this) {
+          var config = $this.data('tinysou-config-autocomplete');
+          var $attachEl = config.attachTo ? $(config.attachTo) : $this;
+          var offset = $attachEl.offset();
+          var styles = {
+            'position': 'fixed',
+            'z-index': 9999,
+            'bottom': 70,
+            'left': offset.left
+          };
+          if (config.setWidth) {
+            styles['width'] = $attachEl.outerWidth() - 2;
+          }
+          return styles;
+        };
+        $('#ts-search-input').tinysouSearch({
+          engineKey: '5c7c6e7c8789e403471e',
+          perPage: 5,
+          dropdownStylesFunction: customDropdownStylesFunction
+        });
+      })
+    </script>
+
   </body>
 </html>
