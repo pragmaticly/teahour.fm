@@ -36,7 +36,7 @@
     <link rel="shortcut icon" sizes="16x16" href="/favicon.ico">
     <link rel="alternate" type="application/rss+xml" title="Teahour.fm Feed" href="/feed.xml" />
 
-    <link href="/stylesheets/application.css?1408357221" media="screen" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/application.css?1408504535" media="screen" rel="stylesheet" type="text/css" />
     <link type='text/css' rel='stylesheet' href='http://tinysou-cdn.qiniudn.com/tinysou.min.css' media='all' />
     <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
     <script src="/javascripts/application.js?1406015726" type="text/javascript"></script>
@@ -565,12 +565,18 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。</p
             </li>
           </ul>
         </li>
-        <!-- <li>
-          <form>
-            <input type="text" placeholder="回车搜索" id="ts-search-input">
-          </form>
+        <li class="dropdown dropup" id="search">
+          <a href="#search" class="dropdown-toggle" data-toggle="dropdown">Search</a>
+          <ul class="dropdown-menu" role="menu" aria-labelledby="search">
+            <li>
+              <form class="form-inline">
+                <input type="text" placeholder="eg. dingding" id="ts-search-input">
+                <input type="submit" value="Search" name="subscribe" class="btn btn-small btn-success">
+              </form>
+            </li>
+          </ul>
         </li>
-        <li>
+        <!-- <li>
           <a href="#">Category</a>
         </li> -->
       </ul>
@@ -605,7 +611,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。</p
           var styles = {
             'position': 'fixed',
             'z-index': 9999,
-            'bottom': 70,
+            'bottom': 140,
             'left': offset.left
           };
           if (config.setWidth) {
