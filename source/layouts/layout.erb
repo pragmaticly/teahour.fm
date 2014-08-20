@@ -123,12 +123,18 @@
             </li>
           </ul>
         </li>
-        <!-- <li>
-          <form>
-            <input type="text" placeholder="回车搜索" id="ts-search-input">
-          </form>
+        <li class="dropdown dropup" id="search">
+          <a href="#search" class="dropdown-toggle" data-toggle="dropdown">Search</a>
+          <ul class="dropdown-menu" role="menu" aria-labelledby="search">
+            <li>
+              <form class="form-inline">
+                <input type="text" placeholder="eg. dingding" id="ts-search-input">
+                <input type="submit" value="Search" name="subscribe" class="btn btn-small btn-success">
+              </form>
+            </li>
+          </ul>
         </li>
-        <li>
+        <!-- <li>
           <a href="#">Category</a>
         </li> -->
       </ul>
@@ -163,7 +169,7 @@
           var styles = {
             'position': 'fixed',
             'z-index': 9999,
-            'bottom': 70,
+            'bottom': 140,
             'left': offset.left
           };
           if (config.setWidth) {
