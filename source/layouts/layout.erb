@@ -12,6 +12,7 @@
       <%= yield_content(:title).blank? ? data.site.title :  yield_content(:title) + " - " + data.site.title %>
     </title>
 
+    <link type="application/opensearchdescription+xml" href="opensearch.xml" title="Teahour" rel="search" />
     <meta name="description" content="<%= yield_content(:description).blank? ? data.site.description : yield_content(:description)  %>">
     <meta name="keywords" content="<%= yield_content(:keywords).blank? ? data.site.keywords.join(',') : yield_content(:keywords) %>">
     <meta name="author" content="<%= data.site.author %>">
