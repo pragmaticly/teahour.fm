@@ -38,7 +38,6 @@
     <link rel="alternate" type="application/rss+xml" title="Teahour.fm Feed" href="/feed.xml" />
 
     <link href="/stylesheets/application.css?1408504535" media="screen" rel="stylesheet" type="text/css" />
-    <link type='text/css' rel='stylesheet' href='http://tinysou-cdn.qiniudn.com/tinysou.min.css' media='all' />
     <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
     <script src="/javascripts/application.js?1406015726" type="text/javascript"></script>
     <script type="text/javascript">var _gaq = _gaq || [];
@@ -623,9 +622,8 @@
 
     <script src="/javascripts/main.js?1406015723" type="text/javascript"></script>
     
-    <script src = 'http://tinysou-cdn.qiniudn.com/tinysou-nojquery.js'></script>
-    <script type="text/javascript">
-      $(document).ready(function(){
+    <script>
+      $(function() {
         var customDropdownStylesFunction = function($this) {
           var config = $this.data('tinysou-config-autocomplete');
           var $attachEl = config.attachTo ? $(config.attachTo) : $this;
@@ -641,12 +639,23 @@
           }
           return styles;
         };
-        $('#ts-search-input').tinysouSearch({
+        var option = {
           engineKey: '5c7c6e7c8789e403471e',
           perPage: 5,
           dropdownStylesFunction: customDropdownStylesFunction
-        });
-      })
+        };
+        (function(w,d,t,u,n,s,e){
+          s = d.createElement(t);
+          s.src = u;
+          s.async = 1;
+          w[n] = function(r){
+            w[n].opts = r;
+          };
+          e = d.getElementsByTagName(t)[0];
+          e.parentNode.insertBefore(s, e);
+        })(window,document,'script','//tinysou-cdn.b0.upaiyun.com/ts.js','_ts');
+        _ts(option);
+      });
     </script>
 
   </body>
