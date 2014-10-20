@@ -1,5 +1,5 @@
 ---
-id: 63
+idx: 63
 title: "与微搜索创始人丁彦聊搜索引擎技术"
 date: 2014-10-19 22:00 +08:00
 tags: tinysou, search
