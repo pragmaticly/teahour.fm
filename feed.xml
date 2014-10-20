@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 18 Aug 2014 07:00:00 -0000</updated>
-    <lastBuildDate>Mon, 18 Aug 2014 07:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 18 Aug 2014 07:00:00 -0000</pubDate>
+    <updated>Sun, 19 Oct 2014 14:00:00 -0000</updated>
+    <lastBuildDate>Sun, 19 Oct 2014 14:00:00 -0000</lastBuildDate>
+    <pubDate>Sun, 19 Oct 2014 14:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,64 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title># 与微搜索创始人丁彦聊搜索引擎技术</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由玎玎支持，邀请到了&lt;a href="http://tinysou.com"&gt;微搜索&lt;/a&gt;的创始人丁彦来 Teahour 做客，聊聊构建搜索引擎的基本知识。&lt;/p&gt;
+
+&lt;p&gt;微搜索是一个站内（应用内）搜索云服务，大家在听这期节目前，可以尝试一下 Teahour 网站的搜索功能，使用的就是微搜索的服务。搜索引擎是我们用来查询信息的工具，简单说来，做一个搜索引擎，分成三步，即信息搜集、信息整理和支持查询。本期节目中，丁彦介绍了他做微搜索服务时对于搜索引擎实现的经验分享，抓取信息内容的实现、索引信息的实现和实际搜索的实现。&lt;/p&gt;
+
+&lt;section class="notes"&gt;&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由玎玎支持，邀请到了&lt;a href="http://tinysou.com"&gt;微搜索&lt;/a&gt;的创始人丁彦来 Teahour 做客，聊聊构建搜索引擎的基本知识。&lt;/p&gt;
+
+&lt;p&gt;微搜索是一个站内（应用内）搜索云服务，大家在听这期节目前，可以尝试一下 Teahour 网站的搜索功能，使用的就是微搜索的服务。搜索引擎是我们用来查询信息的工具，简单说来，做一个搜索引擎，分成三步，即信息搜集、信息整理和支持查询。本期节目中，丁彦介绍了他做微搜索服务时对于搜索引擎实现的经验分享，抓取信息内容的实现、索引信息的实现和实际搜索的实现。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ol&gt;
+    &lt;li&gt;&lt;a href="http://tinysou.com"&gt;微搜索&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://dotide.com"&gt;Dotide&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.seu.edu.cn/"&gt;东南大学&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://teahour.fm/2013/04/02/open-source-software-and-gitcafe.html"&gt;开源软件与 GitCafe&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org"&gt;Ruby China&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Google_Custom_Search"&gt;Google Custom Search&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Web_crawler"&gt;Crawler&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Depth-first_search"&gt;深度优先&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Breadth-first_search"&gt;广度优先&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/inverted-index.html"&gt;Inverted Index&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Tokenization_(lexical_analysis)"&gt;Tokenize&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/19109.htm"&gt;中文分词&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Inverse_kinematics"&gt;ik&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://technology.chtsai.org/mmseg/"&gt;mmseg&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://sphinxsearch.com/"&gt;sphinx&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://bitbucket.org/mchaput/whoosh/wiki/Home"&gt;whoosh&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://lucene.apache.org/"&gt;lucene&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://lucene.apache.org/solr/"&gt;Solr&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.elasticsearch.org/"&gt;ElasticSearch&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/tinysou/roadmap"&gt;微搜索计划&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://calibre-ebook.com/"&gt;Calibre&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/10/19/build-search-engine.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_63.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_63.m4a</guid>
+      <pubDate>Sun, 19 Oct 2014 14:00:00 -0000</pubDate>
+      <itunes:duration>5359</itunes:duration>
+      <itunes:keywords>tinysou, search</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>丁彦</name>
+          <avatar>http://teahour.fm/images/dingyan.jpeg</avatar>
+        </author>
+      </authors>
+    </item>
     <item>
       <title>#62 与江宏聊 AVOS Cloud</title>
       <itunes:author>dingding</itunes:author>
