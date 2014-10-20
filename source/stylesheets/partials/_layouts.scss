@@ -285,3 +285,25 @@ a {
     }
   }
 }
+
+@media print, screen and (max-width: 480px) {
+  body {
+    .global-nav {
+      .social-connect, .nav {
+        display: none;
+      }
+    }
+
+    .bdsharebuttonbox {
+      display: none;
+    }
+
+    .footer {
+      .copyright {
+        float: none;
+        margin-top: -10px;
+        text-align: center;
+      }
+    }
+  }
+}

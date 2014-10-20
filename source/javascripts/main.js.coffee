@@ -38,7 +38,7 @@ $ ->
     else
       notes.hide()
       $(this).parent().prepend("<p>...</p>")
-  audioPlayer()
+  # audioPlayer()
   shareToSocial()
   $("article").find('a').each (idx, elem) ->
     $(elem).attr("target", "_blank")
