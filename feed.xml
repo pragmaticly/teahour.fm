@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 20 Oct 2014 07:00:00 -0000</updated>
-    <lastBuildDate>Mon, 20 Oct 2014 07:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 20 Oct 2014 07:00:00 -0000</pubDate>
+    <updated>Wed, 22 Oct 2014 10:22:00 -0000</updated>
+    <lastBuildDate>Wed, 22 Oct 2014 10:22:00 -0000</lastBuildDate>
+    <pubDate>Wed, 22 Oct 2014 10:22:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,46 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#65 I've shipped the Code. What's next?</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期是中国 Ruby 大会特辑一。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 个主题演讲嘉宾做会前采访。今天接受采访的 Strikingly 的联合创始人和 CTO 郭达峰。&lt;/p&gt;
+
+&lt;p&gt;达峰在本次大会的分享主题是：“&lt;strong&gt;I‘ve shipped the Code. What's next?&lt;/strong&gt;” 以及他怎样利用技术去做上线之后改善产品的事情。千辛万苦写完代码，各种单元测试，集成测试一应俱全，但这样是否就是能做出一个好产品呢？产品上线往往是做好一款产品的其中一部分，而很多技术人却把上线当成是终点。 产品上线前后究竟要注意些什么，如何做好 A/B Testing，Rollout，用户行为追踪等等这些事情呢？ 而这些事情对一个好产品又有什么作用呢？且听达峰道来。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期是中国 Ruby 大会特辑一。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 个主题演讲嘉宾做会前采访。今天接受采访的 Strikingly 的联合创始人和 CTO 郭达峰。&lt;/p&gt;
+
+&lt;p&gt;达峰在本次大会的分享主题是：“&lt;strong&gt;I‘ve shipped the Code. What's next?&lt;/strong&gt;” 以及他怎样利用技术去做上线之后改善产品的事情。千辛万苦写完代码，各种单元测试，集成测试一应俱全，但这样是否就是能做出一个好产品呢？产品上线往往是做好一款产品的其中一部分，而很多技术人却把上线当成是终点。 产品上线前后究竟要注意些什么，如何做好 A/B Testing，Rollout，用户行为追踪等等这些事情呢？ 而这些事情对一个好产品又有什么作用呢？且听达峰道来。&lt;/p&gt;
+
+&lt;p&gt;本期录音质量不是很好，如果想看文本，在 &lt;a href="http://yedingding.com/2014/10/22/rcc2014-dafeng.html"&gt;http://yedingding.com/2014/10/22/rcc2014-dafeng.html&lt;/a&gt;。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ol&gt;
+    &lt;li&gt;&lt;a href="http://rubyconfchina.org"&gt;中国 Ruby 大会&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://strikingly.com"&gt;Strikingly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/dfguo"&gt;达峰 Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zachholman.com/talk/move-fast-break-nothing/"&gt;Move fast, break nothing!&lt;/a&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/10/22/work-after-ship-code-with-dafeng.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_65.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_65.m4a</guid>
+      <pubDate>Wed, 22 Oct 2014 10:22:00 -0000</pubDate>
+      <itunes:duration>66120</itunes:duration>
+      <itunes:keywords>ruby, rubyconf</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>郭达峰</name>
+          <avatar>http://teahour.fm/images/dafeng.png</avatar>
+        </author>
+      </authors>
+    </item>
     <item>
       <title>#64 Ruby 的快和慢 - 采访 2014 Ruby 中国大会主讲谢文威</title>
       <itunes:author>dingding</itunes:author>
