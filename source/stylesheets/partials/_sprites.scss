@@ -3,7 +3,6 @@
   display: inline-block;
   width: 20px;
   height: 20px;
-  @include ie7-restore-right-whitespace();
   line-height: 14px;
   vertical-align: text-top;
   background-image: url("/images/sprites.png");
