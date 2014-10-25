@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Thu, 23 Oct 2014 14:00:00 -0000</updated>
-    <lastBuildDate>Thu, 23 Oct 2014 14:00:00 -0000</lastBuildDate>
-    <pubDate>Thu, 23 Oct 2014 14:00:00 -0000</pubDate>
+    <updated>Sat, 25 Oct 2014 22:00:00 +0800</updated>
+    <lastBuildDate>Sat, 25 Oct 2014 22:00:00 +0800</lastBuildDate>
+    <pubDate>Sat, 25 Oct 2014 22:00:00 +0800</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -27,12 +27,54 @@
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
     <item>
+      <title>#67 用 Ruby 构建 PB 级数据传输平台背后的故事</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期是中国 Ruby 大会特辑四。今年的 RubyConf China 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的是云梯的创始人和秒视的 CTO 包桢韡（Kgen）。&lt;/p&gt;
+
+&lt;p&gt;Kgen 创立了连接国际和中国大陆网络的神器——云梯。本次大会演讲是他在用 Ruby 构建 PB 级数据传输平台的实践。Kgen 在开发云梯的过程中对选择机房、虚拟化技术、网络线路和系统有着不一样的体验和心得。在这一期，Kgen 想跟创业者们分...&lt;/p&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期是中国 Ruby 大会特辑四。今年的 RubyConf China 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的是云梯的创始人和秒视的 CTO 包桢韡（Kgen）。&lt;/p&gt;
+
+&lt;p&gt;Kgen 创立了连接国际和中国大陆网络的神器——云梯。本次大会演讲是他在用 Ruby 构建 PB 级数据传输平台的实践。Kgen 在开发云梯的过程中对选择机房、虚拟化技术、网络线路和系统有着不一样的体验和心得。在这一期，Kgen 想跟创业者们分享他是怎样为了做出稳定好用的云梯，在网络设置、监控和构建大规模数据平台方面做出的努力，甚至会第一次在公开场合向大家解密如何不再被用着奇葩运营商的用户吐槽，如何解决大量 QQ 邮箱用户收不到邮件的问题。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ol&gt;
+    &lt;li&gt;&lt;a href="http://rubyconfchina.org"&gt;中国 Ruby 大会&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://catchchat.me"&gt;秒视&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;kgen&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://teahour.fm/2013/07/09/gfw-and-vpncloud.html"&gt;GFW 技术研究和云梯产品故事&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://linode.com"&gt;Linode&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/13605.htm"&gt;虚拟化技术&lt;/a&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/10/25/experience-built-vpncloud.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_67.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_67.m4a</guid>
+      <pubDate>Sat, 25 Oct 2014 22:00:00 +0800</pubDate>
+      <itunes:duration>56100</itunes:duration>
+      <itunes:keywords>ruby, rubyconf, vpncloud</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>包桢韡 (kgen)</name>
+          <avatar>http://teahour.fm/images/kgen.jpg</avatar>
+        </author>
+      </authors>
+    </item>
+    <item>
       <title>#66 Ruby 在多语言的视频直播项目中的应用</title>
       <itunes:author>dingding</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期是中国 Ruby 大会特辑三。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 个主题演讲嘉宾做会前采访。今天接受采访的是 Shou.TV 的联合创始人冯晓东。&lt;/p&gt;
 
 &lt;p&gt;晓东在多媒体技术这块有丰富的经验，他最新的创业项目 Shou.TV 是给手机游戏玩家直播游戏过程的应用。在 Shou.TV 的实现过程中，晓东使用过 C、NodeJS、Ruby 和 Go 等，让我们来听听这其中的挑战和为啥他最后选择了 Ruby。&lt;/p&gt;
-</itunes:summary>
+
+&lt;section class="notes"&gt;
+  &lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期是中国 Ruby 大会特辑三。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 个主题演讲嘉宾做会前采访。今天接受采访的是 Shou.TV 的联合创始人冯晓东。&lt;/p&gt;
 
@@ -50,7 +92,7 @@
       <link>http://teahour.fm/2014/10/23/shoutv-with-ruby.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_66.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_66.m4a</guid>
-      <pubDate>Thu, 23 Oct 2014 14:00:00 -0000</pubDate>
+      <pubDate>Thu, 23 Oct 2014 22:00:00 +0800</pubDate>
       <itunes:duration>74520</itunes:duration>
       <itunes:keywords>ruby, rubyconf</itunes:keywords>
       <authors>
@@ -69,8 +111,7 @@
       <itunes:author>dingding</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期是中国 Ruby 大会特辑一。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 个主题演讲嘉宾做会前采访。今天接受采访的 Strikingly 的联合创始人和 CTO 郭达峰。&lt;/p&gt;
 
-&lt;p&gt;达峰在本次大会的分享主题是：“&lt;strong&gt;I‘ve shipped the Code. What's next?&lt;/strong&gt;” 以及他怎样利用技术去做上线之后改善产品的事情。千辛万苦写完代码，各种单元测试，集成测试一应俱全，但这样是否就是能做出一个好产品呢？产品上线往往是做好一款产品的其中一部分，而很多技术人却把上线当成是终点。 产品上线前后究竟要注意些什么，如何做好 A/B Testing，Rollout，用户行为追踪等等这些事情呢？ 而这些事情对一个好产品又有什么作用呢？且听达峰道来。&lt;/p&gt;
-</itunes:summary>
+&lt;p&gt;达峰在本次大会的分享主题是：“&lt;strong&gt;I‘ve shipped the Code. What's next?&lt;/strong&gt;” 以及他怎样利用技术去做上线之后改善产品的事情。千辛万苦写完代码，各种单元测试，集成测试一应俱全，但这样是否就是能做出一个好产品呢？产品上...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期是中国 Ruby 大会特辑一。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 个主题演讲嘉宾做会前采访。今天接受采访的 Strikingly 的联合创始人和 CTO 郭达峰。&lt;/p&gt;
 
@@ -90,7 +131,7 @@
       <link>http://teahour.fm/2014/10/22/work-after-ship-code-with-dafeng.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_65.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_65.m4a</guid>
-      <pubDate>Wed, 22 Oct 2014 10:22:00 -0000</pubDate>
+      <pubDate>Wed, 22 Oct 2014 18:22:00 +0800</pubDate>
       <itunes:duration>66120</itunes:duration>
       <itunes:keywords>ruby, rubyconf</itunes:keywords>
       <authors>
@@ -110,7 +151,11 @@
       <itunes:summary type="html">&lt;p&gt;本期是中国 Ruby 大会特辑一。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 个主题演讲嘉宾做会前采访，今天是第一期，来做客的是薄荷网的联合创始人和 CTO 谢文威。&lt;/p&gt;
 
 &lt;p&gt;Ruby 以高开发效率著称，但是在快速开发背后，也容易忽视代码质量和系统健壮性的问题； Ruby 的性能一直被人诟病，性能低下背后的原因到底是什么，有没有办法解决这个问题，如何去面对它，谢文威想讲一讲他的思考和解决之道。&lt;/p&gt;
-</itunes:summary>
+
+&lt;section class="notes"&gt;
+  &lt;ol&gt;
+    &lt;li&gt;&lt;a href="http://rubyconfchina.org"&gt;中国 Ruby...&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期是中国 Ruby 大会特辑一。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 个主题演讲嘉宾做会前采访，今天是第一期，来做客的是薄荷网的联合创始人和 CTO 谢文威。&lt;/p&gt;
 
@@ -129,7 +174,7 @@
       <link>http://teahour.fm/2014/10/20/rubyconf-2014-vincent.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_64.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_64.m4a</guid>
-      <pubDate>Mon, 20 Oct 2014 07:00:00 -0000</pubDate>
+      <pubDate>Mon, 20 Oct 2014 15:00:00 +0800</pubDate>
       <itunes:duration>84180</itunes:duration>
       <itunes:keywords>ruby, rubyconf</itunes:keywords>
       <authors>
@@ -150,8 +195,11 @@
 
 &lt;p&gt;微搜索是一个站内（应用内）搜索云服务，大家在听这期节目前，可以尝试一下 Teahour 网站的搜索功能，使用的就是微搜索的服务。搜索引擎是我们用来查询信息的工具，简单说来，做一个搜索引擎，分成三步，即信息搜集、信息整理和支持查询。本期节目中，丁彦介绍了他做微搜索服务时对于搜索引擎实现的经验分享，抓取信息内容的实现、索引信息的实现和实际搜索的实现。&lt;/p&gt;
 
-&lt;section class="notes"&gt;&lt;/section&gt;
-</itunes:summary>
+&lt;section class="notes"&gt;
+  &lt;ol&gt;
+    &lt;li&gt;&lt;a href="http://tinysou.com"&gt;微搜索&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://dotide.com"&gt;Dotide&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由玎玎支持，邀请到了&lt;a href="http://tinysou.com"&gt;微搜索&lt;/a&gt;的创始人丁彦来 Teahour 做客，聊聊构建搜索引擎的基本知识。&lt;/p&gt;
 
@@ -187,7 +235,7 @@
       <link>http://teahour.fm/2014/10/19/build-search-engine.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_63.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_63.m4a</guid>
-      <pubDate>Sun, 19 Oct 2014 14:00:00 -0000</pubDate>
+      <pubDate>Sun, 19 Oct 2014 22:00:00 +0800</pubDate>
       <itunes:duration>5359</itunes:duration>
       <itunes:keywords>tinysou, search</itunes:keywords>
       <authors>
@@ -206,8 +254,7 @@
       <itunes:author>dingding</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 Dingding 主持，邀请到了 &lt;a href="https://cn.avoscloud.com"&gt;AVOS Cloud&lt;/a&gt; 的创始人江宏来 Teahour 做客，聊聊 AVOS Cloud 的背后故事和技术架构。&lt;/p&gt;
 
-&lt;p&gt;AVOS Cloud 是一个为移动开发者提供后端服务的云解决方案，包括了存储、账号管理、社交分享、消息推送等模块。在节目中，江宏分享了 AVOS Cloud 的由来和目前的架构设计，以及江宏完成博士学位后在 Google Search Infrastructure 组时的工作经历。同时他也是中国 Clojure 社区的早期发起者，AVOS Cloud 的成员多数来自于 Clojure 社区，他分享了自己对 Clojure、Python、C++ 等语言的一些看法。目前，AVOS Cloud 正在招聘 iOS 开发者、Android 开发者和 DevOps，有兴趣的可以听听江宏对于他们团队和开放文化的介绍。&lt;/p&gt;
-</itunes:summary>
+&lt;p&gt;AVOS Cloud 是一个为移动开发者提供后端服务的云解决方案，包括了存储、账号管理、社交分享、消息推送等模块。在节目中，江宏分享了 AVOS Cloud 的由来和目前的架构设计，以及江宏完成博士学位后在 Google Search Infrastructure 组时的工作经历。同时他也是中国 Clojure 社区的早期发起者，AVOS...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 Dingding 主持，邀请到了 &lt;a href="https://cn.avoscloud.com"&gt;AVOS Cloud&lt;/a&gt; 的创始人江宏来 Teahour 做客，聊聊 AVOS Cloud 的背后故事和技术架构。&lt;/p&gt;
 
@@ -240,7 +287,7 @@
       <link>http://teahour.fm/2014/08/18/talk-about-avos-cloud.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_62.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_62.m4a</guid>
-      <pubDate>Mon, 18 Aug 2014 07:00:00 -0000</pubDate>
+      <pubDate>Mon, 18 Aug 2014 15:00:00 +0800</pubDate>
       <itunes:duration>4699</itunes:duration>
       <itunes:keywords>AVOS, BAAS, Clojure</itunes:keywords>
       <authors>
@@ -270,9 +317,14 @@
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="https://developer.apple.com/swift/"&gt;Swift&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://swiftist.org"&gt;Swiftist&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/section&gt;
-</itunes:summary>
+    &lt;li&gt;&lt;a href="http://rubyonrails.org/"&gt;Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://nodejs.org/"&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://railsrumble.com/"&gt;Rails Rumble&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.facebook.com/hackathon"&gt;Facebook Hackathon&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://info.cookpad.com/24contest4_en"&gt;Cookpad Hackathon&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://phaser.io/"&gt;Phaser&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/6811366/"&gt;禅与摩托车维修艺...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 Terry 主持，邀请到了&lt;a href="http://segmentfault.com/a/1190000000593834"&gt;SegmentFault2014黑客马拉松北京场&lt;/a&gt;冠军团队。
 和他们聊聊黑客马拉松相关的话题。
@@ -300,7 +352,7 @@
       <link>http://teahour.fm/2014/08/11/hackathon.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_61.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_61.m4a</guid>
-      <pubDate>Sun, 10 Aug 2014 16:00:00 -0000</pubDate>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 +0800</pubDate>
       <itunes:duration>3787</itunes:duration>
       <itunes:keywords>hackathon</itunes:keywords>
       <authors>
@@ -329,10 +381,7 @@
 
 &lt;p&gt;丁磊在美国俄亥俄州立大学攻读机器学习的博士学位后，一直在电商和广告领域工作，目前负责领导 Paypal 的电子商务和广告平台的数据科学组。在本期节目中，丁磊介绍了数据科学的历史和演进、数据科学要从哪些方面来做、新兴的一些大数据领域、如何成为数据科学家，是一期很好的介绍节目。&lt;/p&gt;
 
-&lt;p&gt;还在学校的学生们，如果你对这个领域感兴趣，一定要好好学线性代数！&lt;/p&gt;
-
-&lt;p&gt;如果你有兴趣联系丁磊，可以在微博上访问他的账号，&lt;a href="http://weibo.com/gooddata"&gt;@丁磊-data&lt;/a&gt;。&lt;/p&gt;
-</itunes:summary>
+&lt;p&gt;还在学校的学生们，如果你对这个领域感兴趣，一定要好好学线性代数...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 Kevin 主持，邀请到了 Paypal 数据科学组的组长丁磊来 Teahour 做客，分享他在大数据、机器学习和数据科学上的学习和工作经验。&lt;/p&gt;
 
@@ -366,7 +415,7 @@
       <link>http://teahour.fm/2014/08/07/machine-learning-with-ding-lei.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_60.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_60.m4a</guid>
-      <pubDate>Thu, 07 Aug 2014 02:00:00 -0000</pubDate>
+      <pubDate>Thu, 07 Aug 2014 10:00:00 +0800</pubDate>
       <itunes:duration>5160</itunes:duration>
       <itunes:keywords>big data, machine learning, data science</itunes:keywords>
       <authors>
@@ -389,8 +438,7 @@
       <itunes:author>dingding</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 Dingding 主持，邀请到了 &lt;a href="https://github.com/rogerwang/node-webkit"&gt;node-webkit&lt;/a&gt; 的作者 Roger Wang 王文睿来 Teahour 做客，分享 node-webkit 的开发故事。&lt;/p&gt;
 
-&lt;p&gt;node-webkit 是一个用 HTML5/CSS/Javascript 这些 Web 技术来写跨平台应用程序的开源框架，可以让我们写一份代码，同时跑在 Windows、Linux 和 Mac 上，是国人主导的在国际上也很有影响力的开源软件。在本期节目中，文睿介绍了 node-webkit 的架构和实现细节，node-webkit 的发布更新策略，node-webkit 的开源故事和未来计划。同时，也对比了一些同类的框架如 Atom Shell，Hex，TideSDK 等。&lt;/p&gt;
-</itunes:summary>
+&lt;p&gt;node-webkit 是一个用 HTML5/CSS/Javascript 这些 Web 技术来写跨平台应用程序的开源框架，可以让我们写一份代码，同时跑在 Windows、Linux 和 Mac 上，是国人主导的在国际上也很有影响力的开源软件。在本期节目中，文睿介绍了 node-webkit 的架构和实现细节，node...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 Dingding 主持，邀请到了 &lt;a href="https://github.com/rogerwang/node-webkit"&gt;node-webkit&lt;/a&gt; 的作者 Roger Wang 王文睿来 Teahour 做客，分享 node-webkit 的开发故事。&lt;/p&gt;
 
@@ -430,7 +478,7 @@
       <link>http://teahour.fm/2014/07/22/node-webkit-with-rogerwang.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_59.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_59.m4a</guid>
-      <pubDate>Tue, 22 Jul 2014 06:30:00 -0000</pubDate>
+      <pubDate>Tue, 22 Jul 2014 14:30:00 +0800</pubDate>
       <itunes:duration>4260</itunes:duration>
       <itunes:keywords>node-webkit, node, webkit, 桌面应用开发</itunes:keywords>
       <authors>
@@ -449,8 +497,7 @@
       <itunes:author>daniel</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 Daniel 主持，我们邀请到了&lt;a href="http://item.jd.com/11398297.html"&gt;«MacTalk 人生元编程»&lt;/a&gt;的作者池建强，池老师来Teahour做客，我们的话题从探讨一个问题开始：一个技术人如池老师，有什么样的经历，才会有这样的情怀，写下这些流畅洒脱的文字?&lt;/p&gt;
 
-&lt;p&gt;池老师跟大家分享了他对技术人生，阅读人生，以及写作人生的感悟，以及曾经读过的好书，跟这些书有关的故事，元编程这本书出版后给他带来的变化，以及他对如何阅读，写作的建议。在节目中池老师还公布了他经营微信公众账号的独家秘籍，以及对2014年世界杯冠军的大胆预测，本期访谈信息量极大，但是相信一定不会让你失望。&lt;/p&gt;
-</itunes:summary>
+&lt;p&gt;池老师跟大家分享了他对技术人生，阅读人生，以及写作人生的感悟，以及曾经读过的好书，跟这些书有关的故事，元编程这本书出版后给他带来的变化，以及他对如何阅读，写作的建议。在节目中池老师还公布了他经营微信公众账号的独家秘籍，以及对2014年世界杯冠军的大胆预测，本期访谈信息量...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 Daniel 主持，我们邀请到了&lt;a href="http://item.jd.com/11398297.html"&gt;«MacTalk 人生元编程»&lt;/a&gt;的作者池建强，池老师来Teahour做客，我们的话题从探讨一个问题开始：一个技术人如池老师，有什么样的经历，才会有这样的情怀，写下这些流畅洒脱的文字?&lt;/p&gt;
 
@@ -519,7 +566,7 @@
       <link>http://teahour.fm/2014/07/04/talk-with-chi-jian-qiang.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_58.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_58.m4a</guid>
-      <pubDate>Fri, 04 Jul 2014 00:00:00 -0000</pubDate>
+      <pubDate>Fri, 04 Jul 2014 08:00:00 +0800</pubDate>
       <itunes:duration>6509</itunes:duration>
       <itunes:keywords>mac, reading, writing</itunes:keywords>
       <authors>
@@ -542,9 +589,10 @@
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="http://railstutorial-china.org/"&gt;Ruby on Rails 教程&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://v.youku.com/v_show/id_XMzA5MTYxNTY=.html"&gt;How to build a blog engine in 15 minutes with ruby on rails&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/section&gt;
-</itunes:summary>
+    &lt;li&gt;&lt;a href="http://creativecommons.org/licenses/by/2.0/"&gt;Creative Commons&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.railstutorial.org/"&gt;The Ruby on Rails Tutorial&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://michaelhartl.com/"&gt;Michael Hartl&lt;/a&gt;&lt;/li&gt;
+...&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 和 &lt;a href="http://weibo.com/lgn21st"&gt;Daniel&lt;/a&gt; 主持，邀请到了 Andor Chen 以及 Rei 一起聊聊技术类书籍的翻译以及自出版的相关，包括现状，工具，平台，方法等一系列问题。&lt;/p&gt;
 
@@ -577,7 +625,7 @@
       <link>http://teahour.fm/2014/06/23/interview-with-andor-chen-about-self-publish.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_57.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_57.m4a</guid>
-      <pubDate>Mon, 23 Jun 2014 04:00:00 -0000</pubDate>
+      <pubDate>Mon, 23 Jun 2014 12:00:00 +0800</pubDate>
       <itunes:duration>5354</itunes:duration>
       <itunes:keywords>翻译, 自出版, translation, self-publish</itunes:keywords>
       <authors>
@@ -607,9 +655,22 @@
 &lt;section class="notes"&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E9%BA%A5%E5%8D%A1%E6%89%98%E6%8A%95%E5%BD%B1%E6%B3%95"&gt;麦克托投影&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="Street Map http://www.openstreetmap.org/"&gt;Open&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="Street%20Map%20http://www.openstreetmap.org/"&gt;Open&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://map.baidu.com/"&gt;百度地图&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.51ditu.com/"&gt;51 地图&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.esri.com/"&gt;ESRI&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gdal.org/"&gt;GDAL&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://geojson.org/"&gt;GeoJSON&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/4733932/"&gt;semiology of graphics&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.tableausoftware.com/"&gt;Tableau Software&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.scidb.org/"&gt;SciDB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.zillow.com/"&gt;Zillow&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.bbc.co.uk/programmes/b018ttws"&gt;Sherlock&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://movie.douban.com/subject/3071441/"&gt;雪国列车&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://movie.douban.com/subject/3016187/"&gt;权利的游戏&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://movie.douban.com/subject/4073872/"&gt;算命&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
+
 &lt;/section&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
@@ -618,7 +679,7 @@
 &lt;section class="notes"&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E9%BA%A5%E5%8D%A1%E6%89%98%E6%8A%95%E5%BD%B1%E6%B3%95"&gt;麦克托投影&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="Street Map http://www.openstreetmap.org/"&gt;Open&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="Street%20Map%20http://www.openstreetmap.org/"&gt;Open&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://map.baidu.com/"&gt;百度地图&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.51ditu.com/"&gt;51 地图&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.esri.com/"&gt;ESRI&lt;/a&gt;&lt;/li&gt;
@@ -639,7 +700,7 @@
       <link>http://teahour.fm/2014/06/16/talk-with-zhang-gong-and-zhi-cheng-about-data-visualization.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_56.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_56.m4a</guid>
-      <pubDate>Mon, 16 Jun 2014 10:50:00 -0000</pubDate>
+      <pubDate>Mon, 16 Jun 2014 18:50:00 +0800</pubDate>
       <itunes:duration>5777</itunes:duration>
       <itunes:keywords>satellite imaging, data visualization</itunes:keywords>
       <authors>
@@ -667,7 +728,10 @@
       <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;玎玎&lt;/a&gt;主持，&lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了找狗网的创始人&lt;a href="http://facebook.com/jamesyeh0627"&gt;叶俊亨&lt;/a&gt;来跟我们一起聊聊找狗网的故事。&lt;/p&gt;
 
 &lt;p&gt;James (叶俊亨) 是信号处理和情感计算方向的专家，也是找狗网有限公司和瀚亘资讯有限公司的创业人。在本期节目中，他分享了他的一些研究经历、创业经历尤其是找狗网这个项目的技术分享和运营分享。因为瀚亘资讯是完全 2B 的公司而找狗网很大程度上是 2C 的项目，所以 James 也分享了他在 2B 和 2C 项目上的不同实战经验分享。&lt;/p&gt;
-</itunes:summary>
+
+&lt;h3 id="section"&gt;找狗网的介绍&lt;/h3&gt;
+
+&lt;p&gt;找狗網有限公司是一群熱血、有理想的青年組...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;玎玎&lt;/a&gt;主持，&lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了找狗网的创始人&lt;a href="http://facebook.com/jamesyeh0627"&gt;叶俊亨&lt;/a&gt;来跟我们一起聊聊找狗网的故事。&lt;/p&gt;
 
@@ -705,7 +769,7 @@
       <link>http://teahour.fm/2014/05/22/talk-about-finddog.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_55.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_55.m4a</guid>
-      <pubDate>Thu, 22 May 2014 10:50:00 -0000</pubDate>
+      <pubDate>Thu, 22 May 2014 18:50:00 +0800</pubDate>
       <itunes:duration>5513</itunes:duration>
       <itunes:keywords>startup</itunes:keywords>
       <authors>
@@ -733,9 +797,14 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 &lt;section class="notes"&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="http://seeedstudio.com"&gt;Seeed Studio&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/section&gt;
-</itunes:summary>
+    &lt;li&gt;&lt;a href="http://adafruit.com"&gt;Adafruit&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://sparkfun.com"&gt;Sparkfun&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/20365163"&gt;创客&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.espruino.com/"&gt;espruino&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/kyab/mruby-arduino"&gt;mruby-arduino&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://makerfaire.com/"&gt;Maker Faire Bay Area&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.shenzhenmakerfaire.com/"&gt;Maker Faire Shenzhen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;h4 id="section"&gt;本期的话题&lt;/h4&gt;
 &lt;p&gt;伴随着 &lt;a href="http://www.arduino.cc/"&gt;Arduino&lt;/a&gt; 和 &lt;a href="http://www.raspberrypi.org/"&gt;Raspberry Pi&lt;/a&gt; 在中国的普及和兴起，
@@ -767,7 +836,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2014/05/13/interview-with-xiaobo-about-maker.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_54.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_54.m4a</guid>
-      <pubDate>Tue, 13 May 2014 04:00:00 -0000</pubDate>
+      <pubDate>Tue, 13 May 2014 12:00:00 +0800</pubDate>
       <itunes:duration>3537</itunes:duration>
       <itunes:keywords>Maker, Open source hardware</itunes:keywords>
       <authors>
@@ -788,8 +857,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 
 &lt;p&gt;ThoughtWorks 是传说中的十大最难面试公司之首，前段时间 ThoughtWorks 的 HR 任蕙在 RubyChina 发了一篇帖子，标题是：“找工作的人那么多，为什么我还招不到人？来吐槽面试好么?” 并收到了很多网友的问题，我联系了任蕙，争取到一次采访两位来自 ThoughtWorks 的面试官的机会，于是我带着这些问题走进了 ThoughtWorks 北京办公室，开始了本次访谈。&lt;/p&gt;
 
-&lt;p&gt;在准备这期访谈之前，我有一个疑虑，很担心本期的采访嘉宾，ThoughtWorks 的面试官韩凯和王健会以公司发言人的态度和方式应对本次访谈，但是当我见到两位面试官后，我的疑虑被彻底打消了。两位面试官一开始就以当年黑暗的亲身经历，给我们展现了两个活生生的草根逆袭的励志故事，然后一步一步解构一家全球顶尖IT公司的面试流程每个环节，特点，并给出非常实际可操作性极强的建议，访谈中两位面试官诙谐幽默，让整个过程笑场不断，内容让人深受启发却又感觉轻松欢快……&lt;/p&gt;
-</itunes:summary>
+&lt;p&gt;在准备这期访谈之前，我有一个疑虑，很担心本期的采访嘉宾，ThoughtWorks ...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;h4 id="section"&gt;缘起：&lt;/h4&gt;
 
@@ -841,7 +909,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2014/05/09/job-interview-at-thoughtworks.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_53.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_53.m4a</guid>
-      <pubDate>Fri, 09 May 2014 02:00:00 -0000</pubDate>
+      <pubDate>Fri, 09 May 2014 10:00:00 +0800</pubDate>
       <itunes:duration>5715</itunes:duration>
       <itunes:keywords>job, interview, thoughtworks</itunes:keywords>
       <authors>
@@ -870,8 +938,12 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
   &lt;li&gt;如何看待内容平台&lt;/li&gt;
   &lt;li&gt;为什么选择做简书这个项目，选择的背后&lt;/li&gt;
   &lt;li&gt;简书、内容平台、Blog 平台，三者的思考&lt;/li&gt;
+  &lt;li&gt;对于简书未来的期望和商业模式的思考&lt;/li&gt;
+  &lt;li&gt;内容平台的鸡和蛋问题，如何获取第一批用户&lt;/li&gt;
+  &lt;li&gt;运营经验分享，效果好的，效果不理想的&lt;/li&gt;
 &lt;/ol&gt;
-</itunes:summary>
+
+&lt;p&gt;简书目前在招聘，有兴趣的朋友看这...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;玎玎&lt;/a&gt;主持，&lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了简书的创始人&lt;a href="http://jianshu.io/users/y3Dbcz"&gt;林立&lt;/a&gt;来跟我们一起聊聊简书的创业故事。当然，xdite 是另一个内容平台 logdown 的创始人，所以也有不少 logdown 的故事分享。&lt;/p&gt;
 
@@ -910,7 +982,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2014/04/28/the-story-of-jianshu.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_52.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_52.m4a</guid>
-      <pubDate>Mon, 28 Apr 2014 04:00:00 -0000</pubDate>
+      <pubDate>Mon, 28 Apr 2014 12:00:00 +0800</pubDate>
       <itunes:duration>5325</itunes:duration>
       <itunes:keywords>创业, 简书</itunes:keywords>
       <authors>
@@ -932,7 +1004,11 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <title>#51 Interview with Ari Lerner about AngularJS</title>
       <itunes:author>kevin</itunes:author>
       <itunes:summary type="html">&lt;p&gt;In this Episode Kevin interview with Ari to talk about AngularJS. Ari is the author of &lt;a href="https://www.ng-book.com/"&gt;ng-book, The Complete Book on AngularJS&lt;/a&gt;, &lt;a href="https://leanpub.com/angularjs-rails"&gt;Riding Rails with AngularJS&lt;/a&gt; and &lt;a href="https://leanpub.com/d3angularjs"&gt;D3 on AngularJS&lt;/a&gt;. Also he is the CTO and Founder at FullStack LLC.&lt;/p&gt;
-</itunes:summary>
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://github.com/auser/beehive"&gt;Beehive&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;In this Episode Kevin interview with Ari to talk about AngularJS. Ari is the author of &lt;a href="https://www.ng-book.com/"&gt;ng-book, The Complete Book on AngularJS&lt;/a&gt;, &lt;a href="https://leanpub.com/angularjs-rails"&gt;Riding Rails with AngularJS&lt;/a&gt; and &lt;a href="https://leanpub.com/d3angularjs"&gt;D3 on AngularJS&lt;/a&gt;. Also he is the CTO and Founder at FullStack LLC.&lt;/p&gt;
 
@@ -969,7 +1045,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2014/04/21/interview-with-ari-lerner.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_51.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_51.m4a</guid>
-      <pubDate>Mon, 21 Apr 2014 04:00:00 -0000</pubDate>
+      <pubDate>Mon, 21 Apr 2014 12:00:00 +0800</pubDate>
       <itunes:duration>5034</itunes:duration>
       <itunes:keywords>AngularJS, English, Front-end MVC</itunes:keywords>
       <authors>
@@ -991,8 +1067,15 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="http://www.w3cdigitaldatatoolkit.com/"&gt;W3C Digital Standard&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.qubitproducts.com/tag-management"&gt;OpenTag (Tag managemnet)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</itunes:summary>
+  &lt;li&gt;&lt;a href="https://www.optimizely.com"&gt;Optimizely&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.google.co.uk/tagmanager/"&gt;Google Tag Manager(GTM)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://hailocab.com/london"&gt;Hailo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://citymapper.com/london"&gt;CityMapper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://store.3drobotics.com"&gt;3DRobotics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://store.3drobotics.com/products/3dr-pixhawk"&gt;Pixhawk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://instagram.com/p/fI1EzmPbGW/"&gt;Crash的录像&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://wiki.ecmascript.org/doku.php?id=strawman:data_parallelism"&gt;Parallel EcmaScript&lt;/a&gt;&lt;/li&gt;
+...&lt;/ul&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请到 &lt;a href="http://www.qubitproducts.com/"&gt;Quibit.&lt;/a&gt; 的工程师 &lt;a href="http://www.weibo.com/u/2462586132"&gt;Dong Jing&lt;/a&gt;。 一起聊聊 A/B testing, Node 还有 Ruby.&lt;/p&gt;
 
@@ -1014,7 +1097,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2014/04/08/interview-with-dong-jing.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_50.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_50.m4a</guid>
-      <pubDate>Tue, 08 Apr 2014 04:00:00 -0000</pubDate>
+      <pubDate>Tue, 08 Apr 2014 12:00:00 +0800</pubDate>
       <itunes:duration>4672</itunes:duration>
       <itunes:keywords>node, ruby, a/b testing</itunes:keywords>
       <authors>
@@ -1044,8 +1127,14 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
   &lt;li&gt;Picks 里面有放毒&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;section class="notes"&gt;&lt;/section&gt;
-</itunes:summary>
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.cgbchina.com.cn/CN/ebank/"&gt;广发银行电子银行&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yedingding.com/2013/10/11/how-to-find-tech-cofounder.html"&gt;如何吸引技术合伙人&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/3773007/"&gt;PPT演义&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.rapidbbs.cn/"&gt;锐普PPT论坛&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yedingding.com/2014/03/12/bootstrapping-your-startup-idea.html"&gt;Bootstrapping...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请到了广发银行总行电子银行部产品经理姜海舟来跟我们聊聊技术人员跨界到银行业的故事以及对于不同选择的看法。&lt;/p&gt;
 
@@ -1074,7 +1163,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2014/04/04/talk-with-jianghaizhou.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_49.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_49.m4a</guid>
-      <pubDate>Fri, 04 Apr 2014 04:00:00 -0000</pubDate>
+      <pubDate>Fri, 04 Apr 2014 12:00:00 +0800</pubDate>
       <itunes:duration>4440</itunes:duration>
       <itunes:keywords>互联网金融, 创业</itunes:keywords>
       <authors>
@@ -1096,8 +1185,19 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="http://www.vcanland.com/"&gt;永泰红磡&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.chinagdg.com/forum.php"&gt;GDG China&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</itunes:summary>
+  &lt;li&gt;&lt;a href="http://topgeek.org/"&gt;Topgeek&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.zhihu.com/question/22420900"&gt;怎样成为全栈工程师-知乎&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/"&gt;What is a Full Stack developer?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.baixing.com/"&gt;百姓网&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/u/1115970444"&gt;袁滚滚&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.ted.com/talks/larry_page_where_s_google_going_next"&gt;Larry Page TED talk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://tv.sohu.com/s2012/personofinterest1/"&gt;疑犯追踪&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://tv.sohu.com/s2013/helix1/"&gt;双螺旋&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://tv.sohu.com/s2013/houseofcards1/"&gt;纸牌屋&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.itgonglun.com/"&gt;IT公论&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.zhihu.com/question/19551518"&gt;李如一&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.techwom.com/archives/2776"&gt;张小龙：微信背后的产...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com/"&gt;Daniel&lt;/a&gt; 主持, 邀请到了 &lt;a href="http://weibo.com/pmcamp"&gt;PMCamp&lt;/a&gt;, &lt;a href="http://topgeek.org/"&gt;Topgeek&lt;/a&gt; 的核心组织者 &lt;a href="http://weibo.com/stingchen"&gt;Sting&lt;/a&gt;，和我们一起聊聊Full Stack developer 和社区活动组织的话题。&lt;/p&gt;
 
@@ -1121,7 +1221,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2014/03/24/interview-with-sting.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_48.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_48.m4a</guid>
-      <pubDate>Mon, 24 Mar 2014 04:00:00 -0000</pubDate>
+      <pubDate>Mon, 24 Mar 2014 12:00:00 +0800</pubDate>
       <itunes:duration>5932</itunes:duration>
       <itunes:keywords>full stack, community</itunes:keywords>
       <authors>
@@ -1139,7 +1239,18 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <title>#47 和中国著名Common Lisp程序员冰河聊聊Lisp</title>
       <itunes:author>terry</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://weibo.com/poshboytl"&gt;Terry Tai&lt;/a&gt;主持，邀请到了国内著名的 Common Lisp 程序员，&lt;a href="http://www.amazon.cn/%E5%AE%9E%E7%94%A8Common-Lisp%E7%BC%96%E7%A8%8B-Peter-Seibel/dp/B005V9BBDK"&gt;实用Common Lisp编程&lt;/a&gt; 一书的译者&lt;a href="http://weibo.com/tianchunbinghe"&gt;田春(冰河)&lt;/a&gt;，和我们一起聊聊Lisp的方方面面, 揭开Lisp的神秘面纱。&lt;/p&gt;
-</itunes:summary>
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://www.amazon.cn/%E5%AE%9E%E7%94%A8Common-Lisp%E7%BC%96%E7%A8%8B-Peter-Seibel/dp/B005V9BBDK"&gt;实用Common Lisp编程&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://knewone.com/"&gt;KnewOne&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html"&gt;Solaris Studio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.paulgraham.com/onlisp.html"&gt;On Lisp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://paulgraham.com/acl.html"&gt;ANSI Common Lisp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html"&gt;Common Lisp the Language, 2nd Edition&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://mitpress.mit.edu/sicp/full-text/book/book.html"&gt;SICP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/S-%E8%A1%A8%E8%BE%BE%E5%BC%8F"&gt;S-表达式&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Simple_Network_Management_Protocol"&gt;Simple Network...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由&lt;a href="http://weibo.com/poshboytl"&gt;Terry Tai&lt;/a&gt;主持，邀请到了国内著名的 Common Lisp 程序员，&lt;a href="http://www.amazon.cn/%E5%AE%9E%E7%94%A8Common-Lisp%E7%BC%96%E7%A8%8B-Peter-Seibel/dp/B005V9BBDK"&gt;实用Common Lisp编程&lt;/a&gt; 一书的译者&lt;a href="http://weibo.com/tianchunbinghe"&gt;田春(冰河)&lt;/a&gt;，和我们一起聊聊Lisp的方方面面, 揭开Lisp的神秘面纱。&lt;/p&gt;
 
@@ -1163,7 +1274,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
   &lt;li&gt;&lt;a href="http://weitz.de/hunchentoot/"&gt;Hunchentoot&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.quicklisp.org/"&gt;Quicklisp&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://clojure.org/"&gt;Clojure&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.paulgraham.com/index.html"&gt;Paul Graham&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.paulgraham.com/"&gt;Paul Graham&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.paulgraham.com/arc.html"&gt;Arc&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://news.ycombinator.com/"&gt;Hacker News&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/LALR_parser"&gt;LALR parser&lt;/a&gt;&lt;/li&gt;
@@ -1183,7 +1294,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2014/03/17/interview-with-binghe.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_47.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_47.m4a</guid>
-      <pubDate>Mon, 17 Mar 2014 04:00:00 -0000</pubDate>
+      <pubDate>Mon, 17 Mar 2014 12:00:00 +0800</pubDate>
       <itunes:duration>5932</itunes:duration>
       <itunes:keywords>lisp</itunes:keywords>
       <authors>
@@ -1204,15 +1315,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
     <item>
       <title>#46 和为知笔记的CTO聊聊他的经历和技术</title>
       <itunes:author>kevin</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;主持, 和&lt;a href="http://www.wiz.cn/index.html"&gt;为知笔记&lt;/a&gt;的CTO老魏聊聊他的入行经历，以及他们产品中的一些技术选型。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/Pascal_(%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80)"&gt;Pascal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/Fortran"&gt;Fortran&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</itunes:summary>
-      <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;本期由&lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;主持, 和&lt;a href="http://www.wiz.cn/index.html"&gt;为知笔记&lt;/a&gt;的CTO老魏聊聊他的入行经历，以及他们产品中的一些技术选型。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;主持, 和&lt;a href="http://www.wiz.cn/"&gt;为知笔记&lt;/a&gt;的CTO老魏聊聊他的入行经历，以及他们产品中的一些技术选型。&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/Pascal_(%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80)"&gt;Pascal&lt;/a&gt;&lt;/li&gt;
@@ -1220,7 +1323,26 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
   &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Turbo_cC"&gt;Tubo C&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Turbo_Pascal"&gt;Tubo Pascal&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://linux.wps.cn/"&gt;WPS Office&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.wiz.cn/index.html"&gt;为知笔记&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.wiz.cn/"&gt;为知笔记&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://daringfireball.net/projects/markdown/syntax"&gt;Markdown&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.latex-project.org/"&gt;LaTex&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.adobe.com/cn/products/framemaker.html/"&gt;FrameMaker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.adobe.com/products/indesign.html"&gt;InDesign&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/WizTeam/WizQTClient"&gt;WizQTClient&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.iconfont.cn/"&gt;iconfont&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.edx.org/course/louvainx/louvainx-louv1-01x-paradigms-computer-1203"&gt;Paradigms of Computer Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;主持, 和&lt;a href="http://www.wiz.cn/"&gt;为知笔记&lt;/a&gt;的CTO老魏聊聊他的入行经历，以及他们产品中的一些技术选型。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/Pascal_(%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80)"&gt;Pascal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/Fortran"&gt;Fortran&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Turbo_cC"&gt;Tubo C&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Turbo_Pascal"&gt;Tubo Pascal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://linux.wps.cn/"&gt;WPS Office&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.wiz.cn/"&gt;为知笔记&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://daringfireball.net/projects/markdown/syntax"&gt;Markdown&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.latex-project.org/"&gt;LaTex&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.adobe.com/cn/products/framemaker.html/"&gt;FrameMaker&lt;/a&gt;&lt;/li&gt;
@@ -1233,7 +1355,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2014/03/10/interview-with-laowei.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_46.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_46.m4a</guid>
-      <pubDate>Mon, 10 Mar 2014 04:00:00 -0000</pubDate>
+      <pubDate>Mon, 10 Mar 2014 12:00:00 +0800</pubDate>
       <itunes:duration>5932</itunes:duration>
       <itunes:keywords>node</itunes:keywords>
       <authors>
@@ -1261,8 +1383,25 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
   &lt;li&gt;&lt;a href="http://www.infoq.com/cn/"&gt;infoQ&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.infoq.com/cn/author/%E5%B4%94%E5%BA%B7"&gt;崔康&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.quora.com/Ryan-Dahl/Who-is-Ryan-Dahl"&gt;Ryan Dahl&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</itunes:summary>
+  &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Event-driven_programming"&gt;Event-driven&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/creationix"&gt;Tim Caswell&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/luvit/luvit"&gt;luvit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twistedmatrix.com/trac/"&gt;Twisted&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/eventmachine/eventmachine"&gt;EventMachine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://code.google.com/p/v8/"&gt;V8 JavaScript Engine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/gnosek/ebb"&gt;ebb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/visionmedia"&gt;TJ Holowaychuk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/visionmedia/express"&gt;express&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.meteor.com/"&gt;Meteor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/senchalabs/connect"&gt;connect&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://rack.github.io/"&gt;rack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/JeffreyZhao/jscex"&gt;jscex&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://medium.com/"&gt;medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/aleafs/pm"&gt;pm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/Unitech/pm2"&gt;pm2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/rogerwang/node-webkit"&gt;node-webkit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com"&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href="http://nodejs.org/"&gt;Node.js&lt;/a&gt;&lt;/li&gt;
@@ -1296,7 +1435,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2014/02/24/first-nodejs.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_45.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_45.m4a</guid>
-      <pubDate>Mon, 24 Feb 2014 04:00:00 -0000</pubDate>
+      <pubDate>Mon, 24 Feb 2014 12:00:00 +0800</pubDate>
       <itunes:duration>4637</itunes:duration>
       <itunes:keywords>node</itunes:keywords>
       <authors>
@@ -1332,7 +1471,9 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 &lt;h4 id="allenown"&gt;关于 allenown&lt;/h4&gt;
 
 &lt;p&gt;twitter: &lt;a href="http://twitter.com/allenown"&gt;allenown&lt;/a&gt;&lt;/p&gt;
-</itunes:summary>
+
+&lt;section class="notes"&gt;
+...&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;信息安全對大眾是一個比較神秘的話題。本集請來了台灣黑客年會的籌辦人 allenown 談談信息安全，黑客社群，黑客與開發者對於網站的不同視野角度。黑客的職涯發展以及行業生態。本期话题非常适合对於信息安全技术有兴趣的朋友。&lt;/p&gt;
 
@@ -1369,7 +1510,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2014/02/18/interview-with-allenown.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_44.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_44.m4a</guid>
-      <pubDate>Tue, 18 Feb 2014 02:58:00 -0000</pubDate>
+      <pubDate>Tue, 18 Feb 2014 10:58:00 +0800</pubDate>
       <itunes:duration>4008</itunes:duration>
       <itunes:keywords>security</itunes:keywords>
       <authors>
@@ -1395,8 +1536,18 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 
 &lt;p&gt;节目中提到的&lt;a href="https://jinshuju.net/f/u7ycDz"&gt;“我最喜欢的Teahour.FM节目评选”&lt;/a&gt;的&lt;a href="https://jinshuju.net/f/u7ycDz"&gt;调查表地址&lt;/a&gt;是：&lt;a href="https://jinshuju.net/f/u7ycDz"&gt;https://jinshuju.net/f/u7ycDz&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;填写调查表的听众就相当于自动参加了我们的抽奖送大礼活动,&lt;/p&gt;
-</itunes:summary>
+&lt;p&gt;填写调查表的听众就相当于自动参加了我们的抽奖送大礼活动,
+我们期待获得你的反馈。&lt;/p&gt;
+
+&lt;h4 id="section"&gt;奖品详情：&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+&lt;a href="http://knewone.com/"&gt;Knewone&lt;/a&gt; 提供的 3个 &lt;a href="http://knewone.com/things/yeelight-blue"&gt;Yeelight Blue&lt;/a&gt; 智能灯泡&lt;/li&gt;
+  &lt;li&gt;
+&lt;a href="http://weibo.com/andor27"&gt;Andor Chen&lt;/a&gt; 提供的 3本 &lt;a href="http://railstutorial-china.org/"&gt;Ruby on Rails...&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;时光如梭，我们已经迎来了 Teahour.FM 的一周岁生日。
 在这一期特别节目里，我们聊了很多有意思的话题，在此先卖一个关子。&lt;/p&gt;
@@ -1451,7 +1602,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2014/01/19/happy-birthday-to-teahour.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_43.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_43.m4a</guid>
-      <pubDate>Sat, 18 Jan 2014 16:00:00 -0000</pubDate>
+      <pubDate>Sun, 19 Jan 2014 00:00:00 +0800</pubDate>
       <itunes:duration>6151</itunes:duration>
       <itunes:keywords>birthday</itunes:keywords>
       <authors>
@@ -1474,8 +1625,12 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
   &lt;li&gt;比特别是怎么产生的&lt;/li&gt;
   &lt;li&gt;比特币背后的技术&lt;/li&gt;
   &lt;li&gt;如何解读中本聪的比特别创世论文&lt;/li&gt;
-&lt;/ul&gt;
-</itunes:summary>
+  &lt;li&gt;比特币的发展何现状&lt;/li&gt;
+  &lt;li&gt;比特币的获取方式&lt;/li&gt;
+  &lt;li&gt;比特币的交易安全&lt;/li&gt;
+  &lt;li&gt;比特别全网算力的发展史&lt;/li&gt;
+  &lt;li&gt;比特币的...&lt;/li&gt;
+&lt;/ul&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;比特币是2013年的一个热点话题，在 Teahour.FM 本年度收官之际，主持人 &lt;a href="http://lvguoning.com"&gt;Daniel&lt;/a&gt; 邀请到了&lt;a href="https://peatio.com"&gt;貔貅 Peatio交易所&lt;/a&gt;的创始人&lt;a href="http://weibo.com/hpyhck"&gt;邱亮 HappyHacking&lt;/a&gt;来跟大家聊聊跟比特币相关的有趣的话题，包括比特币的历史，现状，原理，以及未来等等，本期话题非常适合对比特币背后的技术有兴趣的朋友。&lt;/p&gt;
 
@@ -1521,7 +1676,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/12/31/interview-with-qiuliang-about-bitcoin.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_42.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_42.m4a</guid>
-      <pubDate>Tue, 31 Dec 2013 02:58:00 -0000</pubDate>
+      <pubDate>Tue, 31 Dec 2013 10:58:00 +0800</pubDate>
       <itunes:duration>6173</itunes:duration>
       <itunes:keywords>bitcoin</itunes:keywords>
       <authors>
@@ -1539,7 +1694,13 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <title>#41 跟 Quake Wang 聊蝉游记</title>
       <itunes:author>daniel</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 Daniel 主持，我们邀请了蝉游记的技术负责人 &lt;a href="http://quake.iteye.com"&gt;QuakeWang&lt;/a&gt; 来跟我们聊聊他的技术经历，包括 QuakeWang 从大公司做 Java 开发，后来加入到 &lt;a href="http://iteye.com"&gt;ITEye (JavaEye)&lt;/a&gt; 做 Rails 开发，以及他现在正在做的一个创业项目 —— 蝉游记。在访谈中， QuakeWang 跟我们分享了他在 ITEye 和蝉游记的创业经历，及从技术角度来看待技术，创业，团队，产品，招聘，以及技术人成长等话题。&lt;/p&gt;
-</itunes:summary>
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://chanyouji.com"&gt;蝉游记&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://quake.iteye.com"&gt;QuakeWang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://iteye.com"&gt;ITEye...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 Daniel 主持，我们邀请了蝉游记的技术负责人 &lt;a href="http://quake.iteye.com"&gt;QuakeWang&lt;/a&gt; 来跟我们聊聊他的技术经历，包括 QuakeWang 从大公司做 Java 开发，后来加入到 &lt;a href="http://iteye.com"&gt;ITEye (JavaEye)&lt;/a&gt; 做 Rails 开发，以及他现在正在做的一个创业项目 —— 蝉游记。在访谈中， QuakeWang 跟我们分享了他在 ITEye 和蝉游记的创业经历，及从技术角度来看待技术，创业，团队，产品，招聘，以及技术人成长等话题。&lt;/p&gt;
 
@@ -1568,7 +1729,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/12/23/interview-with-quakewang-about-chanyouji.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_41.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_41.m4a</guid>
-      <pubDate>Mon, 23 Dec 2013 10:26:00 -0000</pubDate>
+      <pubDate>Mon, 23 Dec 2013 18:26:00 +0800</pubDate>
       <itunes:duration>5042</itunes:duration>
       <itunes:keywords>startup, travel</itunes:keywords>
       <authors>
@@ -1586,7 +1747,12 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <title>#40 聊台灣軟體業失落的十年</title>
       <itunes:author>xdite</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://blog.xdite.net/"&gt;Xdite&lt;/a&gt; 主持，邀請了台灣熱門網路電台的站長 Now.in 的創辦人 &lt;a href="http://victorlin.me/"&gt;Victor Lin&lt;/a&gt;，聊聊他最近出版的一本新書&lt;a href="https://leanpub.com/the-lost-ten-years-of-taiwan-software-industry"&gt;「台灣軟體業失落的十年」&lt;/a&gt;。這本書是一本相當全面性的談摩登軟體開發流程的書，在 LeanPub 上販售。聊聊 Victor 出版並這本書的契機，以及分享與交換 LeanPub 這種新式流程撰寫出版電子書的心得。最後，Victor 也預告他下一本書的內容，內容會是工程師的職涯發展指南。&lt;/p&gt;
-</itunes:summary>
+
+&lt;p&gt;一些討論到的點：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Now.in：Victor 上一個經營的網路電台平台，同...&lt;/li&gt;
+&lt;/ol&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://blog.xdite.net/"&gt;Xdite&lt;/a&gt; 主持，邀請了台灣熱門網路電台的站長 Now.in 的創辦人 &lt;a href="http://victorlin.me/"&gt;Victor Lin&lt;/a&gt;，聊聊他最近出版的一本新書&lt;a href="https://leanpub.com/the-lost-ten-years-of-taiwan-software-industry"&gt;「台灣軟體業失落的十年」&lt;/a&gt;。這本書是一本相當全面性的談摩登軟體開發流程的書，在 LeanPub 上販售。聊聊 Victor 出版並這本書的契機，以及分享與交換 LeanPub 這種新式流程撰寫出版電子書的心得。最後，Victor 也預告他下一本書的內容，內容會是工程師的職涯發展指南。&lt;/p&gt;
 
@@ -1622,7 +1788,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/12/16/software-industry-in-taiwan.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_40.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_40.m4a</guid>
-      <pubDate>Mon, 16 Dec 2013 10:00:00 -0000</pubDate>
+      <pubDate>Mon, 16 Dec 2013 18:00:00 +0800</pubDate>
       <itunes:duration>142380</itunes:duration>
       <itunes:keywords>software, leanpub, career, taiwan</itunes:keywords>
       <authors>
@@ -1640,7 +1806,18 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <title>#39 SaaS 产品血泪史</title>
       <itunes:author>kevin</itunes:author>
       <itunes:summary type="html">&lt;p&gt;在本期的节目 Teahour 迎来了新的主播 &lt;a href="http://blog.xdite.net/"&gt;Xdite&lt;/a&gt;! 这期的节目由三位主播 &lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://blog.xdite.net"&gt;Xdite&lt;/a&gt; 主持，吐槽和痛诉开发和经营 &lt;a href="https://fengche.co/"&gt;Fengche.co&lt;/a&gt; 和 &lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt; SaaS 产品的血泪史。&lt;/p&gt;
-</itunes:summary>
+
+&lt;p&gt;一些讨论到的点：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;介绍了两个人分别在操作的产品&lt;/li&gt;
+  &lt;li&gt;你认为什么是 SaaS&lt;/li&gt;
+  &lt;li&gt;怎么起步，怎么选择这个方向&lt;/li&gt;
+  &lt;li&gt;往回想，如果重新来一遍，起步时你会有变化吗？&lt;/li&gt;
+  &lt;li&gt;产品的开发过程是如何的？&lt;/li&gt;
+  &lt;li&gt;上线后发生了什么事情，如何找人，如何前进？&lt;/li&gt;
+  &lt;li&gt;至...&lt;/li&gt;
+&lt;/ol&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;在本期的节目 Teahour 迎来了新的主播 &lt;a href="http://blog.xdite.net/"&gt;Xdite&lt;/a&gt;! 这期的节目由三位主播 &lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://blog.xdite.net"&gt;Xdite&lt;/a&gt; 主持，吐槽和痛诉开发和经营 &lt;a href="https://fengche.co/"&gt;Fengche.co&lt;/a&gt; 和 &lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt; SaaS 产品的血泪史。&lt;/p&gt;
 
@@ -1680,7 +1857,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/11/18/lessons-learned-from-running-saas-products.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_39.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_39.m4a</guid>
-      <pubDate>Sun, 17 Nov 2013 16:00:00 -0000</pubDate>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0800</pubDate>
       <itunes:duration>6281</itunes:duration>
       <itunes:keywords>SaaS, entrepreneurship, products</itunes:keywords>
       <authors>
@@ -1702,7 +1879,12 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <title>#38 与 GuruDigger 创始人蔡金聊创业团队如何寻找靠谱工程师</title>
       <itunes:author>dingding</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请了 &lt;a href="http://gurudigger.com"&gt;GuruDigger&lt;/a&gt; 的创始人&lt;a href="http://primesplus.com/blog/"&gt;蔡金&lt;/a&gt;，聊聊 GuruDigger 想要做的那件事，如何让靠谱的创业团队找到靠谱的工程师，如何让靠谱的工程师找到靠谱的创业团队。不是简单的等朋友推荐守株待兔，不是简单的面个试、吃个饭、聊个天决定，而是用科学的方法找人，用科学的方法找团队。最后，也介绍了他们在融资这件事情上面的一些操作经验。&lt;/p&gt;
-</itunes:summary>
+
+&lt;p&gt;一些讨论到的点：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;职场经历：从大公司 GE 到创建自己第一家公司。放弃营收良好的外包公司，转型去寻找理想，打造互联网产...&lt;/li&gt;
+&lt;/ol&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请了 &lt;a href="http://gurudigger.com"&gt;GuruDigger&lt;/a&gt; 的创始人&lt;a href="http://primesplus.com/blog/"&gt;蔡金&lt;/a&gt;，聊聊 GuruDigger 想要做的那件事，如何让靠谱的创业团队找到靠谱的工程师，如何让靠谱的工程师找到靠谱的创业团队。不是简单的等朋友推荐守株待兔，不是简单的面个试、吃个饭、聊个天决定，而是用科学的方法找人，用科学的方法找团队。最后，也介绍了他们在融资这件事情上面的一些操作经验。&lt;/p&gt;
 
@@ -1741,7 +1923,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/11/11/how-to-find-great-engineers.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_38.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_38.m4a</guid>
-      <pubDate>Sun, 10 Nov 2013 16:00:00 -0000</pubDate>
+      <pubDate>Mon, 11 Nov 2013 00:00:00 +0800</pubDate>
       <itunes:duration>4488</itunes:duration>
       <itunes:keywords>startup, hiring</itunes:keywords>
       <authors>
@@ -1769,8 +1951,16 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 
 &lt;h5 id="section-1"&gt;访谈笔记&lt;/h5&gt;
 
-&lt;section class="notes"&gt;&lt;/section&gt;
-</itunes:summary>
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.neo.com/"&gt;neo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pivotallabs.com/"&gt;Pivotal Labs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://thoughtbot.com/"&gt;thoughtbot&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.pivotaltracker.com/"&gt;PivotalTracker&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://uwaterloo.ca/"&gt;University of Waterloo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rocketfuel.com/"&gt;rocketfuel&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/jimweirich"&gt;Jim Weirich&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由&lt;a href="http://weibo.com/poshboytl"&gt;Terry Tai&lt;/a&gt;和&lt;a href="http://yedingding.com/"&gt;Dingding&lt;/a&gt;共同主持，邀请了 neo 的美女软件工程师鲁葳，和她一起聊聊软件咨询公司是如何工作的。让大家了解更多的优秀软件咨询公司的细节和内幕。&lt;/p&gt;
 
@@ -1815,7 +2005,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/11/05/interview-with-luwei.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_37.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_37.m4a</guid>
-      <pubDate>Tue, 05 Nov 2013 04:30:00 -0000</pubDate>
+      <pubDate>Tue, 05 Nov 2013 12:30:00 +0800</pubDate>
       <itunes:duration>5624</itunes:duration>
       <itunes:keywords>development, consultancy, pair, tdd, ci</itunes:keywords>
       <authors>
@@ -1838,8 +2028,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <itunes:author>daniel</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由Daniel Lv主持，我们邀请了七牛云存储的CEO许式伟来我们这里做客，聊存储，聊技术人员的成长和追求。许老大平时工作非常繁忙，能够约到他非常难得。另外许老大一直是我非常敬仰的高手，大神，所以平添了一分采访的压力，怀着惴惴不安的心情，我们开始了本次访谈。&lt;/p&gt;
 
-&lt;p&gt;访谈从许老大的求学经历开始，包括他的成长经历，以及他是怎么通过一份手写简历，争取到金山的工作机会。在金山作为首席架构师，曾经主导WPS开发经历了一次耗时3年的重写，背后又有着怎样的故事，后来成立金山软件实验室，以及从金山辗转加入盛大云，许老大结合自己的职业经历，传递大家一些非常有价值的建议。&lt;/p&gt;
-</itunes:summary>
+&lt;p&gt;访谈从许老大的求学经历开始，包括他的成长经历，以及他是怎么通过一份手写简历，争取到金山的工作机会。在金山作为首席架构师，曾经主导WPS开发经历了一次耗时3年的重写，背后又有着怎样的故事，后来成立金山软件实验室，以及从金山辗转加入...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由Daniel Lv主持，我们邀请了七牛云存储的CEO许式伟来我们这里做客，聊存储，聊技术人员的成长和追求。许老大平时工作非常繁忙，能够约到他非常难得。另外许老大一直是我非常敬仰的高手，大神，所以平添了一分采访的压力，怀着惴惴不安的心情，我们开始了本次访谈。&lt;/p&gt;
 
@@ -1877,7 +2066,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/10/24/interview-with-xushiwei-about-cloud-storage-and-self-motivate.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_36.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_36.m4a</guid>
-      <pubDate>Thu, 24 Oct 2013 01:00:00 -0000</pubDate>
+      <pubDate>Thu, 24 Oct 2013 09:00:00 +0800</pubDate>
       <itunes:duration>6098</itunes:duration>
       <itunes:keywords>cloud-storage self-motivate</itunes:keywords>
       <authors>
@@ -1903,8 +2092,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
   &lt;li&gt;&lt;a href="http://weibo.com/allenweiit"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;section class="notes"&gt;&lt;/section&gt;
-</itunes:summary>
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://bindo.com/"&gt;Bindo Labs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co/"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.redmine.org/"&gt;Redmine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://trello.com/"&gt;Trello&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.atlassian.com/software/jira"&gt;Jira&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.toggl.com/"&gt;Toggl&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.planningpoker.com/"&gt;Planning Poker&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.intridea.com/"&gt;Intridea&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://campfirenow.com/"&gt;Campfire&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.railsjobbers.com/"&gt;Rails Jobbers&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://www.twitter.com/knwang"&gt;Kevin Wang&lt;/a&gt; 主持，邀请到了&lt;a href="http://allenwei.cn"&gt;魏伦&lt;/a&gt;, &lt;a href="https://bindo.com/"&gt;Bindo Labs&lt;/a&gt; 的 CTO 来谈远程团队的建设和远程工作的体会.&lt;/p&gt;
 
@@ -1939,7 +2140,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/10/21/talking-remote-work-with-allen-wei.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_35.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_35.m4a</guid>
-      <pubDate>Mon, 21 Oct 2013 01:00:00 -0000</pubDate>
+      <pubDate>Mon, 21 Oct 2013 09:00:00 +0800</pubDate>
       <itunes:duration>6098</itunes:duration>
       <itunes:keywords>remote work</itunes:keywords>
       <authors>
@@ -1961,7 +2162,16 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <title>#34 和李天放聊课程格子创业故事</title>
       <itunes:author>dingding</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请到了&lt;a href="http://kechenggezi.com"&gt;课程格子&lt;/a&gt;的创始人&lt;a href="http://litianfang.com"&gt;李天放&lt;/a&gt;来跟我们一起聊聊他两年多的创业经历。天放是一个美籍华人，三年前放弃硅谷大好的机会回国创业，课程格子是他的第三个产品，在本期节目中他介绍了他和他的团队是如何找到这个需求，如何做 MVP，如何宣传推广，如何跟用户交流，如何做产品级别测试等等的经验，也介绍了课程格子的技术架构和团队文化。&lt;/p&gt;
-</itunes:summary>
+
+&lt;p&gt;李天放的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="mailto:joinus@creatingev.com"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://litianfang.com"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/tstyle11"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;目前课程格子在招募新成员，有兴趣加入的同学可以给天放发一份简历...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请到了&lt;a href="http://kechenggezi.com"&gt;课程格子&lt;/a&gt;的创始人&lt;a href="http://litianfang.com"&gt;李天放&lt;/a&gt;来跟我们一起聊聊他两年多的创业经历。天放是一个美籍华人，三年前放弃硅谷大好的机会回国创业，课程格子是他的第三个产品，在本期节目中他介绍了他和他的团队是如何找到这个需求，如何做 MVP，如何宣传推广，如何跟用户交流，如何做产品级别测试等等的经验，也介绍了课程格子的技术架构和团队文化。&lt;/p&gt;
 
@@ -1992,7 +2202,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/10/14/interview-with-tstyle11-about-kechenggezi.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_34.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_34.m4a</guid>
-      <pubDate>Mon, 14 Oct 2013 01:00:00 -0000</pubDate>
+      <pubDate>Mon, 14 Oct 2013 09:00:00 +0800</pubDate>
       <itunes:duration>4988</itunes:duration>
       <itunes:keywords>startup, entreprenuer</itunes:keywords>
       <authors>
@@ -2014,7 +2224,23 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <title>#33 和workor的两位创始人聊聊他们的创业故事</title>
       <itunes:author>terry</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，邀请到了 &lt;a href="http://workor.com/"&gt;Workor网&lt;/a&gt; 的两位创始人:  一位是前 &lt;a href="http://www.biubiubiubiu.com/"&gt;Biu网&lt;/a&gt; 的创始人&lt;a href="http://han.im/"&gt;韩吉云&lt;/a&gt;，还有前&lt;a href="http://www.guokr.com/"&gt;果壳网&lt;/a&gt; team leader &lt;a href="http://weibo.com/notedit"&gt;刘连响&lt;/a&gt;，来和他们一起聊聊他们的创业故事以及背后的一些技术选型。&lt;/p&gt;
-</itunes:summary>
+
+&lt;h6 id="show-notes"&gt;Show Notes:&lt;/h6&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://workor.com/"&gt;workor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://shijue.me/home"&gt;视觉中国&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.guokr.com/"&gt;果壳网&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.djangoproject.com/"&gt;Django&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.lua.org/"&gt;Lua&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.biubiubiubiu.com/"&gt;Biu&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://v2ex.com/"&gt;v2ex&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://medium.com/"&gt;Medium&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/mbleigh"&gt;Michael Bleigh&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://theleanstartup.com/"&gt;The Lean Startup&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gotomeeting.com/online/"&gt;GoToMeeting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，邀请到了 &lt;a href="http://workor.com/"&gt;Workor网&lt;/a&gt; 的两位创始人:  一位是前 &lt;a href="http://www.biubiubiubiu.com/"&gt;Biu网&lt;/a&gt; 的创始人&lt;a href="http://han.im/"&gt;韩吉云&lt;/a&gt;，还有前&lt;a href="http://www.guokr.com/"&gt;果壳网&lt;/a&gt; team leader &lt;a href="http://weibo.com/notedit"&gt;刘连响&lt;/a&gt;，来和他们一起聊聊他们的创业故事以及背后的一些技术选型。&lt;/p&gt;
 
@@ -2068,7 +2294,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/09/30/interview-with-founders-of-workor.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_33.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_33.m4a</guid>
-      <pubDate>Mon, 30 Sep 2013 02:00:00 -0000</pubDate>
+      <pubDate>Mon, 30 Sep 2013 10:00:00 +0800</pubDate>
       <itunes:duration>4244</itunes:duration>
       <itunes:keywords></itunes:keywords>
       <authors>
@@ -2090,7 +2316,13 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <title>#32 跟简书的赵波聊从大公司到创业</title>
       <itunes:author>daniel</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt; 和 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 共同主持，我们邀请到了简书的联合创始人，&lt;a href="https://twitter.com/larryzhao"&gt;赵波&lt;/a&gt; 来跟大聊聊他从大学毕业加入 &lt;a href="http://www.sap.com"&gt;SAP&lt;/a&gt; 公司的工作经历，分享了他对 SAP 这家公司和 ERP 的理解，以及之后从大公司离职，跟朋友一起创业，创立简书的故事。除此之外，赵波还跟分享了大学生如何规划自己的职业，毕业生如何求职，进入大公司要做那些准备，在大公司的工作经历可以给你带来什么？以及在校大学生如何争取一个互联网创业公司的实习机会等等。&lt;/p&gt;
-</itunes:summary>
+
+&lt;h3 id="section"&gt;关于赵波&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href="https://twitter.com/larryzhao"&gt;https://twitter...&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt; 和 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 共同主持，我们邀请到了简书的联合创始人，&lt;a href="https://twitter.com/larryzhao"&gt;赵波&lt;/a&gt; 来跟大聊聊他从大学毕业加入 &lt;a href="http://www.sap.com"&gt;SAP&lt;/a&gt; 公司的工作经历，分享了他对 SAP 这家公司和 ERP 的理解，以及之后从大公司离职，跟朋友一起创业，创立简书的故事。除此之外，赵波还跟分享了大学生如何规划自己的职业，毕业生如何求职，进入大公司要做那些准备，在大公司的工作经历可以给你带来什么？以及在校大学生如何争取一个互联网创业公司的实习机会等等。&lt;/p&gt;
 
@@ -2129,7 +2361,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/09/16/interview-with-zhao-bo-about-jianshu.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_32.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_32.m4a</guid>
-      <pubDate>Mon, 16 Sep 2013 02:00:00 -0000</pubDate>
+      <pubDate>Mon, 16 Sep 2013 10:00:00 +0800</pubDate>
       <itunes:duration>9276</itunes:duration>
       <itunes:keywords></itunes:keywords>
       <authors>
@@ -2151,7 +2383,12 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <title>#31 跟易空海创始人 Maxime 聊如何运作一个咨询公司</title>
       <itunes:author>kevin</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 和 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 共同主持，我们邀请到了易空海的创始人和 CEO &lt;a href="https://twitter.com/maximeguilbot"&gt;Maxime Guilbot&lt;/a&gt; 来跟大家聊聊关于做 freelancer 和 consulting firm 的一些分享。如何起步，如何找到新的客户和项目，如何选择合适的客户合作，如何和客户沟通，如何做项目预算评估，如何在客户的预算成本下做项目，如何建立一个好的团队，如何管理项目和一些开发流程，Maxime 分享了他在易空海是怎么做这些事情的。&lt;/p&gt;
-</itunes:summary>
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://ekohe.com"&gt;易空海&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://hashrocket.com"&gt;HashRocket&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 和 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 共同主持，我们邀请到了易空海的创始人和 CEO &lt;a href="https://twitter.com/maximeguilbot"&gt;Maxime Guilbot&lt;/a&gt; 来跟大家聊聊关于做 freelancer 和 consulting firm 的一些分享。如何起步，如何找到新的客户和项目，如何选择合适的客户合作，如何和客户沟通，如何做项目预算评估，如何在客户的预算成本下做项目，如何建立一个好的团队，如何管理项目和一些开发流程，Maxime 分享了他在易空海是怎么做这些事情的。&lt;/p&gt;
 
@@ -2169,7 +2406,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/09/11/how-to-run-a-consulting-firm-by-maxime.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_31.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_31.m4a</guid>
-      <pubDate>Wed, 11 Sep 2013 05:00:00 -0000</pubDate>
+      <pubDate>Wed, 11 Sep 2013 13:00:00 +0800</pubDate>
       <itunes:duration>5245</itunes:duration>
       <itunes:keywords>consulting firm, freelancer</itunes:keywords>
       <authors>
@@ -2192,8 +2429,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <itunes:author>dingding</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://terrytai.com"&gt;Terry&lt;/a&gt; 共同主持，邀请了 &lt;a href="http://knewone.com"&gt;Knewone&lt;/a&gt; 的 CEO &lt;a href="http://weibo.com/u/3516998421"&gt;沙昕哲&lt;/a&gt; 来聊聊目前很火的可穿戴设备产品。&lt;/p&gt;
 
-&lt;p&gt;做为剁手网站 Knewone 的 CEO，沙沙号称玩过(了解过)市面上几乎所有的可穿戴设备。这一期主题很轻松很新奇，iWatch，Fuelband，Fitbit，Jawbone UP2，新我手环，Pebble，Google Glass，Oculus Rift，LUMOback，LovePalz，Pillow Talk，Necomimi Brainwave Cat Ears，MYO，麦步等等，太多新奇科技产品，来听听试玩体验吧。&lt;/p&gt;
-</itunes:summary>
+&lt;p&gt;做为剁手网站 Knewone 的 CEO，沙沙号称玩过(了解过)市面上几乎所有的可穿戴设备。这一期主题很轻松很新奇，iWatch，Fuelband，Fitbit，Jawbone UP2，新我手环，Pebble，Google Glass，Oculus Rift，LUMOback，LovePalz，Pillow Talk，Necomimi Brainwave...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://terrytai.com"&gt;Terry&lt;/a&gt; 共同主持，邀请了 &lt;a href="http://knewone.com"&gt;Knewone&lt;/a&gt; 的 CEO &lt;a href="http://weibo.com/u/3516998421"&gt;沙昕哲&lt;/a&gt; 来聊聊目前很火的可穿戴设备产品。&lt;/p&gt;
 
@@ -2236,7 +2472,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/09/02/wearable-devices-with-sxzz.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_30.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_30.m4a</guid>
-      <pubDate>Mon, 02 Sep 2013 04:00:00 -0000</pubDate>
+      <pubDate>Mon, 02 Sep 2013 12:00:00 +0800</pubDate>
       <itunes:duration>5680</itunes:duration>
       <itunes:keywords>wearable-devices, 可穿戴设备</itunes:keywords>
       <authors>
@@ -2260,7 +2496,22 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;和&lt;a href="https://twitter.com/lgn21st"&gt;Daniel&lt;/a&gt;共同主持，邀请了 &lt;a href="http://ubuntu-tweak.com/"&gt;Ubuntu Tweak&lt;/a&gt; 的作者&lt;a href="http://imtx.me/"&gt;图拉鼎&lt;/a&gt;来和我们聊聊他的成长历程以及独立开发者的方方面面。&lt;/p&gt;
 
 &lt;p&gt;&lt;a href="http://ubuntu-tweak.com/"&gt;Ubuntu Tweak&lt;/a&gt; 是一个为了方便所有人配置Ubuntu的工具。 它提供了许多默认系统并未提供的桌面和系统选项。 在它的帮助下，你的Ubuntu之旅将会更加愉快！&lt;/p&gt;
-</itunes:summary>
+
+&lt;p&gt;关于图拉鼎：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/tualatrix"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/tualatrix"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://imtx.me/"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://ubuntu-tweak.com/"&gt;Ubuntu Tweak&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://manico.im/"&gt;Manico&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Cyrix"&gt;Cyrix&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Tualatin_(microprocessor)#Tualatin"&gt;Tualatin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由&lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;和&lt;a href="https://twitter.com/lgn21st"&gt;Daniel&lt;/a&gt;共同主持，邀请了 &lt;a href="http://ubuntu-tweak.com/"&gt;Ubuntu Tweak&lt;/a&gt; 的作者&lt;a href="http://imtx.me/"&gt;图拉鼎&lt;/a&gt;来和我们聊聊他的成长历程以及独立开发者的方方面面。&lt;/p&gt;
 
@@ -2305,7 +2556,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/08/26/independent-developer-tualatrix.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_29.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_29.m4a</guid>
-      <pubDate>Mon, 26 Aug 2013 04:30:00 -0000</pubDate>
+      <pubDate>Mon, 26 Aug 2013 12:30:00 +0800</pubDate>
       <itunes:duration>6050</itunes:duration>
       <itunes:keywords>independent developer, OS, Mac, Ubuntu</itunes:keywords>
       <authors>
@@ -2328,8 +2579,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <itunes:author>daniel</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="https://twitter.com/lgn21st"&gt;Daniel&lt;/a&gt;和&lt;a href="https://twitter.com/poshboytl"&gt;Terry&lt;/a&gt;共同主持，邀请到了来自 &lt;a href="https://www.strikingly.com/"&gt;Strikingly&lt;/a&gt; 的 CTO &lt;a href="https://twitter.com/dfguo"&gt;郭达峰&lt;/a&gt;来跟我们聊聊 Strikingly 的创业故事。&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="https://www.strikingly.com/"&gt;Strikingly&lt;/a&gt; 是一家在美国成立的创业公司，公司的三位创始人均来自中国。从2011年8月开始写第一行代码，到2012年四月第一次尝试申请&lt;a href="http://ycombinator.com/"&gt;Y-Combinator&lt;/a&gt;，2012年7月团队成员在旧金山开始正式全职开发，8月份新版本上线，10月份实现收支平衡，11月份第二次申请YC，成功被YC的孵化器录取（Strikingly 同时也是第一家YC的中国团队），在之后的YC Demo Day上，Strinkly拿到第一名的好成绩，获得了多家创投的青睐并成功融资150万，他们的创业故事登上了纽约时报，今年6月份，Strikingly团队回到中国并正式入驻了创新工厂……&lt;/p&gt;
-</itunes:summary>
+&lt;p&gt;&lt;a href="https://www.strikingly.com/"&gt;Strikingly&lt;/a&gt; 是一家在美国成立的创业公司，公司的三位创始人均来自中国。从2011年8月开始写第一行代码，到2012年四月第一次尝试申请&lt;a href="http://ycombinator.com/"&gt;Y-Combinator&lt;/a&gt;，2012年7月团队成员在旧金山开始正式全职开发，8月份新版本上线，10月份实现收支平衡，11月份第二次申请YC，成功被YC的孵化器录取（Strikingly 同时也是第一家YC的中...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由&lt;a href="https://twitter.com/lgn21st"&gt;Daniel&lt;/a&gt;和&lt;a href="https://twitter.com/poshboytl"&gt;Terry&lt;/a&gt;共同主持，邀请到了来自 &lt;a href="https://www.strikingly.com/"&gt;Strikingly&lt;/a&gt; 的 CTO &lt;a href="https://twitter.com/dfguo"&gt;郭达峰&lt;/a&gt;来跟我们聊聊 Strikingly 的创业故事。&lt;/p&gt;
 
@@ -2358,7 +2608,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/08/21/strikingly-yc-and-startup.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_28.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_28.m4a</guid>
-      <pubDate>Tue, 20 Aug 2013 23:30:00 -0000</pubDate>
+      <pubDate>Wed, 21 Aug 2013 07:30:00 +0800</pubDate>
       <itunes:duration>5492</itunes:duration>
       <itunes:keywords>startup, yc, lean startup, silicon valley</itunes:keywords>
       <authors>
@@ -2380,7 +2630,14 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <title>#27 与 Tinyfool 聊新媒体、创业经历和团队建设</title>
       <itunes:author>dingding</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt;主持，Teahour 的老朋友 &lt;a href="http://smalltalk.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了 &lt;a href="http://tiny4.org/voice/"&gt;Tiny4Voice&lt;/a&gt;、 &lt;a href="http://tiny4cocoa.org"&gt;Tiny4Cocoa&lt;/a&gt;、&lt;a href="http://iapp4me.com"&gt;iApp4Me&lt;/a&gt;、&lt;a href="http://tiny4.org"&gt;新杂志&lt;/a&gt;的创始人郝培强 tinyfool 来跟我们一起聊聊新媒体、创业经历和团队建设。从 2010 年尝试 podcast 到现在创业做新杂志，Tinyfool 一直在内容市场寻找方向和突破。创造有价值的内容，传播有价值的内容，为用户提供真正的价值，祝新杂志顺利！&lt;/p&gt;
-</itunes:summary>
+
+&lt;p&gt;Tinyfool 的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/tinyfool"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/tinyfool"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="mailto:tinyfool@gmail.com"&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt;主持，Teahour 的老朋友 &lt;a href="http://smalltalk.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了 &lt;a href="http://tiny4.org/voice/"&gt;Tiny4Voice&lt;/a&gt;、 &lt;a href="http://tiny4cocoa.org"&gt;Tiny4Cocoa&lt;/a&gt;、&lt;a href="http://iapp4me.com"&gt;iApp4Me&lt;/a&gt;、&lt;a href="http://tiny4.org"&gt;新杂志&lt;/a&gt;的创始人郝培强 tinyfool 来跟我们一起聊聊新媒体、创业经历和团队建设。从 2010 年尝试 podcast 到现在创业做新杂志，Tinyfool 一直在内容市场寻找方向和突破。创造有价值的内容，传播有价值的内容，为用户提供真正的价值，祝新杂志顺利！&lt;/p&gt;
 
@@ -2417,7 +2674,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/08/05/interview-with-tinyfool-on-xinzazhi.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_27.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_27.m4a</guid>
-      <pubDate>Mon, 05 Aug 2013 03:00:00 -0000</pubDate>
+      <pubDate>Mon, 05 Aug 2013 11:00:00 +0800</pubDate>
       <itunes:duration>5565</itunes:duration>
       <itunes:keywords>创业, 新媒体, 团队建设</itunes:keywords>
       <authors>
@@ -2439,7 +2696,17 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <title>#26 和陈金洲聊金数据创业故事</title>
       <itunes:author>dingding</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt;主持，Teahour 的老朋友 &lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了ThoughtWorks 公司的资深顾问、&lt;a href="http://jinshuju.net"&gt;金数据&lt;/a&gt;的创始人&lt;a href="http://michael.nona.name"&gt;陈金洲&lt;/a&gt; 来跟我们一起聊聊金数据的故事。实战中国互联网创业，开发在整个创业路上只是占很少一部分，市场定位，客户开发，文案设计、定价策略等等都很重要，来听听陈金洲在金数据是怎么做的，xdite 在 &lt;a href="http://logdown.com"&gt;logdown&lt;/a&gt; 是怎么做的吧。&lt;/p&gt;
-</itunes:summary>
+
+&lt;p&gt;陈金洲的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/mechiland"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/mechilandx"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="mailto:mechiland@gmail.com"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://michael.nona.name"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;最后，金洲专门给 Teahour 的听...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt;主持，Teahour 的老朋友 &lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了ThoughtWorks 公司的资深顾问、&lt;a href="http://jinshuju.net"&gt;金数据&lt;/a&gt;的创始人&lt;a href="http://michael.nona.name"&gt;陈金洲&lt;/a&gt; 来跟我们一起聊聊金数据的故事。实战中国互联网创业，开发在整个创业路上只是占很少一部分，市场定位，客户开发，文案设计、定价策略等等都很重要，来听听陈金洲在金数据是怎么做的，xdite 在 &lt;a href="http://logdown.com"&gt;logdown&lt;/a&gt; 是怎么做的吧。&lt;/p&gt;
 
@@ -2452,7 +2719,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
   &lt;li&gt;&lt;a href="http://michael.nona.name"&gt;Blog&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;最后，金洲专门给 Teahour 的听众准备了&lt;b&gt;金数据的优惠码 &amp;quot;TEAHOUR&amp;quot;&lt;/b&gt;, 8 月 11 号之前有效。&lt;/p&gt;
+&lt;p&gt;最后，金洲专门给 Teahour 的听众准备了&lt;b&gt;金数据的优惠码 "TEAHOUR"&lt;/b&gt;, 8 月 11 号之前有效。&lt;/p&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
@@ -2477,7 +2744,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/07/29/the-story-of-jinshuju.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_26.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_26.m4a</guid>
-      <pubDate>Mon, 29 Jul 2013 04:00:00 -0000</pubDate>
+      <pubDate>Mon, 29 Jul 2013 12:00:00 +0800</pubDate>
       <itunes:duration>6388</itunes:duration>
       <itunes:keywords>创业</itunes:keywords>
       <authors>
@@ -2502,8 +2769,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 
 &lt;h5 id="section"&gt;关于邵海杨:&lt;/h5&gt;
 
-&lt;p&gt;来自杭州Linux用户组。又拍云(UPYun)运维总监，网名“海洋之心”，资深系统运维/架构师，业余撰稿人，致力于开源软件及前沿科技的研究和探索。精通系统及网络管理，定制嵌入式系统，安全防御及CDN加速，互联网高性能网络及架构设计、NoSQL先行者、分布式文件系统Ceph、虚拟化及OpenStack云平台的研究等新技术，喜交流，活跃于社区，积极投身于开源活动的组织和传播，真诚待人，授人以渔，共同进步。&lt;/p&gt;
-</itunes:summary>
+&lt;p&gt;来自杭州Linux用户组。又拍云(UPYun)运维总监，网名“海洋之心”，资深系统运维/架构师，业余撰稿人，致力于开源软件及前沿科技的研究和探索。精通系统及网络管理，定制嵌入式系统，安全防御及CDN加速，互联网高性能网络及架构设计、NoSQL先行者、分布式文件系统Ceph、虚拟化及OpenStack云平台的研究等新技术...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt; 主持, 邀请到&lt;a href="http://upyun.com/"&gt;又拍云(UPYun)&lt;/a&gt;的运维总监&lt;a href="http://weibo.com/gg618"&gt;邵海杨&lt;/a&gt;一起聊聊运维，云存储，云加速，以及互联网运维人员的职业规划，发展方面的话题…&lt;/p&gt;
 
@@ -2541,7 +2807,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/07/22/interview-with-shaohaiyang-about-upyun-devops.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_25.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_25.m4a</guid>
-      <pubDate>Mon, 22 Jul 2013 13:00:00 -0000</pubDate>
+      <pubDate>Mon, 22 Jul 2013 21:00:00 +0800</pubDate>
       <itunes:duration>6410</itunes:duration>
       <itunes:keywords>devops, 运维</itunes:keywords>
       <authors>
@@ -2567,7 +2833,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
   &lt;li&gt;&lt;a href="https://twitter.com/cookiepapa"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="lilu.life@gmail.com"&gt;Email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</itunes:summary>
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/"&gt;knewone&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898"&gt;The Lean Startup(book)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co/"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/things/jawbone-up-2nd-generation"&gt;Jawbone UP2&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gnu.org/software/emacs/"&gt;GNU Emacs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/lilu/my-emacs"&gt;Lilu's Emacs配置&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)"&gt;Lisp&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://paulgraham.com/arc.html"&gt;ARC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mitpress.mit.edu/sicp/"&gt;SICP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/APL_(programming_language)"&gt;APL&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持, 邀请到&lt;a href="http://knewone.com/"&gt;knewone&lt;/a&gt;的创始人&lt;a href="http://weibo.com/coocooba"&gt;李路&lt;/a&gt;一起聊聊炫酷的硬件，精益创业，技术，Emacs, Lisp…&lt;/p&gt;
 
@@ -2603,7 +2882,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/07/15/lean-startup-with-knewone.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_24.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_24.m4a</guid>
-      <pubDate>Mon, 15 Jul 2013 02:30:00 -0000</pubDate>
+      <pubDate>Mon, 15 Jul 2013 10:30:00 +0800</pubDate>
       <itunes:duration>4954</itunes:duration>
       <itunes:keywords>lean startup, 硬件, emacs, lisp</itunes:keywords>
       <authors>
@@ -2629,7 +2908,14 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
   &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#103;&amp;#101;&amp;#110;&amp;#046;&amp;#098;&amp;#097;&amp;#111;&amp;#064;&amp;#107;&amp;#105;&amp;#110;&amp;#103;&amp;#097;&amp;#120;&amp;#105;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;section class="notes"&gt;&lt;/section&gt;
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期是第 &lt;a href="/2013/07/09/gfw-and-vpncloud.html"&gt;#22&lt;/a&gt; 期的号外篇，22 期录制超过两个半小时，故分了正篇和号外篇。号外篇主要聊了三个部分的内容：1. 技术人员创业讨论以及 Kgen 之前做的几个失败的创业项目 2. 应该如何考虑和做产品文案 3. 如何做独立开发者的思考&lt;/p&gt;
@@ -2653,7 +2939,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/07/12/startup-discussion-with-kgen.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_22-2.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_22-2.m4a</guid>
-      <pubDate>Fri, 12 Jul 2013 04:00:00 -0000</pubDate>
+      <pubDate>Fri, 12 Jul 2013 12:00:00 +0800</pubDate>
       <itunes:duration>2757</itunes:duration>
       <itunes:keywords>技术创业, Copy Hacker</itunes:keywords>
       <authors>
@@ -2680,9 +2966,25 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#103;&amp;#101;&amp;#110;&amp;#046;&amp;#098;&amp;#097;&amp;#111;&amp;#064;&amp;#107;&amp;#105;&amp;#110;&amp;#103;&amp;#097;&amp;#120;&amp;#105;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="mailto:kgen.bao@kingaxis.com"&gt;Email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</itunes:summary>
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E"&gt;GFW&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://openvpn.net"&gt;OpenVPN&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/SSH%E2%80%8E"&gt;SSH&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/Tor"&gt;Tor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://code.google.com/p/goagent/"&gt;GoAgent&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.dd-wrt.com/"&gt;DDWRT&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://openwrt.org/"&gt;OpenWRT&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.polarcloud.com/tomato"&gt;Tomato&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Dnsmasq"&gt;DNSMasq&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://code.google.com/p/autoddvpn/"&gt;autoddvpn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://railscasts-china.com/episodes/rubyconf-china-2012-vpncloud"&gt;RubyConf...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
 
@@ -2717,7 +3019,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/07/09/gfw-and-vpncloud.html</link>
       <enclosure url="http://teahourfm.qiniudn.com/teahour_episode_22.m4a" type="audio/x-m4a"/>
       <guid>http://teahourfm.qiniudn.com/teahour_episode_22.m4a</guid>
-      <pubDate>Tue, 09 Jul 2013 04:00:00 -0000</pubDate>
+      <pubDate>Tue, 09 Jul 2013 12:00:00 +0800</pubDate>
       <itunes:duration>6437</itunes:duration>
       <itunes:keywords>gfw, vpn, 科学上网</itunes:keywords>
       <authors>
@@ -2744,11 +3046,24 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="http://weibo.com/atosdps"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#097;&amp;#116;&amp;#111;&amp;#115;&amp;#100;&amp;#112;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="mailto:atosdps@gmail.com"&gt;Email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;section class="notes"&gt;&lt;/section&gt;
-</itunes:summary>
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://tisiwi.com/fusion"&gt;天使湾聚变计划&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ycombinator.com/"&gt;YC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://xiaoenai.com/"&gt;小恩爱&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://code4app.com/"&gt;Code4App&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.zuoear.com/"&gt;左耳&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://poobbs.com/"&gt;涂鸦王国&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Mark_Suster"&gt;Mark Suster&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Peter_Thiel"&gt;Peter Thiel&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/1056461/"&gt;旅行的艺术&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://odesk.com"&gt;oDesk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，&lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 联合主持，邀请到现&lt;a href="http://tisiwi.com"&gt;天使湾&lt;/a&gt;聚变计划负责人&lt;a href="http://makafei.com/blog"&gt;王磊&lt;/a&gt;来聊聊天使湾、种子投资和天使投资。&lt;/p&gt;
 
@@ -2780,7 +3095,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/07/01/tisiwi-and-seed-funding.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_21.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_21.m4a</guid>
-      <pubDate>Mon, 01 Jul 2013 05:00:00 -0000</pubDate>
+      <pubDate>Mon, 01 Jul 2013 13:00:00 +0800</pubDate>
       <itunes:duration>6954</itunes:duration>
       <itunes:keywords>天使湾, 投资, 天使投资</itunes:keywords>
       <authors>
@@ -2803,12 +3118,11 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <itunes:author>daniel</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://twitter.com/lgn21st"&gt;Daniel Lv&lt;/a&gt; 主持，本期继续第17期的话题，跟两位来自 &lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt; 的大牛吕戈，王勇来一起来聊聊底层开发，Ruby 虚拟机，以及大牛是怎样练成的。&lt;/p&gt;
 
-&lt;p&gt;吕戈: 独立 Mac App 开发者，曾于淘宝和 ThePlant 工作。长年在 Ruby-Forum 和 Ruby China 潜水，偶尔解答诸如 &amp;quot;Y组合子怎么写最 cool&amp;quot; 之类的问题。喜欢 Sinatra，并与武鑫共同开发了基于 Sinatra 的 &lt;a href="http://yavaeye.com"&gt;鸭眼网&lt;/a&gt;。曾向 Padrino 和 BlueCloth 贡献过一点微不足道的代码，发过一些不为人知的 Rubygems，偶尔在杭州 Ruby Tuesday 担任吐槽角色。&lt;/p&gt;
-</itunes:summary>
+&lt;p&gt;吕戈: 独立 Mac App 开发者，曾于淘宝和 ThePlant 工作。长年在 Ruby-Forum 和 Ruby China 潜水，偶尔解答诸如 "Y组合子怎么写最 cool" 之类的问题。喜欢 Sinatra，并与武鑫共同开发了基于 Sinatra 的 &lt;a href="http://yavaeye.com"&gt;鸭眼网&lt;/a&gt;。曾向 Padrino 和 BlueCloth 贡献过一...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://twitter.com/lgn21st"&gt;Daniel Lv&lt;/a&gt; 主持，本期继续第17期的话题，跟两位来自 &lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt; 的大牛吕戈，王勇来一起来聊聊底层开发，Ruby 虚拟机，以及大牛是怎样练成的。&lt;/p&gt;
 
-&lt;p&gt;吕戈: 独立 Mac App 开发者，曾于淘宝和 ThePlant 工作。长年在 Ruby-Forum 和 Ruby China 潜水，偶尔解答诸如 &amp;quot;Y组合子怎么写最 cool&amp;quot; 之类的问题。喜欢 Sinatra，并与武鑫共同开发了基于 Sinatra 的 &lt;a href="http://yavaeye.com"&gt;鸭眼网&lt;/a&gt;。曾向 Padrino 和 BlueCloth 贡献过一点微不足道的代码，发过一些不为人知的 Rubygems，偶尔在杭州 Ruby Tuesday 担任吐槽角色。&lt;/p&gt;
+&lt;p&gt;吕戈: 独立 Mac App 开发者，曾于淘宝和 ThePlant 工作。长年在 Ruby-Forum 和 Ruby China 潜水，偶尔解答诸如 "Y组合子怎么写最 cool" 之类的问题。喜欢 Sinatra，并与武鑫共同开发了基于 Sinatra 的 &lt;a href="http://yavaeye.com"&gt;鸭眼网&lt;/a&gt;。曾向 Padrino 和 BlueCloth 贡献过一点微不足道的代码，发过一些不为人知的 Rubygems，偶尔在杭州 Ruby Tuesday 担任吐槽角色。&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Twitter: &lt;a href="https://twitter.com/night_song"&gt;https://twitter.com/night_song&lt;/a&gt;&lt;/li&gt;
@@ -2865,7 +3179,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/06/24/lets-talk-about-underlying-development-and-ruby-vm.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_20.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_20.m4a</guid>
-      <pubDate>Mon, 24 Jun 2013 06:00:00 -0000</pubDate>
+      <pubDate>Mon, 24 Jun 2013 14:00:00 +0800</pubDate>
       <itunes:duration>6373</itunes:duration>
       <itunes:keywords>underlying, rubyvm</itunes:keywords>
       <authors>
@@ -2886,10 +3200,17 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
     <item>
       <title>#19 聊聊新加坡，聊聊RedDotRubyConf</title>
       <itunes:author>terry</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到&lt;a href="http://huangzhimin.com/"&gt;Richard Huang&lt;/a&gt; 和 &lt;a href="http://blog.xdite.net/"&gt;XDite&lt;/a&gt; 一起回顾了这一次&lt;a href="http://www.reddotrubyconf.com/"&gt;RedDotRubyConf&lt;/a&gt;之行，扯扯淡，谈谈收获。同时也谈谈他们两人在这次大会上名为 &amp;quot;Building Asynchronous APIs&amp;quot; 和 &amp;quot;Secure Your Rails Application: The Basics&amp;quot;两个演讲。&lt;/p&gt;
-</itunes:summary>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到&lt;a href="http://huangzhimin.com/"&gt;Richard Huang&lt;/a&gt; 和 &lt;a href="http://blog.xdite.net/"&gt;XDite&lt;/a&gt; 一起回顾了这一次&lt;a href="http://www.reddotrubyconf.com/"&gt;RedDotRubyConf&lt;/a&gt;之行，扯扯淡，谈谈收获。同时也谈谈他们两人在这次大会上名为 "Building Asynchronous APIs" 和 "Secure Your Rails Application: The Basics"两个演讲。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.reddotrubyconf.com/"&gt;RedDotRubyConf&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.jumboseafood.com.sg/"&gt;珍宝海鲜楼&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.dianping.com/shop/3084922"&gt;天天海南鸡饭&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.rwsentosa.com/Homepage/ThingsToDo/UniversalStudiosSingapore"&gt;Universal...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到&lt;a href="http://huangzhimin.com/"&gt;Richard Huang&lt;/a&gt; 和 &lt;a href="http://blog.xdite.net/"&gt;XDite&lt;/a&gt; 一起回顾了这一次&lt;a href="http://www.reddotrubyconf.com/"&gt;RedDotRubyConf&lt;/a&gt;之行，扯扯淡，谈谈收获。同时也谈谈他们两人在这次大会上名为 &amp;quot;Building Asynchronous APIs&amp;quot; 和 &amp;quot;Secure Your Rails Application: The Basics&amp;quot;两个演讲。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到&lt;a href="http://huangzhimin.com/"&gt;Richard Huang&lt;/a&gt; 和 &lt;a href="http://blog.xdite.net/"&gt;XDite&lt;/a&gt; 一起回顾了这一次&lt;a href="http://www.reddotrubyconf.com/"&gt;RedDotRubyConf&lt;/a&gt;之行，扯扯淡，谈谈收获。同时也谈谈他们两人在这次大会上名为 "Building Asynchronous APIs" 和 "Secure Your Rails Application: The Basics"两个演讲。&lt;/p&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
@@ -2900,7 +3221,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
     &lt;li&gt;&lt;a href="https://speakerdeck.com/tenderlove/reddotrubyconf"&gt;Refactoring Rails&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://winstonyw.com/assets/downloads/JRubyForTheWin.pdf"&gt;JRuby For The Win&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://huangzhimin.com/2013/06/07/my-presentation-at-reddotrubyconf-2013/"&gt;Building Asynchronous APIs&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="Tools Of The Trade: https://speakerdeck.com/plataformatec/concurrency-in-ruby-tools-of-the-trade"&gt;Concurrency In Ruby&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="Tools%20Of%20The%20Trade:%20https://speakerdeck.com/plataformatec/concurrency-in-ruby-tools-of-the-trade"&gt;Concurrency In Ruby&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://speakerdeck.com/a_matsuda/ruby-2-dot-0-on-rails-in-production"&gt;Ruby 2.0 on Rails in Production&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://lessconf.lesseverything.com/"&gt;LessConf&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://xdite.github.io/security-basic/"&gt;Secure Your Rails Application&lt;/a&gt;&lt;/li&gt;
@@ -2932,7 +3253,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/06/17/review-singapore-reddotrubyconf.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_19.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_19.m4a</guid>
-      <pubDate>Mon, 17 Jun 2013 05:00:00 -0000</pubDate>
+      <pubDate>Mon, 17 Jun 2013 13:00:00 +0800</pubDate>
       <itunes:duration>6288</itunes:duration>
       <itunes:keywords>ruby, conference, singapore</itunes:keywords>
       <authors>
@@ -2958,7 +3279,11 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <title>#18 采访《七周七数据库》作者 Eric Redmond - 数据库的故事</title>
       <itunes:author>kevin</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
-</itunes:summary>
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://basho.com"&gt;Basho&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
 
@@ -2992,7 +3317,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/06/03/databases-with-eric-redmond.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_18.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_18.m4a</guid>
-      <pubDate>Mon, 03 Jun 2013 12:00:00 -0000</pubDate>
+      <pubDate>Mon, 03 Jun 2013 20:00:00 +0800</pubDate>
       <itunes:duration>7317</itunes:duration>
       <itunes:keywords>database, nosql</itunes:keywords>
       <authors>
@@ -3015,12 +3340,11 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <itunes:author>daniel</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://twitter.com/lgn21st"&gt;Daniel Lv&lt;/a&gt; 主持，邀请了两位来自 &lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt; 的大牛吕戈，王勇来 Teahour 做客，一起来聊聊 Crack，底层开发，MRuby，虚拟机，以及大牛是怎样练成的。本期分两个部分，本期为第一部分，由主持人和吕戈一起来访谈王勇，下期发布第二部分，由主持人和王勇反过来访谈吕戈。&lt;/p&gt;
 
-&lt;p&gt;吕戈: 独立 Mac App 开发者，曾于淘宝和 ThePlant 工作。长年在 Ruby-Forum 和 Ruby China 潜水，偶尔解答诸如 &amp;quot;Y组合子怎么写最 cool&amp;quot; 之类的问题。喜欢 Sinatra，并与武鑫共同开发了基于 Sinatra 的 &lt;a href="http://yavaeye.com"&gt;鸭眼网&lt;/a&gt;。曾向 Padrino 和 BlueCloth 贡献过一点微不足道的代码，发过一些不为人知的 Rubygems，偶尔在杭州 Ruby Tuesday 担任吐槽角色。&lt;/p&gt;
-</itunes:summary>
+&lt;p&gt;吕戈: 独立 Mac App 开发者，曾于淘宝和 ThePlant 工作。长年在 Ruby-Forum 和 Ruby China 潜水，偶尔解答诸如 "Y组合子怎么写最 cool" 之类的问题...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://twitter.com/lgn21st"&gt;Daniel Lv&lt;/a&gt; 主持，邀请了两位来自 &lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt; 的大牛吕戈，王勇来 Teahour 做客，一起来聊聊 Crack，底层开发，MRuby，虚拟机，以及大牛是怎样练成的。本期分两个部分，本期为第一部分，由主持人和吕戈一起来访谈王勇，下期发布第二部分，由主持人和王勇反过来访谈吕戈。&lt;/p&gt;
 
-&lt;p&gt;吕戈: 独立 Mac App 开发者，曾于淘宝和 ThePlant 工作。长年在 Ruby-Forum 和 Ruby China 潜水，偶尔解答诸如 &amp;quot;Y组合子怎么写最 cool&amp;quot; 之类的问题。喜欢 Sinatra，并与武鑫共同开发了基于 Sinatra 的 &lt;a href="http://yavaeye.com"&gt;鸭眼网&lt;/a&gt;。曾向 Padrino 和 BlueCloth 贡献过一点微不足道的代码，发过一些不为人知的 Rubygems，偶尔在杭州 Ruby Tuesday 担任吐槽角色。&lt;/p&gt;
+&lt;p&gt;吕戈: 独立 Mac App 开发者，曾于淘宝和 ThePlant 工作。长年在 Ruby-Forum 和 Ruby China 潜水，偶尔解答诸如 "Y组合子怎么写最 cool" 之类的问题。喜欢 Sinatra，并与武鑫共同开发了基于 Sinatra 的 &lt;a href="http://yavaeye.com"&gt;鸭眼网&lt;/a&gt;。曾向 Padrino 和 BlueCloth 贡献过一点微不足道的代码，发过一些不为人知的 Rubygems，偶尔在杭州 Ruby Tuesday 担任吐槽角色。&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Twitter: &lt;a href="https://twitter.com/night_song"&gt;https://twitter.com/night_song&lt;/a&gt;&lt;/li&gt;
@@ -3082,7 +3406,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/05/27/let-s-talk-about-crack-and-mruby.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_17.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_17.m4a</guid>
-      <pubDate>Mon, 27 May 2013 02:38:00 -0000</pubDate>
+      <pubDate>Mon, 27 May 2013 10:38:00 +0800</pubDate>
       <itunes:duration>6684</itunes:duration>
       <itunes:keywords>crack, mruby</itunes:keywords>
       <authors>
@@ -3109,8 +3433,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://twitter.com/shiningray"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/ShiningRay"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</itunes:summary>
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://speakerdeck.com/shiningray/diao-si-cheng-xu-yuan-ru-he-da-zao-ri-pvbai-mo-de-wang-zhan-jia-gou"&gt;屌丝程序员如何打造日PV百万的网站架构&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yedingding.com/2013/05/14/ruby-event-5-11.html"&gt;杭州 Ruby 开发者沙龙活动总结&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.grandcloud.cn/"&gt;盛大云&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://nginx.org/"&gt;nginx&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.couchbase.com/membase"&gt;Membase&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://redis.io/"&gt;redis&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.couchbase.com/"&gt;Couchbase&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.upyun.com/"&gt;又拍云&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，&lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 协作主持，邀请到现&lt;a href="http://baozoumanhua.com/"&gt;暴走漫画&lt;/a&gt; CTO、&lt;a href="http://www.bling0.com/"&gt;博聆网&lt;/a&gt;创始人&lt;a href="http://shiningray.cn/"&gt;曹力(@ShiningRay)&lt;/a&gt;) 来聊聊暴走漫画的网站架构演进和性能优化的经验分享。&lt;/p&gt;
 
@@ -3155,7 +3491,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/05/20/interview-with-shining-ray.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_16.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_16.m4a</guid>
-      <pubDate>Mon, 20 May 2013 02:00:00 -0000</pubDate>
+      <pubDate>Mon, 20 May 2013 10:00:00 +0800</pubDate>
       <itunes:duration>3623</itunes:duration>
       <itunes:keywords>high availability, deployment, performance optimization</itunes:keywords>
       <authors>
@@ -3183,9 +3519,18 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
     &lt;li&gt;&lt;a href="http://techcrunch.com/"&gt;Tech Crunch&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://news.ycombinator.com/"&gt;Hacker News&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://tech2ipo.com/"&gt;tech2ipo&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/section&gt;
-</itunes:summary>
+    &lt;li&gt;&lt;a href="http://ifanr.com/"&gt;爱范儿&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.36kr.com/"&gt;36氪&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.aliyun.com/"&gt;阿里云&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.grandcloud.cn/"&gt;盛大云&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://open.qq.com/"&gt;腾讯云&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org/"&gt;RubyChina&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://capistranorb.com/"&gt;Capistrano&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.mongodb.org/"&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://nginx.org/"&gt;Nginx&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://unicorn.bogomips.org/"&gt;Unicorn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org/topics/10906"&gt;杭州Ruby开发者沙龙资料&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;项新知是国内知名科技媒体&lt;a href="http://www.36kr.com/"&gt;36氪&lt;/a&gt;的技术总监。负责36kr.com的开发维护以及架构工作。这一期我们和他聊聊36氪这个公司以及他们背后的一些故事。&lt;/p&gt;
 
@@ -3214,7 +3559,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/05/13/interview-with-xinzhi-about-36kr.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_15.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_15.m4a</guid>
-      <pubDate>Mon, 13 May 2013 09:00:00 -0000</pubDate>
+      <pubDate>Mon, 13 May 2013 17:00:00 +0800</pubDate>
       <itunes:duration>3623</itunes:duration>
       <itunes:keywords>programming, media</itunes:keywords>
       <authors>
@@ -3247,9 +3592,9 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 &lt;section class="notes"&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="http://rubyrogues.com/"&gt;Ruby Rogues&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/section&gt;
-</itunes:summary>
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627"&gt;Growing Object Oriented Software Guided by Tests&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/dp/0321721330"&gt;Practical Object Oriented Design in...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;Avdi Grimm 是 Ruby 社区知名的资深程序员，作者和社区领袖。在这期节目中我们请来 Avdi 来聊聊怎样突破“中级天花板”来达到更高的层次。&lt;/p&gt;
 
@@ -3287,7 +3632,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/05/06/become-a-better-programmer-with-avdi-grimm.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_14.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_14.m4a</guid>
-      <pubDate>Mon, 06 May 2013 04:00:00 -0000</pubDate>
+      <pubDate>Mon, 06 May 2013 12:00:00 +0800</pubDate>
       <itunes:duration>4479</itunes:duration>
       <itunes:keywords>programming</itunes:keywords>
       <authors>
@@ -3310,8 +3655,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <itunes:author>daniel</itunes:author>
       <itunes:summary type="html">&lt;p&gt;Fred Wu 是 Locomote 公司的技术经理，在工作之外，他衷于开源，是 Rails 社区知名的开源软件开发者，Rails框架的贡献者，Slim 模板引擎的开发者，他在上海出生，在澳洲读书，工作，Fred Wu 是 RubyConfChina 2012 的演讲嘉宾。&lt;/p&gt;
 
-&lt;p&gt;在本期访谈中，FredWu 从他在大学时代以自由职业者的身份开始接触项目，到技术话题包括 Ruby，Rails，PHP框架等，以及 Fred 如何参与开源实践，包括 Angle Nest 的故事，如何去给 Rails 贡献代码的，Slim 项目给我们带来的启发等等精彩内容。&lt;/p&gt;
-</itunes:summary>
+&lt;p&gt;在本期访谈中，FredWu 从他在大学时代以自由职业者的身份开始接触项目，到技术话题包括 Ruby，Rails，PHP框架等，以及 Fred 如何参与开源实践，包括 Angle Nest 的故事，如何去给 Rails...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;Fred Wu 是 Locomote 公司的技术经理，在工作之外，他衷于开源，是 Rails 社区知名的开源软件开发者，Rails框架的贡献者，Slim 模板引擎的开发者，他在上海出生，在澳洲读书，工作，Fred Wu 是 RubyConfChina 2012 的演讲嘉宾。&lt;/p&gt;
 
@@ -3361,7 +3705,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/04/22/interview-with-fred-wu-about-opensource.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_13.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_13.m4a</guid>
-      <pubDate>Mon, 22 Apr 2013 08:50:00 -0000</pubDate>
+      <pubDate>Mon, 22 Apr 2013 16:50:00 +0800</pubDate>
       <itunes:duration>4360</itunes:duration>
       <itunes:keywords>opensource</itunes:keywords>
       <authors>
@@ -3383,7 +3727,17 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <title>#12 SegmentFault 和黑客马拉松之运营篇</title>
       <itunes:author>dingding</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://segmentfault.com/u/sunny"&gt;高阳&lt;/a&gt;，&lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 和 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt;。高阳是 &lt;a href="http://segmentfault.com"&gt;SegmentFault&lt;/a&gt; 的联合创始人，专门负责运营这一块。本期高阳来到 Teahour，跟大家分享了一下他在 SegmentFault 的运营经验和他们举办的活动黑客马拉松。&lt;/p&gt;
-</itunes:summary>
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://segmentfault.com/"&gt;SegmentFault&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://segmentfault.com/q/1010000000094490"&gt;SegmentFault 团队&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://typecho.org/"&gt;Typeecho&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://stackoverflow.com"&gt;StackOverflow&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://segmentfault.com/hackathon"&gt;黑客马拉松&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tech2ipo.com/"&gt;tech2ipo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://weibo.com/u/1739928273"&gt;苍老师&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://segmentfault.com/u/sunny"&gt;高阳&lt;/a&gt;，&lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 和 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt;。高阳是 &lt;a href="http://segmentfault.com"&gt;SegmentFault&lt;/a&gt; 的联合创始人，专门负责运营这一块。本期高阳来到 Teahour，跟大家分享了一下他在 SegmentFault 的运营经验和他们举办的活动黑客马拉松。&lt;/p&gt;
 
@@ -3410,7 +3764,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/04/15/interview-with-sunshineg-on-marketing.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_12.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_12.m4a</guid>
-      <pubDate>Mon, 15 Apr 2013 04:00:00 -0000</pubDate>
+      <pubDate>Mon, 15 Apr 2013 12:00:00 +0800</pubDate>
       <itunes:duration>4293</itunes:duration>
       <itunes:keywords>marketing, segmentfault, hackathon</itunes:keywords>
       <authors>
@@ -3440,11 +3794,20 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/新世纪福音战士"&gt;新世纪福音战士&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB"&gt;新世纪福音战士&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.baike.com/wiki/%E5%87%8C%E6%B3%A2%E4%B8%BD"&gt;凌波丽&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/section&gt;
-</itunes:summary>
+    &lt;li&gt;&lt;a href="http://www.csdn.net/"&gt;CSDN&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://codecampo.com/"&gt;CodeCampo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://writings.io/"&gt;Writings.io&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.csdn.net/"&gt;CSDN&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://robbinfan.com/"&gt;Robbin&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyonrails.org/"&gt;Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.mongodb.org/"&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/rails/turbolinks/"&gt;Turbolinks&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pjax.heroku.com/"&gt;PJAX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://basecamp.com/"&gt;Basecamp&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920018421.do"&gt;Javascript...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由&lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;主持, 并有幸邀请到&lt;a href="http://writings.io/"&gt;Writings.io&lt;/a&gt;的创始人Rei, 他将
 和我们一起聊聊Writings.io这个项目，以及背后的技术细节和设计思想。&lt;/p&gt;
@@ -3467,14 +3830,14 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
     &lt;li&gt;&lt;a href="http://twitter.github.io/flight/"&gt;Twitter Flight&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.google.com/nexus/7/"&gt;Nexus 7&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0"&gt;Kindle Paperwhite&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://terrytai.com/articles/a860b125-buy-it"&gt;&amp;quot;Buy it&amp;quot;&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.com/articles/a860b125-buy-it"&gt;"Buy it"&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 </description>
       <link>http://teahour.fm/2013/04/08/interview-with-rei-about-writingsio.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_11.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_11.m4a</guid>
-      <pubDate>Mon, 08 Apr 2013 04:00:00 -0000</pubDate>
+      <pubDate>Mon, 08 Apr 2013 12:00:00 +0800</pubDate>
       <itunes:duration>5120</itunes:duration>
       <itunes:keywords>writings.io, front mvc, solo project</itunes:keywords>
       <authors>
@@ -3501,9 +3864,13 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="https://twitter.com/ghosTM55"&gt;Thomas Yao&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.shlug.org/"&gt;Shanghai Linux User Group&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/section&gt;
-</itunes:summary>
+    &lt;li&gt;&lt;a href="https://gitcafe.com/"&gt;GitCafe&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.debian.org/"&gt;Debian&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gentoo.org/"&gt;Gentoo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.linuxfromscratch.org/lfs/"&gt;LFS - Linux From Scratch&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.archlinux.org/"&gt;Arch Linux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Richard_Stallma"&gt;Richard Stallman&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由&lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;主持, 邀请到上海Linux User Group 的负责人和GitCafe的创始人 Thomas Yao 来聊聊开源软件的话题和GitCafe 的创业经历。 &lt;/p&gt;
 
@@ -3537,7 +3904,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
       <link>http://teahour.fm/2013/04/02/open-source-software-and-gitcafe.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_9.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_9.m4a</guid>
-      <pubDate>Tue, 02 Apr 2013 09:00:00 -0000</pubDate>
+      <pubDate>Tue, 02 Apr 2013 17:00:00 +0800</pubDate>
       <itunes:duration>5466</itunes:duration>
       <itunes:keywords>Open Source Software, Github, GitCafe</itunes:keywords>
       <authors>
@@ -3584,7 +3951,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/04/01/interview-with-dhh-about-rails.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_dhh.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_dhh.m4a</guid>
-      <pubDate>Mon, 01 Apr 2013 09:00:00 -0000</pubDate>
+      <pubDate>Mon, 01 Apr 2013 17:00:00 +0800</pubDate>
       <itunes:duration>5466</itunes:duration>
       <itunes:keywords>rails</itunes:keywords>
       <authors>
@@ -3601,8 +3968,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
     <item>
       <title>#8 GitLab 的故事</title>
       <itunes:author>daniel</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://saito.im"&gt;SaitoWu&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。武鑫(Saito) 是著名自托管 Git 项目仓库开源项目 &lt;a href="http://gitlabhq.com"&gt;GitLab&lt;/a&gt; 的核心开发者之一，也是 &lt;a href="http://rubyconfchina.org"&gt;RubyConfChina 2012&lt;/a&gt; 的讲师。本期 SaitoWu 同学继续&lt;a href="/2013/03/11/git-github-and-gitlab.html"&gt;第六期&lt;/a&gt;的话题，跟我们聊聊 Gitlab 的故事，包括 Gitlab 的项目领导人 &lt;a href="https://github.com/randx"&gt;Randx&lt;/a&gt; 其人，武鑫如何成为 Gitlab 的核心开发者之一，Gitlab 这个开源项目对武鑫产生的影响可以给我们带来什么样的启发，以及对 Gitlab 将来发展的展望。在节目的最后，武鑫回答了大家关心的问题。&lt;/p&gt;
-</itunes:summary>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://saito.im"&gt;SaitoWu&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。武鑫(Saito) 是著名自托管 Git 项目仓库开源项目 &lt;a href="http://gitlabhq.com"&gt;GitLab&lt;/a&gt; 的核心开发者之一，也是 &lt;a href="http://rubyconfchina.org"&gt;RubyConfChina 2012&lt;/a&gt; 的讲师。本期 SaitoWu 同学继续&lt;a href="/2013/03/11/git-github-and-gitlab.html"&gt;第六期&lt;/a&gt;的话题，跟我们聊聊 Gitlab 的故事，包括 Gitlab 的项目领导人 &lt;a href="https://github.com/randx"&gt;Randx&lt;/a&gt; 其人，武鑫如何成为 Gitlab 的核心开发者之一，Gitlab 这个开源项目对武鑫产生的影响可以给我们带来什么样的启发，以及对 Gitlab ...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://saito.im"&gt;SaitoWu&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。武鑫(Saito) 是著名自托管 Git 项目仓库开源项目 &lt;a href="http://gitlabhq.com"&gt;GitLab&lt;/a&gt; 的核心开发者之一，也是 &lt;a href="http://rubyconfchina.org"&gt;RubyConfChina 2012&lt;/a&gt; 的讲师。本期 SaitoWu 同学继续&lt;a href="/2013/03/11/git-github-and-gitlab.html"&gt;第六期&lt;/a&gt;的话题，跟我们聊聊 Gitlab 的故事，包括 Gitlab 的项目领导人 &lt;a href="https://github.com/randx"&gt;Randx&lt;/a&gt; 其人，武鑫如何成为 Gitlab 的核心开发者之一，Gitlab 这个开源项目对武鑫产生的影响可以给我们带来什么样的启发，以及对 Gitlab 将来发展的展望。在节目的最后，武鑫回答了大家关心的问题。&lt;/p&gt;
 
@@ -3648,7 +4014,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/03/25/story-of-gitlab.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_8.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_8.m4a</guid>
-      <pubDate>Mon, 25 Mar 2013 02:00:00 -0000</pubDate>
+      <pubDate>Mon, 25 Mar 2013 10:00:00 +0800</pubDate>
       <itunes:duration>6010</itunes:duration>
       <itunes:keywords>git, gitlab</itunes:keywords>
       <authors>
@@ -3670,7 +4036,18 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <title>#7 你应该知道的 Agile 和 Scrum</title>
       <itunes:author>dingding</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://kaverjody.com"&gt;徐毅&lt;/a&gt; 和 &lt;a href="http://terrytail.com"&gt;Terry Tai&lt;/a&gt;。徐毅老师目前是 Nokia 公司的敏捷和精益教练，专长于大型组织(&amp;gt;500人)的敏捷迁徙转变，著有译本 &lt;a href="http://book.douban.com/subject/4803982/"&gt;团队之美&lt;/a&gt;，&lt;a href="http://book.douban.com/subject/10484469/"&gt;管理 3.0&lt;/a&gt; 和 &lt;a href="http://book.douban.com/subject/20507350/"&gt;Scrum 要素&lt;/a&gt;，目前正在写作一本敏捷测试相关的书 &lt;a href="http://www.ituring.com.cn/book/895"&gt;大测大悟&lt;/a&gt;。本期徐毅老师到 Teahour，跟我们一起分享了他在敏捷实践，Scrum实践以及敏捷测试上的一些心得和经验。&lt;/p&gt;
-</itunes:summary>
+
+&lt;p&gt;徐毅老师的一些联系方式:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/17376122"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://twitter.com/kaverjody"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.linkedin.com/in/kaveri"&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://kaverjody.com"&gt;徐毅&lt;/a&gt; 和 &lt;a href="http://terrytail.com"&gt;Terry Tai&lt;/a&gt;。徐毅老师目前是 Nokia 公司的敏捷和精益教练，专长于大型组织(&amp;gt;500人)的敏捷迁徙转变，著有译本 &lt;a href="http://book.douban.com/subject/4803982/"&gt;团队之美&lt;/a&gt;，&lt;a href="http://book.douban.com/subject/10484469/"&gt;管理 3.0&lt;/a&gt; 和 &lt;a href="http://book.douban.com/subject/20507350/"&gt;Scrum 要素&lt;/a&gt;，目前正在写作一本敏捷测试相关的书 &lt;a href="http://www.ituring.com.cn/book/895"&gt;大测大悟&lt;/a&gt;。本期徐毅老师到 Teahour，跟我们一起分享了他在敏捷实践，Scrum实践以及敏捷测试上的一些心得和经验。&lt;/p&gt;
 
@@ -3706,7 +4083,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/03/16/agile-and-scrum-with-xuyi.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_7.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_7.m4a</guid>
-      <pubDate>Sat, 16 Mar 2013 03:06:00 -0000</pubDate>
+      <pubDate>Sat, 16 Mar 2013 11:06:00 +0800</pubDate>
       <itunes:duration>5265</itunes:duration>
       <itunes:keywords>agile, scrum</itunes:keywords>
       <authors>
@@ -3728,7 +4105,12 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <title>#6 Git, GitHub and GitLab</title>
       <itunes:author>daniel</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://saito.im"&gt;SaitoWu&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。武鑫(Saito) 是著名自托管 Git 项目仓库开源项目 &lt;a href="http://gitlabhq.com"&gt;GitLab&lt;/a&gt; 的核心开发者之一，也是 &lt;a href="http://rubyconfchina.org"&gt;RubyConfChina 2012&lt;/a&gt; 的讲师，给大家做了期很精彩的 GitLab 实现介绍。本期我们很荣幸能请到 SaitoWu 同学来跟大家聊聊他的从业经历，他所感兴趣的话题，包括 &lt;a href="http://git-scm.com"&gt;Git&lt;/a&gt;，&lt;a href="http://github.com"&gt;GitHub&lt;/a&gt;，以及 &lt;a href="http://gitlabhq.com"&gt;GitLab&lt;/a&gt;。&lt;/p&gt;
-</itunes:summary>
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://thkoch2001.github.com/whygitisbetter/"&gt;Why Git is better than X&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.douban.com/note/145945675/"&gt;Git 为...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://saito.im"&gt;SaitoWu&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。武鑫(Saito) 是著名自托管 Git 项目仓库开源项目 &lt;a href="http://gitlabhq.com"&gt;GitLab&lt;/a&gt; 的核心开发者之一，也是 &lt;a href="http://rubyconfchina.org"&gt;RubyConfChina 2012&lt;/a&gt; 的讲师，给大家做了期很精彩的 GitLab 实现介绍。本期我们很荣幸能请到 SaitoWu 同学来跟大家聊聊他的从业经历，他所感兴趣的话题，包括 &lt;a href="http://git-scm.com"&gt;Git&lt;/a&gt;，&lt;a href="http://github.com"&gt;GitHub&lt;/a&gt;，以及 &lt;a href="http://gitlabhq.com"&gt;GitLab&lt;/a&gt;。&lt;/p&gt;
 
@@ -3779,7 +4161,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/03/11/git-github-and-gitlab.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_6.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_6.m4a</guid>
-      <pubDate>Mon, 11 Mar 2013 02:42:00 -0000</pubDate>
+      <pubDate>Mon, 11 Mar 2013 10:42:00 +0800</pubDate>
       <itunes:duration>4321</itunes:duration>
       <itunes:keywords>git, github, gitlab</itunes:keywords>
       <authors>
@@ -3805,9 +4187,15 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
 &lt;section class="notes"&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="http://www.apple.com/macbook-pro/"&gt;Macbook Pro&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/section&gt;
-</itunes:summary>
+    &lt;li&gt;&lt;a href="https://github.com/grosser/parallel_tests"&gt;Parallel Tests&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Ivy_Bridge_(microarchitecture)"&gt;Ivy Bridge&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/%E7%A1%AC%E4%BB%B6%E8%99%9A%E6%8B%9F%E5%8C%96"&gt;硬件虚拟化&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/%E8%B6%85%E5%9F%B7%E8%A1%8C%E7%B7%92"&gt;超线程&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.crucial.com/store/partspecs.aspx?imodule=CT256M4SSD2"&gt;Crucial M4&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Samsung-830-Series-MZ-7PC256N-Internal/dp/B005T3GPXY"&gt;Samsung 830&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://huangzhimin.com/"&gt;Richard Huang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.hermanmiller.com/content/hermanmiller/english/products/categories/seating/performance-work-chairs/aeron-chairs.html"&gt;Herman Miller...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt;, &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt;。本期由所有Teahour创始人和大家一起聊聊开发中用到的硬件和选购的一些技巧以及如何锻炼和保护程序员的身体。&lt;/p&gt;
 
@@ -3853,7 +4241,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/03/05/hardware-for-developers.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_5.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_5.m4a</guid>
-      <pubDate>Tue, 05 Mar 2013 10:00:00 -0000</pubDate>
+      <pubDate>Tue, 05 Mar 2013 18:00:00 +0800</pubDate>
       <itunes:duration>5066</itunes:duration>
       <itunes:keywords>hardware, lifestyle</itunes:keywords>
       <authors>
@@ -3882,8 +4270,9 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
 
 &lt;ol&gt;
   &lt;li&gt;各种 Ruby Bridge/Binding for Mac/iOS dev&lt;/li&gt;
-&lt;/ol&gt;
-</itunes:summary>
+  &lt;li&gt;Mobile Development including iOS and Android&lt;/li&gt;
+  &lt;li&gt;HTML based solution such...&lt;/li&gt;
+&lt;/ol&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，邀请了 &lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt; 的核心开发者之一和 Mac 版的作者 &lt;a href="http://ashchan.com/"&gt;Ashchan&lt;/a&gt; 给大家分享了他在 Mac 桌面应用和 iOS/Android 移动开发上的一些心得体会。同时参与嘉宾有 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;。主要涉及内容有:&lt;/p&gt;
 
@@ -3918,7 +4307,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/02/19/interview-with-ashchan-on-mobile-development.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_4.mp3" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_4.mp3</guid>
-      <pubDate>Tue, 19 Feb 2013 13:00:00 -0000</pubDate>
+      <pubDate>Tue, 19 Feb 2013 21:00:00 +0800</pubDate>
       <itunes:duration>5548</itunes:duration>
       <itunes:keywords>osx, mobile, iOS, Android, RubyMotion, MacRuby, HTML5</itunes:keywords>
       <authors>
@@ -3940,7 +4329,14 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <title>#3 Interview with xdite on personal growth</title>
       <itunes:author>kevin</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，邀请了台湾著名 Rubyist 和技术博主 &lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt;。xdite 在去年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China 2012&lt;/a&gt; 里面给做了非常精彩的演讲，在本期 podcast 里她围绕着两条主线 1) 学习成长经历，以及从T客帮到创业的职业经历 2) 如何招聘，如何培养新人和团队管理， 分享了个人心得。同时参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt; 和 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。&lt;/p&gt;
-</itunes:summary>
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://blog.xdite.net/"&gt;xdite&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.techbang.com/"&gt;T客邦&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://veryxd.net/"&gt;very XD&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Massive_open_online_course"&gt;MOOC&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，邀请了台湾著名 Rubyist 和技术博主 &lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt;。xdite 在去年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China 2012&lt;/a&gt; 里面给做了非常精彩的演讲，在本期 podcast 里她围绕着两条主线 1) 学习成长经历，以及从T客帮到创业的职业经历 2) 如何招聘，如何培养新人和团队管理， 分享了个人心得。同时参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt; 和 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。&lt;/p&gt;
 
@@ -3972,7 +4368,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/02/09/personal-growth-by-xdite.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_3.mp3" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_3.mp3</guid>
-      <pubDate>Sat, 09 Feb 2013 12:00:00 -0000</pubDate>
+      <pubDate>Sat, 09 Feb 2013 20:00:00 +0800</pubDate>
       <itunes:duration>4861</itunes:duration>
       <itunes:keywords>personal growth, team development, project management, rails training</itunes:keywords>
       <authors>
@@ -3998,7 +4394,13 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <title>#2 How to Learn Ruby and Rails</title>
       <itunes:author>daniel</itunes:author>
       <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt;。四位 Teahour.fm 的主持全部到位，一期讨论了 Ruby 与 Rails 的学习经历和对初学者的学习建议。Kevin Wang 是 Rails 在线教育 &lt;a href="http://gotealeaf.com/"&gt;GoTeaLeaf&lt;/a&gt; 的创始人之一，他介绍了一下这个课程安排的考虑以及目前 Rails 在线教学的几种不同模式。&lt;/p&gt;
-</itunes:summary>
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://hashrocket.com/"&gt;HashRocket&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://obiefernandez.com/"&gt;Obie Fernandez&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321601661"&gt;The Rails...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 和 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt;。四位 Teahour.fm 的主持全部到位，一期讨论了 Ruby 与 Rails 的学习经历和对初学者的学习建议。Kevin Wang 是 Rails 在线教育 &lt;a href="http://gotealeaf.com/"&gt;GoTeaLeaf&lt;/a&gt; 的创始人之一，他介绍了一下这个课程安排的考虑以及目前 Rails 在线教学的几种不同模式。&lt;/p&gt;
 
@@ -4029,7 +4431,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/02/03/learning-ruby-and-rails.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_2.mp3" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_podcast_2.mp3</guid>
-      <pubDate>Sun, 03 Feb 2013 14:00:00 -0000</pubDate>
+      <pubDate>Sun, 03 Feb 2013 22:00:00 +0800</pubDate>
       <itunes:duration>6632</itunes:duration>
       <itunes:keywords>ruby, rails, book, education</itunes:keywords>
       <authors>
@@ -4055,7 +4457,14 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <title>#1 The beginning of Teahour.fm show</title>
       <itunes:author>terry</itunes:author>
       <itunes:summary type="html">&lt;p&gt;迈出了第一步，由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt; 和 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。三位 Teahour.fm 的主持人讨论了自己经常听的 podcasts 和国内 Ruby/Rails 社区的现状和发展，包括 &lt;a href="http://ruby-china.org"&gt;Ruby China&lt;/a&gt; 和 &lt;a href="http://railscasts-china.org"&gt;RailsCasts China&lt;/a&gt;。之后是技术话题，讨论了自己使用过的各种 Javascript 框架。&lt;/p&gt;
-</itunes:summary>
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://grammar.quickanddirtytips.com/"&gt;Grammar Girl&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://publicspeaker.quickanddirtytips.com/"&gt;The public speaker&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://itunes.apple.com/cn/podcast/tiny4voice"&gt;Tiny4Voice&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.thisamericanlife.org/"&gt;This...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
       <description type="html">&lt;p&gt;迈出了第一步，由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持，参与嘉宾有 &lt;a href="http://lvguoning.com"&gt;Daneil Lv&lt;/a&gt; 和 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt;。三位 Teahour.fm 的主持人讨论了自己经常听的 podcasts 和国内 Ruby/Rails 社区的现状和发展，包括 &lt;a href="http://ruby-china.org"&gt;Ruby China&lt;/a&gt; 和 &lt;a href="http://railscasts-china.org"&gt;RailsCasts China&lt;/a&gt;。之后是技术话题，讨论了自己使用过的各种 Javascript 框架。&lt;/p&gt;
 
@@ -4094,7 +4503,7 @@ Hansson, 和我们一起聊聊Rails这个项目，相信你会受益良多。&lt
       <link>http://teahour.fm/2013/01/19/1st_beginning.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/nil_podcast_1.m4a" type="audio/x-m4a"/>
       <guid>http://screencasts.b0.upaiyun.com/podcasts/nil_podcast_1.m4a</guid>
-      <pubDate>Sat, 19 Jan 2013 15:00:00 -0000</pubDate>
+      <pubDate>Sat, 19 Jan 2013 23:00:00 +0800</pubDate>
       <itunes:duration>7167</itunes:duration>
       <itunes:keywords>ruby, ruby community, railscasts china, ruby china, javascript mvc</itunes:keywords>
       <authors>
