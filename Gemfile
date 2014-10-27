@@ -24,6 +24,8 @@ gem "pygments.rb"
 # Faster JSON
 gem 'oj'
 
+gem 'nokogiri'
+
 group :development do
   gem 'foreman'
 end

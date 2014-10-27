@@ -7,6 +7,7 @@ tags: ruby, rubyconf, vpncloud
 host: dingding
 guests:
   - kgen
+duration: 15:35
 ---
 
 本期是中国 Ruby 大会特辑四。今年的 RubyConf China 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的是云梯的创始人和秒视的 CTO 包桢韡（Kgen）。
