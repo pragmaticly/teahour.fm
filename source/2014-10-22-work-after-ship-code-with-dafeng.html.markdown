@@ -10,7 +10,7 @@ guests:
 duration: 18:22
 ---
 
-本期是中国 Ruby 大会特辑一。今年的 [RubyConf China](http://rubyconfchina.org) 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 个主题演讲嘉宾做会前采访。今天接受采访的 Strikingly 的联合创始人和 CTO 郭达峰。
+本期是中国 Ruby 大会特辑二。今年的 [RubyConf China](http://rubyconfchina.org) 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 个主题演讲嘉宾做会前采访。今天接受采访的 Strikingly 的联合创始人和 CTO 郭达峰。
 
 达峰在本次大会的分享主题是：“**I‘ve shipped the Code. What's next?**” 以及他怎样利用技术去做上线之后改善产品的事情。千辛万苦写完代码，各种单元测试，集成测试一应俱全，但这样是否就是能做出一个好产品呢？产品上线往往是做好一款产品的其中一部分，而很多技术人却把上线当成是终点。 产品上线前后究竟要注意些什么，如何做好 A/B Testing，Rollout，用户行为追踪等等这些事情呢？ 而这些事情对一个好产品又有什么作用呢？且听达峰道来。
 
