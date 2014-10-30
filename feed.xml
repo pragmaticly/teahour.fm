@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Thu, 30 Oct 2014 00:00:00 +0800</updated>
-    <lastBuildDate>Thu, 30 Oct 2014 00:00:00 +0800</lastBuildDate>
-    <pubDate>Thu, 30 Oct 2014 00:00:00 +0800</pubDate>
+    <updated>Fri, 31 Oct 2014 02:00:00 +0800</updated>
+    <lastBuildDate>Fri, 31 Oct 2014 02:00:00 +0800</lastBuildDate>
+    <pubDate>Fri, 31 Oct 2014 02:00:00 +0800</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -27,13 +27,49 @@
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
     <item>
+      <title>#71 RailsService: Create microservices with(or without) Rails</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期是中国 Ruby 大会特辑八。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的折800的架构师罗昕。&lt;/p&gt;
+
+&lt;p&gt;折800开发部门和人员较多，同时存在着 Ruby、Java、Scala、Python、C 等多种语言开发的功能，同时功能之间还需要打通，也就需要提供跨部门跨语言的支持。基于此，罗昕开发了 RailsService 框架，把很多独立的功能当成一个 Service 来部署，希望...&lt;/p&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期是中国 Ruby 大会特辑八。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的折800的架构师罗昕。&lt;/p&gt;
+
+&lt;p&gt;折800开发部门和人员较多，同时存在着 Ruby、Java、Scala、Python、C 等多种语言开发的功能，同时功能之间还需要打通，也就需要提供跨部门跨语言的支持。基于此，罗昕开发了 RailsService 框架，把很多独立的功能当成一个 Service 来部署，希望能通过这个框架提供良好的易用性和一致的抽象，方便我们的 Ruby 开发人员快速开发和部署服务。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ol&gt;
+    &lt;li&gt;&lt;a href="http://rubyconfchina.org"&gt;中国 Ruby 大会&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://martinfowler.com/articles/microservices.html"&gt;MicroService&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://thrift.apache.org/"&gt;Thrift&lt;/a&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/10/31/railsservice-with-luoxin.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_71.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_71.m4a</guid>
+      <pubDate>Fri, 31 Oct 2014 02:00:00 +0800</pubDate>
+      <itunes:duration>66480</itunes:duration>
+      <itunes:keywords>rubyconf</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>罗昕</name>
+          <avatar>http://teahour.fm/images/luoxin.jpg</avatar>
+        </author>
+      </authors>
+    </item>
+    <item>
       <title>#70 Internet of Dusty Things</title>
       <itunes:author>dingding</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期是中国 Ruby 大会特辑六。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的是 MRuby 的核心提交者 Daniel Bovensiepen。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期是中国 Ruby 大会特辑七。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的是 MRuby 的核心提交者 Daniel Bovensiepen。&lt;/p&gt;
 
 &lt;p&gt;Daniel 在去年的 RubyConf 上给我们介绍了 MRuby 的发展和现状，今年，他将带来真正的用 MRuby 开发的空气净化器产品，向我们展示 MRuby 在智能硬件上的可能性。北京天气现在越来越糟糕，Daniel 在...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;本期是中国 Ruby 大会特辑六。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的是 MRuby 的核心提交者 Daniel Bovensiepen。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期是中国 Ruby 大会特辑七。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的是 MRuby 的核心提交者 Daniel Bovensiepen。&lt;/p&gt;
 
 &lt;p&gt;Daniel 在去年的 RubyConf 上给我们介绍了 MRuby 的发展和现状，今年，他将带来真正的用 MRuby 开发的空气净化器产品，向我们展示 MRuby 在智能硬件上的可能性。北京天气现在越来越糟糕，Daniel 在了解了市面上很多空气净化器后，决定自己从头去实现一个空气净化器并同时开源了硬件和软件，本期就是其中的故事。Daniel 相信听完他演讲的人，回家后就能自己做一个空气净化器了。&lt;/p&gt;
 
@@ -232,11 +268,11 @@
     <item>
       <title>#65 I've shipped the Code. What's next?</title>
       <itunes:author>dingding</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期是中国 Ruby 大会特辑一。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 个主题演讲嘉宾做会前采访。今天接受采访的 Strikingly 的联合创始人和 CTO 郭达峰。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期是中国 Ruby 大会特辑二。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 个主题演讲嘉宾做会前采访。今天接受采访的 Strikingly 的联合创始人和 CTO 郭达峰。&lt;/p&gt;
 
 &lt;p&gt;达峰在本次大会的分享主题是：“&lt;strong&gt;I‘ve shipped the Code. What's next?&lt;/strong&gt;” 以及他怎样利用技术去做上线之后改善产品的事情。千辛万苦写完代码，各种单元测试，集成测试一应俱全，但这样是否就是能做出一个好产品呢？产品上...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;本期是中国 Ruby 大会特辑一。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 个主题演讲嘉宾做会前采访。今天接受采访的 Strikingly 的联合创始人和 CTO 郭达峰。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期是中国 Ruby 大会特辑二。今年的 &lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt; 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 个主题演讲嘉宾做会前采访。今天接受采访的 Strikingly 的联合创始人和 CTO 郭达峰。&lt;/p&gt;
 
 &lt;p&gt;达峰在本次大会的分享主题是：“&lt;strong&gt;I‘ve shipped the Code. What's next?&lt;/strong&gt;” 以及他怎样利用技术去做上线之后改善产品的事情。千辛万苦写完代码，各种单元测试，集成测试一应俱全，但这样是否就是能做出一个好产品呢？产品上线往往是做好一款产品的其中一部分，而很多技术人却把上线当成是终点。 产品上线前后究竟要注意些什么，如何做好 A/B Testing，Rollout，用户行为追踪等等这些事情呢？ 而这些事情对一个好产品又有什么作用呢？且听达峰道来。&lt;/p&gt;
 
