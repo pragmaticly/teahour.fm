@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Fri, 31 Oct 2014 02:00:00 +0800</updated>
-    <lastBuildDate>Fri, 31 Oct 2014 02:00:00 +0800</lastBuildDate>
-    <pubDate>Fri, 31 Oct 2014 02:00:00 +0800</pubDate>
+    <updated>Tue, 25 Nov 2014 17:00:00 +0800</updated>
+    <lastBuildDate>Tue, 25 Nov 2014 17:00:00 +0800</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2014 17:00:00 +0800</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,58 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#72 自由的思考：远程工作者的成长之路</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 Dingding 主持，邀请了我的好友兼前同事&lt;a href="http://wangyaodi.com/"&gt;王耀第&lt;/a&gt;来 Teahour 做客，聊聊这些年远程工作的经历和思考。&lt;/p&gt;
+
+&lt;p&gt;环境的影响、时间的管理，个人的成长，学习的路径，社交的拓展，你是否曾静下心来思考这些问题。今天让我们走进一个远程工作这的内心，倾听他对生活对工作的思考，自由的思考。&lt;/p&gt;
+
+&lt;p&gt;同时，推荐 Andy 的个人博客，&lt;a href="http://wangyaodi.com"&gt;http://wangyaodi.com&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;特别鸣谢：非常感谢福特汽车公司对本期节目的赞助。福特公司目前正在举办创新移动系列挑战赛，着重于解决上海和重庆出行难的交通问题...&lt;/p&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 Dingding 主持，邀请了我的好友兼前同事&lt;a href="http://wangyaodi.com/"&gt;王耀第&lt;/a&gt;来 Teahour 做客，聊聊这些年远程工作的经历和思考。&lt;/p&gt;
+
+&lt;p&gt;环境的影响、时间的管理，个人的成长，学习的路径，社交的拓展，你是否曾静下心来思考这些问题。今天让我们走进一个远程工作这的内心，倾听他对生活对工作的思考，自由的思考。&lt;/p&gt;
+
+&lt;p&gt;同时，推荐 Andy 的个人博客，&lt;a href="http://wangyaodi.com"&gt;http://wangyaodi.com&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;特别鸣谢：非常感谢福特汽车公司对本期节目的赞助。福特公司目前正在举办创新移动系列挑战赛，着重于解决上海和重庆出行难的交通问题，在此诚邀中国的开发者来参加，提出你的独特创意和想法来和福特合作，奖品总价值在 2500 美元到 15000 美元之间。有兴趣的朋友，请在 &lt;a href="http://cpo.st/goshangha"&gt;http://cpo.st/goshanghai&lt;/a&gt; 和 &lt;a href="http://cpo.st/gochongqing"&gt;http://cpo.st/gochongqing&lt;/a&gt; 注册，并在 12 月 3 号早上 6 点前提交你的作品。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://intridea.com"&gt;Intridea&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gdgxian.org"&gt;GDG&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://freeswitch.org"&gt;FreeSwitch&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://angularjs.org/"&gt;AngularJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.polymer-project.org"&gt;Polymer&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.rubymotion.com"&gt;RubyMotion&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yizaoyiwan.com"&gt;一早一晚&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/greatghoul/remote-working"&gt;远程工作资料汇总&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.shanbay.com"&gt;扇贝&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://drunkstartup.fm"&gt;醉创业&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/entries/5468626c31302d0ee87d0000"&gt;Knewone&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/11/25/thoughts-about-remote-life.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_72.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_72.m4a</guid>
+      <pubDate>Tue, 25 Nov 2014 17:00:00 +0800</pubDate>
+      <itunes:duration>4415</itunes:duration>
+      <itunes:keywords>remote</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>王耀第</name>
+          <avatar>http://teahour.fm/images/yorzi.png</avatar>
+        </author>
+      </authors>
+    </item>
     <item>
       <title>#71 RailsService: Create microservices with(or without) Rails</title>
       <itunes:author>dingding</itunes:author>
