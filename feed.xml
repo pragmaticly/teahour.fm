@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Tue, 25 Nov 2014 17:00:00 +0800</updated>
-    <lastBuildDate>Tue, 25 Nov 2014 17:00:00 +0800</lastBuildDate>
-    <pubDate>Tue, 25 Nov 2014 17:00:00 +0800</pubDate>
+    <updated>Sun, 21 Dec 2014 20:00:00 +0800</updated>
+    <lastBuildDate>Sun, 21 Dec 2014 20:00:00 +0800</lastBuildDate>
+    <pubDate>Sun, 21 Dec 2014 20:00:00 +0800</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,80 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#73 与百姓网架构师艾芙聊职业发展和工程师文化</title>
+      <itunes:author>gungun</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由袁滚滚主持，玎玎联合主持，邀请了百姓网的架构师徐雁斐(艾芙)来 Teahour 做客，聊聊她的职业经历和思考。&lt;/p&gt;
+
+&lt;p&gt;目前艾芙在百姓网负责的是其应用联盟方向的业务，在节目中，我们也能感受到百姓网浓郁的工程师逗逼文化，两位主播已经被深深的折服了。&lt;/p&gt;
+
+&lt;p&gt;本期一些有意思的话题。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;技术人员如何规划练级养成之路&lt;/li&gt;
+  &lt;li&gt;职业选择，大公司还是小公司，外企还是创业公司？&lt;/li&gt;
+  &lt;li&gt;技术和产品的关系&lt;/li&gt;
+  &lt;li&gt;云时代的工程师木匠情节&lt;/li&gt;
+  &lt;li&gt;工程师文化是什么&lt;/li&gt;
+  &lt;li&gt;百姓网的技术探索和逗逼气氛&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;目前百姓网正在举行 App...&lt;/p&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由袁滚滚主持，玎玎联合主持，邀请了百姓网的架构师徐雁斐(艾芙)来 Teahour 做客，聊聊她的职业经历和思考。&lt;/p&gt;
+
+&lt;p&gt;目前艾芙在百姓网负责的是其应用联盟方向的业务，在节目中，我们也能感受到百姓网浓郁的工程师逗逼文化，两位主播已经被深深的折服了。&lt;/p&gt;
+
+&lt;p&gt;本期一些有意思的话题。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;技术人员如何规划练级养成之路&lt;/li&gt;
+  &lt;li&gt;职业选择，大公司还是小公司，外企还是创业公司？&lt;/li&gt;
+  &lt;li&gt;技术和产品的关系&lt;/li&gt;
+  &lt;li&gt;云时代的工程师木匠情节&lt;/li&gt;
+  &lt;li&gt;工程师文化是什么&lt;/li&gt;
+  &lt;li&gt;百姓网的技术探索和逗逼气氛&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;目前百姓网正在举行 App 开发大赛，有兴趣的可以从这里了解一下：&lt;a href="http://www.baixing.com/appsdk/huodong"&gt;http://www.baixing.com/appsdk/huodong&lt;/a&gt;&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.microsoft.com/zh-cn/default.aspx"&gt;微软&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.chubao.cn"&gt;触宝&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.chubao.cn/dialerf.html"&gt;触宝电话&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baixing.com"&gt;百姓网&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.cn/%E5%A4%A7%E9%81%93%E8%87%B3%E7%AE%80-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E8%80%85%E7%9A%84%E6%80%9D%E6%83%B3-%E5%91%A8%E7%88%B1%E6%B0%91/dp/B0011F058A"&gt;周爱民 - 大道至简&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.baixing.com/appsdk/"&gt;百姓网 App 联盟&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://leancloud.cn"&gt;LeanCloud&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://shitu.baidu.com/app"&gt;百度识图&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://weibo.com/sjorchid"&gt;植物人史军&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://uxchecklist.github.io"&gt;UX Checklist&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.zhihu.com/collection/19633165"&gt;打击题主&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/12/21/talk-with-elfe-about-baixing-sdk.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_73.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_73.m4a</guid>
+      <pubDate>Sun, 21 Dec 2014 20:00:00 +0800</pubDate>
+      <itunes:duration>4626</itunes:duration>
+      <itunes:keywords>职业发展, 工程师文化</itunes:keywords>
+      <authors>
+        <author>
+          <name>袁滚滚</name>
+          <avatar>http://teahour.fm/images/gungun.jpeg</avatar>
+        </author>
+        <author>
+          <name>Elfe Xu</name>
+          <avatar>http://teahour.fm/images/elfexu.png</avatar>
+        </author>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+      </authors>
+    </item>
     <item>
       <title>#72 自由的思考：远程工作者的成长之路</title>
       <itunes:author>dingding</itunes:author>
