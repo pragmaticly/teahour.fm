@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Thu, 29 Jan 2015 16:00:00 +0800</updated>
-    <lastBuildDate>Thu, 29 Jan 2015 16:00:00 +0800</lastBuildDate>
-    <pubDate>Thu, 29 Jan 2015 16:00:00 +0800</pubDate>
+    <updated>Fri, 13 Feb 2015 18:30:00 +0800</updated>
+    <lastBuildDate>Fri, 13 Feb 2015 18:30:00 +0800</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2015 18:30:00 +0800</pubDate>
     <description>Teahour.fm 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,68 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#76 与马道长聊 Docker</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由玎玎主持，滚滚联合主持，邀请了国内 Docker 社区的&lt;a href="http://meaglith.com/"&gt;马道长马全一&lt;/a&gt;老师来 Teahour 做客，聊一聊近两年在 Ops 领域非常火热的容器工具 Docker。马老师在 Docker 刚发布的时候就已经在持续关注 Docker 的发展，同时也积极地推动 Docker 在国内的落地和发展。&lt;/p&gt;
+
+&lt;p&gt;在节目中，马老师介绍了 Docker 的历史、发展历程和国内的社区现状。想知道 Docker 在飞速发展的同时，又面临哪些机遇和挑战，想知道 Docker 的最佳使用场景和优势是什么，想知道 Docker...&lt;/p&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;本期由玎玎主持，滚滚联合主持，邀请了国内 Docker 社区的&lt;a href="http://meaglith.com/"&gt;马道长马全一&lt;/a&gt;老师来 Teahour 做客，聊一聊近两年在 Ops 领域非常火热的容器工具 Docker。马老师在 Docker 刚发布的时候就已经在持续关注 Docker 的发展，同时也积极地推动 Docker 在国内的落地和发展。&lt;/p&gt;
+
+&lt;p&gt;在节目中，马老师介绍了 Docker 的历史、发展历程和国内的社区现状。想知道 Docker 在飞速发展的同时，又面临哪些机遇和挑战，想知道 Docker 的最佳使用场景和优势是什么，想知道 Docker 有哪些问题和哪些坑，哪些场景不适合使用 Docker，那么就来收听本期节目吧。&lt;/p&gt;
+
+&lt;p&gt;就在本期对外发布的前几天，马老师的最新作品 &lt;a href="https://github.com/dockercn/wharf"&gt;Whart&lt;/a&gt; 开源发布了 0.0.3，是一个用来替代 Docker Registry 或 Docker Hub 企业版部署在内网，通过组织和 Team 管理 Docker Public/Private Repository 的 ContainerOps 平台，如果你的团队在使用 Docker，那么这就是一个你不能错过的 Docker 项目。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://book.douban.com/subject/26285268/"&gt;第一本 Docker 书&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.cloudfoundry.org/"&gt;Cloud Foundry&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://docs.cloudfoundry.org/concepts/architecture/warden.html"&gt;Warden&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ecug.org/"&gt;ECUG&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://linuxcontainers.org/"&gt;LinuxContainers&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://linuxcontainers.org/lxc/introduction/"&gt;LXC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://azure.microsoft.com/zh-cn/"&gt;Azure&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://coreos.com"&gt;CoreOS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://coreos.com/blog/rocket/"&gt;Rocket&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="en.wikipedia.org/wiki/UnionFS"&gt;UnionFileSystem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/appc/spec/blob/master/SPEC.md"&gt;App Container Spec&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.projectatomic.io/"&gt;Project Atomic&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://developer.baidu.com/cloud/rt"&gt;Baidu BAE&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://leancloud.cn"&gt;LeanCloud&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.letv.com"&gt;乐视&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://cloudscape.sohu.com"&gt;Sohu 云景&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.qingcloud.com/"&gt;青云&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ustack.com"&gt;UStack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.oschina.net/"&gt;OSChina&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/26244729/"&gt;Golang 并发编程实战&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.dji.com/cn"&gt;大疆四轴飞行器&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ehang.com/"&gt;亿航&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.infoq.com/cn/articles/docker-core-technology-preview"&gt;深入浅出 Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2015/02/13/docker-introduction.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_76.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_76.m4a</guid>
+      <pubDate>Fri, 13 Feb 2015 18:30:00 +0800</pubDate>
+      <itunes:duration>4949</itunes:duration>
+      <itunes:keywords>docker</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>马全一</name>
+          <avatar>http://teahour.fm/images/meaglith.jpeg</avatar>
+        </author>
+        <author>
+          <name>袁滚滚</name>
+          <avatar>http://teahour.fm/images/gungun.jpeg</avatar>
+        </author>
+      </authors>
+    </item>
     <item>
       <title>#75 Strikingly 的 Growth Hacking 之路</title>
       <itunes:author>gungun</itunes:author>
