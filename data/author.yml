@@ -12,7 +12,7 @@ daniel:
   name: "Daniel Lv"
   email: "lgn21st@gmail.com"
   avatar: "daniel.png"
-  link: "http://lvguoning.com"
+  link: "http://weibo.com/lgn21st"
 kevin:
   name: "Kevin Wang"
   email: "knwang@gmail.com"
@@ -319,3 +319,7 @@ meaglith:
   name: "马全一"
   avatar: "meaglith.jpeg"
   link: "http://meaglith.com/"
+robbin_fan:
+  name: "范恺"
+  avatar: "robbin_fan.jpg"
+  link: "http://robbinfan.com"
