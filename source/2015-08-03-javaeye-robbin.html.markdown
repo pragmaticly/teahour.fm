@@ -1,7 +1,7 @@
 ---
 idx: 77
 title: "专访原 JavaEye 的创始人 Robbin"
-date: 2015-08-03 09:00 +08:00
+date: 2015-08-03 00:00 +08:00
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_77.m4a"
 tags: JavaEye
 host: daniel
