@@ -2,13 +2,13 @@
 idx: 77
 title: "专访原 JavaEye 的创始人 Robbin"
 date: 2015-08-03 00:00 +08:00
-mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_77.m4a"
+mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_77_v2.m4a"
 tags: JavaEye
 host: daniel
 guests:
   - robbin_fan
   - terry
-duration: 02:14:10
+duration: 02:17:27
 ---
 
 本期由消失了一年多的 Daniel 和 Terry 共同主持，邀请了 JavaEye（ITEye的前身）的创始人 Robbin 范凯来 Teahour 做客，聊一聊他最初创建 JavaEye 的经历，以及如何运营好一个技术社区，包括后来为什么 JavaEye 被 CSDN 收购并更名为 ITEye，以及 Robbin 在 CSDN 四年 CTO 的有趣经历。
