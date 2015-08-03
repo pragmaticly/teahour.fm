@@ -63,4 +63,4 @@ duration: 02:14:10
 * [肉饼铺子](http://robbinfan.com/blog/47/weixin-robbin)
 </section>
 
-BTW: 在 Pick 环节，Daniel 原本打算推荐湾区日报，但是口误说成了弯曲评论，导致我么的 Robbin 被误导，后来我们发现弯曲评论也是一个非常有趣且值得推荐的媒体，所以就一起推荐给大家。
+BTW: 在 Pick 环节，Daniel 原本打算推荐湾区日报，但是口误说成了弯曲评论，导致我们的 Robbin 被误导，后来我们发现弯曲评论也是一个非常有趣且值得推荐的媒体，所以就一起推荐给大家。
