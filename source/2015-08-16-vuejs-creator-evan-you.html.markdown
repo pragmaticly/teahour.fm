@@ -1,6 +1,6 @@
 ---
 idx: 78
-title: "和 Vue.js 框架的作者聊聊"
+title: "和 Vue.js 框架的作者聊聊前端框架开发背后的故事"
 date: 2015-08-16 21:00 +08:00
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_78.m4a"
 tags: vuejs
@@ -73,4 +73,4 @@ duration: 01:56:56
 </section>
 
 BTW:
-录制中途，突然楼上开始敲东西，虽然后期处理做了一些处理， 但是可能还是略有影响，但并无大碍，希望大家多多饱含.
+录制中途，突然楼上开始敲东西，虽然后期做了一些处理， 但是可能还是略有影响，但并无大碍，希望大家多多饱含.
