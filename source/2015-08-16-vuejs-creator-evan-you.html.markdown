@@ -43,6 +43,7 @@ duration: 01:56:56
 * [React Virtual DOM](https://facebook.github.io/react/docs/glossary.html)
 * [shouldComponentUpdate (React)](https://facebook.github.io/react/docs/advanced-performance.html)
 * [Flux](https://facebook.github.io/flux/)
+* [Immutable JS](https://facebook.github.io/immutable-js/)
 * [CommonJS](http://wiki.commonjs.org/wiki/Modules/1.1)
 * [substack](http://substack.net/)
 * [Browserify](http://browserify.org/)
