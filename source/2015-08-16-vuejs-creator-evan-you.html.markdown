@@ -70,6 +70,7 @@ duration: 01:56:56
 * [硬派健身](https://book.douban.com/subject/26359758/)
 * [硬派健身 － 知乎专栏](http://zhuanlan.zhihu.com/oh-hard/19675148)
 * [Python China](https://python-china.org/)
+* [青城 Theme](https://github.com/zerqu/qingcheng)
 </section>
 
 BTW:
