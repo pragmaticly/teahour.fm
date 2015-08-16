@@ -22,10 +22,13 @@ duration: 01:56:56
 * [Clojure](http://clojure.org/)
 * [Colgate University](http://www.colgate.edu/)
 * [ActionScript](https://en.wikipedia.org/wiki/ActionScript)
-* [Zachary Lieberman](https://en.wikipedia.org/wiki/Zachary_Lieberman)
+* [Zachary Lieberman](http://thesystemis.com/)
 * [openframeworks](http://www.openframeworks.cc/)
 * [three.js](http://threejs.org/)
-* [Google Creative Lab](https://www.facebook.com/pages/Google-Creative-Lab/267904113254214)
+* [Google Creative Lab](http://www.thefwa.com/profile/google-creative-lab)
+* [Google Data Arts Team](https://github.com/dataarts)
+* [Aaron Koblin](http://www.aaronkoblin.com/)
+* [Chrome Experiments](https://www.chromeexperiments.com/)
 * [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection)
 * [Object.defineProperty()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty)
 * [Knockout](http://knockoutjs.com/)
@@ -40,7 +43,7 @@ duration: 01:56:56
 * [React Virtual DOM](https://facebook.github.io/react/docs/glossary.html)
 * [shouldComponentUpdate (React)](https://facebook.github.io/react/docs/advanced-performance.html)
 * [Flux](https://facebook.github.io/flux/)
-* [CommonJS](http://requirejs.org/docs/commonjs.html)
+* [CommonJS](http://wiki.commonjs.org/wiki/Modules/1.1)
 * [substack](http://substack.net/)
 * [Browserify](http://browserify.org/)
 * [webpack](http://webpack.github.io/)
@@ -75,3 +78,5 @@ duration: 01:56:56
 
 BTW:
 录制中途，突然楼上开始敲东西，虽然后期做了一些处理， 但是可能还是略有影响，但并无大碍，希望大家多多饱含.
+
+小右口误更正： “小右到达美国的时间是 09 年”
