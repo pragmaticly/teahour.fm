@@ -43,6 +43,6 @@ duration: 01:49:52
 * [Sketch](http://bohemiancoding.com/sketch/)
 * [妹尾河童](https://zh.wikipedia.org/wiki/妹尾河童)
 * [窥视厕所](https://book.douban.com/subject/5924289/)
-* [Traction](http://bohemiancoding.com/sketch/)
+* [Traction](http://www.amazon.com/Traction-Startup-Guide-Getting-Customers/dp/0976339609)
 * [DuckDuckGo](https://duckduckgo.com)
 </section>
