@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Fri, 13 Feb 2015 18:30:00 +0800</updated>
-    <lastBuildDate>Fri, 13 Feb 2015 18:30:00 +0800</lastBuildDate>
-    <pubDate>Fri, 13 Feb 2015 18:30:00 +0800</pubDate>
+    <updated>Mon, 21 Sep 2015 11:00:00 +0800</updated>
+    <lastBuildDate>Mon, 21 Sep 2015 11:00:00 +0800</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2015 11:00:00 +0800</pubDate>
     <description>Teahour.fm 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,320 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#80 码农周刊和开发者头条：技术人的干货分享平台</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt;主持，邀请了&lt;a href="http://toutiao.io/"&gt;开发者头条&lt;/a&gt;和&lt;a href="http://weekly.manong.io/"&gt;码农周刊&lt;/a&gt;的创办人戚祥来 Teahour 做客。说起码农周刊和开发者头条，可能大家都已经很熟悉了，小编本人每天有空也会看几篇。但是对于这两个产品背后的人，相信大部分人并不太熟悉。所以这次有幸邀请了同为媒体圈的戚祥同学，我们来聊聊技术媒体的那些事，-。-&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://toutiao.com"&gt;今日头条&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/nemoTyrant/manong"&gt;码农周刊整理&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://itunes.apple.com/cn/app/yuan-yi-yue/id990227579"&gt;猿已阅&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.growingio.com/2015/07/29/build-the-fun"&gt;Hardcore, building the fun！&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://signalvnoise.com/"&gt;Signal v. Noise&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zachholman.com/"&gt;Zach Holman&lt;/a&gt;&lt;/li&gt;
+  ...&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt;主持，邀请了&lt;a href="http://toutiao.io/"&gt;开发者头条&lt;/a&gt;和&lt;a href="http://weekly.manong.io/"&gt;码农周刊&lt;/a&gt;的创办人戚祥来 Teahour 做客。说起码农周刊和开发者头条，可能大家都已经很熟悉了，小编本人每天有空也会看几篇。但是对于这两个产品背后的人，相信大部分人并不太熟悉。所以这次有幸邀请了同为媒体圈的戚祥同学，我们来聊聊技术媒体的那些事，-。-&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://toutiao.com"&gt;今日头条&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/nemoTyrant/manong"&gt;码农周刊整理&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://itunes.apple.com/cn/app/yuan-yi-yue/id990227579"&gt;猿已阅&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.growingio.com/2015/07/29/build-the-fun"&gt;Hardcore, building the fun！&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://signalvnoise.com/"&gt;Signal v. Noise&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zachholman.com/"&gt;Zach Holman&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://hardthings.bhorowitz.com"&gt;The Hard Thing About Hard Things&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://37signals.com/rework/"&gt;Rework&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.confluent.io/blog/using-logs-to-build-a-solid-data-infrastructure-or-why-dual-writes-are-a-bad-idea/"&gt;Using logs to build a solid data infrastructure&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://dataintensive.net"&gt;Designing Data-Intensive Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2015/09/21/talk-with-qixiang-about-toutiaoio.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_80.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_80.m4a</guid>
+      <pubDate>Mon, 21 Sep 2015 11:00:00 +0800</pubDate>
+      <itunes:duration>6060</itunes:duration>
+      <itunes:keywords>开发者头条</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>戚祥</name>
+          <avatar>http://teahour.fm/images/qixiang.jpg</avatar>
+        </author>
+      </authors>
+    </item>
+    <item>
+      <title>#79 隐居大理钻研技术的 hacker</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 主持，采访到了 &lt;a href="http://sike.io/"&gt;思客教学&lt;/a&gt; 的创始人 &lt;a href="http://sike.io/"&gt;Howard&lt;/a&gt;。 他生于台湾，学在加拿大，边环游世界边 coding,
+现在隐居大理钻研技术和做教学。 和这样酷酷的 hacker 聊聊 Web 前后端技术趋势以及技术教学，还有他酷酷的生活。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://fourhourworkweek.com"&gt;The 4-Hour Workweek&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Prolog"&gt;Prolog&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language"&gt;UML&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://struts.apache.org"&gt;Struts&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.paulgraham.com"&gt;Paul Graham&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gigamonkeys.com/book/"&gt;Practical Common Lisp&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Continuation-passing_style"&gt;Continuation-passing...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 主持，采访到了 &lt;a href="http://sike.io/"&gt;思客教学&lt;/a&gt; 的创始人 &lt;a href="http://sike.io/"&gt;Howard&lt;/a&gt;。 他生于台湾，学在加拿大，边环游世界边 coding,
+现在隐居大理钻研技术和做教学。 和这样酷酷的 hacker 聊聊 Web 前后端技术趋势以及技术教学，还有他酷酷的生活。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://fourhourworkweek.com"&gt;The 4-Hour Workweek&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Prolog"&gt;Prolog&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language"&gt;UML&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://struts.apache.org"&gt;Struts&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.paulgraham.com"&gt;Paul Graham&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gigamonkeys.com/book/"&gt;Practical Common Lisp&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Continuation-passing_style"&gt;Continuation-passing style&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyonrails.org"&gt;Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://flask.pocoo.org"&gt;Flask&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.djangoproject.com"&gt;Django&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.sinatrarb.com"&gt;Sinatra&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/thoughtbot/paperclip"&gt;Paperclip&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/carrierwaveuploader/carrierwave"&gt;CarrierWave&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://cakephp.org"&gt;CakePHP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://laravel.com"&gt;Laravel&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.meteor.com/ddp"&gt;Meteor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.meteor.com/ddp"&gt;DDP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rich_Internet_application"&gt;Rich Internet application&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/facebook/graphql"&gt;GraphQL&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.strikingly.com"&gt;Strikingly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://facebook.github.io/flux/"&gt;Flux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/rackt/redux"&gt;Redux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/omcljs/om"&gt;Om&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://sike.io/"&gt;思客教学&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://railscasts-china.com"&gt;railscasts-china&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://bohemiancoding.com/sketch/"&gt;Sketch&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://zh.wikipedia.org/wiki/妹尾河童"&gt;妹尾河童&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://book.douban.com/subject/5924289/"&gt;窥视厕所&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Traction-Startup-Guide-Getting-Customers/dp/0976339609"&gt;Traction&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://duckduckgo.com"&gt;DuckDuckGo&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2015/08/31/hakcing-in-dali.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_79.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_79.m4a</guid>
+      <pubDate>Mon, 31 Aug 2015 09:00:00 +0800</pubDate>
+      <itunes:duration>6592</itunes:duration>
+      <itunes:keywords>rails, node, react</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>Howard</name>
+          <avatar>http://teahour.fm/images/howard.png</avatar>
+        </author>
+      </authors>
+    </item>
+    <item>
+      <title>#78 和 Vue.js 框架的作者聊聊前端框架开发背后的故事</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 和 &lt;a href="http://weibo.com/rollrollyuan"&gt;袁滚滚&lt;/a&gt; 一起主持， 邀请到了 &lt;a href="http://vuejs.org/"&gt;Vue.js&lt;/a&gt; 的作者 &lt;a href="http://weibo.com/arttechdesign"&gt;尤小右&lt;/a&gt;, 聊聊前端框架开发背后的故事。&lt;/p&gt;
+
+&lt;p&gt;这一期我们将聊到非常多前端框架和技术，大家也可以听到小右同学对各种前端框架和技术的点评，如果你正愁如何选择你的前端工具栈, 我相信这一期将会对你有非常大的帮助。(涉及到的技术包含 Knockout, BackboneJS, Spine, Marionette, AngularJS, Ember, Ractive.js, React, Flux, webpack, Karma...&lt;/p&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 和 &lt;a href="http://weibo.com/rollrollyuan"&gt;袁滚滚&lt;/a&gt; 一起主持， 邀请到了 &lt;a href="http://vuejs.org/"&gt;Vue.js&lt;/a&gt; 的作者 &lt;a href="http://weibo.com/arttechdesign"&gt;尤小右&lt;/a&gt;, 聊聊前端框架开发背后的故事。&lt;/p&gt;
+
+&lt;p&gt;这一期我们将聊到非常多前端框架和技术，大家也可以听到小右同学对各种前端框架和技术的点评，如果你正愁如何选择你的前端工具栈, 我相信这一期将会对你有非常大的帮助。(涉及到的技术包含 Knockout, BackboneJS, Spine, Marionette, AngularJS, Ember, Ractive.js, React, Flux, webpack, Karma， Jasmine 等等等等)&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://www.meteor.com/"&gt;Meteor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.newschool.edu/parsons/"&gt;Parsons School of Design&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://clojure.org/"&gt;Clojure&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.colgate.edu/"&gt;Colgate University&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/ActionScript"&gt;ActionScript&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://thesystemis.com/"&gt;Zachary Lieberman&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.openframeworks.cc/"&gt;openframeworks&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://threejs.org/"&gt;three.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.thefwa.com/profile/google-creative-lab"&gt;Google Creative Lab&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/dataarts"&gt;Google Data Arts Team&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.aaronkoblin.com/"&gt;Aaron Koblin&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.chromeexperiments.com/"&gt;Chrome Experiments&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Dependency_injection"&gt;Dependency injection&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty"&gt;Object.defineProperty()&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knockoutjs.com/"&gt;Knockout&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://backbonejs.org/"&gt;Backbone.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://spinejs.com/"&gt;Spine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://angularjs.org/"&gt;AngularJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://marionettejs.com/"&gt;Marionette&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Model_View_ViewModel"&gt;MVVM&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://emberjs.com/blog/2015/05/05/glimmer-merging.html"&gt;Glimmer&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ractivejs.org/"&gt;Ractive&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://facebook.github.io/react/"&gt;React&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://facebook.github.io/react/docs/glossary.html"&gt;React Virtual DOM&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://facebook.github.io/react/docs/advanced-performance.html"&gt;shouldComponentUpdate (React)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://facebook.github.io/flux/"&gt;Flux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://facebook.github.io/immutable-js/"&gt;Immutable JS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://wiki.commonjs.org/wiki/Modules/1.1"&gt;CommonJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://substack.net/"&gt;substack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://browserify.org/"&gt;Browserify&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://webpack.github.io/"&gt;webpack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://babeljs.io/"&gt;Babel&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://coffeescript.org/"&gt;CoffeeScript&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.typescriptlang.org/"&gt;TypeScript&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://jasmine.github.io/"&gt;Jasmine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mochajs.org/"&gt;Mocha&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://karma-runner.github.io/0.13/index.html"&gt;Karma&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.seleniumhq.org/"&gt;Selenium&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://casperjs.org/"&gt;CasperJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://phantomjs.org/"&gt;PhantomJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://nightwatchjs.org/"&gt;Nightwatch.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://saucelabs.com/"&gt;Sauce Labs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.browserstack.com/"&gt;BrowserStack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://dailyjs.com/"&gt;DailyJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://laravel.com/"&gt;Laravel&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://laracasts.com/"&gt;Laracasts&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://processing.org/"&gt;Processing&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tastejs.com/"&gt;TasteJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://avalonjs.github.io/"&gt;Avalon&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.zhihu.com/people/evanyou"&gt;尤小右 知乎&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://facebook.github.io/relay/"&gt;Relay&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/tildeio/ember-cli-fastboot"&gt;Ember FastBoot&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/mhart/react-server-example"&gt;react-server-example&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gfxiong.com/"&gt;功夫熊&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://book.douban.com/subject/26359758/"&gt;硬派健身&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zhuanlan.zhihu.com/oh-hard/19675148"&gt;硬派健身 － 知乎专栏&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://python-china.org/"&gt;Python China&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/zerqu/qingcheng"&gt;青城 Theme&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;p&gt;BTW:
+录制中途，突然楼上开始敲东西，虽然后期做了一些处理， 但是可能还是略有影响，但并无大碍，希望大家多多饱含.&lt;/p&gt;
+
+&lt;p&gt;小右口误更正：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;小右到达美国的时间是 05 年&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Typescript 是有类型推导的&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      <link>http://teahour.fm/2015/08/16/vuejs-creator-evan-you.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_78.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_78.m4a</guid>
+      <pubDate>Sun, 16 Aug 2015 21:00:00 +0800</pubDate>
+      <itunes:duration>7016</itunes:duration>
+      <itunes:keywords>vuejs</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>尤小右</name>
+          <avatar>http://teahour.fm/images/youxiaoyou.png</avatar>
+        </author>
+        <author>
+          <name>袁滚滚</name>
+          <avatar>http://teahour.fm/images/gungun.jpeg</avatar>
+        </author>
+      </authors>
+    </item>
+    <item>
+      <title>#77 专访原 JavaEye 的创始人 Robbin</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由消失了一年多的 Daniel 和 Terry 共同主持，邀请了 JavaEye（ITEye的前身）的创始人 Robbin 范凯来 Teahour 做客，聊一聊他最初创建 JavaEye 的经历，以及如何运营好一个技术社区，包括后来为什么 JavaEye 被 CSDN 收购并更名为 ITEye，以及 Robbin 在 CSDN 四年 CTO 的有趣经历。&lt;/p&gt;
+
+&lt;p&gt;我们相信大部分80后的程序员，开发者一定对 JavaEye 还有深刻的记忆？当时的 JavaEye 可谓群星闪耀，谈到当年 JavaEye...&lt;/p&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;本期由消失了一年多的 Daniel 和 Terry 共同主持，邀请了 JavaEye（ITEye的前身）的创始人 Robbin 范凯来 Teahour 做客，聊一聊他最初创建 JavaEye 的经历，以及如何运营好一个技术社区，包括后来为什么 JavaEye 被 CSDN 收购并更名为 ITEye，以及 Robbin 在 CSDN 四年 CTO 的有趣经历。&lt;/p&gt;
+
+&lt;p&gt;我们相信大部分80后的程序员，开发者一定对 JavaEye 还有深刻的记忆？当时的 JavaEye 可谓群星闪耀，谈到当年 JavaEye 上的英雄谱，恐怕没有人会像 Robbin 那样如数家珍。当谈到 JavaEye 被收购时，我们引出了一个问题：程序员在大时代发展契机中如何自处？其他还包括 Robbin 对技术趋势的判断，以及如何搭建团队，做产品，运营等方面的精彩分享…&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.iteye.com"&gt;JavaEye / ITEye&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.csdn.net"&gt;CSDN&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Enterprise_JavaBeans"&gt;EJB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://hibernate.org"&gt;Hibernate&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://dlee.iteye.com"&gt;Dlee 李鲲&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.iteye.com/news/52"&gt;Fielding关于REST的博士论文&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://potian.iteye.com/blog/post"&gt;Potian&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://zh.wikipedia.org/wiki/敏捷软件开发"&gt;敏捷软件开发&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://zh.wikipedia.org/wiki/极限编程"&gt;极限编程&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://zh.wikipedia.org/wiki/测试驱动开发"&gt;测试驱动开发&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.erlang.org"&gt;Erlang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://trustno1.iteye.com"&gt;Trustno1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://mitpress.mit.edu/sicp/"&gt;SICP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Smalltalk"&gt;SmallTalk&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://caoxg.iteye.com"&gt;曹晓刚&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.nasa.gov"&gt;NASA&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.jboss.org"&gt;JBoss&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zbw.iteye.com"&gt;庄表伟&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.qunar.com"&gt;去哪儿&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.tuniu.com"&gt;途牛&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://quake.iteye.com"&gt;QuakeWang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://readonly.iteye.com"&gt;ReadOnly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gigix.iteye.com"&gt;gigix&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ozzzzzz.iteye.com"&gt;ozzzzzz&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://ruby-china.org"&gt;RubyChina&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://robbin.iteye.com/blog/24361"&gt;关于“牛逼哄哄的露怯”&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.itpub.net"&gt;ITPUB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://dbanotes.net"&gt;冯大辉&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://nodejs.org"&gt;NodeJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://golang.org"&gt;Golang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.instapaper.com"&gt;Instapaper&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.marco.org"&gt;Marco Arment&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/1426848/"&gt;Expert One-on-One J2EE Development without EJB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.lagou.com"&gt;拉勾网&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://100offer.com"&gt;100offer&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://36kr.com"&gt;36Kr&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://gitcafe.com"&gt;Gitcafe&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://weibo.com/turingbook"&gt;刘江&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://chloerei.com"&gt;Rei&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/10945606/"&gt;精益创业&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://movie.mtime.com/48615/"&gt;当幸福来敲门&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.codeschool.com/shows/feature-focus"&gt;Code School - Feature focus&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.valleytalk.org"&gt;湾区评论&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://wanqu.co"&gt;湾区日报&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://robbinfan.com/blog/47/weixin-robbin"&gt;肉饼铺子&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;p&gt;BTW: 在 Pick 环节，Daniel 原本打算推荐湾区日报，但是口误说成了弯曲评论，导致我们的 Robbin 被误导，后来我们发现弯曲评论也是一个非常有趣且值得推荐的媒体，所以就一起推荐给大家。&lt;/p&gt;
+</description>
+      <link>http://teahour.fm/2015/08/03/javaeye-robbin.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_77_v2.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_77_v2.m4a</guid>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 +0800</pubDate>
+      <itunes:duration>8247</itunes:duration>
+      <itunes:keywords>JavaEye</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>范凯</name>
+          <avatar>http://teahour.fm/images/robbin_fan.jpg</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+      </authors>
+    </item>
     <item>
       <title>#76 与马道长聊 Docker</title>
       <itunes:author>dingding</itunes:author>
