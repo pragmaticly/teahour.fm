@@ -15,7 +15,7 @@ duration: 01:22:29
 
 在节目中，马老师介绍了 Docker 的历史、发展历程和国内的社区现状。想知道 Docker 在飞速发展的同时，又面临哪些机遇和挑战，想知道 Docker 的最佳使用场景和优势是什么，想知道 Docker 有哪些问题和哪些坑，哪些场景不适合使用 Docker，那么就来收听本期节目吧。
 
-就在本期对外发布的前几天，马老师的最新作品 [Whart](https://github.com/dockercn/wharf) 开源发布了 0.0.3，是一个用来替代 Docker Registry 或 Docker Hub 企业版部署在内网，通过组织和 Team 管理 Docker Public/Private Repository 的 ContainerOps 平台，如果你的团队在使用 Docker，那么这就是一个你不能错过的 Docker 项目。
+就在本期对外发布的前几天，马老师的最新作品 [Whart](https://github.com/dockercn/wharf) 开源发布了 0.0.3，是一个用来替代 Docker Registry 或 Docker Hub 企业版部署在内网，通过组织和 Team 管理 Docker Public/Private Repository 的 ContainerOps 平台，如果你的团队在使用 Docker，那么这就是一个你不能错过的 Docker 项目，查看戳[这里](https://github.com/dockercn/wharf)。
 
 <section class="notes" markdown="1">
 * [第一本 Docker 书](https://book.douban.com/subject/26285268/)
