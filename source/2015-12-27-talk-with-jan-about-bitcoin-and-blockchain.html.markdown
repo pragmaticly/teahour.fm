@@ -19,6 +19,7 @@ duration: 02:11:19
 <section class="notes" markdown="1">
 * [Intridea](http://www.intridea.com/)
 * [Peatio](https://github.com/peatio/peatio)
+* [LMAX Disruptor](https://lmax-exchange.github.io/disruptor/)
 * [archlinux](https://www.archlinux.org/)
 * [bspwm](https://github.com/baskerville/bspwm)
 * [plan9](http://plan9.bell-labs.com/plan9/)
