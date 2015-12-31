@@ -24,7 +24,7 @@ duration: 1:42:31
 * [Andor Chen](http://weibo.com/andor27) 提供的 3本 [Ruby on Rails Tutorial 中文版](http://railstutorial-china.org/)电子书
 * [XDite](http://blog.xdite.net/) 提供的3本 [Rails 101](https://leanpub.com/rails-101) 电子书以及 3份一年期的[Logdown](http://logdown.com/)高级帐号。
 * [貔貅交易所](https://peatio.com/) 提供的3个比特币红包
-* [云梯](https://www.ytvpn.com/) 提供的3个免费 VPN 帐号(可使用3个月)
+* [云梯](https://www.ytpub.com) 提供的3个免费 VPN 帐号(可使用3个月)
 
 <section class="notes" markdown="1">
 * [AngularJS](http://angularjs.org/)
