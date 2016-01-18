@@ -1,6 +1,6 @@
 ---
 idx: 83
-title: "聊聊比特币背后的技术和Blockchain"
+title: "这次我们聊聊超酷的Ethereum"
 date: 2016-01-19 00:00 +8:00
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_83.m4a"
 tags: ethereum, blockchain
@@ -13,7 +13,7 @@ duration: 02:28:31
 
 **本期节目由 [思客教学](http://sike.io/?ref=teahour) 赞助，思客教学正在进行 [React 全端训练营招生](http://v2ex.com/t/248105), 如果报名时说明你是 Teahour 听众, 你将获得 100 元优惠, 我们也将获得 100元的赞助, 感谢你的支持.**
 
-本期为 Teahour.FM 三周年特别节目, 由 [Terry](http://weibo.com/poshboytl) 主持, 继续请到了他的最好基友 [Jan](http://weibo.com/p/1005055581685994), 基于 [Ethereum](https://www.ethereum.org/) 平台的开发.
+本期为 Teahour.FM 三周年特别节目, 由 [Terry](http://weibo.com/poshboytl) 主持, 继续请到了他的最好基友 [Jan](http://weibo.com/p/1005055581685994), 聊聊基于 [Ethereum](https://www.ethereum.org/) 平台的开发.
 
 <section class="notes" markdown="1">
 * [主持人 Terry 的 blog](http://terrytai.me/)
