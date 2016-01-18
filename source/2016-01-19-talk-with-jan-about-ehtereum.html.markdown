@@ -15,6 +15,8 @@ duration: 02:28:31
 
 本期为 Teahour.FM 三周年特别节目, 由 [Terry](http://weibo.com/poshboytl) 主持, 继续请到了他的最好基友 [Jan](http://weibo.com/p/1005055581685994), 聊聊基于 [Ethereum](https://www.ethereum.org/) 平台的开发.
 
+我们的反馈邮箱是: hi@teahour.fm 欢迎你的来信, 我们将抽取有价值的来信和反馈在节目中播出.
+
 <section class="notes" markdown="1">
 * [主持人 Terry 的 blog](http://terrytai.me/)
 * [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (1)](http://terrytai.me/salary-from-50rmb-to-100usd/)
