@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 21 Sep 2015 11:00:00 +0800</updated>
-    <lastBuildDate>Mon, 21 Sep 2015 11:00:00 +0800</lastBuildDate>
-    <pubDate>Mon, 21 Sep 2015 11:00:00 +0800</pubDate>
+    <updated>Tue, 19 Jan 2016 00:00:00 +0800</updated>
+    <lastBuildDate>Tue, 19 Jan 2016 00:00:00 +0800</lastBuildDate>
+    <pubDate>Tue, 19 Jan 2016 00:00:00 +0800</pubDate>
     <description>Teahour.fm 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,283 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#83 这次我们聊聊超酷的Ethereum</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;&lt;strong&gt;本期节目由 &lt;a href="http://sike.io/?ref=teahour"&gt;思客教学&lt;/a&gt; 赞助，思客教学正在进行 &lt;a href="http://v2ex.com/t/248105"&gt;React 全端训练营招生&lt;/a&gt;, 如果报名时说明你是 Teahour 听众, 你将获得 100 元优惠, 我们也将获得 100元的赞助, 感谢你的支持.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本期为 Teahour.FM 三周年特别节目, 由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 主持, 继续请到了他的最好基友 &lt;a href="http://weibo.com/p/1005055581685994"&gt;Jan&lt;/a&gt;, 聊聊基于 &lt;a href="https://www.ethereum.org/"&gt;Ethereum&lt;/a&gt; 平台的开发.&lt;/p&gt;
+
+&lt;p&gt;我们的反馈邮箱是: hi@teahour.fm 欢迎你的来信, 我们将抽取有价值的来信和反馈在节目中播出.&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.me/"&gt;主持人 Terry ...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;&lt;strong&gt;本期节目由 &lt;a href="http://sike.io/?ref=teahour"&gt;思客教学&lt;/a&gt; 赞助，思客教学正在进行 &lt;a href="http://v2ex.com/t/248105"&gt;React 全端训练营招生&lt;/a&gt;, 如果报名时说明你是 Teahour 听众, 你将获得 100 元优惠, 我们也将获得 100元的赞助, 感谢你的支持.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本期为 Teahour.FM 三周年特别节目, 由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 主持, 继续请到了他的最好基友 &lt;a href="http://weibo.com/p/1005055581685994"&gt;Jan&lt;/a&gt;, 聊聊基于 &lt;a href="https://www.ethereum.org/"&gt;Ethereum&lt;/a&gt; 平台的开发.&lt;/p&gt;
+
+&lt;p&gt;我们的反馈邮箱是: hi@teahour.fm 欢迎你的来信, 我们将抽取有价值的来信和反馈在节目中播出.&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.me/"&gt;主持人 Terry 的 blog&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.me/salary-from-50rmb-to-100usd/"&gt;我如何把薪水从 50人民币/天 提升到 100美元/小时的 (1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.solidot.org/story?mode=flat&amp;amp;sid=46893"&gt;核心开发者宣布比特币实验失败&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://sstephenson.us/"&gt;Sam Stephenson&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/sstephenson/status/687677053219438592"&gt;Sam tweet 1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/sstephenson/status/687684570175553536"&gt;Sam tweet 2&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://guides.rubyonrails.org/asset_pipeline.html"&gt;Asset Pipeline&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://prototypejs.org/"&gt;Prototype JS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://backbonejs.org/"&gt;Backbone JS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/rbenv/rbenv"&gt;rbenv&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://rvm.io/"&gt;rvm&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.holovaty.com/"&gt;Adrian Holovaty&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/adrianholovaty/status/687686819236941824"&gt;Adrian tweet&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://37signals.com/talks/soundslice"&gt;Adrian’s presentation at 37Singal&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.djangoproject.com/"&gt;Django:&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.blockchainlabs.org/"&gt;wanxiang blockchain labs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Deloitte"&gt;德勤(Deloitte)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ethereum.org/"&gt;Ethereum&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://about.me/vitalik_buterin"&gt;Vitalik&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/vbuterin"&gt;Vitalik github account&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.ethereum.org/author/vitalik-buterin/"&gt;Vitalik Blog&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://bitcoinmagazine.com/"&gt;Bitcoin Magazine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.python.org/dev/peps/pep-0020/"&gt;The Zen of Python&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.rubymotion.com/"&gt;RubyMotion&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Halting_problem"&gt;Halting Problem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.ethereum.org/2014/07/11/toward-a-12-second-block-time/"&gt;Toward a 12-second Block Time&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ethfans.org/posts/understanding-serenity-part-ii-casper"&gt;Casper&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://basho.com/products/#riak"&gt;Riak&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://blog.synereo.com/2015/07/23/Ethereum-+-Synereo/"&gt;Formalize Casper&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/ethereum/EIPs/issues/53"&gt;Binary Sharding&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/"&gt;Public vs Private Blockchain&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://raft.github.io/"&gt;Raft Consensus Algorithm&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Homomorphic_encryption"&gt;同态加密&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=j23HnORQXvs"&gt;Ethereum: the World Computer&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Thomas_Schelling"&gt;Thomas Schelling&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/"&gt;SchellingCoin&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://lightning.network/"&gt;lightning network&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.jeffcoleman.ca/state-channels/"&gt;State Channels&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://ipfs.com"&gt;IPFS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://forum.ethereum.org/categories/swarm"&gt;Swarm&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://storj.io/"&gt;Storj&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://slock.it"&gt;Slock&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://etherboard.io/"&gt;百万格子&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://ethereumpyramid.com/"&gt;庞氏合约&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/randao/randao"&gt;RANDAO&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ethereum-alarm-clock.com/"&gt;Alarm Clock&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ethfans.org/"&gt;ethfans&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://cloudmagic.com/"&gt;CloudMagic&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2016/01/19/talk-with-jan-about-ehtereum.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_83.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_83.m4a</guid>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0800</pubDate>
+      <itunes:duration>8911</itunes:duration>
+      <itunes:keywords>ethereum, blockchain</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>Jan Xie</name>
+          <avatar>http://teahour.fm/images/jan.png</avatar>
+        </author>
+      </authors>
+    </item>
+    <item>
+      <title>#82 聊聊比特币背后的技术和Blockchain</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;&lt;strong&gt;本期节目由 &lt;a href="http://sike.io/?ref=teahour"&gt;思客教学&lt;/a&gt; 赞助，思客教学 “专注 IT 领域远程学徒式” 教育。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本期由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 主持, 请到了他的最好基友 &lt;a href="http://weibo.com/p/1005055581685994"&gt;Jan&lt;/a&gt;, 和他聊聊比特币背后的技术, 分布式系统, 算法以及Blockchain.&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.intridea.com/"&gt;Intridea&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/peatio/peatio"&gt;Peatio&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ethfans.org/"&gt;ethfans&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://lmax-exchange.github.io/disruptor/"&gt;LMAX Disruptor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.archlinux.org/"&gt;archlinux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/baskerville/bspwm"&gt;bspwm&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://plan9.bell-labs.com/plan9/"&gt;plan9&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/hut/ranger"&gt;ranger&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://qr.ae/RgRRFb"&gt;Is bitcoinn a good idea?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Merkle_tree"&gt;Merkle...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;&lt;strong&gt;本期节目由 &lt;a href="http://sike.io/?ref=teahour"&gt;思客教学&lt;/a&gt; 赞助，思客教学 “专注 IT 领域远程学徒式” 教育。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本期由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 主持, 请到了他的最好基友 &lt;a href="http://weibo.com/p/1005055581685994"&gt;Jan&lt;/a&gt;, 和他聊聊比特币背后的技术, 分布式系统, 算法以及Blockchain.&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.intridea.com/"&gt;Intridea&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/peatio/peatio"&gt;Peatio&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ethfans.org/"&gt;ethfans&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://lmax-exchange.github.io/disruptor/"&gt;LMAX Disruptor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.archlinux.org/"&gt;archlinux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/baskerville/bspwm"&gt;bspwm&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://plan9.bell-labs.com/plan9/"&gt;plan9&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/hut/ranger"&gt;ranger&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://qr.ae/RgRRFb"&gt;Is bitcoinn a good idea?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Merkle_tree"&gt;Merkle tree&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Linked_list"&gt;Linked list&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hash_list"&gt;Hash List&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.bitcoin.it/wiki/Mixing_service"&gt;Mixing&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm"&gt;椭圆曲线签名算法 (ECDSA)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Checksum"&gt;Checksum&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem)"&gt;RSA&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zerocash-project.org/"&gt;Zerocash&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zero-knowledge_proof"&gt;Zero-knowledge proof&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf"&gt;The Byzantine Generals Problem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf"&gt;Leslie Lamport&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.latex-project.org/"&gt;LaTeX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/TeX"&gt;TeX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Donald_Knuth"&gt;Donald Knuth&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lamport_signature"&gt;Lamport signature&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.ethereum.org/2014/06/19/mining/"&gt;PoW’s pros and cons&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.ethereum.org/2014/07/05/stake/"&gt;PoS’s pros and cons&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://bitcoinmagazine.com/articles/bootstrapping-a-decentralized-autonomous-corporation-part-i-1379644274"&gt;DAO and DAC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Scrypt"&gt;scrypt&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Proof-of-stake"&gt;Proof-of-stake&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/vitalikbuterin"&gt;Vitalik Buterin&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ethereum.org/"&gt;Ethereum&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/gollum/gollum"&gt;gollum&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://szabo.best.vwh.net/smart_contracts_idea.html"&gt;Nick Szabo’s Smart Contracts Idea&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.bitcoin.it/wiki/Script"&gt;Bitcoin Script&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2015/12/27/talk-with-jan-about-bitcoin-and-blockchain.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_82.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_82.m4a</guid>
+      <pubDate>Sun, 27 Dec 2015 00:00:00 +0800</pubDate>
+      <itunes:duration>7879</itunes:duration>
+      <itunes:keywords>bitcoin, blockchain, exchange, linux</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>Jan Xie</name>
+          <avatar>http://teahour.fm/images/jan.png</avatar>
+        </author>
+      </authors>
+    </item>
+    <item>
+      <title>#81 和微软的爱恨情仇</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;&lt;strong&gt;本期节目由 &lt;a href="http://sike.io/"&gt;思客教学&lt;/a&gt; 赞助，思客教学 “专注 IT 领域远程学徒式” 教育。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本期由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 主持, 采访到了&lt;a href="http://weibo.com/ecguo"&gt;过纯中&lt;/a&gt;, 和他聊聊他与微软的爱恨情仇，说说他如何用 Windows 作为桌面来进行“开源软件”开发的。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Visual_Basic"&gt;Visual Basic&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.microsoft.com/silverlight/"&gt;Silverlight&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Windows_Presentation_Foundation"&gt;WPF&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rich_Internet_application"&gt;RIA&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.joelonsoftware.com/"&gt;Jon on Software&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Enterprise_JavaBeans"&gt;EJB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Expert-One-One-Development-without/dp/0764558315"&gt;J2EE Development without EJB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://msdn.microsoft.com/en-us/library/e80y5yhx(v=vs.110).aspx"&gt;ADO.NET&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ubuntu.com/index_kylin"&gt;Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;&lt;strong&gt;本期节目由 &lt;a href="http://sike.io/"&gt;思客教学&lt;/a&gt; 赞助，思客教学 “专注 IT 领域远程学徒式” 教育。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本期由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 主持, 采访到了&lt;a href="http://weibo.com/ecguo"&gt;过纯中&lt;/a&gt;, 和他聊聊他与微软的爱恨情仇，说说他如何用 Windows 作为桌面来进行“开源软件”开发的。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Visual_Basic"&gt;Visual Basic&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.microsoft.com/silverlight/"&gt;Silverlight&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Windows_Presentation_Foundation"&gt;WPF&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Rich_Internet_application"&gt;RIA&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.joelonsoftware.com/"&gt;Jon on Software&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Enterprise_JavaBeans"&gt;EJB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Expert-One-One-Development-without/dp/0764558315"&gt;J2EE Development without EJB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://msdn.microsoft.com/en-us/library/e80y5yhx(v=vs.110).aspx"&gt;ADO.NET&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ubuntu.com/index_kylin"&gt;Ubuntu&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.djangoproject.com/"&gt;Django&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.asp.net/mvc"&gt;ASP.NET MVC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikiquote.org/wiki/Dennis_Ritchie"&gt;UNIX is very simple, it just needs a genius to understand its simplicity.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/richhickey"&gt;Rich Hickey&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=rI8tNMsozohttp://www.infoq.com/presentations/Simple-Made-Easy0"&gt;Simplicity Matters&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.infoq.com/presentations/Simple-Made-Easy"&gt;Simple Made Easy&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragprog.com/book/rails4/agile-web-development-with-rails-4"&gt;Agile Web Development With Rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.sublimetext.com/"&gt;Sublime&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://mosh.mit.edu/"&gt;Mosh&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.quora.com/"&gt;Quora&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://robbinfan.com/blog/40/ruby-off-rails"&gt;Ruby社区应该去Rails化了&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/soveran/cuba"&gt;Cuba&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://expressjs.com/"&gt;Express&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tenderlovemaking.com/"&gt;Aaron Patterson&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/rails/journey"&gt;Journey&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/rails-api/active_model_serializers/pull/1014"&gt;active_model_serializers windows PR&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.appveyor.com/"&gt;AppVeyor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://lotusrb.org/"&gt;Lotus&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://trailblazer.to/"&gt;Trailblazer&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://guides.rubyonrails.org/engines.html"&gt;Rails Engine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://api.rubyonrails.org/classes/ActiveSupport/Concern.html"&gt;Concern&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Single-page_application"&gt;SPA&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/reactjs/react-rails"&gt;react-rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/lukehoban/es6features"&gt;ECMAScript 6&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://emberjs.com/"&gt;Ember&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://facebook.github.io/react/"&gt;React&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://angularjs.org/"&gt;Angular&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://vuejs.org/"&gt;Vue&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yehudakatz.com/"&gt;Yehuda&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://bower.io/"&gt;Bower&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://webpack.github.io/"&gt;webpack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://gaearon.github.io/react-hot-loader/"&gt;React Hot Loader&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://facebook.github.io/flux/"&gt;Flux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/rackt/redux"&gt;redux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/goatslacker/alt"&gt;alt&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/TypeScript"&gt;TypeScript&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anders_Hejlsberg"&gt;Anders Hejlsberg&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://coffeescript.org/"&gt;CoffeeScript&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://haml.info/"&gt;Haml&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://slim-lang.com/"&gt;Slim&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://beenhero.com/"&gt;Been Hero&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/eventmachine/eventmachine"&gt;EventMachine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://basecamp.com/3/new"&gt;Basecamp 3&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/Eric-Guo/wechat"&gt;wechat gem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/pluginaweek/state_machine"&gt;state_machine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/state-machines/state_machines-graphviz"&gt;state_machines-graphviz&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/aasm/aasm"&gt;aasm&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikiquote.org/wiki/Edsger_W._Dijkstra"&gt;Edsger&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://facebook.github.io/react-native/"&gt;React Native&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.zhihu.com/topic/20004648"&gt;轮子哥&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+</description>
+      <link>http://teahour.fm/2015/11/16/talk-with-eric-about-ms.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_81.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_81.m4a</guid>
+      <pubDate>Mon, 16 Nov 2015 00:00:00 +0800</pubDate>
+      <itunes:duration>4912</itunes:duration>
+      <itunes:keywords>windows, rails</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>过纯中</name>
+          <avatar>http://teahour.fm/images/eric.png</avatar>
+        </author>
+      </authors>
+    </item>
     <item>
       <title>#80 码农周刊和开发者头条：技术人的干货分享平台</title>
       <itunes:author>dingding</itunes:author>
@@ -813,18 +1090,18 @@
     <item>
       <title>#67 用 Ruby 构建 PB 级数据传输平台背后的故事</title>
       <itunes:author>dingding</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期是中国 Ruby 大会特辑四。今年的 RubyConf China 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的是云梯的创始人和秒视的 CTO 包桢韡（Kgen）。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期是中国 Ruby 大会特辑四。今年的 RubyConf China 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的是云梯的创始人和秒视的 CTO Kgen Bao。&lt;/p&gt;
 
-&lt;p&gt;Kgen 创立了连接国际和中国大陆网络的神器——云梯。本次大会演讲是他在用 Ruby 构建 PB 级数据传输平台的实践。Kgen 在开发云梯的过程中对选择机房、虚拟化技术、网络线路和系统有着不一样的体验和心得。在这一期，Kgen 想跟创业者们分...&lt;/p&gt;</itunes:summary>
+&lt;p&gt;Kgen 创立了连接国际和中国大陆网络的神器——云梯。本次大会演讲是他在用 Ruby 构建 PB 级数据传输平台的实践。Kgen 在开发云梯的过程中对选择机房、虚拟化技术、网络线路和系统有着不一样的体验和心得。在这一期，Kgen 想跟创业者们分享...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/new_logo.png"/>
-      <description type="html">&lt;p&gt;本期是中国 Ruby 大会特辑四。今年的 RubyConf China 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的是云梯的创始人和秒视的 CTO 包桢韡（Kgen）。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期是中国 Ruby 大会特辑四。今年的 RubyConf China 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的是云梯的创始人和秒视的 CTO Kgen Bao。&lt;/p&gt;
 
 &lt;p&gt;Kgen 创立了连接国际和中国大陆网络的神器——云梯。本次大会演讲是他在用 Ruby 构建 PB 级数据传输平台的实践。Kgen 在开发云梯的过程中对选择机房、虚拟化技术、网络线路和系统有着不一样的体验和心得。在这一期，Kgen 想跟创业者们分享他是怎样为了做出稳定好用的云梯，在网络设置、监控和构建大规模数据平台方面做出的努力，甚至会第一次在公开场合向大家解密如何不再被用着奇葩运营商的用户吐槽，如何解决大量 QQ 邮箱用户收不到邮件的问题。&lt;/p&gt;
 
 &lt;section class="notes"&gt;
   &lt;ol&gt;
     &lt;li&gt;&lt;a href="http://rubyconfchina.org"&gt;中国 Ruby 大会&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://catchchat.me"&gt;秒视&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;kgen&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://teahour.fm/2013/07/09/gfw-and-vpncloud.html"&gt;GFW 技术研究和云梯产品故事&lt;/a&gt;&lt;/li&gt;
@@ -845,7 +1122,7 @@
           <avatar>http://teahour.fm/images/yedingding.png</avatar>
         </author>
         <author>
-          <name>包桢韡 (kgen)</name>
+          <name>Kgen Bao</name>
           <avatar>http://teahour.fm/images/kgen.jpg</avatar>
         </author>
       </authors>
@@ -2348,7 +2625,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
   &lt;li&gt;&lt;a href="http://weibo.com/andor27"&gt;Andor Chen&lt;/a&gt; 提供的 3本 &lt;a href="http://railstutorial-china.org/"&gt;Ruby on Rails Tutorial 中文版&lt;/a&gt;电子书&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://blog.xdite.net/"&gt;XDite&lt;/a&gt; 提供的3本 &lt;a href="https://leanpub.com/rails-101"&gt;Rails 101&lt;/a&gt; 电子书以及 3份一年期的&lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt;高级帐号。&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://peatio.com/"&gt;貔貅交易所&lt;/a&gt; 提供的3个比特币红包&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.ytvpn.com/"&gt;云梯&lt;/a&gt; 提供的3个免费 VPN 帐号(可使用3个月)&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt; 提供的3个免费 VPN 帐号(可使用3个月)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;section class="notes"&gt;
@@ -3689,12 +3966,12 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#103;&amp;#101;&amp;#110;&amp;#046;&amp;#098;&amp;#097;&amp;#111;&amp;#064;&amp;#107;&amp;#105;&amp;#110;&amp;#103;&amp;#097;&amp;#120;&amp;#105;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#101;&amp;#101;&amp;#110;&amp;#103;&amp;#101;&amp;#110;&amp;#105;&amp;#117;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
@@ -3708,12 +3985,12 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#103;&amp;#101;&amp;#110;&amp;#046;&amp;#098;&amp;#097;&amp;#111;&amp;#064;&amp;#107;&amp;#105;&amp;#110;&amp;#103;&amp;#097;&amp;#120;&amp;#105;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#101;&amp;#101;&amp;#110;&amp;#103;&amp;#101;&amp;#110;&amp;#105;&amp;#117;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
@@ -3732,7 +4009,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
           <avatar>http://teahour.fm/images/kevin.jpg</avatar>
         </author>
         <author>
-          <name>包桢韡 (kgen)</name>
+          <name>Kgen Bao</name>
           <avatar>http://teahour.fm/images/kgen.jpg</avatar>
         </author>
         <author>
@@ -3744,18 +4021,18 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
     <item>
       <title>#22 GFW 技术研究和云梯产品故事</title>
       <itunes:author>kevin</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;Kgen Bao&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
 
 &lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="mailto:kgen.bao@kingaxis.com"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="mailto:keengenius@gmail.com"&gt;Email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E"&gt;GFW&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://openvpn.net"&gt;OpenVPN&lt;/a&gt;&lt;/li&gt;
@@ -3770,18 +4047,18 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
     &lt;li&gt;&lt;a href="http://railscasts-china.com/episodes/rubyconf-china-2012-vpncloud"&gt;RubyConf...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/new_logo.png"/>
-      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;Kgen Bao&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
 
 &lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#103;&amp;#101;&amp;#110;&amp;#046;&amp;#098;&amp;#097;&amp;#111;&amp;#064;&amp;#107;&amp;#105;&amp;#110;&amp;#103;&amp;#097;&amp;#120;&amp;#105;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#101;&amp;#101;&amp;#110;&amp;#103;&amp;#101;&amp;#110;&amp;#105;&amp;#117;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/防火长城"&gt;GFW&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://openvpn.net"&gt;OpenVPN&lt;/a&gt;&lt;/li&gt;
@@ -3812,7 +4089,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
           <avatar>http://teahour.fm/images/kevin.jpg</avatar>
         </author>
         <author>
-          <name>包桢韡 (kgen)</name>
+          <name>Kgen Bao</name>
           <avatar>http://teahour.fm/images/kgen.jpg</avatar>
         </author>
         <author>
