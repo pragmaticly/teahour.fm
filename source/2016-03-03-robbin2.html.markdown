@@ -1,0 +1,45 @@
+---
+idx: 84
+title: "继续跟 Robbin 聊趋势，谈创业，以及"
+date: 2016-03-03 00:00 +08:00
+mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_84.m4a"
+tags: JavaEye
+host: daniel
+guests:
+  - robbin_fan
+  - terry
+duration: 01:52:31
+---
+
+本期由 [Daniel](http://weibo.com/lgn21st) 和 [Terry](http://weibo.com/poshboytl) 共同主持，再一次邀请了原 JavaEye（ITEye的前身）的创始人 Robbin 范凯来 Teahour 做客，本期话题是上一期 Robbin 的访谈的延续，主要包括 Robbin 对行业趋势的观察，分析，包括如何准备创业，如何把握行业趋势，作为技术创业者如何成长，如何培养决策能力，以及他是如何作为技术 VP 加入丁香园的故事。
+
+我们的反馈邮箱是: hi@teahour.fm 欢迎你的来信, 我们将抽取有价值的来信和反馈在节目中播出。i
+
+如果你想赞助本节目, 也请写邮件到此邮箱, 非常感谢您的支持.
+
+<section class="notes" markdown="1">
+* [丁香园](http://www.dxy.cn)
+* [冯大辉](http://dbanotes.net)
+* [丁香园创始人李天天](http://baike.baidu.com/subview/1330551/10569516.htm)
+* [Robbin 加入丁香园](http://mp.weixin.qq.com/s?__biz=MzA4NzA2NjcyMg==&mid=208942726&idx=1&sn=e90160243a2a75bc40f3a40b24194e7e#rd)
+* [池建强 MacTalk](http://macshuo.com)
+* [胡适当年为什么选择去台湾？](https://www.zhihu.com/question/20355602)
+* [戴志康](http://baike.baidu.com/subview/476977/6189885.htm)
+* [王志东](http://baike.baidu.com/subview/246171/8001177.htm)
+* [张小龙](http://baike.baidu.com/subview/134451/7071650.htm)
+* [肉饼铺子](http://robbinfan.com/blog/47/weixin-robbin)
+* [IntelJ IDE](https://www.jetbrains.com/idea/)
+* [RubyMine](https://www.jetbrains.com/ruby/)
+* [WebStom](https://www.jetbrains.com/webstorm/)
+* [CLion](https://www.jetbrains.com/clion/)
+* [CSDN 密码门事件](https://www.zhihu.com/question/19983139)
+* [携程信用卡泄漏](https://www.zhihu.com/question/23131107)
+* [163邮箱被破解](https://www.zhihu.com/question/36609263)
+* [给Java说句公道话－王垠](http://www.yinwang.org/blog-cn/2016/01/18/java)
+* [张三丰教张无忌武功时为什么叫他忘了？](https://www.zhihu.com/question/22387034)
+* [产品汪和程序猿的相处之道](http://mp.weixin.qq.com/s?__biz=MzA4NzA2NjcyMg==&mid=402172789&idx=1&sn=11703a5575c0e6280ecf26e7341a8f9d&scene=0#wechat_redirect)
+* [Swift.gg](http://swift.gg)
+* [MindNnode](https://mindnode.com)
+* [技术创业空间](http://mp.weixin.qq.com/s?__biz=MzIwNDExMzU1Mg==&mid=401165015&idx=1&sn=90857ced576a6600181c486a6787d6d3&scene=18#wechat_redirect)
+</section>
+
