@@ -1,0 +1,45 @@
+---
+idx: 86
+title: "和『掘金』创始人阴明聊聊创业和技术"
+date: 2016-08-08 00:00 +08:00
+mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_86.mp3"
+tags: startup
+host: terry
+guests:
+  - yinming
+duration: 01:46:33
+---
+
+本期节目邀请到了『[掘金](https://gold.xitu.io/welcome?utm_source=teahour&utm_medium=podcast&utm_content=startup&utm_campaign=q3_media)』的创始人阴明，来和我们聊聊他们的创业故事和他对创业中的技术选型的一些看法。
+
+<section class="notes" markdown="1">
+* [掘金](https://gold.xitu.io/welcome?utm_source=teahour&utm_medium=podcast&utm_content=startup&utm_campaign=q3_media)
+* [香港中文大学](http://www.cuhk.edu.hk/chinese/)
+* [University of Cambridge](https://www.cam.ac.uk/)
+* [Product Hunt](https://www.producthunt.com/)
+* [Hacker News](https://news.ycombinator.com/)
+* [Arc Programming Language](http://arclanguage.org/)
+* [Growth hacking](https://en.wikipedia.org/wiki/Growth_hacking)
+* [掘金翻译计划](https://github.com/xitu/gold-miner)
+* [LeanCloud](https://leancloud.cn/)
+* [Parse](http://www.parse.com/)
+* [Node.js](https://nodejs.org/en/)
+* [Heroku](https://www.heroku.com/)
+* [Striking.ly](https://www.strikingly.com/?locale=zh_CN)
+* [掘金的后端架构](http://gold.xitu.io/post/576d5adfa633bd006416c40c?utm_source=teahour&utm_medium=podcast&utm_content=startup&utm_campaign=q3_media)
+* [Express](http://expressjs.com/zh-cn/)
+* [AngularJS](https://angularjs.org/)
+* [Backbone.js](http://backbonejs.org/)
+* [Meteor](https://www.meteor.com/)
+* [Firebase](https://firebase.google.com/)
+* [Vue.js](https://vuejs.org/)
+* [vue-loader](https://github.com/vuejs/vue-loader)
+* [掘金 Vue.js 专区](http://gold.xitu.io/tag/Vue.js?utm_source=teahour&utm_medium=podcast&utm_content=startup&utm_campaign=q3_media)
+* [React](http://reactjs.cn/)
+* [Pokemon Go ,中国区玩法教程小白帖（不需要越狱）](http://gold.xitu.io/entry/578a1d972e958a0054232fa8?utm_source=teahour&utm_medium=podcast&utm_content=startup&utm_campaign=q3_media)
+* [共享经济：市场设计及其应用](https://book.douban.com/subject/26703784/)
+* [Who Gets What — and Why: The New Economics of Matchmaking and Market Design](http://www.goodreads.com/book/show/22749723-who-gets-what-and-why)
+* [Moo.do](https://www.moo.do/)
+
+
+</section>
