@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Tue, 19 Jan 2016 00:00:00 +0800</updated>
-    <lastBuildDate>Tue, 19 Jan 2016 00:00:00 +0800</lastBuildDate>
-    <pubDate>Tue, 19 Jan 2016 00:00:00 +0800</pubDate>
+    <updated>Mon, 12 Sep 2016 00:00:00 +0800</updated>
+    <lastBuildDate>Mon, 12 Sep 2016 00:00:00 +0800</lastBuildDate>
+    <pubDate>Mon, 12 Sep 2016 00:00:00 +0800</pubDate>
     <description>Teahour.fm 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,258 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#87 和互联网老兵高春辉聊 IPIP.net</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期节目邀请到了互联网老兵 &lt;a href="http://www.ipip.net?utm_source=teahour"&gt;IPIP.net&lt;/a&gt; 的创始人高春辉，来跟我们一起聊聊他的技术创业人员。高春辉是中国第一个个人站长，也是一位连续创业者，先后创办金山卓越电脑资讯站、天下网、手机之家、ECSHOP软件，《爱壁纸HD》应用和 IPIP.NET。在本期节目中，老高分享了他对现在正在做的 IP 库的事情以及他对技术创业的很多看法。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.ipip.net?utm_source=teahour"&gt;IPIP.net&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;NPM: Network Performance Monitor&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.evernote.com/shard/s1/sh/61e1cf4d-7211-4987-93d9-035d06901b35/d8a599c19d39b889"&gt;IP 库之手机基站数据篇&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.growingio.com/categories/cases"&gt;增长秘笈&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;本期节目邀请到了互联网老兵 &lt;a href="http://www.ipip.net?utm_source=teahour"&gt;IPIP.net&lt;/a&gt; 的创始人高春辉，来跟我们一起聊聊他的技术创业人员。高春辉是中国第一个个人站长，也是一位连续创业者，先后创办金山卓越电脑资讯站、天下网、手机之家、ECSHOP软件，《爱壁纸HD》应用和 IPIP.NET。在本期节目中，老高分享了他对现在正在做的 IP 库的事情以及他对技术创业的很多看法。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.ipip.net?utm_source=teahour"&gt;IPIP.net&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;NPM: Network Performance Monitor&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.evernote.com/shard/s1/sh/61e1cf4d-7211-4987-93d9-035d06901b35/d8a599c19d39b889"&gt;IP 库之手机基站数据篇&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.growingio.com/categories/cases"&gt;增长秘笈&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Network_topology"&gt;网络拓扑&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.whatsapp.com"&gt;WhatsApp&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233"&gt;Elon Musk: Inventing the Future&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://agilemanifesto.org/iso/zhchs/manifesto.html"&gt;Agile Manifesto&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2016/09/12/ipip-gaochunhui.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_87.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_87.m4a</guid>
+      <pubDate>Mon, 12 Sep 2016 00:00:00 +0800</pubDate>
+      <itunes:duration>7601</itunes:duration>
+      <itunes:keywords>startup, npm</itunes:keywords>
+      <authors>
+        <author>
+          <name>Dingding Ye</name>
+          <avatar>http://teahour.fm/images/yedingding.png</avatar>
+        </author>
+        <author>
+          <name>高春辉</name>
+          <avatar>http://teahour.fm/images/gaochunhui.jpg</avatar>
+        </author>
+      </authors>
+    </item>
+    <item>
+      <title>#86 和『掘金』创始人阴明聊聊创业和技术</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期节目邀请到了『&lt;a href="https://gold.xitu.io/welcome?utm_source=teahour&amp;amp;utm_medium=podcast&amp;amp;utm_content=startup&amp;amp;utm_campaign=q3_media"&gt;掘金&lt;/a&gt;』的创始人阴明，来和我们聊聊他们的创业故事和他对创业中的技术选型的一些看法。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://gold.xitu.io/welcome?utm_source=teahour&amp;amp;utm_medium=podcast&amp;amp;utm_content=startup&amp;amp;utm_campaign=q3_media"&gt;掘金&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.cuhk.edu.hk/chinese/"&gt;香港中文大学&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.cam.ac.uk/"&gt;University of Cambridge&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.producthunt.com/"&gt;Product Hunt&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://news.ycombinator.com/"&gt;Hacker News&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://arclanguage.org/"&gt;Arc Programming Language&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Growth_hacking"&gt;Growth hacking&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/xitu/gold-miner"&gt;掘金翻译计划&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://leancloud.cn/"&gt;LeanCloud&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.parse.com/"&gt;Parse&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://nodejs.org/en/"&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.heroku.com/"&gt;Heroku&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.strikingly.com/?locale=zh_CN"&gt;Striking...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;本期节目邀请到了『&lt;a href="https://gold.xitu.io/welcome?utm_source=teahour&amp;amp;utm_medium=podcast&amp;amp;utm_content=startup&amp;amp;utm_campaign=q3_media"&gt;掘金&lt;/a&gt;』的创始人阴明，来和我们聊聊他们的创业故事和他对创业中的技术选型的一些看法。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://gold.xitu.io/welcome?utm_source=teahour&amp;amp;utm_medium=podcast&amp;amp;utm_content=startup&amp;amp;utm_campaign=q3_media"&gt;掘金&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.cuhk.edu.hk/chinese/"&gt;香港中文大学&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.cam.ac.uk/"&gt;University of Cambridge&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.producthunt.com/"&gt;Product Hunt&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://news.ycombinator.com/"&gt;Hacker News&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://arclanguage.org/"&gt;Arc Programming Language&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Growth_hacking"&gt;Growth hacking&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/xitu/gold-miner"&gt;掘金翻译计划&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://leancloud.cn/"&gt;LeanCloud&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.parse.com/"&gt;Parse&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://nodejs.org/en/"&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.heroku.com/"&gt;Heroku&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.strikingly.com/?locale=zh_CN"&gt;Striking.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gold.xitu.io/post/576d5adfa633bd006416c40c?utm_source=teahour&amp;amp;utm_medium=podcast&amp;amp;utm_content=startup&amp;amp;utm_campaign=q3_media"&gt;掘金的后端架构&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://expressjs.com/zh-cn/"&gt;Express&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://angularjs.org/"&gt;AngularJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://backbonejs.org/"&gt;Backbone.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.meteor.com/"&gt;Meteor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://firebase.google.com/"&gt;Firebase&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://vuejs.org/"&gt;Vue.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/vuejs/vue-loader"&gt;vue-loader&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gold.xitu.io/tag/Vue.js?utm_source=teahour&amp;amp;utm_medium=podcast&amp;amp;utm_content=startup&amp;amp;utm_campaign=q3_media"&gt;掘金 Vue.js 专区&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://reactjs.cn/"&gt;React&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gold.xitu.io/entry/578a1d972e958a0054232fa8?utm_source=teahour&amp;amp;utm_medium=podcast&amp;amp;utm_content=startup&amp;amp;utm_campaign=q3_media"&gt;Pokemon Go ,中国区玩法教程小白帖（不需要越狱）&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://book.douban.com/subject/26703784/"&gt;共享经济：市场设计及其应用&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.goodreads.com/book/show/22749723-who-gets-what-and-why"&gt;Who Gets What — and Why: The New Economics of Matchmaking and Market Design&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.moo.do/"&gt;Moo.do&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2016/08/08/xitu-yinm.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_86.mp3" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_86.mp3</guid>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 +0800</pubDate>
+      <itunes:duration>6393</itunes:duration>
+      <itunes:keywords>startup</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>阴明</name>
+          <avatar>http://teahour.fm/images/yinming.png</avatar>
+        </author>
+      </authors>
+    </item>
+    <item>
+      <title>#85 这次我们聊聊远程工作</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;&lt;strong&gt;本期由&lt;a href="https://tower.im/about_us"&gt;彩程设计&lt;/a&gt;赞助，彩程设计是著名的 SAAS应用&lt;a href="https://tower.im"&gt;Tower&lt;/a&gt;背后的公司，目前他们正在制作新应用&lt;a href="https://zhirenhr.com"&gt;知人&lt;/a&gt;, 并招远程全职 Rails/iOS程序员，有意向的朋友请发简历到 terry@teahour.fm&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本期节目邀请到了 &lt;a href="http://ashchan.com/"&gt;Ashchan&lt;/a&gt;, 和他聊聊远程工作的方方面，如何从头开始，如何接项目，如何找客户等如果要做远程工作必须要面对的问题。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://centax.io/"&gt;Centax, Inc.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://37signals.com/rework"&gt;Rework&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://37signals.com/remote"&gt;Remote&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.ashchan.com/archive/2009/12/01/freelancer-at-library/"&gt;图书馆里的自由枪骑兵&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.me/how-to-begin-soho-1/"&gt;如何开始你的 SOHO 之旅 ...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;&lt;strong&gt;本期由&lt;a href="https://tower.im/about_us"&gt;彩程设计&lt;/a&gt;赞助，彩程设计是著名的 SAAS应用&lt;a href="https://tower.im"&gt;Tower&lt;/a&gt;背后的公司，目前他们正在制作新应用&lt;a href="https://zhirenhr.com"&gt;知人&lt;/a&gt;, 并招远程全职 Rails/iOS程序员，有意向的朋友请发简历到 terry@teahour.fm&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本期节目邀请到了 &lt;a href="http://ashchan.com/"&gt;Ashchan&lt;/a&gt;, 和他聊聊远程工作的方方面，如何从头开始，如何接项目，如何找客户等如果要做远程工作必须要面对的问题。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://centax.io/"&gt;Centax, Inc.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://37signals.com/rework"&gt;Rework&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://37signals.com/remote"&gt;Remote&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.ashchan.com/archive/2009/12/01/freelancer-at-library/"&gt;图书馆里的自由枪骑兵&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.me/how-to-begin-soho-1/"&gt;如何开始你的 SOHO 之旅 (1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.me/how-to-begin-soho-2/"&gt;如何开始你的 SOHO 之旅 (2)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.freelancer.com/"&gt;GetFreelancer&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.elance.com/"&gt;Elance&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.upwork.com/"&gt;Upwork&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.getharvest.com"&gt;Harvest&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.freshbooks.com"&gt;Freshbooks&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.marketcircle.com/billingspro/"&gt;Billings Pro&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/rails/rails/issues/25208"&gt;Drop jQuery as a dependency&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://vanilla-js.com"&gt;VanillaJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.netguru.co/blog/code-ping-pong-with-dhh"&gt;Code Ping Pong with DHH&lt;/a&gt; ( http://www.dhh-ping-pong.com 域名过期了！）&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=SWEts0rlezA"&gt;Turbolinks 5: I Can’t Believe It’s Not Native!&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://ashchan.com/projects/gmail-notifr"&gt;Gmail Notifr&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://ashchan.com/projects/dimensions"&gt;Dimensions&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.yinwang.org/blog-cn/2016/06/06/swift"&gt;Swift 语言的设计错误&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://swifter.tips"&gt;Swifter - Swift 必备 Tips&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/onevcat"&gt;王巍推特&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/turbolinks/turbolinks"&gt;Turbolinks&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://finance.yahoo.com/brklivestream/"&gt;Berkshire Hathaway 2016 Annual Shareholders Meeting&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/ashchan/status/737637574294917120"&gt;《硅谷》美女程序员&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.ashchan.com/archive/2016/06/10/tabs-vs-spaces/"&gt;Tab vs Space&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2016/06/11/all-about-remote-working.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_85.mp3" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_85.mp3</guid>
+      <pubDate>Sat, 11 Jun 2016 00:00:00 +0800</pubDate>
+      <itunes:duration>6393</itunes:duration>
+      <itunes:keywords>remote</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>陈建明 (Ashchan)</name>
+          <avatar>http://teahour.fm/images/ashchan.png</avatar>
+        </author>
+      </authors>
+    </item>
+    <item>
+      <title>#84 继续跟 Robbin 聊聊技术人的'战略'与'战术'</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://weibo.com/lgn21st"&gt;Daniel&lt;/a&gt; 和 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 共同主持，再一次邀请了原 JavaEye（ITEye的前身）的创始人 Robbin 范凯来 Teahour 做客，本期话题是上一期 Robbin 的访谈的延续，主要包括 Robbin 对行业趋势的观察，分析，包括如何准备创业，如何把握行业趋势，作为技术创业者如何成长，如何培养决策能力，以及他是如何作为技术 VP 加入丁香园的故事。&lt;/p&gt;
+
+&lt;p&gt;我们的反馈邮箱是: hi@teahour.fm 欢迎你的来信, 我们将抽取有价值的来信和反馈在节目中播出。&lt;/p&gt;
+
+&lt;p&gt;如果你想赞...&lt;/p&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://weibo.com/lgn21st"&gt;Daniel&lt;/a&gt; 和 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 共同主持，再一次邀请了原 JavaEye（ITEye的前身）的创始人 Robbin 范凯来 Teahour 做客，本期话题是上一期 Robbin 的访谈的延续，主要包括 Robbin 对行业趋势的观察，分析，包括如何准备创业，如何把握行业趋势，作为技术创业者如何成长，如何培养决策能力，以及他是如何作为技术 VP 加入丁香园的故事。&lt;/p&gt;
+
+&lt;p&gt;我们的反馈邮箱是: hi@teahour.fm 欢迎你的来信, 我们将抽取有价值的来信和反馈在节目中播出。&lt;/p&gt;
+
+&lt;p&gt;如果你想赞助本节目, 也请写邮件到此邮箱, 非常感谢您的支持.&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.dxy.cn"&gt;丁香园&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://dbanotes.net"&gt;冯大辉&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/1330551/10569516.htm"&gt;丁香园创始人李天天&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mp.weixin.qq.com/s?__biz=MzA4NzA2NjcyMg==&amp;amp;mid=208942726&amp;amp;idx=1&amp;amp;sn=e90160243a2a75bc40f3a40b24194e7e#rd"&gt;Robbin 加入丁香园&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://macshuo.com"&gt;池建强 MacTalk&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.zhihu.com/question/20355602"&gt;胡适当年为什么选择去台湾？&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/476977/6189885.htm"&gt;戴志康&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/246171/8001177.htm"&gt;王志东&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/134451/7071650.htm"&gt;张小龙&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://robbinfan.com/blog/47/weixin-robbin"&gt;肉饼铺子&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.jetbrains.com/idea/"&gt;IntelJ IDE&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.jetbrains.com/ruby/"&gt;RubyMine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.jetbrains.com/webstorm/"&gt;WebStom&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.jetbrains.com/clion/"&gt;CLion&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.zhihu.com/question/19983139"&gt;CSDN 密码门事件&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.zhihu.com/question/23131107"&gt;携程信用卡泄漏&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.zhihu.com/question/36609263"&gt;163邮箱被破解&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.yinwang.org/blog-cn/2016/01/18/java"&gt;给Java说句公道话－王垠&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.zhihu.com/question/22387034"&gt;张三丰教张无忌武功时为什么叫他忘了？&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mp.weixin.qq.com/s?__biz=MzA4NzA2NjcyMg==&amp;amp;mid=402172789&amp;amp;idx=1&amp;amp;sn=11703a5575c0e6280ecf26e7341a8f9d&amp;amp;scene=0#wechat_redirect"&gt;产品汪和程序猿的相处之道&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://swift.gg"&gt;Swift.gg&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://mindnode.com"&gt;MindNnode&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mp.weixin.qq.com/s?__biz=MzIwNDExMzU1Mg==&amp;amp;mid=401165015&amp;amp;idx=1&amp;amp;sn=90857ced576a6600181c486a6787d6d3&amp;amp;scene=18#wechat_redirect"&gt;技术创业空间&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+</description>
+      <link>http://teahour.fm/2016/03/03/robbin2.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_84.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_84.m4a</guid>
+      <pubDate>Thu, 03 Mar 2016 00:00:00 +0800</pubDate>
+      <itunes:duration>6751</itunes:duration>
+      <itunes:keywords>JavaEye</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>范凯</name>
+          <avatar>http://teahour.fm/images/robbin_fan.jpg</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+      </authors>
+    </item>
     <item>
       <title>#83 这次我们聊聊超酷的Ethereum</title>
       <itunes:author>terry</itunes:author>
