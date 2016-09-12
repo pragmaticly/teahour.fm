@@ -37,7 +37,7 @@
     <link rel="shortcut icon" sizes="16x16" href="/favicon.ico">
     <link rel="alternate" type="application/rss+xml" title="Teahour.fm Feed" href="/feed.xml" />
 
-    <link href="/stylesheets/application.css?1473697641" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/application.css?1473723392" rel="stylesheet" type="text/css" />
     <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
     <script src="/javascripts/application.js?1414248976" type="text/javascript"></script><script src="/javascripts/audio.min.js?1473697644" type="text/javascript"></script>
 
@@ -82,7 +82,7 @@
     
 
 <div class="player">
-  <audio controls name="media" src="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_58.m4a">
+  <audio name="media" src="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_58.m4a">
   </audio>
 
   <ul class="actions">
@@ -223,7 +223,7 @@
            </ul>
         </li>
 
-        <li id="github"><a href="https://gitcafe.com/teahour/site"><i class="icons-github"></i></a></li>
+        <li id="github"><a href="https://github.com/pragmaticly/teahour.fm"><i class="icons-github"></i></a></li>
       </ul>
 
         <ul class="nav">
@@ -510,17 +510,6 @@
             </li>
           </ul>
         </li>
-        <li class="dropdown dropup" id="search">
-          <a href="#search" class="dropdown-toggle" data-toggle="dropdown">Search</a>
-          <ul class="dropdown-menu" role="menu" aria-labelledby="search">
-            <li>
-              <form class="form-inline">
-                <input type="text" placeholder="eg. dingding" id="ts-search-input">
-                <input type="submit" value="Search" name="subscribe" class="btn btn-small btn-success">
-              </form>
-            </li>
-          </ul>
-        </li>
         <!-- <li>
           <a href="#">Category</a>
         </li> -->
@@ -546,41 +535,5 @@
 
     <script src="/javascripts/main.js?1414248973" type="text/javascript"></script>
     
-    <script>
-      $(function() {
-        var customDropdownStylesFunction = function($this) {
-          var config = $this.data('tinysou-config-autocomplete');
-          var $attachEl = config.attachTo ? $(config.attachTo) : $this;
-          var offset = $attachEl.offset();
-          var styles = {
-            'position': 'fixed',
-            'z-index': 9999,
-            'bottom': 140,
-            'left': offset.left
-          };
-          if (config.setWidth) {
-            styles['width'] = $attachEl.outerWidth() - 2;
-          }
-          return styles;
-        };
-        var option = {
-          engineKey: '5c7c6e7c8789e403471e',
-          perPage: 5,
-          dropdownStylesFunction: customDropdownStylesFunction
-        };
-        (function(w,d,t,u,n,s,e){
-          s = d.createElement(t);
-          s.src = u;
-          s.async = 1;
-          w[n] = function(r){
-            w[n].opts = r;
-          };
-          e = d.getElementsByTagName(t)[0];
-          e.parentNode.insertBefore(s, e);
-        })(window,document,'script','//tinysou-cdn.b0.upaiyun.com/ts.js','_ts');
-        _ts(option);
-      });
-    </script>
-
   </body>
 </html>
