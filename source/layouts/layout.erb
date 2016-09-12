@@ -35,7 +35,8 @@
 
     <%= stylesheet_link_tag 'application' %>
     <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
-    <%=  javascript_include_tag 'application' %>
+    <%=  javascript_include_tag 'application', 'audio.min' %>
+
     <script type="text/javascript">var _gaq = _gaq || [];
       _gaq.push(['_setAccount', '<%= data.site.google_analytics_id %>']);
       _gaq.push(['_trackPageview']);
@@ -43,7 +44,13 @@
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();</script>
+      })();</script>
+
+    <script>
+      audiojs.events.ready(function() {
+        var as = audiojs.createAll();
+      });
+    </script>
   </head>
 
   <body class="<%= page_classes %>">
