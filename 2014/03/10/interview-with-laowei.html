@@ -37,9 +37,10 @@
     <link rel="shortcut icon" sizes="16x16" href="/favicon.ico">
     <link rel="alternate" type="application/rss+xml" title="Teahour.fm Feed" href="/feed.xml" />
 
-    <link href="/stylesheets/application.css?1414248973" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/application.css?1473697641" rel="stylesheet" type="text/css" />
     <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
-    <script src="/javascripts/application.js?1414248976" type="text/javascript"></script>
+    <script src="/javascripts/application.js?1414248976" type="text/javascript"></script><script src="/javascripts/audio.min.js?1473697644" type="text/javascript"></script>
+
     <script type="text/javascript">var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-38660023-1']);
       _gaq.push(['_trackPageview']);
@@ -47,7 +48,13 @@
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();</script>
+      })();</script>
+
+    <script>
+      audiojs.events.ready(function() {
+        var as = audiojs.createAll();
+      });
+    </script>
   </head>
 
   <body class="x2014 x2014_03 x2014_03_10 x2014_03_10_interview-with-laowei">
