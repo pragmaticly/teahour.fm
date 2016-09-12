@@ -87,6 +87,10 @@ a {
   position: relative;
   margin-left: 600px;
   max-width: 680px;
+
+  &:after {
+    clear:both;
+  }
 }
 
 .footer {
@@ -266,6 +270,8 @@ a {
 
     .main {
       margin-top: 60px;
+      float: none;
+      max-width: 640px;
     }
 
     .global-nav {
@@ -273,6 +279,18 @@ a {
 
       .social-connect {
         float: left;
+      }
+    }
+
+    .post .player .actions {
+      display: none;
+    }
+
+    .audiojs {
+      max-width: 100%;
+
+      .scrubber {
+        width: 140px;
       }
     }
 

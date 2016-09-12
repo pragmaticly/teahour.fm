@@ -9,12 +9,15 @@
   .player {
     position: relative;
     width: 100%;
-    background: rgba(0,0,0,.8);
+    background: #404040;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #444), color-stop(0.5, #555), color-stop(0.51, #444), color-stop(1, #444));
     vertical-align: middle;
     line-height: 10px;
-    height: 30px;
+    height: 36px;
     @include border-radius(5px);
-    // audio { width: 80%; }
+    .audiojs .play-pause {
+      width: 40px;
+    }
     .actions {
       position: absolute;
       right: 0;
@@ -173,21 +176,4 @@
       }
     }
   }
-}
-// tinysou plugin
-.modal a:hover {
-  color: #7a7a7a;
-}
-.ts-result span.ts-snippet em {
-  background-color: #afd482;
-}
-body .tinysou-widget .autocomplete li.active {
-  background-color: #76a938;
-  border-bottom: #608a2e;
-  border-top: #608a2e;
-  background: linear-gradient(#92c653 , #608a2e);
-  box-shadow: 0 1px 0 #608a2e inset;
-}
-body .tinysou-widget .autocomplete li p.title {
-  color: #567a29;
 }
