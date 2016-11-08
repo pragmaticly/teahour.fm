@@ -1,6 +1,6 @@
 ---
 idx: 88
-title: "与墨刀创始人张元一聊 0 到 1"
+title: "与墨刀创始人张元一聊创业从 0 到 1"
 date: 2016-10-26 16:00 +08:00
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_88.m4a"
 tags: startup, 墨刀, growth, 增长秘籍

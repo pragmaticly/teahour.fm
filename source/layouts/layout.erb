@@ -34,17 +34,23 @@
     <link rel="alternate" type="application/rss+xml" title="Teahour.fm Feed" href="/feed.xml" />
 
     <%= stylesheet_link_tag 'application' %>
-    <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
     <%=  javascript_include_tag 'application', 'audio.min' %>
 
-    <script type="text/javascript">var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', '<%= data.site.google_analytics_id %>']);
-      _gaq.push(['_trackPageview']);
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();</script>
+    <script type='text/javascript'>
+      var _vds = _vds || [];
+      window._vds = _vds;
+      (function(){
+        _vds.push(['setAccountId', '9794de2a71b141f3']);
+        (function() {
+          var vds = document.createElement('script');
+          vds.type='text/javascript';
+          vds.async = true;
+          vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds-gate.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(vds, s);
+        })();
+      })();
+    </script>
 
     <script>
       audiojs.events.ready(function() {
