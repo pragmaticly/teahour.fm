@@ -330,7 +330,7 @@ youxiaoyou:
 howard:
   name: "Howard"
   avatar: "howard.png"
-  link: "http://sike.io/"
+  link: "https://twitter.com/hayeah"
 qixiang:
   name: "戚祥"
   avatar: "qixiang.jpg"
@@ -357,3 +357,7 @@ yuanyi:
 bittiger:
   name: "太阁社区"
   avatar: "bittiger.png"
+huang:
+  name: "黄东旭"
+  avatar: "huang.jpg"
+  link: "https://twitter.com/c4pt0r"
