@@ -3,7 +3,7 @@ idx: 90
 title: "和 PingCAP CTO 畅谈数据库和编程语言"
 date: 2017-11-22 00:00 +08:00
 mp3_link: "http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_90.mp3"
-tags: rust, go, databse
+tags: rust, go, database
 host: terry
 guests:
   - huang
@@ -13,7 +13,9 @@ duration: 02:59:41
 
 **本期由[Cryptape](https://www.cryptape.com) 赞助， [Cryptape](https://www.cryptape.com) 是一家专注于区块链底层技术的公司。 他们从零开发的区块链底层 [CITA](https://github.com/cryptape/cita) 现已全面开源。**
 
-本期节目我们邀请到了 [PingCAP](https://pingcap.com/) CTO [黄东旭](https://twitter.com/c4pt0r), 和他一起探讨一下关于数据库以及 NewSQL 的话题。 当然我们还好好聊了聊 Go 和 Rust，干活十足，不容错过！
+本期节目我们邀请到了 [PingCAP](https://pingcap.com/) CTO [黄东旭](https://twitter.com/c4pt0r), 和他一起探讨一下关于数据库以及 NewSQL 的话题。 当然我们还好好聊了聊 Go 和 Rust，干货十足，不容错过！
+
+我们的邮箱是：hi@teahour.fm, 欢迎你给我们写邮件。
 
 <section class="notes" markdown="1">
 * [PingCAP](https://centax.io/)
