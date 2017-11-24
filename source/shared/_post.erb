@@ -36,10 +36,6 @@
   <%= article.title %>
 </h2>
 
-<div class="weixin">
-  <%= image_tag "qrcode.jpg" %>
-</div>
-
 <dl>
   <dt>Host:</dt><dd> <%= author(article.data["host"]).name %></dd>
   <dt>Guests:</dt><dd> <%= article.data["guests"].map { |guest| author(guest).name }.join(", ") %></dd>

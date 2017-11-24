@@ -18,7 +18,7 @@ duration: 02:59:41
 我们的邮箱是：hi@teahour.fm, 欢迎你给我们写邮件。
 
 <section class="notes" markdown="1">
-* [PingCAP](https://centax.io/)
+* [PingCAP](https://pingcap.com/)
 * [Codis](https://github.com/CodisLabs/codis)
 * [Apache HBase](http://hbase.apache.org/)
 * [TiDB](https://github.com/pingcap/tidb)
