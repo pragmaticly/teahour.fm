@@ -29,6 +29,8 @@ duration: 02:59:41
 * [PostgreSQL](https://www.postgresql.org/)
 * [Percona ](https://www.percona.com/)
 * [MariaDB](https://mariadb.org/)
+* [Jepsen](https://github.com/jepsen-io/jepsen)
+* [Namazu](http://osrg.github.io/namazu/)
 * [AWS Lambda](http://docs.aws.amazon.com/zh_cn/lambda/latest/dg/welcome.html)
 * [Cargo](https://crates.io/)
 * [futures-rs](https://github.com/alexcrichton/futures-rs)
