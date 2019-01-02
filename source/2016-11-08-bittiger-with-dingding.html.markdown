@@ -14,4 +14,4 @@ duration: 01:45:11
 
 [GrowingIO](https://www.growingio.com?utm_source=teahour&utm_medium=podcast&utm_content=dingding) 是一个专为产品和运营打造的无埋点、全量实时、跨平台的用户行为数据分析产品，帮助客户用数据驱动业务增长，也是玎玎最新的一次创业。在这期节目中，玎玎分享了他作为一个技术人，这些年的创业经历。
 
-本期节目的部分文字摘录在[和GrowingIO CTO 叶玎玎聊聊如何搭建精益创业团队](https://blog.growingio.com/posts/news_56)，发于 GrowingIO 博客和公众号，授权转载。
+本期节目的部分文字摘录在[和 GrowingIO CTO 叶玎玎聊聊如何搭建精益创业团队](https://blog.growingio.com/posts/news_56)，发于 GrowingIO 博客和公众号，授权转载。

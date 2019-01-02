@@ -4,6 +4,7 @@
 @import "partials/variables";
 
 // CSS Library
+@import "bootstrap-sprockets";
 @import 'bootstrap';
 
 @import "rgbapng";
@@ -17,4 +18,3 @@
 
 // Page Style
 @import "pages/main";
-

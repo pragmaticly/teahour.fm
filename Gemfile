@@ -6,10 +6,11 @@ gem "rack-contrib"
 gem "middleman"
 gem "middleman-blog"
 gem "middleman-livereload"
-gem "middleman-smusher"
 gem "middleman-syntax"
 gem "middleman-favicon-maker"
-gem "middleman-deploy"
+gem "middleman-deploy", '~> 2.0.0.pre.alpha'
+gem "middleman-sprockets"
+gem "middleman-compass"
 
 gem "compass-rgbapng"
 gem "bootstrap-sass"
